@@ -29,7 +29,7 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/04/23</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
+		<semimajoraxis errorminus="13.000000" errorplus="-13.000000">773.0</semimajoraxis></planet>
 		<name>HN Peg</name>
 		<temperature>5940.0</temperature>
 	</star>
