@@ -2,7 +2,7 @@
 	<name>HD 23079</name>
 	<rightascension>03 39 43</rightascension>
 	<declination>-52 54 57</declination>
-	<distance>34.8</distance>
+	<distance>34.6</distance>
 	<star>
 		<mass>1.1</mass>
 		<radius>1.13</radius>
@@ -17,7 +17,7 @@
 			<name>HD 23079 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.5</mass>
-			<period>626</period>
+			<period>730.6</period>
 			<semimajoraxis>1.5</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
 			<discoverymethod>RV</discoverymethod>
