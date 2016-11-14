@@ -2,7 +2,7 @@
 	<name>KOI-806</name>
 	<rightascension>19 01 08</rightascension>
 	<declination>+38 56 50</declination>
-	<distance>924.9</distance>
+	<distance>1400.0</distance>
 	<star>
 		<name>KOI-806</name>
 		<name>Kepler-30</name>
@@ -70,7 +70,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.008493" errorplus="0.008493">0.072666</mass>
 			<radius errorminus="0.045565" errorplus="0.045565">0.801947</radius>
-			<period errorminus="0.013" errorplus="0.013">143.213</period>
+			<period errorminus="0.013" errorplus="0.013">143.34394</period>
 			<semimajoraxis>0.5</semimajoraxis>
 			<eccentricity errorminus="0.005" errorplus="0.005">0.022</eccentricity>
 			<periastron errorminus="7" errorplus="7">-163</periastron>
