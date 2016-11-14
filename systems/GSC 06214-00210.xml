@@ -33,6 +33,6 @@
 			<discoveryyear>2010</discoveryyear>
 			<image>GSC 06214-00210</image>
 			<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
-		</planet>
+		<semimajoraxis errorminus="30.000000" errorplus="-30.000000">320.0</semimajoraxis></planet>
 	</star>
 </system>
