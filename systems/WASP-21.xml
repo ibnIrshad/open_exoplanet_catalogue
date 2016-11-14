@@ -2,7 +2,7 @@
 	<name>WASP-21</name>
 	<rightascension>23 09 58</rightascension>
 	<declination>+18 23 46</declination>
-	<distance>230</distance>
+	<distance>242.0</distance>
 	<star>
 		<name>WASP-21</name>
 		<mass errorminus="0.079" errorplus="0.079">0.890</mass>
