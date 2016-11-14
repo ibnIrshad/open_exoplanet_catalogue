@@ -2,7 +2,7 @@
 	<name>WASP-29</name>
 	<rightascension>23 51 31</rightascension>
 	<declination>-39 54 24</declination>
-	<distance>80</distance>
+	<distance>70.0</distance>
 	<star>
 		<mass>0.825</mass>
 		<radius>0.846</radius>
