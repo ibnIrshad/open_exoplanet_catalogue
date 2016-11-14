@@ -2,7 +2,7 @@
 	<name>HD 80606</name>
 	<rightascension>09 22 37</rightascension>
 	<declination>+50 36 13</declination>
-	<distance>58.4</distance>
+	<distance>29.04</distance>
 	<binary>
 		<separation unit="arcsec">20.6</separation>
 		<separation unit="AU">1203</separation>
