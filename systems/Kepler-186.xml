@@ -4,7 +4,7 @@
 	<name>KIC 8120608</name>
 	<rightascension>19 54 36</rightascension>
 	<declination>+43 57 18</declination>
-	<distance errorminus="18" errorplus="18">151</distance>
+	<distance errorminus="18" errorplus="18">172.0</distance>
 	<star>
 		<magJ errorminus="0.026" errorplus="0.026">12.473</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.82</magH>
@@ -99,6 +99,6 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<period errorminus="0.00130000" errorplus="-0.00120000">129.9441</period></planet>
 	</star>
 </system>
