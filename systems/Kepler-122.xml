@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.108</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-122 b</name>
 			<name>KOI-232 b</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.064</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-122 d</name>
 			<name>KOI-232 d</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.155</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-122 e</name>
 			<name>KOI-232 e</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.227</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-122 f</name>
 			<name>KOI-232 f</name>
