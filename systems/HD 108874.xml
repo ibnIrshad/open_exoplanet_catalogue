@@ -19,7 +19,7 @@
 			<name>HD 108874 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.36</mass>
-			<period>395.4</period>
+			<period>395.8</period>
 			<semimajoraxis>1.051</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
 			<discoverymethod>RV</discoverymethod>
@@ -31,7 +31,7 @@
 			<name>HD 108874 c</name>
 			<list>Confirmed planets</list>
 			<mass>1.018</mass>
-			<period>1605.8</period>
+			<period>1624.0</period>
 			<semimajoraxis>2.68</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
 			<discoverymethod>RV</discoverymethod>
