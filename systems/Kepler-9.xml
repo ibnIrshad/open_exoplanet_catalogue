@@ -46,7 +46,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.01" errorplus="0.01">0.17</mass>
 			<radius errorminus="0.07" errorplus="0.07">0.82</radius>
-			<period errorminus="0.0002" errorplus="0.0002">39.03106</period>
+			<period errorminus="0.0002" errorplus="0.0002">38.91</period>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.229</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0684</eccentricity>
