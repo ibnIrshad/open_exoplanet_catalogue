@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.207</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-362 b</name>
 			<name>KOI-2147 b</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.087</semimajoraxis></planet>
 	</star>
 </system>
