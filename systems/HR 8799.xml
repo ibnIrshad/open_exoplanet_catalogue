@@ -30,7 +30,7 @@
 			<list>Confirmed planets</list>
 			<mass>5</mass>
 			<radius>0.7</radius>
-			<period errorminus="9022" errorplus="9022">166510</period>
+			<period errorminus="9022" errorplus="9022">170000.0</period>
 			<semimajoraxis errorminus="1.85" errorplus="1.85">67.96</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination errorminus="4.95" errorplus="4.95">30.27</inclination>
@@ -51,8 +51,8 @@
 			<list>Confirmed planets</list>
 			<mass>7</mass>
 			<radius>1.0</radius>
-			<period errorminus="4511" errorplus="4511">83255</period>
-			<semimajoraxis errorminus="1.16" errorplus="1.16">42.81</semimajoraxis>
+			<period errorminus="4511" errorplus="4511">69000.0</period>
+			<semimajoraxis errorminus="1.16" errorplus="1.16">38.0</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination errorminus="0.35" errorplus="0.35">29.43</inclination>
 			<ascendingnode errorminus="2.67" errorplus="2.67">65.68</ascendingnode>
@@ -72,8 +72,8 @@
 			<list>Confirmed planets</list>
 			<mass>7</mass>
 			<radius>1.1</radius>
-			<period errorminus="2257" errorplus="2257">41628</period>
-			<semimajoraxis errorminus="0.73" errorplus="0.73">26.97</semimajoraxis>
+			<period errorminus="2257" errorplus="2257">37000.0</period>
+			<semimajoraxis errorminus="0.73" errorplus="0.73">24.0</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination errorminus="2.84" errorplus="2.84">38.63</inclination>
 			<ascendingnode errorminus="3.78" errorplus="3.78">56.09</ascendingnode>
@@ -93,8 +93,8 @@
 			<list>Confirmed planets</list>
 			<mass>7</mass>
 			<radius>1.0</radius>
-			<period errorminus="1129" errorplus="1129">20816</period>
-			<semimajoraxis errorminus="0.46" errorplus="0.46">16.99</semimajoraxis>
+			<period errorminus="1129" errorplus="1129">18000.0</period>
+			<semimajoraxis errorminus="0.46" errorplus="0.46">14.5</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination errorminus="1.43" errorplus="1.43">30.95</inclination>
 			<ascendingnode errorminus="7.11" errorplus="7.11">145.73</ascendingnode>
