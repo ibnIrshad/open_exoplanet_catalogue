@@ -23,7 +23,7 @@
 		<planet>
 			<name>V830 Tau b</name>
 			<list>Controversial</list>
-			<period errorminus="0.2" errorplus="0.2">6.0</period>
+			<period errorminus="0.2" errorplus="0.2">4.93</period>
 			<mass>1.4</mass>
 			<semimajoraxis>0.065</semimajoraxis>
 			<inclination errorminus="10" errorplus="10">55</inclination>
