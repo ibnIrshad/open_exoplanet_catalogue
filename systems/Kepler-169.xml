@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.105</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-169 c</name>
 			<name>KOI-505 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.062</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-169 b</name>
 			<name>KOI-505 b</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.04</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-169 d</name>
 			<name>KOI-505 d</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.075</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-169 f</name>
 			<name>KOI-505 f</name>
@@ -94,6 +94,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.359</semimajoraxis></planet>
 	</star>
 </system>
