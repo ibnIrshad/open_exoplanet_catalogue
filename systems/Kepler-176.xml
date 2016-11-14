@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.102</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-176 b</name>
 			<name>KOI-520 b</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.058</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-176 d</name>
 			<name>KOI-520 d</name>
@@ -61,7 +61,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.163</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-176 e</name>
 			<discoverymethod>transit</discoverymethod>
