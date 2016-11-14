@@ -17,8 +17,8 @@
 			<name>HD 47536 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.4" errorplus="0.4">4.0</mass>
-			<period errorminus="2.6" errorplus="2.6">434.9</period>
-			<semimajoraxis errorminus="0.005" errorplus="0.005">1.12</semimajoraxis>
+			<period errorminus="2.6" errorplus="2.6">712.13</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">1.93</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
 			<periastron errorminus="17.3" errorplus="17.3">268.6</periastron>
 			<periastrontime errorminus="30" errorplus="30">2453040.8</periastrontime>
