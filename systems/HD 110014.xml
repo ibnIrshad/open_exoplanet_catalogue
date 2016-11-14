@@ -14,8 +14,8 @@
 			<name>HD 110014 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="1.0" errorplus="1.0">10.7</mass>
-			<period errorminus="21.5" errorplus="21.5">882.6</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">2.31</semimajoraxis>
+			<period errorminus="21.5" errorplus="21.5">835.477</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.14</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.26</eccentricity>
 			<periastron errorminus="15.5" errorplus="15.5">47.72</periastron>
 			<periastrontime errorminus="50.2" errorplus="50.2">2453739.4</periastrontime>
