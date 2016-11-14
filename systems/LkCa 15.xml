@@ -24,7 +24,7 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/10/19</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<semimajoraxis errorminus="2.100000" errorplus="-2.100000">14.7</semimajoraxis></planet>
 		<name>LkCa 15</name>
 		<temperature>5150.0</temperature>
 	</star>
