@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.068</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-402 e</name>
 			<name>KOI-2722 e</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.102</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-402 b</name>
 			<name>KOI-2722 b</name>
@@ -61,7 +61,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.051</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-402 d</name>
 			<name>KOI-2722 d</name>
@@ -77,6 +77,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.087</semimajoraxis></planet>
 	</star>
 </system>
