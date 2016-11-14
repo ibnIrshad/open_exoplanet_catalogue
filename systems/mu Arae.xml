@@ -39,8 +39,8 @@
 			<name>HR 6585 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.03321</mass>
-			<period>9.6386</period>
-			<semimajoraxis>0.09094</semimajoraxis>
+			<period>4205.8</period>
+			<semimajoraxis>5.235</semimajoraxis>
 			<eccentricity>0.172</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/04/02</lastupdate>
@@ -54,8 +54,8 @@
 			<name>HR 6585 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.5219</mass>
-			<period>310.55</period>
-			<semimajoraxis>0.921</semimajoraxis>
+			<period>9.6386</period>
+			<semimajoraxis>0.09094</semimajoraxis>
 			<eccentricity>0.0666</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/04/02</lastupdate>
@@ -69,8 +69,8 @@
 			<name>HR 6585 e</name>
 			<list>Confirmed planets</list>
 			<mass>1.814</mass>
-			<period>4205.8</period>
-			<semimajoraxis>5.235</semimajoraxis>
+			<period>310.55</period>
+			<semimajoraxis>0.921</semimajoraxis>
 			<eccentricity>0.0985</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/04/02</lastupdate>
