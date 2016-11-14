@@ -19,7 +19,7 @@
 			<name>HD 12661 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.3</mass>
-			<period>263.6</period>
+			<period>262.709</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.377</eccentricity>
 			<discoverymethod>RV</discoverymethod>
@@ -32,7 +32,7 @@
 			<list>Confirmed planets</list>
 			<mass>1.57</mass>
 			<period>1708</period>
-			<semimajoraxis>2.56</semimajoraxis>
+			<semimajoraxis>2.8145</semimajoraxis>
 			<eccentricity>0.031</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/04</lastupdate>
