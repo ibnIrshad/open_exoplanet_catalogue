@@ -31,6 +31,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<semimajoraxis errorminus="200.000000" errorplus="-200.000000">2000.0</semimajoraxis></planet>
 	</star>
 </system>
