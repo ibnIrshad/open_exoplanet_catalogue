@@ -42,7 +42,7 @@
 			<name>KOI-69.10</name>
 			<name>KOI-69 c</name>
 			<name>KIC 3544595 c</name>
-			<period lowerlimit="3700" />
+			<period lowerlimit="3700">1460.0</period>
 			<mass lowerlimit="8.5" upperlimit="670" />
 			<semimajoraxis lowerlimit="4.5" />
 			<list>Controversial</list>
