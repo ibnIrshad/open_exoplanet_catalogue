@@ -41,7 +41,7 @@
 			<name>KIC 10028792 c</name>
 			<radius errorminus="0.026428" errorplus="0.026428">0.559540</radius>
 			<mass errorminus="0.002517" errorplus="0.002517">0.020132</mass>
-			<period errorminus="0.074" errorplus="0.074">192.363</period>
+			<period errorminus="0.074" errorplus="0.074">191.2318</period>
 			<transittime errorminus="0.0080000" errorplus="0.0080000">2455119.0823000</transittime>
 			<semimajoraxis errorminus="0.013" errorplus="0.013">0.664</semimajoraxis>
 			<eccentricity errorminus="0.012" errorplus="0.012">0.039</eccentricity>
