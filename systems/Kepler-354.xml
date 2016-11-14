@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.054</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-354 d</name>
 			<name>KOI-2045 d</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.146</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-354 c</name>
 			<name>KOI-2045 c</name>
@@ -61,6 +61,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.115</semimajoraxis></planet>
 	</star>
 </system>
