@@ -2,7 +2,7 @@
 	<name>HD 27631</name>
 	<rightascension>04 19 45</rightascension>
 	<declination>-41 57 37</declination>
-	<distance>45.5</distance>
+	<distance>44.54</distance>
 	<star>
 		<magV>8.25</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.914</magB>
