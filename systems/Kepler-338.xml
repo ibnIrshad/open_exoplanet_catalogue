@@ -73,7 +73,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.257</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-338 e</name>
 			<name>KOI-1930 e</name>
