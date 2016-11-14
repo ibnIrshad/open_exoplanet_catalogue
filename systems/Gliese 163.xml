@@ -74,6 +74,6 @@ Credit: Joe Gallagher.</imagedescription>
 			<lastupdate>16/02/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodic signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
-		</planet>
+		<period errorminus="12.00000000" errorplus="-12.00000000">603.0</period></planet>
 	</star>
 </system>
