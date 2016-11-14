@@ -2,7 +2,7 @@
 	<name>HIP 75458</name>
 	<rightascension>15 24 55</rightascension>
 	<declination>+58 57 57</declination>
-	<distance>31.5</distance>
+	<distance>31.33</distance>
 	<star>
 		<name>iota Draconis</name>
 		<name>HIP 75458</name>
@@ -24,7 +24,7 @@
 			<name>HD 137759 b</name>
 			<list>Confirmed planets</list>
 			<mass>8.82</mass>
-			<period>510.702</period>
+			<period>511.098</period>
 			<semimajoraxis>1.275</semimajoraxis>
 			<eccentricity>0.713</eccentricity>
 			<inclination>69.9</inclination>
