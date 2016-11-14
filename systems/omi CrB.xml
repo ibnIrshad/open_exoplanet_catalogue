@@ -2,7 +2,7 @@
 	<name>omi CrB</name>
 	<rightascension>15 20 08.55879</rightascension>
 	<declination>+29 36 58.3488</declination>
-	<distance errorminus="3.0" errorplus="3.0">82.8</distance>
+	<distance errorminus="3.0" errorplus="3.0">84.03</distance>
 	<star>
 		<name>omi CrB</name>
 		<name>Omicron Coronae Borealis</name>
