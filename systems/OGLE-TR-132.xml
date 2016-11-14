@@ -2,7 +2,7 @@
 	<name>OGLE-TR-132</name>
 	<rightascension>10 50 34</rightascension>
 	<declination>-61 57 25</declination>
-	<distance>1500</distance>
+	<distance>2500.0</distance>
 	<star>
 		<mass errorminus="0.13" errorplus="0.13">1.19</mass>
 		<radius errorminus="0.10" errorplus="0.10">1.35</radius>
