@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.111</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-206 b</name>
 			<name>KOI-664 b</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.078</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-206 d</name>
 			<name>KOI-664 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.163</semimajoraxis></planet>
 	</star>
 </system>
