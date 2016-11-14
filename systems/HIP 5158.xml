@@ -2,7 +2,7 @@
 	<name>HIP 5158</name>
 	<rightascension>01 06 02</rightascension>
 	<declination>-22 27 11</declination>
-	<distance>45</distance>
+	<distance>44.8</distance>
 	<star>
 		<mass>0.78</mass>
 		<magV>10.21</magV>
@@ -28,7 +28,7 @@
 			<name>HIP 5158 c</name>
 			<list>Confirmed planets</list>
 			<mass>15.04</mass>
-			<period>9018</period>
+			<period>9017.76</period>
 			<semimajoraxis>7.7</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
 			<discoverymethod>RV</discoverymethod>
