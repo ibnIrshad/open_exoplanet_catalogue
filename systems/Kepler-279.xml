@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.112</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-279 d</name>
 			<name>KOI-1236 d</name>
