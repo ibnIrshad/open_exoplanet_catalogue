@@ -18,7 +18,7 @@
 			<name>HR 810 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.26</mass>
-			<period>320.1</period>
+			<period>312.0</period>
 			<semimajoraxis>0.925</semimajoraxis>
 			<eccentricity>0.161</eccentricity>
 			<discoverymethod>RV</discoverymethod>
