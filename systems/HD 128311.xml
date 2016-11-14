@@ -19,7 +19,7 @@
 			<name>HD 128311 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.18" errorplus="0.15">1.83</mass>
-			<period errorminus="3.6" errorplus="4.2">460.1</period>
+			<period errorminus="3.6" errorplus="4.2">453.019</period>
 			<eccentricity errorminus="0.04" errorplus="0.03">0.30</eccentricity>
 			<periastron errorminus="9.2" errorplus="6.4">-76.2</periastron>
 			<longitude errorminus="12.6" errorplus="11.9">259.2</longitude>
@@ -29,12 +29,12 @@
 			<lastupdate>15/01/08</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>177.7</temperature>
-		</planet>
+		<semimajoraxis errorminus="0.006000" errorplus="-0.006000">1.084</semimajoraxis></planet>
 		<planet>
 			<name>HD 128311 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.08" errorplus="0.08">3.20</mass>
-			<period errorminus="6.0" errorplus="7.6">910.7</period>
+			<period errorminus="6.0" errorplus="7.6">921.538</period>
 			<eccentricity errorminus="0.06" errorplus="0.08">0.12</eccentricity>
 			<periastron errorminus="12.0" errorplus="23.2">-19.7</periastron>
 			<longitude errorminus="10.7" errorplus="20">184.2</longitude>
@@ -44,7 +44,7 @@
 			<lastupdate>15/01/08</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>140.7</temperature>
-		</planet>
+		<semimajoraxis errorminus="0.010000" errorplus="-0.010000">1.74</semimajoraxis></planet>
 		<name>HD 128311</name>
 		<temperature>4965.0</temperature>
 	</star>
