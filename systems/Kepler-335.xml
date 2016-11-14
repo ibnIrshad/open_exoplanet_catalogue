@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.075</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-335 c</name>
 			<name>KOI-1915 c</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.356</semimajoraxis></planet>
 	</star>
 </system>
