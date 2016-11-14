@@ -2,7 +2,7 @@
 	<name>HD 152079</name>
 	<rightascension>16 53 30</rightascension>
 	<declination>-46 19 51</declination>
-	<distance>85.17</distance>
+	<distance>83.33</distance>
 	<star>
 		<mass>1.023</mass>
 		<magV>9.18</magV>
@@ -16,8 +16,8 @@
 			<name>HD 152079 b</name>
 			<list>Confirmed planets</list>
 			<mass>3</mass>
-			<period>2097</period>
-			<semimajoraxis>3.2</semimajoraxis>
+			<period>2899.0</period>
+			<semimajoraxis>3.98</semimajoraxis>
 			<eccentricity>0.6</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/01/26</lastupdate>
