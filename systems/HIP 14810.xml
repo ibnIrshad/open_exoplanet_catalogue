@@ -41,7 +41,7 @@
 			<name>HIP 14810 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.57</mass>
-			<period>962</period>
+			<period>952.0</period>
 			<semimajoraxis>1.89</semimajoraxis>
 			<eccentricity>0.173</eccentricity>
 			<discoverymethod>RV</discoverymethod>
