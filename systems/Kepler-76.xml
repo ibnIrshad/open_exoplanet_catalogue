@@ -32,6 +32,6 @@
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.002000" errorplus="-0.001900">0.0274</semimajoraxis></planet>
 	</star>
 </system>
