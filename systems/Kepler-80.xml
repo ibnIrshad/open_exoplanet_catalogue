@@ -4,7 +4,7 @@
 	<name>KIC 4852528</name>
 	<rightascension>19 44 27</rightascension>
 	<declination>+39 58 43</declination>
-	<distance>418.17</distance>
+	<distance>357.0</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">12.954</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.354</magH>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.000900" errorplus="-0.000900">0.0648</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-80 c</name>
 			<name>KOI-500 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.001100" errorplus="-0.001100">0.0792</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-80 d</name>
 			<name>KOI-500 d</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.000500" errorplus="-0.000500">0.0372</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-80 e</name>
 			<name>KOI-500 e</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.000700" errorplus="-0.000700">0.0491</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-80 f</name>
 			<discoverymethod>transit</discoverymethod>
@@ -90,6 +90,6 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001580" errorplus="0.000001580">0.986787060</period>
 			<radius errorminus="0.003" errorplus="0.005">0.110</radius>
-		</planet>
+		<semimajoraxis errorminus="0.000200" errorplus="-0.000200">0.0175</semimajoraxis></planet>
 	</star>
 </system>
