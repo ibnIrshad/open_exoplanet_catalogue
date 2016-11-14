@@ -33,7 +33,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.123</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-248 b</name>
 			<name>KOI-896 b</name>
@@ -49,6 +49,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.066</semimajoraxis></planet>
 	</star>
 </system>
