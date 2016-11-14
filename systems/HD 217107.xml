@@ -2,7 +2,7 @@
 	<name>HD 217107</name>
 	<rightascension>22 58 15.5</rightascension>
 	<declination>-02 23 43.4</declination>
-	<distance errorminus="0.15" errorplus="0.15">19.86</distance>
+	<distance errorminus="0.15" errorplus="0.15">19.72</distance>
 	<star>
 		<name>HD 217107</name>
 		<name>HIP 113421</name>
@@ -39,8 +39,8 @@
 			<name>HD 217107 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.072" errorplus="0.072">4.513</mass>
-			<period errorminus="21" errorplus="21">5189</period>
-			<semimajoraxis errorminus="0.080" errorplus="0.080">6.074</semimajoraxis>
+			<period errorminus="21" errorplus="21">4270.0</period>
+			<semimajoraxis errorminus="0.080" errorplus="0.080">5.32</semimajoraxis>
 			<eccentricity errorminus="0.0086" errorplus="0.0086">0.3848</eccentricity>
 			<periastrontime errorminus="16" errorplus="16" unit="BJD">2450770</periastrontime>
 			<periastron errorminus="1.7" errorplus="1.7">206.3</periastron>
