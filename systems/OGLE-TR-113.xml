@@ -2,7 +2,7 @@
 	<name>OGLE-TR-113</name>
 	<rightascension>10 52 24.40</rightascension>
 	<declination>-61 26 48.5</declination>
-	<distance>1500</distance>
+	<distance>600.0</distance>
 	<star>
 		<name>OGLE-TR-113</name>
 		<name>V752 Car</name>
