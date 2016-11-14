@@ -42,7 +42,7 @@
 			<name>2MASS J19214099+3751064 c</name>
 			<name>KIC 2571238 c</name>
 			<list>Confirmed planets</list>
-			<period upperlimit="160" />
+			<period upperlimit="160">160.0</period>
 			<mass upperlimit="6.0" />
 			<description>The planet Kepler-19 c was the first confirmed detection of a planet by transit timing variations.</description>
 			<discoverymethod>timing</discoverymethod>
@@ -56,4 +56,4 @@
 		<temperature errorminus="60" errorplus="60">5541</temperature>
 		<age errorminus="1.7" errorplus="1.7">1.9</age>
 	</star>
-</system>
+<distance>2119.0</distance></system>
