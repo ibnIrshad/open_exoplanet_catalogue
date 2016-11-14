@@ -2,7 +2,7 @@
 	<name>HD 220689</name>
 	<rightascension>23 25 53</rightascension>
 	<declination>-20 36 58</declination>
-	<distance>44.6</distance>
+	<distance>45.23</distance>
 	<star>
 		<magV>7.77</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.355</magB>
