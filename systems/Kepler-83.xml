@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.051</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-83 c</name>
 			<name>KOI-898 c</name>
