@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.13</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-85 e</name>
 			<name>KOI-2038 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.163</semimajoraxis></planet>
 	</star>
 </system>
