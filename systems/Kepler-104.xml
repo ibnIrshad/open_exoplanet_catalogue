@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.094</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-104 c</name>
 			<name>KOI-111 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.153</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-104 d</name>
 			<name>KOI-111 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.257</semimajoraxis></planet>
 	</star>
 </system>
