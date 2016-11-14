@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.117</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-381 b</name>
 			<name>KOI-2352 b</name>
@@ -48,6 +48,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.066</semimajoraxis></planet>
 	</star>
 </system>
