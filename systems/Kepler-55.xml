@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.029</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-55 b</name>
 			<name>KOI-904 b</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.048</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-55 f</name>
 			<name>KOI-904 f</name>
@@ -94,6 +94,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.081</semimajoraxis></planet>
 	</star>
 </system>
