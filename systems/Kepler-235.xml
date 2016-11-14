@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.037</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-235 d</name>
 			<name>KOI-812 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.122</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-235 e</name>
 			<name>KOI-812 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.213</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-235 c</name>
 			<name>KOI-812 c</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.065</semimajoraxis></planet>
 	</star>
 </system>
