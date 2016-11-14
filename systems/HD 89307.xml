@@ -19,7 +19,7 @@
 			<name>HD 89307 b</name>
 			<list>Confirmed planets</list>
 			<mass>2</mass>
-			<period>2199</period>
+			<period>2157.0</period>
 			<semimajoraxis>3.34</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
 			<discoverymethod>RV</discoverymethod>
