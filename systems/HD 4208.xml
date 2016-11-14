@@ -2,7 +2,7 @@
 	<name>HD 4208</name>
 	<rightascension>00 44 26</rightascension>
 	<declination>-26 30 56</declination>
-	<distance>33.9</distance>
+	<distance>32.7</distance>
 	<star>
 		<mass>0.87</mass>
 		<radius>0.85</radius>
@@ -17,7 +17,7 @@
 			<name>HD 4208 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.8</mass>
-			<period>829</period>
+			<period>828.0</period>
 			<semimajoraxis>1.7</semimajoraxis>
 			<eccentricity>0.04</eccentricity>
 			<discoverymethod>RV</discoverymethod>
