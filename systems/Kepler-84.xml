@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.181</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-84 d</name>
 			<name>KOI-1589 d</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.052</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-84 f</name>
 			<name>KOI-1589 f</name>
@@ -94,6 +94,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.25</semimajoraxis></planet>
 	</star>
 </system>
