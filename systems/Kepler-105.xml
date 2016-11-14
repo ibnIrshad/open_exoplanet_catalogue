@@ -30,7 +30,7 @@
 			<lastupdate>16/01/13</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="0.003000" errorplus="-0.003000">0.066</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-105 c</name>
 			<name>KOI-115 c</name>
