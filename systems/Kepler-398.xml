@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.044</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-398 c</name>
 			<name>KOI-2693 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.087</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-398 d</name>
 			<discoverymethod>transit</discoverymethod>
