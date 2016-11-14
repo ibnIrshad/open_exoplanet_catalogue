@@ -2,7 +2,7 @@
 	<name>HD 187123</name>
 	<rightascension>19 46 58.1</rightascension>
 	<declination>+34 25 10.3</declination>
-	<distance errorminus="1.2" errorplus="1.2">48.3</distance>
+	<distance errorminus="1.2" errorplus="1.2">47.92</distance>
 	<star>
 		<name>HD 187123</name>
 		<name>HIP 97336</name>
@@ -40,8 +40,8 @@
 			<name>HD 187123 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.035" errorplus="0.035">1.818</mass>
-			<period errorminus="46" errorplus="46">3324</period>
-			<semimajoraxis errorminus="0.054" errorplus="0.054">4.417</semimajoraxis>
+			<period errorminus="46" errorplus="46">3810.0</period>
+			<semimajoraxis errorminus="0.054" errorplus="0.054">4.89</semimajoraxis>
 			<eccentricity errorminus="0.022" errorplus="0.022">0.280</eccentricity>
 			<periastrontime errorminus="40" errorplus="40" unit="BJD">2453625</periastrontime>
 			<periastron errorminus="3.9" errorplus="3.9">258.5</periastron>
