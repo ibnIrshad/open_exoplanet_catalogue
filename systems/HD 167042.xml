@@ -2,7 +2,7 @@
 	<name>HD 167042</name>
 	<rightascension>18 10 31.64008</rightascension>
 	<declination>+54 17 11.5922</declination>
-	<distance errorminus="0.66" errorplus="0.66">50.23</distance>
+	<distance errorminus="0.66" errorplus="0.66">50.0</distance>
 	<star>
 		<name>HD 167042</name>
 		<name>HIP 89047</name>
