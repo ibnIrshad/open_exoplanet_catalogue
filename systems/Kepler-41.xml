@@ -2,7 +2,7 @@
 	<name>Kepler-41</name>
 	<rightascension>19 38 03</rightascension>
 	<declination>+48 58 54</declination>
-	<distance>771.43</distance>
+	<distance>770.0</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.262</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.938</magH>
