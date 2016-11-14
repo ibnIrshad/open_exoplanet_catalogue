@@ -17,7 +17,7 @@
 			<name>HD 82943 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.75</mass>
-			<period errorminus="7.9" errorplus="2.3">442.4</period>
+			<period errorminus="7.9" errorplus="2.3">441.47</period>
 			<semimajoraxis errorminus="0.0125" errorplus="0.0041">1.1866</semimajoraxis>
 			<eccentricity errorminus="0.065" errorplus="0.070">0.203</eccentricity>
 			<periastron errorminus="10" errorplus="13">107</periastron>
@@ -33,7 +33,7 @@
 			<name>HD 82943 c</name>
 			<list>Confirmed planets</list>
 			<mass>2.01</mass>
-			<period errorminus="1.0" errorplus="2.2">219.3</period>
+			<period errorminus="1.0" errorplus="2.2">220.078</period>
 			<semimajoraxis errorminus="0.0016" errorplus="0.0051">0.7423</semimajoraxis>
 			<eccentricity errorminus="0.020" errorplus="0.030">0.425</eccentricity>
 			<periastron errorminus="5" errorplus="6">133</periastron>
