@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.127</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-265 b</name>
 			<name>KOI-1052 b</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.069</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-265 e</name>
 			<name>KOI-1052 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.319</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-265 d</name>
 			<name>KOI-1052 d</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.236</semimajoraxis></planet>
 	</star>
 </system>
