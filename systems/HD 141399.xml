@@ -45,7 +45,7 @@
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/04/29</lastupdate>
-			<period errorminus="8.178" errorplus="8.178">1070.35</period>
+			<period errorminus="8.178" errorplus="8.178">1069.8</period>
 			<eccentricity errorminus="0.029" errorplus="0.029">0.06</eccentricity>
 			<discoveryyear>2014</discoveryyear>
 			<periastron errorminus="38.966" errorplus="38.966">249.16</periastron>
@@ -58,11 +58,11 @@
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/04/29</lastupdate>
-			<period errorminus="555.081" errorplus="555.081">3717.35</period>
+			<period errorminus="555.081" errorplus="555.081">5000.0</period>
 			<eccentricity>0</eccentricity>
 			<discoveryyear>2014</discoveryyear>
 			<periastron>0</periastron>
-			<semimajoraxis errorminus="0.46122" errorplus="0.46122">4.8968</semimajoraxis>
+			<semimajoraxis errorminus="0.46122" errorplus="0.46122">5.0</semimajoraxis>
 			<mass errorminus="0.164" errorplus="0.164">0.69</mass>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 		</planet>
