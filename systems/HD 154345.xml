@@ -18,8 +18,8 @@
 			<name>HD 154345 b</name>
 			<list>Confirmed planets</list>
 			<mass>1</mass>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
+			<period>3342.0</period>
+			<semimajoraxis>4.19</semimajoraxis>
 			<eccentricity>0.26</eccentricity>
 			<inclination>50</inclination>
 			<discoverymethod>RV</discoverymethod>
