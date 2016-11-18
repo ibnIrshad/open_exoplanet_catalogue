@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.122</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-251 d</name>
 			<name>KOI-907 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.182</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-251 b</name>
 			<name>KOI-907 b</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.053</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-251 e</name>
 			<name>KOI-907 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.404</semimajoraxis></planet>
 	</star>
 </system>
