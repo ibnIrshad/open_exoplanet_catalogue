@@ -2,7 +2,7 @@
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
 	<declination>+26 18 46</declination>
-	<distance>21.93</distance>
+	<distance>22.13</distance>
 	<star>
 		<mass>0.94</mass>
 		<radius>0.9</radius>
@@ -19,7 +19,7 @@
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.36</mass>
-			<period>1155</period>
+			<period>1201.1</period>
 			<semimajoraxis>2.11</semimajoraxis>
 			<eccentricity>0.05</eccentricity>
 			<discoverymethod>RV</discoverymethod>
