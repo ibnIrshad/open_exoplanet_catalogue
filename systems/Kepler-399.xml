@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.261</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-399 b</name>
 			<name>KOI-2707 b</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.103</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-399 c</name>
 			<name>KOI-2707 c</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.155</semimajoraxis></planet>
 	</star>
 </system>
