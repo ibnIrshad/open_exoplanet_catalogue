@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.05</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-148 b</name>
 			<name>KOI-398 b</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.028</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-148 d</name>
 			<discoverymethod>transit</discoverymethod>
