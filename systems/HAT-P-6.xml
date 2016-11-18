@@ -2,7 +2,7 @@
 	<name>HAT-P-6</name>
 	<rightascension>23 39 06</rightascension>
 	<declination>+42 27 58</declination>
-	<distance>200</distance>
+	<distance>261.0</distance>
 	<star>
 		<mass>1.29</mass>
 		<radius>1.46</radius>
