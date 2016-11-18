@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.178</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-340 b</name>
 			<name>KOI-1932 b</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.134</semimajoraxis></planet>
 	</star>
 </system>
