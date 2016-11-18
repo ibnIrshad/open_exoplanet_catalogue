@@ -2,7 +2,7 @@
 	<name>HD 13908</name>
 	<rightascension>02 18 14.56056</rightascension>
 	<declination>+65 35 39.6988</declination>
-	<distance errorminus="3.5" errorplus="3.5">71.3</distance>
+	<distance errorminus="3.5" errorplus="3.5">66.89</distance>
 	<star>
 		<name>HD 13908</name>
 		<mass errorminus="0.04" errorplus="0.04">1.29</mass>
