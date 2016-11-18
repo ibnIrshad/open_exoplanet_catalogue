@@ -24,7 +24,7 @@
 		<planet>
 			<name>HD 155233 b</name>
 			<list>Confirmed planets</list>
-			<period errorminus="63" errorplus="63">885</period>
+			<period errorminus="63" errorplus="63">818.8</period>
 			<periastrontime errorminus="412" errorplus="412" unit="BJD">2455112</periastrontime>
 			<eccentricity errorminus="0.20" errorplus="0.20">0.03</eccentricity>
 			<periastron errorminus="90" errorplus="90">95</periastron>
