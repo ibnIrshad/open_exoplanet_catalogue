@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.115</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-238 c</name>
 			<name>KOI-834 c</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.069</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-238 b</name>
 			<name>KOI-834 b</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.034</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-238 f</name>
 			<name>KOI-834 f</name>
