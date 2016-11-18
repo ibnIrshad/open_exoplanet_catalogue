@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.056</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-271 c</name>
 			<name>KOI-1151 c</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.071</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-271 d</name>
 			<discoverymethod>transit</discoverymethod>
