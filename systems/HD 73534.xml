@@ -2,7 +2,7 @@
 	<name>HD 73534</name>
 	<rightascension>08 39 16</rightascension>
 	<declination>+12 57 37</declination>
-	<distance>96.99</distance>
+	<distance>81.0</distance>
 	<star>
 		<mass>1.29</mass>
 		<radius>2.65</radius>
@@ -17,7 +17,7 @@
 			<name>HD 73534 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.15</mass>
-			<period>1800</period>
+			<period>1770.0</period>
 			<semimajoraxis>3.15</semimajoraxis>
 			<eccentricity>0.046</eccentricity>
 			<discoverymethod>RV</discoverymethod>
