@@ -2,7 +2,7 @@
 	<name>HD 159243</name>
 	<rightascension>17 33 21.54580</rightascension>
 	<declination>+05 42 02.6391</declination>
-	<distance errorminus="5.5" errorplus="5.5">69.2</distance>
+	<distance errorminus="5.5" errorplus="5.5">68.59</distance>
 	<star>
 		<name>HD 159243</name>
 		<mass errorminus="0.03" errorplus="0.03">1.125</mass>
