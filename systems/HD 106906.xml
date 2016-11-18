@@ -2,7 +2,7 @@
 	<name>HD 106906</name>
 	<rightascension>12 17 53.19228</rightascension>
 	<declination>-55 58 31.8890</declination>
-	<distance errorminus="6" errorplus="6">92</distance>
+	<distance errorminus="6" errorplus="6">91.83</distance>
 	<star>
 		<name>HD 106906</name>
 		<mass errorminus="0.1" errorplus="0.1">1.5</mass>
@@ -28,6 +28,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
+		<semimajoraxis>650.0</semimajoraxis></planet>
 	</star>
 </system>
