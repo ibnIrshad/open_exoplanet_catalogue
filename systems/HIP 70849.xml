@@ -21,8 +21,8 @@
 				<name>HIP 70849 b</name>
 				<list>Confirmed planets</list>
 				<mass>9</mass>
-				<period>10000</period>
-				<semimajoraxis>10</semimajoraxis>
+				<period>17337.5</period>
+				<semimajoraxis>20.25</semimajoraxis>
 				<eccentricity>0.6</eccentricity>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/07/05</lastupdate>
