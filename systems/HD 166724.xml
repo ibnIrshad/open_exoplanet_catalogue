@@ -2,7 +2,7 @@
 	<name>HD 166724</name>
 	<rightascension>18 14 00</rightascension>
 	<declination>-42 34 31</declination>
-	<distance>42.3</distance>
+	<distance>42.99</distance>
 	<star>
 		<magV>9.31</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.20</magB>
