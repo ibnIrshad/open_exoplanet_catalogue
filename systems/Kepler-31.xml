@@ -4,7 +4,7 @@
 	<name>KIC 9347899</name>
 	<rightascension>19 36 05</rightascension>
 	<declination>+45 51 11</declination>
-	<distance>1790.60</distance>
+	<distance>2100.0</distance>
 	<star>
 		<magJ errorminus="0.029" errorplus="0.029">14.233</magJ>
 		<magH errorminus="0.038" errorplus="0.038">13.984</magH>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.16</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-31 c</name>
 			<name>KOI-935 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.26</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-31 d</name>
 			<name>KOI-935 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.4</semimajoraxis></planet>
 	</star>
 </system>
