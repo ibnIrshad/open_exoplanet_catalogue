@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.198</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-154 c</name>
 			<name>KOI-435 c</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.303</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-154 d</name>
 			<discoverymethod>transit</discoverymethod>
