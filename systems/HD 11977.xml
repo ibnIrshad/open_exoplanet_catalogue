@@ -17,7 +17,7 @@
 			<name>HD 11977 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.2" errorplus="0.2">6.5</mass>
-			<period errorminus="2.4" errorplus="2.4">621.6</period>
+			<period errorminus="2.4" errorplus="2.4">711.0</period>
 			<semimajoraxis errorminus="0.005" errorplus="0.005">1.89</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.3</eccentricity>
 			<periastron errorminus="5.8" errorplus="5.8">35.5</periastron>
