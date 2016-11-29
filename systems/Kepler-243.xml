@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.062</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-243 c</name>
 			<name>KOI-857 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.142</semimajoraxis></planet>
 	</star>
 </system>
