@@ -48,6 +48,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/12/18</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<semimajoraxis errorminus="0.004900" errorplus="-0.004900">0.0906</semimajoraxis></planet>
 	</star>
 </system>
