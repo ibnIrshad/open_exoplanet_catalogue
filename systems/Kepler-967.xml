@@ -33,4 +33,4 @@
 			<radius errorminus="0.012" errorplus="0.013">0.326</radius>
 		</planet>
 	</star>
-</system>
+<distance errorminus="18.68" errorplus="-18.00">499.0</distance></system>
