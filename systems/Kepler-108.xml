@@ -43,7 +43,7 @@
 			<radius errorminus="0.04648" errorplus="0.04648">0.74545</radius>
 			<period errorminus=".000988" errorplus="0.000988">190.323494</period>
 			<transittime errorminus="0.0025500" errorplus="0.0025500">2455145.6732300</transittime>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">0.62</semimajoraxis>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">0.721</semimajoraxis>
 			<inclination errorminus="0.1" errorplus="0.1">89.2</inclination>
 			<eccentricity errorminus="0.04" errorplus="0.19">0.04</eccentricity>
 			<list>Confirmed planets</list>
