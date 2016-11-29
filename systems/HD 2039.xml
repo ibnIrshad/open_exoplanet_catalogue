@@ -17,7 +17,7 @@
 			<name>HD 2039 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.9</mass>
-			<period>1183</period>
+			<period>1120.0</period>
 			<semimajoraxis>2.2</semimajoraxis>
 			<eccentricity>0.67</eccentricity>
 			<discoverymethod>RV</discoverymethod>
