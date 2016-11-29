@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.072</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-166 c</name>
 			<name>KOI-481 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.195</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-166 d</name>
 			<discoverymethod>transit</discoverymethod>
