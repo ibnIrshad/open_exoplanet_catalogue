@@ -23,7 +23,7 @@
 		<age errorminus="1.58" errorplus="1.58">10.32</age>
 		<planet>
 			<name>HD 175607 b</name>
-			<period errorminus="1.10" errorplus="1.10">8.98</period>
+			<period errorminus="1.10" errorplus="1.10">29.01</period>
 			<mass errorminus="0.0035" errorplus="0.0035" type="msini">0.0283</mass>
 			<eccentricity errorminus="0.07" errorplus="0.09">0.11</eccentricity>
 			<periastron errorminus="52" errorplus="52">142</periastron>
