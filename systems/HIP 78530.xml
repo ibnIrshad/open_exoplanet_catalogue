@@ -32,6 +32,6 @@
 			<discoveryyear>2011</discoveryyear>
 			<image>HIP 78530</image>
 			<imagedescription>This image shows the star HIP 78530 with its companion in the lower left corner. The companion's mass is most likely too large to be a planet. Credit: David Lafreniere (University of Montreal).</imagedescription>
-		</planet>
+		<semimajoraxis errorminus="60.000000" errorplus="-60.000000">740.0</semimajoraxis></planet>
 	</star>
 </system>
