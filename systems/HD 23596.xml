@@ -17,8 +17,8 @@
 			<name>HD 23596 b</name>
 			<list>Confirmed planets</list>
 			<mass>8.1</mass>
-			<period>1565</period>
-			<semimajoraxis>2.88</semimajoraxis>
+			<period>1561.0</period>
+			<semimajoraxis>2.772</semimajoraxis>
 			<eccentricity>0.292</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/30</lastupdate>
