@@ -2,7 +2,7 @@
 	<name>HIP 91258</name>
 	<rightascension>18 36 53.15422</rightascension>
 	<declination>+61 42 09.0124</declination>
-	<distance errorminus="1.3" errorplus="1.3">44.9</distance>
+	<distance errorminus="1.3" errorplus="1.3">44.46</distance>
 	<star>
 		<name>HIP 91258</name>
 		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
