@@ -3,7 +3,7 @@
 	<name>PSR B1257+12</name>
 	<rightascension>13 00 03.5767</rightascension>
 	<declination>+12 40 56.4721</declination>
-	<distance errorminus="38" errorplus="43">710</distance>
+	<distance errorminus="38" errorplus="43">600.0</distance>
 	<star>
 		<name>PSR 1257+12</name>
 		<name>PSR B1257+12</name>
