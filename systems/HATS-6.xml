@@ -2,7 +2,7 @@
 	<name>HATS-6</name>
 	<rightascension>05 52 35.231</rightascension>
 	<declination>-19 01 53.96</declination>
-	<distance errorminus="5.5" errorplus="5.5">172.6</distance>
+	<distance errorminus="5.5" errorplus="5.5">148.4</distance>
 	<star>
 		<name>HATS-6</name>
 		<name>2MASS 05523523-1901539</name>
