@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.065</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-217 c</name>
 			<name>KOI-710 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.089</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-217 d</name>
 			<discoverymethod>transit</discoverymethod>
