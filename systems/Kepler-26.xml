@@ -64,7 +64,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.039</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-26 e</name>
 			<name>KOI-250 e</name>
@@ -80,6 +80,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.22</semimajoraxis></planet>
 	</star>
 </system>
