@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.128</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-342 d</name>
 			<name>KOI-1955 d</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.242</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-342 c</name>
 			<name>KOI-1955 c</name>
@@ -61,7 +61,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.185</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-342 e</name>
 			<discoverymethod>transit</discoverymethod>
