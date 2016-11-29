@@ -2,7 +2,7 @@
 	<name>HIP 63242</name>
 	<rightascension>12 57 32</rightascension>
 	<declination>-65 38 47</declination>
-	<distance>135</distance>
+	<distance>149.25</distance>
 	<star>
 		<name>HIP 63242</name>
 		<mass errorminus="0.05" errorplus="0.05">1.54</mass>
