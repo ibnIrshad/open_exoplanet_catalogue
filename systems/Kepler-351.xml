@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.287</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-351 b</name>
 			<name>KOI-2028 b</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.214</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-351 d</name>
 			<discoverymethod>transit</discoverymethod>
