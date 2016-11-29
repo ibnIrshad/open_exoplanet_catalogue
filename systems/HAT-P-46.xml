@@ -36,7 +36,7 @@
 			<lastupdate>13/08/16</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<period errorminus="0.00004800" errorplus="-0.00004800">4.463129</period></planet>
 		<planet>
 			<name>HAT-P-46 c</name>
 			<list>Controversial</list>
