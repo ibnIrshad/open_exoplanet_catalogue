@@ -19,7 +19,7 @@
 			<name>HD 8574 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.11</mass>
-			<period>227.55</period>
+			<period>227.0</period>
 			<semimajoraxis>0.77</semimajoraxis>
 			<eccentricity>0.288</eccentricity>
 			<discoverymethod>RV</discoverymethod>
