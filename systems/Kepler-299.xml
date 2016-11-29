@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.07</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-299 d</name>
 			<name>KOI-1432 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.118</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-299 b</name>
 			<name>KOI-1432 b</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.04</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-299 e</name>
 			<name>KOI-1432 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.22</semimajoraxis></planet>
 	</star>
 </system>
