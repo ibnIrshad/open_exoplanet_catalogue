@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.091</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-393 c</name>
 			<name>KOI-2595 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.124</semimajoraxis></planet>
 	</star>
 </system>
