@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.067</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-135 c</name>
 			<name>KOI-301 c</name>
@@ -48,6 +48,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.103</semimajoraxis></planet>
 	</star>
 </system>
