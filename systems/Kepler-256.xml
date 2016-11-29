@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.045</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-256 d</name>
 			<name>KOI-939 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.064</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-256 b</name>
 			<name>KOI-939 b</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.027</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-256 e</name>
 			<name>KOI-939 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.096</semimajoraxis></planet>
 	</star>
 </system>
