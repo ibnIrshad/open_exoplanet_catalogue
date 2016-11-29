@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.07</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-332 c</name>
 			<name>KOI-1905 c</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.114</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-332 d</name>
 			<name>KOI-1905 d</name>
@@ -61,6 +61,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.189</semimajoraxis></planet>
 	</star>
 </system>
