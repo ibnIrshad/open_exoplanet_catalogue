@@ -37,8 +37,8 @@
 			<name>2MASS J21380873+3029193 c</name>
 			<list>Confirmed planets</list>
 			<mass>1.4</mass>
-			<period>1798</period>
-			<semimajoraxis>2.75</semimajoraxis>
+			<period>5584.0</period>
+			<semimajoraxis>5.6</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<discoverymethod>RV</discoverymethod>
