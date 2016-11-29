@@ -31,7 +31,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.217</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-297 c</name>
 			<name>KOI-1426 c</name>
@@ -48,6 +48,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<mass errorminus="0.03" errorplus="0.04">0.13</mass>
-		</planet>
+		<semimajoraxis>0.336</semimajoraxis></planet>
 	</star>
 </system>
