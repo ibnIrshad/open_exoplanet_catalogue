@@ -2,7 +2,7 @@
 	<name>HD 145377</name>
 	<rightascension>16 11 36.44543</rightascension>
 	<declination>-27 04 41.4286</declination>
-	<distance errorminus="2.8" errorplus="2.8">55.0</distance>
+	<distance errorminus="2.8" errorplus="2.8">55.19</distance>
 	<star>
 		<name>HD 145377</name>
 		<mass errorminus="0.03" errorplus="0.03">1.12</mass>
