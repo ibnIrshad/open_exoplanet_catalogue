@@ -2,7 +2,7 @@
 	<name>HD 154857</name>
 	<rightascension>17 11 15</rightascension>
 	<declination>-56 40 50</declination>
-	<distance errorminus="3.1" errorplus="3.1">64.2</distance>
+	<distance errorminus="3.1" errorplus="3.1">68.54</distance>
 	<star>
 		<name>HD 154857</name>
 		<mass errorminus="0.022" errorplus="0.03">1.718</mass>
