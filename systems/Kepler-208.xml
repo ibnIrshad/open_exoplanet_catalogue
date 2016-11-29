@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.054</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-208 c</name>
 			<name>KOI-671 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.079</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-208 e</name>
 			<name>KOI-671 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.132</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-208 d</name>
 			<name>KOI-671 d</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.103</semimajoraxis></planet>
 	</star>
 </system>
