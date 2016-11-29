@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.307</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-359 b</name>
 			<name>KOI-2092 b</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.178</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-359 d</name>
 			<name>KOI-2092 d</name>
@@ -61,6 +61,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.372</semimajoraxis></planet>
 	</star>
 </system>
