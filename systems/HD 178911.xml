@@ -2,7 +2,7 @@
 	<name>HD 178911</name>
 	<rightascension>19 09 03</rightascension>
 	<declination>+34 35 59</declination>
-	<distance>46.73</distance>
+	<distance>47.0</distance>
 	<binary>
 		<separation unit="arcsec">16.1</separation>
 		<separation unit="AU">752</separation>
