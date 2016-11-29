@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.027</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-286 c</name>
 			<name>KOI-1306 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.042</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-286 d</name>
 			<name>KOI-1306 d</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.061</semimajoraxis></planet>
 		<planet>
 			<name>Kepler-286 e</name>
 			<name>KOI-1306 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.176</semimajoraxis></planet>
 	</star>
 </system>
