@@ -2,7 +2,7 @@
 	<name>HD 60532</name>
 	<rightascension>07 34 03</rightascension>
 	<declination>-22 17 46</declination>
-	<distance>25.7</distance>
+	<distance>25.3</distance>
 	<star>
 		<mass>1.44</mass>
 		<magV>4.45</magV>
@@ -29,7 +29,7 @@
 			<name>HD 60532 c</name>
 			<list>Confirmed planets</list>
 			<mass>7.46</mass>
-			<period>607.06</period>
+			<period>600.1</period>
 			<semimajoraxis>1.58</semimajoraxis>
 			<eccentricity>0.038</eccentricity>
 			<inclination>20</inclination>
