@@ -35,6 +35,6 @@
 			<lastupdate>14/01/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<period errorminus="0.00000600" errorplus="-0.00000600">2.691548</period></planet>
 	</star>
 </system>
