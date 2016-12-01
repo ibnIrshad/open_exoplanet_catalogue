@@ -2,7 +2,7 @@
 	<name>HIP 70849</name>
 	<rightascension>14 29 19</rightascension>
 	<declination>-46 27 50</declination>
-	<distance>24</distance>
+	<distance>23.98</distance>
 	<binary>
 		<separation unit="arcsec">377</separation>
 		<separation unit="AU">9050</separation>
@@ -20,15 +20,15 @@
 			<planet>
 				<name>HIP 70849 b</name>
 				<list>Confirmed planets</list>
-				<mass>9</mass>
-				<period>10000</period>
-				<semimajoraxis>10</semimajoraxis>
-				<eccentricity>0.6</eccentricity>
+				<mass>9.0</mass>
+				<period>17337.5</period>
+				<semimajoraxis>20.25</semimajoraxis>
+				<eccentricity>0.715</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/07/05</lastupdate>
+				<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<istransiting>0</istransiting></planet>
 			<name>HIP 70849</name>
 			<temperature>4105.0</temperature>
 		</star>

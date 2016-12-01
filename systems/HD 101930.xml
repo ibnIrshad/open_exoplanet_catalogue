@@ -2,7 +2,7 @@
 	<name>HD 101930</name>
 	<rightascension>11 43 30</rightascension>
 	<declination>-58 00 24</declination>
-	<distance>30.49</distance>
+	<distance>30.5</distance>
 	<star>
 		<mass>0.74</mass>
 		<magV>8.21</magV>
@@ -20,10 +20,10 @@
 			<semimajoraxis>0.302</semimajoraxis>
 			<eccentricity>0.11</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>385.4</temperature>
-		</planet>
+		<periastron errorminus="-11.0000" errorplus="-11.0000">251.0</periastron><periastrontime errorminus="-2.000000" errorplus="-2.000000">2453145.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 101930</name>
 		<temperature>5079.0</temperature>
 	</star>
