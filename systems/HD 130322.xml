@@ -2,7 +2,7 @@
 	<name>HD 130322</name>
 	<rightascension>14 47 33</rightascension>
 	<declination>-00 16 53</declination>
-	<distance>30</distance>
+	<distance errorminus="1.28" errorplus="-1.4">29.76</distance>
 	<star>
 		<mass>0.79</mass>
 		<radius>0.83</radius>
@@ -16,16 +16,16 @@
 		<planet>
 			<name>HD 130322 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.02</mass>
-			<period>10.72</period>
+			<mass>1.15</mass>
+			<period errorminus="0.00018" errorplus="-0.00018">10.72</period>
 			<semimajoraxis>0.088</semimajoraxis>
-			<eccentricity>0.044</eccentricity>
+			<eccentricity errorminus="0.016" errorplus="-0.016">0.044</eccentricity>
 			<inclination>76</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/08</lastupdate>
+			<lastupdate>19/2015-02-1/2015-02-1</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>721.7</temperature>
-		</planet>
+		<periastron errorminus="-36.0000" errorplus="-36.0000">193.0</periastron><periastrontime errorminus="-1.100000" errorplus="-1.100000">2453996.4</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 130322</name>
 		<temperature>5330.0</temperature>
 	</star>

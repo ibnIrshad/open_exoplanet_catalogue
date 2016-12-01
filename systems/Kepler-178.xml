@@ -21,47 +21,47 @@
 			<name>KOI-528.01</name>
 			<name>KIC 9941859 b</name>
 			<name>KIC 9941859.01</name>
-			<radius errorminus="0.02278" errorplus="0.11391">0.26428</radius>
+			<radius errorminus="0.02278" errorplus="-0.112">0.26428</radius>
 			<period errorminus=".000021" errorplus="0.000021">9.576694</period>
 			<transittime errorminus="0.0012400" errorplus="0.0012400">2455009.6812700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-178 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-178 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.085</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.49</impactparameter></planet>
 		<planet>
 			<name>Kepler-178 d</name>
 			<name>KOI-528 d</name>
 			<name>KOI-528.02</name>
 			<name>KIC 9941859 d</name>
 			<name>KIC 9941859.02</name>
-			<radius errorminus="0.06379" errorplus="0.15492">0.35996</radius>
+			<radius errorminus="0.06379" errorplus="-0.152">0.35996</radius>
 			<period errorminus=".000702" errorplus="0.000702">96.678988</period>
 			<transittime errorminus="0.0038700" errorplus="0.0038700">2454973.1784200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-178 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-178 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.397</semimajoraxis><impactparameter errorminus="-0.3200" errorplus="-0.3200">0.87</impactparameter></planet>
 		<planet>
 			<name>Kepler-178 c</name>
 			<name>KOI-528 c</name>
 			<name>KOI-528.03</name>
 			<name>KIC 9941859 c</name>
 			<name>KIC 9941859.03</name>
-			<radius errorminus="0.02096" errorplus="0.11209">0.26246</radius>
+			<radius errorminus="0.02096" errorplus="-0.11">0.26246</radius>
 			<period errorminus=".000066" errorplus="0.000066">20.552802</period>
 			<transittime errorminus="0.0020100" errorplus="0.0020100">2454978.0263400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-178 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-178 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.142</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.37</impactparameter></planet>
 	</star>
 </system>

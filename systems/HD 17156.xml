@@ -2,7 +2,7 @@
 	<name>HD 17156</name>
 	<rightascension>02 49 44</rightascension>
 	<declination>+71 45 12</declination>
-	<distance>78.24</distance>
+	<distance>75.0</distance>
 	<star>
 		<mass>1.275</mass>
 		<radius>1.508</radius>
@@ -16,19 +16,19 @@
 		<planet>
 			<name>HD 17156 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.191</mass>
-			<radius>1.095</radius>
-			<period>21.2163979</period>
-			<semimajoraxis>0.1623</semimajoraxis>
-			<eccentricity>0.6768</eccentricity>
-			<inclination>87.21</inclination>
+			<mass errorminus="0.08" errorplus="-0.08">3.191</mass>
+			<radius errorminus="0.08" errorplus="-0.08">1.095</radius>
+			<period errorminus="0.00045" errorplus="-0.00045">21.2163979</period>
+			<semimajoraxis errorminus="0.0022" errorplus="-0.0022">0.1623</semimajoraxis>
+			<eccentricity errorminus="0.0044" errorplus="-0.0044">0.6768</eccentricity>
+			<inclination errorminus="0.11" errorplus="-0.11">87.89</inclination>
 			<transittime errorminus="0.000081" errorplus="0.000081" unit="HJD">2454777.946341</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>29/2014-10-2/2014-10-2</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>790.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-0.2300" errorplus="-0.2300">121.9</periastron><periastrontime errorminus="-0.000298" errorplus="-0.000298">2454757.00787</periastrontime></planet>
 		<name>HD 17156</name>
 		<temperature>6079.0</temperature>
 	</star>

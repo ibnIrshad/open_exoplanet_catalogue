@@ -18,17 +18,17 @@
 			<name>2MASS J06484671-0040219 b</name>
 			<name>CoRoTID 102912369 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.72</mass>
-			<radius>1.19</radius>
-			<period>9.20205</period>
-			<semimajoraxis>0.09</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>90</inclination>
+			<mass errorminus="0.08" errorplus="-0.08">0.72</mass>
+			<radius errorminus="0.06" errorplus="-0.05">1.19</radius>
+			<period errorminus="0.00037" errorplus="-0.00037">9.20205</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.001">0.09</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="-0.1">0.0</eccentricity>
+			<inclination errorminus="0.0" errorplus="-0.085">90</inclination>
 			<transittime errorminus="0.00089" errorplus="0.00089" unit="BJD">2454141.36494</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>08/11/27</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>975.6</temperature>
+			<temperature errorminus="19.0" errorplus="-19.0">1074.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>CoRoT-4</name>

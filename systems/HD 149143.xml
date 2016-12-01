@@ -2,7 +2,7 @@
 	<name>HD 149143</name>
 	<rightascension>16 32 51</rightascension>
 	<declination>+02 05 05</declination>
-	<distance>63</distance>
+	<distance errorminus="4.04" errorplus="-4.63">63.49</distance>
 	<star>
 		<mass>1.1</mass>
 		<magV>7.9</magV>
@@ -13,14 +13,14 @@
 			<name>HD 149143 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.36</mass>
-			<period>4.088</period>
+			<period errorminus="0.006" errorplus="-0.006">4.088</period>
 			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity errorminus="0.04" errorplus="-0.04">0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>10/2016-03-1/2016-03-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1389.4</temperature>
-		</planet>
+		<periastron errorminus="-35.0000" errorplus="-35.0000">42.0</periastron><periastrontime errorminus="-0.400000" errorplus="-0.400000">2453588.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 149143</name>
 		<temperature>5730.0</temperature>
 	</star>

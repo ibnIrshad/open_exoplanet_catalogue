@@ -2,7 +2,7 @@
 	<name>HD 28254</name>
 	<rightascension>04 24 51</rightascension>
 	<declination>-50 37 20</declination>
-	<distance>56.2</distance>
+	<distance errorminus="1.6" errorplus="-1.5">54.7</distance>
 	<star>
 		<mass>1.06</mass>
 		<radius>1.48</radius>
@@ -17,15 +17,15 @@
 		<planet>
 			<name>HD 28254 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.16</mass>
-			<period>1116</period>
-			<semimajoraxis>2.15</semimajoraxis>
-			<eccentricity>0.81</eccentricity>
+			<mass errorminus="0.1" errorplus="-0.06">1.16</mass>
+			<period errorminus="26.0" errorplus="-26.0">1116</period>
+			<semimajoraxis errorminus="0.04" errorplus="-0.05">2.15</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="-0.02">0.81</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>196.8</temperature>
-		</planet>
+		<periastron errorminus="-4.0000" errorplus="-4.0000">301.0</periastron><periastrontime errorminus="-55.000000" errorplus="-55.000000">2454049.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 28254</name>
 		<temperature>5664.0</temperature>
 	</star>

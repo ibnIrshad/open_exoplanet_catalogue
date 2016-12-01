@@ -2,7 +2,7 @@
 	<name>HAT-P-5</name>
 	<rightascension>18 17 37</rightascension>
 	<declination>+36 37 18</declination>
-	<distance>340</distance>
+	<distance errorminus="30.0" errorplus="-30.0">340</distance>
 	<star>
 		<spectraltype>G</spectraltype>
 		<mass>1.163</mass>
@@ -19,19 +19,19 @@
 			<name>2MASS J18173731+3637170 b</name>
 			<name>TYC 2634-01087-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<radius>1.252</radius>
-			<period>2.788491</period>
-			<semimajoraxis>0.04079</semimajoraxis>
+			<mass errorminus="0.11" errorplus="-0.11">1.06</mass>
+			<radius errorminus="0.05" errorplus="-0.05">1.252</radius>
+			<period errorminus="2.5e-05" errorplus="-2.5e-05">2.788491</period>
+			<semimajoraxis errorminus="0.00076" errorplus="-0.00076">0.04079</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.75</inclination>
+			<inclination errorminus="0.44" errorplus="-0.44">86.75</inclination>
 			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/05/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1387.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0480" errorplus="-0.0480">0.425</impactparameter></planet>
 		<name>HAT-P-5</name>
 		<temperature>5960.0</temperature>
 	</star>

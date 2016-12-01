@@ -2,7 +2,7 @@
 	<name>HD 148156</name>
 	<rightascension>16 28 17</rightascension>
 	<declination>-46 19 03</declination>
-	<distance>53.05</distance>
+	<distance errorminus="2.75" errorplus="-3.07">53.05</distance>
 	<star>
 		<mass>1.22</mass>
 		<radius>1.21</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 148156 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<period>1010</period>
-			<semimajoraxis>2.45</semimajoraxis>
-			<eccentricity>0.52</eccentricity>
+			<mass errorminus="0.67" errorplus="-0.05">0.85</mass>
+			<period errorminus="28.0" errorplus="-28.0">1027.0</period>
+			<semimajoraxis errorminus="0.04" errorplus="-0.05">2.45</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="-0.09">0.52</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/09</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>191.9</temperature>
-		</planet>
+		<periastron errorminus="-12.0000" errorplus="-12.0000">35.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2454707.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 148156</name>
 		<temperature>6308.0</temperature>
 	</star>

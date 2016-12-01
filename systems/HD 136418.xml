@@ -2,7 +2,7 @@
 	<name>HD 136418</name>
 	<rightascension>15 19 07</rightascension>
 	<declination>+41 44 00</declination>
-	<distance>98.2</distance>
+	<distance errorminus="7.57" errorplus="-8.82">106.38</distance>
 	<star>
 		<mass>1.33</mass>
 		<radius>3.4</radius>
@@ -15,15 +15,15 @@
 		<planet>
 			<name>HD 136418 b</name>
 			<list>Confirmed planets</list>
-			<mass>2</mass>
-			<period>464.3</period>
-			<semimajoraxis>1.32</semimajoraxis>
-			<eccentricity>0.255</eccentricity>
+			<mass errorminus="0.1" errorplus="-0.1">2</mass>
+			<period errorminus="3.2" errorplus="-3.2">464.3</period>
+			<semimajoraxis errorminus="0.03" errorplus="-0.03">1.32</semimajoraxis>
+			<eccentricity errorminus="0.041" errorplus="-0.041">0.255</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>357.4</temperature>
-		</planet>
+		<periastron errorminus="-10.0000" errorplus="-10.0000">12.0</periastron><periastrontime errorminus="-10.000000" errorplus="-10.000000">2455228.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 136418</name>
 		<temperature>5071.0</temperature>
 	</star>

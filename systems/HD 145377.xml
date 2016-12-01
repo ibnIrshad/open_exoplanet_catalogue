@@ -2,7 +2,7 @@
 	<name>HD 145377</name>
 	<rightascension>16 11 36.44543</rightascension>
 	<declination>-27 04 41.4286</declination>
-	<distance errorminus="2.8" errorplus="2.8">55.0</distance>
+	<distance errorminus="3.16" errorplus="-3.57">55.19</distance>
 	<star>
 		<name>HD 145377</name>
 		<mass errorminus="0.03" errorplus="0.03">1.12</mass>
@@ -19,15 +19,15 @@
 		<planet>
 			<name>HD 145377 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.10" errorplus="0.10" type="msini">5.76</mass>
-			<period errorminus="0.13" errorplus="0.13">103.95</period>
+			<mass errorminus="0.10" errorplus="-0.1" type="msini">5.76</mass>
+			<period errorminus="0.13" errorplus="-0.13">103.95</period>
 			<semimajoraxis errorminus="0.004" errorplus="0.004">0.45</semimajoraxis>
 			<eccentricity errorminus="0.017" errorplus="0.017">0.307</eccentricity>
-			<periastron errorminus="2.8" errorplus="2.8">138.1</periastron>
-			<periastrontime errorminus="0.6" errorplus="0.6">2454635.4</periastrontime>
+			<periastron errorminus="2.8" errorplus="-2.8">138.1</periastron>
+			<periastrontime errorminus="0.6" errorplus="-0.6">2454635.4</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HAT-P-8</name>
 	<rightascension>22 52 10</rightascension>
 	<declination>+35 26 50</declination>
-	<distance errorminus="15" errorplus="15">230</distance>
+	<distance errorminus="15" errorplus="-15.0">230</distance>
 	<binary>
 		<separation errorminus="0.014" errorplus="0.014" unit="arcsec">1.040</separation>
 		<separation errorminus="2.5" errorplus="2.5" unit="AU">240</separation>
@@ -27,21 +27,21 @@
 				<name>2MASS J22520985+3526495 b</name>
 				<name>TYC 2757-1152-1 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.275</mass>
-				<radius>1.321</radius>
-				<period>3.0763402</period>
-				<semimajoraxis>0.04390</semimajoraxis>
-				<temperature>1713</temperature>
+				<mass errorminus="0.18" errorplus="-0.16">1.52</mass>
+				<radius errorminus="0.08" errorplus="-0.06">1.5</radius>
+				<period errorminus="4e-06" errorplus="-4e-06">3.0763402</period>
+				<semimajoraxis errorminus="0.0026" errorplus="-0.0026">0.04390</semimajoraxis>
+				<temperature errorminus="35.0" errorplus="-35.0">1700.0</temperature>
 				<eccentricity>0.0</eccentricity>
-				<inclination>87.8</inclination>
+				<inclination errorminus="1.9" errorplus="-0.9">87.5</inclination>
 				<transittime errorminus="0.000004" errorplus="0.00004" unit="BJD">2454437.67582</transittime>
 				<description>The extrasolar planet HAT-P-8b is orbiting the star HAT-P-8 in the constellation of Pegasus. It is the 11th planet discovered by the HATNet project. Variations in the optical bands may indicate the presence of strong absorbers such as TiO or VO gases. The host star is part of a hierarchical triple system.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/07/31</lastupdate>
+				<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="-0.1900" errorplus="-0.1900">0.32</impactparameter></planet>
 			<temperature>6200.0</temperature>
 		</star>
 		<binary>

@@ -2,7 +2,7 @@
 	<name>HD 27631</name>
 	<rightascension>04 19 45</rightascension>
 	<declination>-41 57 37</declination>
-	<distance>45.5</distance>
+	<distance errorminus="1.5" errorplus="-1.6">44.54</distance>
 	<star>
 		<magV>8.25</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.914</magB>
@@ -19,16 +19,16 @@
 		<planet>
 			<name>HD 27631 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.45</mass>
-			<period>2208</period>
-			<eccentricity>0.12</eccentricity>
-			<periastron>134</periastron>
-			<semimajoraxis>3.25</semimajoraxis>
+			<mass errorminus="0.14" errorplus="-0.14">1.45</mass>
+			<period errorminus="66.0" errorplus="-66.0">2208</period>
+			<eccentricity errorminus="0.06" errorplus="-0.06">0.12</eccentricity>
+			<periastron errorminus="44.0" errorplus="-44.0">134</periastron>
+			<semimajoraxis errorminus="0.07" errorplus="-0.07">3.25</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 			<temperature>137.7</temperature>
-		</planet>
+		<periastrontime errorminus="-224.000000" errorplus="-224.000000">2453867.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 27631</name>
 	</star>
 </system>
