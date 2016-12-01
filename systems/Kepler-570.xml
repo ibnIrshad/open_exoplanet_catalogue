@@ -4,21 +4,21 @@
 	<declination>+48 47 31</declination>
 	<star>
 		<name>Kepler-570</name>
-		<temperature errorminus="88.2" errorplus="71.4">5496.0</temperature>
+		<temperature errorminus="71.37" errorplus="-88.25">5496.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
-		<radius errorminus="0.06" errorplus="0.12">0.90</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.06</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.90</radius>
+		<metallicity errorminus="0.16" errorplus="-0.159">0.06</metallicity>
 		<planet>
 			<name>Kepler-570 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003100" errorplus="0.000003100">4.301662000</period>
 			<radius errorminus="0.013" errorplus="0.030">0.219</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.220" errorplus="-3.220">5.01</age><magV errorminus="" errorplus="">14.332</magV></star>
+<distance errorminus="-42.67" errorplus="-42.67">642.0</distance></system>

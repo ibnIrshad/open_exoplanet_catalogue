@@ -4,16 +4,16 @@
 	<declination>+41 46 43</declination>
 	<star>
 		<name>Kepler-1370</name>
-		<temperature errorminus="131.5" errorplus="115.0">6202.0</temperature>
-		<mass errorminus="0.09" errorplus="0.15">1.19</mass>
-		<radius errorminus="0.18" errorplus="0.46">1.29</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.05</metallicity>
+		<temperature errorminus="115.03" errorplus="-131.46">6202.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.19</mass>
+		<radius errorminus="0.46" errorplus="-0.18">1.29</radius>
+		<metallicity errorminus="0.14" errorplus="-0.141">0.05</metallicity>
 		<planet>
 			<name>Kepler-1370 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000054040" errorplus="0.000054040">7.441421130</period>
 			<radius errorminus="0.016" errorplus="0.050">0.113</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.09" errorplus="-1.130">2.88</age><magV errorminus="" errorplus="">13.701</magV></star>
+<distance errorminus="308.5" errorplus="-128.51">878.0</distance></system>

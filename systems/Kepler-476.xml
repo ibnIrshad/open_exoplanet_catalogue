@@ -4,21 +4,21 @@
 	<declination>+43 57 47</declination>
 	<star>
 		<name>Kepler-476</name>
-		<temperature errorminus="100.0" errorplus="101.1">5837.0</temperature>
+		<temperature errorminus="101.08" errorplus="-99.97">5837.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">1.03</mass>
-		<radius errorminus="0.10" errorplus="0.16">1.09</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">0.04</metallicity>
+		<radius errorminus="0.10" errorplus="-0.1">1.09</radius>
+		<metallicity errorminus="0.10" errorplus="-0.099">0.04</metallicity>
 		<planet>
 			<name>Kepler-476 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000017940" errorplus="0.000017940">14.006406070</period>
 			<radius errorminus="0.027" errorplus="0.045">0.275</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.800" errorplus="-2.800">5.37</age><magV errorminus="" errorplus="">13.837</magV></star>
+<distance errorminus="-67.42" errorplus="-67.42">687.0</distance></system>
