@@ -2,7 +2,7 @@
 	<name>HD 231701</name>
 	<rightascension>19 32 04</rightascension>
 	<declination>+16 28 27</declination>
-	<distance>108.4</distance>
+	<distance>108.46</distance>
 	<star>
 		<mass>1.14</mass>
 		<radius>1.35</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>0.53</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>436.6</temperature>
-		</planet>
+		<periastron errorminus="-24.0000" errorplus="-24.0000">46.0</periastron><periastrontime errorminus="-4.200000" errorplus="-4.200000">2453180.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 231701</name>
 		<temperature>6208.0</temperature>
 	</star>

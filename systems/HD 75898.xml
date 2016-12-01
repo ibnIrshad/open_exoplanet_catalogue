@@ -22,10 +22,10 @@
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>307.6</temperature>
-		</planet>
+		<periastron errorminus="-30.0000" errorplus="-30.0000">263.7</periastron><periastrontime errorminus="-37.000000" errorplus="-37.000000">2452907.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 75898</name>
 		<temperature>6021.0</temperature>
 	</star>

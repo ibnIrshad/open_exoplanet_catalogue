@@ -23,10 +23,10 @@
 			<eccentricity>0.11</eccentricity>
 			<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>297.4</temperature>
-		</planet>
+			<temperature>298.0</temperature>
+		<periastron errorminus="-0.5800" errorplus="-0.5800">178.0</periastron><inclination errorminus="" errorplus="">90.0</inclination><periastrontime errorminus="" errorplus="">2455239.708887</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 85512</name>
 		<temperature>4715.0</temperature>
 	</star>

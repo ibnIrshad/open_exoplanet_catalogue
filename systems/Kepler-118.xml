@@ -21,31 +21,31 @@
 			<name>KOI-216.01</name>
 			<name>KIC 6152974 c</name>
 			<name>KIC 6152974.01</name>
-			<radius errorminus="0.03919" errorplus="0.31258">0.69988</radius>
-			<period errorminus=".000013" errorplus="0.000013">20.172020</period>
+			<radius errorminus="0.03919" errorplus="0.31258">0.685</radius>
+			<period errorminus=".000013" errorplus="0.000013">20.17202</period>
 			<transittime errorminus="0.0004100" errorplus="0.0004100">2454974.2084000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-118 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-118 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.141</semimajoraxis><impactparameter errorminus="-0.1500" errorplus="-0.1500">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-118 b</name>
 			<name>KOI-216 b</name>
 			<name>KOI-216.02</name>
 			<name>KIC 6152974 b</name>
 			<name>KIC 6152974.02</name>
-			<radius errorminus="0.08566" errorplus="0.08566">0.17862</radius>
+			<radius errorminus="0.08566" errorplus="0.08566">0.175</radius>
 			<period errorminus=".000056" errorplus="0.000056">7.518496</period>
 			<transittime errorminus="0.0045900" errorplus="0.0045900">2454965.5366600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-118 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-118 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.073</semimajoraxis><impactparameter errorminus="-0.3500" errorplus="-0.3500">0.72</impactparameter></planet>
 	</star>
 </system>
