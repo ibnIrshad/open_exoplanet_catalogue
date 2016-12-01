@@ -2,7 +2,7 @@
 	<name>HD 180902</name>
 	<rightascension>19 19 18</rightascension>
 	<declination>-23 33 29</declination>
-	<distance>110</distance>
+	<distance>114.55</distance>
 	<star>
 		<mass>1.52</mass>
 		<radius>4.1</radius>
@@ -18,14 +18,14 @@
 			<name>HD 180902 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.6</mass>
-			<period>479</period>
+			<period>479.0</period>
 			<semimajoraxis>1.39</semimajoraxis>
 			<eccentricity>0.09</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>380.7</temperature>
-		</planet>
+		<periastron errorminus="-100.0000" errorplus="-100.0000">300.0</periastron><periastrontime errorminus="-130.000000" errorplus="-130.000000">2454690.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 180902</name>
 		<temperature>5030.0</temperature>
 	</star>

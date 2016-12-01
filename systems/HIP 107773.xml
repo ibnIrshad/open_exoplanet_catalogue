@@ -34,9 +34,9 @@
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.72</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>04/2015-06-0/2015-06-0</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-		</planet>
+		<periastron errorminus="-32.6000" errorplus="-32.6000">166.0</periastron><istransiting>0</istransiting></planet>
 	</star>
 </system>
