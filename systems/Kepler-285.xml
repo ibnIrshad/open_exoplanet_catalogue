@@ -21,16 +21,16 @@
 			<name>KOI-1305.01</name>
 			<name>KIC 10730034 b</name>
 			<name>KIC 10730034.01</name>
-			<radius errorminus="0.05286" errorplus="0.05286">0.12211</radius>
+			<radius errorminus="0.05286" errorplus="-0.052">0.12211</radius>
 			<period errorminus=".000012" errorplus="0.000012">2.633867</period>
 			<transittime errorminus="0.0025100" errorplus="0.0025100">2454967.5628100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-285 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-285 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.036</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.09</impactparameter></planet>
 		<planet>
 			<name>Kepler-285 c</name>
 			<name>KOI-1305 c</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-285 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-285 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.08</impactparameter></planet>
 	</star>
 </system>

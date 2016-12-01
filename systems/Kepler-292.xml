@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-292 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.141</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.46</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 d</name>
 			<name>KOI-1364 d</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-292 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.35</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 e</name>
 			<name>KOI-1364 e</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-292 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.097</semimajoraxis><impactparameter errorminus="-0.3200" errorplus="-0.3200">0.91</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 c</name>
 			<name>KOI-1364 c</name>
@@ -75,10 +75,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-292 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.38</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 b</name>
 			<name>KOI-1364 b</name>
@@ -91,9 +91,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-292 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.035</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.09</impactparameter></planet>
 	</star>
 </system>
