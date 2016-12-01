@@ -4,21 +4,21 @@
 	<declination>+45 30 25</declination>
 	<star>
 		<name>Kepler-523</name>
-		<temperature errorminus="48.7" errorplus="51.7">5515.0</temperature>
+		<temperature errorminus="51.74" errorplus="-48.73">5515.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.93</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.86</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.03</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.109">-0.03</metallicity>
 		<planet>
 			<name>Kepler-523 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004660" errorplus="0.000004660">5.835983110</period>
 			<radius errorminus="0.005" errorplus="0.007">0.175</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.020" errorplus="-1.020">2.45</age><magV errorminus="" errorplus="">12.465</magV></star>
+<distance errorminus="-9.20" errorplus="-9.20">270.0</distance></system>

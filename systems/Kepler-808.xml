@@ -4,21 +4,21 @@
 	<declination>+48 26 44</declination>
 	<star>
 		<name>Kepler-808</name>
-		<temperature errorminus="57.3" errorplus="51.4">4653.0</temperature>
+		<temperature errorminus="51.38" errorplus="-57.3">4653.0</temperature>
 		<mass errorminus="0.05" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.71</radius>
-		<metallicity errorminus="0.21" errorplus="0.15">0.05</metallicity>
+		<metallicity errorminus="0.21" errorplus="-0.207">0.05</metallicity>
 		<planet>
 			<name>Kepler-808 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000350" errorplus="0.000000350">0.631332350</period>
 			<radius errorminus="0.007" errorplus="0.005">0.130</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.630" errorplus="-0.630">1.95</age><magV errorminus="" errorplus="">14.285</magV></star>
+<distance errorminus="-16.85" errorplus="-16.85">321.0</distance></system>
