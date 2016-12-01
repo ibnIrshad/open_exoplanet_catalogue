@@ -2,7 +2,7 @@
 	<name>XO-3</name>
 	<rightascension>04 21 53</rightascension>
 	<declination>+57 49 01</declination>
-	<distance>260</distance>
+	<distance>174.0</distance>
 	<star>
 		<mass>1.213</mass>
 		<radius>1.377</radius>
@@ -25,11 +25,11 @@
 			<inclination>84.2</inclination>
 			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2454864.76684</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1554.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-7.3000" errorplus="-7.3000">345.8</periastron></planet>
 		<name>XO-3</name>
 		<temperature>6429.0</temperature>
 	</star>
