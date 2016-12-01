@@ -2,7 +2,7 @@
 	<name>HD 3651</name>
 	<rightascension>00 39 21</rightascension>
 	<declination>+21 15 01</declination>
-	<distance>11</distance>
+	<distance>11.1</distance>
 	<star>
 		<mass>0.79</mass>
 		<radius>0.947</radius>
@@ -18,16 +18,16 @@
 		<planet>
 			<name>HD 3651 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.2</mass>
-			<period>62.23</period>
-			<semimajoraxis>0.284</semimajoraxis>
-			<eccentricity>0.63</eccentricity>
+			<mass>0.229</mass>
+			<period>62.218</period>
+			<semimajoraxis>0.295</semimajoraxis>
+			<eccentricity>0.596</eccentricity>
 			<inclination>83</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>405.0</temperature>
-		</planet>
+		<periastron errorminus="-4.5000" errorplus="-4.5000">242.5</periastron><periastrontime errorminus="-0.600000" errorplus="-0.600000">2453932.6</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 3651.02</name>
 			<list>Controversial</list>

@@ -20,10 +20,10 @@
 			<semimajoraxis>0.33</semimajoraxis>
 			<eccentricity>0.03</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>502.8</temperature>
-		</planet>
+		<periastron errorminus="-12.0000" errorplus="-12.0000">265.0</periastron><periastrontime errorminus="-2.000000" errorplus="-2.000000">2451450.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 121504</name>
 		<temperature>6075.0</temperature>
 	</star>
