@@ -4,21 +4,21 @@
 	<declination>+41 33 29</declination>
 	<star>
 		<name>Kepler-1057</name>
-		<temperature errorminus="297.0" errorplus="293.8">5987.0</temperature>
-		<mass errorminus="0.11" errorplus="0.15">1.07</mass>
-		<radius errorminus="0.17" errorplus="0.36">1.10</radius>
-		<metallicity errorminus="0.18" errorplus="0.13">0.01</metallicity>
+		<temperature errorminus="293.78" errorplus="-296.99">5987.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.07</mass>
+		<radius errorminus="0.36" errorplus="-0.17">1.10</radius>
+		<metallicity errorminus="0.18" errorplus="-0.181">0.01</metallicity>
 		<planet>
 			<name>Kepler-1057 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000040450" errorplus="0.000040450">14.088274480</period>
-			<radius errorminus="0.046" errorplus="0.098">0.300</radius>
+			<radius errorminus="0.046" errorplus="-0.046">0.300</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.410" errorplus="-1.410">3.09</age><magV errorminus="" errorplus="">15.624</magV></star>
+<distance errorminus="-242.38" errorplus="-242.38">1462.0</distance></system>

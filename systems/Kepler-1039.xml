@@ -4,21 +4,21 @@
 	<declination>+45 18 56</declination>
 	<star>
 		<name>Kepler-1039</name>
-		<temperature errorminus="173.3" errorplus="194.2">4870.0</temperature>
+		<temperature errorminus="194.18" errorplus="-173.27">4870.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.164">0.01</metallicity>
 		<planet>
 			<name>Kepler-1039 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000870" errorplus="0.000000870">0.934884240</period>
 			<radius errorminus="0.020" errorplus="0.008">0.130</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.570" errorplus="-2.570">4.37</age><magV errorminus="" errorplus="">14.145</magV></star>
+<distance errorminus="-20.70" errorplus="-20.70">324.0</distance></system>
