@@ -7,16 +7,16 @@
 	<distance>385.13</distance>
 	<star>
 		<magB errorminus="0.23" errorplus="0.23">12.69</magB>
-		<magV errorminus="0.19" errorplus="0.19">12.20</magV>
+		<magV errorminus="0.19" errorplus="0.19">11.992</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.050</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.830</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.792</magK>
 		<name>Kepler-144</name>
 		<name>KOI-369</name>
 		<name>KIC 7175184</name>
-		<temperature errorminus="31" errorplus="131">6075</temperature>
-		<radius errorminus=".237" errorplus="0.237">1.235</radius>
-		<mass errorminus="0.0190" errorplus="0.0190">1.1540</mass>
+		<temperature errorminus="131.0" errorplus="-131.0">6075</temperature>
+		<radius errorminus=".237" errorplus="-0.24">1.235</radius>
+		<mass errorminus="0.0190" errorplus="0.0190">1.03</mass>
 		<planet>
 			<name>Kepler-144 b</name>
 			<name>KOI-369 b</name>
@@ -29,10 +29,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-144 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-144 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.34</impactparameter></planet>
 		<planet>
 			<name>Kepler-144 c</name>
 			<name>KOI-369 c</name>
@@ -45,9 +45,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-144 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-144 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.094</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.25</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.326</metallicity></star>
 </system>

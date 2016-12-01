@@ -12,8 +12,8 @@
 		<name>Kepler-140</name>
 		<name>KOI-327</name>
 		<name>KIC 9881662</name>
-		<temperature errorminus="36" errorplus="136">6077</temperature>
-		<radius errorminus=".244" errorplus="0.244">1.288</radius>
+		<temperature errorminus="136.0" errorplus="-136.0">6077</temperature>
+		<radius errorminus=".244" errorplus="-0.24">1.288</radius>
 		<mass errorminus="0.0390" errorplus="0.0390">1.2070</mass>
 		<planet>
 			<name>Kepler-140 b</name>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-140 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-140 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-140 c</name>
 			<name>KOI-327 c</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-140 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-140 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.414</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.13</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.094</metallicity><magV errorminus="" errorplus="">12.996</magV></star>
 </system>

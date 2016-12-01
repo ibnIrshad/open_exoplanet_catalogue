@@ -12,8 +12,8 @@
 		<name>Kepler-150</name>
 		<name>KOI-408</name>
 		<name>KIC 5351250</name>
-		<temperature errorminus="100" errorplus="100">5560</temperature>
-		<radius errorminus=".136" errorplus="0.136">0.939</radius>
+		<temperature errorminus="100" errorplus="-100.0">5560</temperature>
+		<radius errorminus=".136" errorplus="-0.14">0.939</radius>
 		<mass errorminus="0.0760" errorplus="0.0760">0.9700</mass>
 		<planet>
 			<name>Kepler-150 c</name>
@@ -21,16 +21,16 @@
 			<name>KOI-408.01</name>
 			<name>KIC 5351250 c</name>
 			<name>KIC 5351250.01</name>
-			<radius errorminus="0.05377" errorplus="0.05377">0.33627</radius>
+			<radius errorminus="0.05377" errorplus="-0.053">0.33627</radius>
 			<period errorminus=".000010" errorplus="0.000010">7.381998</period>
 			<transittime errorminus="0.0007000" errorplus="0.0007000">2455006.0712300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-150 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.073</semimajoraxis><impactparameter errorminus="-0.3000" errorplus="-0.3000">0.53</impactparameter></planet>
 		<planet>
 			<name>Kepler-150 d</name>
 			<name>KOI-408 d</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-150 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.104</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.12</impactparameter></planet>
 		<planet>
 			<name>Kepler-150 e</name>
 			<name>KOI-408 e</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-150 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.189</semimajoraxis><impactparameter errorminus="-0.3300" errorplus="-0.3300">0.93</impactparameter></planet>
 		<planet>
 			<name>Kepler-150 b</name>
 			<name>KOI-408 b</name>
@@ -75,9 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-150 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.044</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.08</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.136</metallicity><magV errorminus="" errorplus="">14.985</magV></star>
 </system>
