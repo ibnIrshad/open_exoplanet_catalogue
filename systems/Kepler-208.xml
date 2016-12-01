@@ -12,8 +12,8 @@
 		<name>Kepler-208</name>
 		<name>KOI-671</name>
 		<name>KIC 7040629</name>
-		<temperature errorminus="100" errorplus="100">6092</temperature>
-		<radius errorminus=".243" errorplus="0.243">1.314</radius>
+		<temperature errorminus="100" errorplus="-100.0">6092</temperature>
+		<radius errorminus=".243" errorplus="-0.24">1.314</radius>
 		<mass>0.9630</mass>
 		<planet>
 			<name>Kepler-208 b</name>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-208 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-208 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.16</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 c</name>
 			<name>KOI-671 c</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-208 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-208 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.27</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 e</name>
 			<name>KOI-671 e</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-208 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-208 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.132</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.21</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 d</name>
 			<name>KOI-671 d</name>
@@ -75,9 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-208 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-208 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.103</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.11</impactparameter></planet>
+	<magV errorminus="" errorplus="">13.749</magV></star>
 </system>

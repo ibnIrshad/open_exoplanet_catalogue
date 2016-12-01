@@ -12,11 +12,11 @@
 		<magJ errorminus="0.022" errorplus="0.022">10.293</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.680</magH>
 		<magK errorminus="0.011" errorplus="0.011">9.506</magK>
-		<temperature errorminus="49" errorplus="49">3841</temperature>
+		<temperature errorminus="49" errorplus="-49.0">3841</temperature>
 		<radius errorminus="0.024" errorplus="0.024">0.442</radius>
-		<spectraltype>M1V</spectraltype>
-		<mass errorminus="0.055" errorplus="0.055">0.521</mass>
-		<metallicity errorminus="0.099" errorplus="0.099">-0.280</metallicity>
+		<spectraltype>M1 V</spectraltype>
+		<mass errorminus="0.055" errorplus="-0.06">0.521</mass>
+		<metallicity errorminus="0.099" errorplus="-0.099">-0.280</metallicity>
 		<planet>
 			<name>KOI-314 b</name>
 			<name>Kepler-138 c</name>
@@ -32,7 +32,7 @@
 			<temperature>446.0</temperature>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>17/2015-06-1/2015-06-1</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<istransiting>1</istransiting>
@@ -51,7 +51,7 @@
 			<temperature>376.0</temperature>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>17/2015-06-1/2015-06-1</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<istransiting>1</istransiting>
@@ -69,9 +69,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-138 b has been discovered by the Kepler spacecraft and was first announced in 2014. In June 2015, a team of astronomers has measured the mass and size of Kepler-138 b to find that it is in fact the smallest exoplanet yet. Kepler-138 b is a Mars-sized object orbiting a red dwarf star about 200 light years from our solar system. Current measurements are consistent with a variety of compositions, and favor compositions that are mostly rock. All three planets orbiting Kepler-138 are close to their star and are most likely are too hot to be habitable.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>17/2015-06-1/2015-06-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
+	<magV errorminus="" errorplus="">12.925</magV></star>
 </system>

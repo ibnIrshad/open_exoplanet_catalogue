@@ -14,8 +14,8 @@
 		<magJ errorminus="0.021" errorplus="0.021">10.804</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.573</magH>
 		<magK errorminus="0.012" errorplus="0.012">10.519</magK>
-		<temperature errorminus="100" errorplus="100">6165</temperature>
-		<radius errorminus=".248" errorplus="0.248">1.355</radius>
+		<temperature errorminus="100" errorplus="-100.0">6165</temperature>
+		<radius errorminus=".248" errorplus="-0.25">1.355</radius>
 		<mass errorminus="0.0430" errorplus="0.0430">1.2040</mass>
 		<planet>
 			<name>Kepler-136 b</name>
@@ -29,10 +29,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-136 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-136 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.106</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.39</impactparameter></planet>
 		<planet>
 			<name>Kepler-136 c</name>
 			<name>KOI-312 c</name>
@@ -45,9 +45,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-136 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-136 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.133</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.1</impactparameter></planet>
 	</star>
 </system>

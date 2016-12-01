@@ -7,14 +7,14 @@
 	<distance>338.98</distance>
 	<star>
 		<magB errorminus="0.14" errorplus="0.14">12.07</magB>
-		<magV errorminus="0.16" errorplus="0.16">11.75</magV>
+		<magV errorminus="0.16" errorplus="0.16">11.485</magV>
 		<magJ errorminus="0.024" errorplus="0.024">10.536</magJ>
 		<magH errorminus="0.018" errorplus="0.018">10.300</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.234</magK>
 		<name>Kepler-127</name>
 		<name>KOI-271</name>
 		<name>KIC 9451706</name>
-		<temperature errorminus="106" errorplus="106">6106</temperature>
+		<temperature errorminus="106" errorplus="-106.0">6106</temperature>
 		<radius errorminus="0.035" errorplus="0.035">1.359</radius>
 		<mass errorminus="0.0400" errorplus="0.0400">1.2690</mass>
 		<planet>
@@ -32,10 +32,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-127 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.3000" errorplus="-0.3000">0.62</impactparameter></planet>
 		<planet>
 			<name>Kepler-127 c</name>
 			<name>KOI-271 c</name>
@@ -51,10 +51,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-127 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.3000" errorplus="-0.3000">0.77</impactparameter></planet>
 		<planet>
 			<name>Kepler-127 b</name>
 			<name>KOI-271 b</name>
@@ -69,9 +69,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-127 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="-0.2500" errorplus="-0.2500">0.49</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.154</metallicity></star>
 </system>

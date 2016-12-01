@@ -7,15 +7,15 @@
 	<distance>331.08</distance>
 	<star>
 		<magB errorminus="0.23" errorplus="0.23">12.49</magB>
-		<magV errorminus="0.19" errorplus="0.19">11.92</magV>
+		<magV errorminus="0.19" errorplus="0.19">11.818</magV>
 		<magJ errorminus="0.023" errorplus="0.023">10.797</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.516</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.424</magK>
 		<name>Kepler-132</name>
 		<name>KOI-284</name>
 		<name>KIC 6021275</name>
-		<temperature errorminus="46" errorplus="146">6003</temperature>
-		<radius errorminus=".229" errorplus="0.229">1.178</radius>
+		<temperature errorminus="146.0" errorplus="-146.0">6003</temperature>
+		<radius errorminus=".229" errorplus="-0.23">1.178</radius>
 		<planet>
 			<name>Kepler-132 d</name>
 			<name>KOI-284 d</name>
@@ -28,10 +28,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-132 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.136</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.01</impactparameter></planet>
 		<planet>
 			<name>Kepler-132 c</name>
 			<name>KOI-284 c</name>
@@ -44,10 +44,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-132 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.08</impactparameter></planet>
 		<planet>
 			<name>Kepler-132 b</name>
 			<name>KOI-284 b</name>
@@ -60,21 +60,21 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-132 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-132 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.067</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.26</impactparameter></planet>
 		<planet>
 			<name>Kepler-132 e</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000878000" errorplus="0.000878000">110.286937400</period>
 			<radius errorminus="0.011" errorplus="0.014">0.105</radius>
 		</planet>
-	</star>
+	<metallicity errorminus="" errorplus="">-0.053</metallicity></star>
 </system>
