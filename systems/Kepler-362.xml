@@ -12,24 +12,24 @@
 		<name>Kepler-362</name>
 		<name>KOI-2147</name>
 		<name>KIC 10404582</name>
-		<temperature errorminus="200" errorplus="200">5788</temperature>
-		<radius errorminus=".304" errorplus="0.304">0.722</radius>
+		<temperature errorminus="200" errorplus="-200.0">5788</temperature>
+		<radius errorminus=".304" errorplus="-0.3">0.722</radius>
 		<planet>
 			<name>Kepler-362 c</name>
 			<name>KOI-2147 c</name>
 			<name>KOI-2147.01</name>
 			<name>KIC 10404582 c</name>
 			<name>KIC 10404582.01</name>
-			<radius errorminus="0.05559" errorplus="0.05559">0.13214</radius>
+			<radius errorminus="0.05559" errorplus="-0.054">0.13214</radius>
 			<period errorminus=".000298" errorplus="0.000298">37.866281</period>
 			<transittime errorminus="0.0045200" errorplus="0.0045200">2454967.3578300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-362 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-362 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.207</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.32</impactparameter></planet>
 		<planet>
 			<name>Kepler-362 b</name>
 			<name>KOI-2147 b</name>
@@ -42,9 +42,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-362 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-362 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.42</impactparameter></planet>
+	<mass errorminus="" errorplus="">0.77</mass><metallicity errorminus="" errorplus="">-0.718</metallicity><magV errorminus="" errorplus="">14.5</magV></star>
 </system>

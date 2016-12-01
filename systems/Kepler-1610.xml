@@ -4,21 +4,21 @@
 	<declination>+45 24 20</declination>
 	<star>
 		<name>Kepler-1610</name>
-		<temperature errorminus="82.7" errorplus="61.7">5383.0</temperature>
+		<temperature errorminus="61.72" errorplus="-82.73">5383.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
-		<radius errorminus="0.04" errorplus="0.09">0.87</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.10</metallicity>
+		<radius errorminus="0.04" errorplus="-0.04">0.87</radius>
+		<metallicity errorminus="0.14" errorplus="-0.145">0.10</metallicity>
 		<planet>
 			<name>Kepler-1610 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000083150" errorplus="0.000083150">8.701815740</period>
 			<radius errorminus="0.012" errorplus="0.017">0.144</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.010" errorplus="-3.010">4.68</age><magV errorminus="" errorplus="">15.85</magV></star>
+<distance errorminus="-60.30" errorplus="-60.30">1063.0</distance></system>
