@@ -29,13 +29,13 @@
 			<mass type="msini">1.0</mass>
 			<period errorminus="32.7" errorplus="32.7">2093.3</period>
 			<semimajoraxis>3.2</semimajoraxis>
-			<eccentricity errorminus="0.09" errorplus="0.09">0.40</eccentricity>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.4</eccentricity>
 			<periastron errorminus="12.3" errorplus="12.3">207.0</periastron>
 			<periastrontime errorminus="57.7" errorplus="57.7">2453461.4</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>18/2015-09-1/2015-09-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
-</system>
+<distance errorminus="" errorplus="">169.78</distance></system>

@@ -31,8 +31,8 @@
 			<periastrontime errorminus="28.3" errorplus="28.3">2454292.5</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The star HD 240237 is a K2 giant.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-		</planet>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		<istransiting>0</istransiting></planet>
 	</star>
-</system>
+<distance errorminus="" errorplus="">307.69</distance></system>

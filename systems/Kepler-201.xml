@@ -21,31 +21,31 @@
 			<name>KOI-655.01</name>
 			<name>KIC 5966154 b</name>
 			<name>KIC 5966154.01</name>
-			<radius errorminus="0.04374" errorplus="0.04374">0.22418</radius>
+			<radius errorminus="0.04374" errorplus="0.04374">0.219</radius>
 			<period errorminus=".000075" errorplus="0.000075">25.672083</period>
 			<transittime errorminus="0.0016900" errorplus="0.0016900">2455025.0970500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-201 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-201 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.175</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.38</impactparameter></planet>
 		<planet>
 			<name>Kepler-201 c</name>
 			<name>KOI-655 c</name>
 			<name>KOI-655.02</name>
 			<name>KIC 5966154 c</name>
 			<name>KIC 5966154.02</name>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
+			<radius errorminus="0.05468" errorplus="0.05468">0.254</radius>
 			<period errorminus=".002014" errorplus="0.002014">151.884058</period>
 			<transittime errorminus="0.0079400" errorplus="0.0079400">2455009.4181600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-201 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-201 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.573</semimajoraxis><impactparameter errorminus="-0.3200" errorplus="-0.3200">0.92</impactparameter></planet>
 	</star>
 </system>
