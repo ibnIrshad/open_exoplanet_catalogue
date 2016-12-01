@@ -17,14 +17,14 @@
 			<name>HD 148156 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.85</mass>
-			<period>1010</period>
+			<period>1027.0</period>
 			<semimajoraxis>2.45</semimajoraxis>
 			<eccentricity>0.52</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/09</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>191.9</temperature>
-		</planet>
+		<periastron errorminus="-12.0000" errorplus="-12.0000">35.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2454707.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 148156</name>
 		<temperature>6308.0</temperature>
 	</star>

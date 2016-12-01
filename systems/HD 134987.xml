@@ -22,22 +22,22 @@
 			<semimajoraxis>0.81</semimajoraxis>
 			<eccentricity>0.233</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>313.3</temperature>
-		</planet>
+		<periastron errorminus="-0.5000" errorplus="-0.5000">352.7</periastron><periastrontime errorminus="-0.800000" errorplus="-0.800000">2450071.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 134987 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.82</mass>
-			<period>5000</period>
+			<period>5000.0</period>
 			<semimajoraxis>5.8</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>117.4</temperature>
-		</planet>
+		<periastron errorminus="-48.0000" errorplus="-48.0000">195.0</periastron><periastrontime errorminus="-600.000000" errorplus="-600.000000">2461100.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 134987</name>
 		<temperature>5740.0</temperature>
 	</star>

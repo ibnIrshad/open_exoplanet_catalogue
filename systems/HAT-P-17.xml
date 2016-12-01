@@ -2,7 +2,7 @@
 	<name>HAT-P-17</name>
 	<rightascension>21 38 09</rightascension>
 	<declination>+30 29 19</declination>
-	<distance>90</distance>
+	<distance>90.0</distance>
 	<star>
 		<mass>0.857</mass>
 		<radius>0.837</radius>
@@ -22,31 +22,31 @@
 			<radius>1.01</radius>
 			<period>10.338523</period>
 			<semimajoraxis>0.0882</semimajoraxis>
-			<eccentricity>0.346</eccentricity>
+			<eccentricity>0.342</eccentricity>
 			<inclination>89.2</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/03</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>707.1</temperature>
+			<temperature>792.0</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-1.0000" errorplus="-1.0000">201.0</periastron><impactparameter errorminus="-0.0670" errorplus="-0.0670">0.311</impactparameter><periastrontime errorminus="-0.050000" errorplus="-0.050000">2454803.25</periastrontime></planet>
 		<planet>
 			<name>HAT-P-17 c</name>
 			<name>TYC 2717-00417-1 c</name>
 			<name>2MASS J21380873+3029193 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.4</mass>
-			<period>1798</period>
-			<semimajoraxis>2.75</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass>3.4</mass>
+			<period>5584.0</period>
+			<semimajoraxis>5.6</semimajoraxis>
+			<eccentricity>0.39</eccentricity>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/10</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>127.5</temperature>
-			<istransiting>1</istransiting>
-		</planet>
+			<istransiting>0</istransiting>
+		<periastron errorminus="-6.7000" errorplus="-6.7000">181.5</periastron><periastrontime errorminus="-57.000000" errorplus="-57.000000">2454885.0</periastrontime></planet>
 		<name>HAT-P-17</name>
 		<temperature>5246.0</temperature>
 	</star>
