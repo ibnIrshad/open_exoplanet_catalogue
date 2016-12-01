@@ -2,7 +2,7 @@
 	<name>WASP-65</name>
 	<rightascension>08 53 28</rightascension>
 	<declination>+08 31 23</declination>
-	<distance errorminus="50" errorplus="50">310</distance>
+	<distance errorminus="50" errorplus="-50.0">310</distance>
 	<star>
 		<name>WASP-65</name>
 		<name>1SWASP J085317.82+083122.8</name>
@@ -20,19 +20,19 @@
 			<name>WASP-65 b</name>
 			<name>1SWASP J085317.82+083122.8 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.16" errorplus="0.16">1.55</mass>
-			<radius errorminus="0.059" errorplus="0.059">1.112</radius>
+			<mass errorminus="0.16" errorplus="-0.16">1.55</mass>
+			<radius errorminus="0.059" errorplus="-0.059">1.112</radius>
 			<semimajoraxis errorminus="0.0017" errorplus="0.0016">0.0334</semimajoraxis>
-			<temperature errorminus="10" errorplus="10">1480</temperature>
+			<temperature errorminus="10" errorplus="-10.0">1480</temperature>
 			<period errorminus="0.0000015" errorplus="0.0000015">2.3114243</period>
 			<transittime errorminus="0.000015" errorplus="0.000015">2456110.68772</transittime>
-			<inclination errorminus="0.7" errorplus="0.8">88.8</inclination>
+			<inclination errorminus="0.8" errorplus="-0.7">88.8</inclination>
 			<eccentricity>0</eccentricity>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/07/25</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0950" errorplus="-0.0950">0.149</impactparameter></planet>
 	</star>
 </system>
