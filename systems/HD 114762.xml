@@ -2,7 +2,7 @@
 	<name>HD 114762</name>
 	<rightascension>13 12 19</rightascension>
 	<declination>+17 31 01</declination>
-	<distance>39.46</distance>
+	<distance>40.57</distance>
 	<binary>
 		<separation unit="arcsec">3.26</separation>
 		<separation unit="AU">129</separation>
@@ -30,10 +30,10 @@
 				<semimajoraxis>0.353</semimajoraxis>
 				<eccentricity>0.3354</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1992</discoveryyear>
+				<lastupdate>17/2014-12-1/2014-12-1</lastupdate>
+				<discoveryyear>1989</discoveryyear>
 				<temperature>486.8</temperature>
-			</planet>
+			<periastron errorminus="-1.0100" errorplus="-1.0100">201.28</periastron><periastrontime errorminus="-0.186000" errorplus="-0.186000">2449889.106</periastrontime><radius errorminus="" errorplus="">1.11</radius><istransiting>0</istransiting></planet>
 			<name>HD 114762</name>
 			<temperature>5934.0</temperature>
 		</star>

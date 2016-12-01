@@ -3,7 +3,7 @@
 	<name>HR 5184</name>
 	<rightascension>13 42 39</rightascension>
 	<declination>+78 03 51</declination>
-	<distance>98</distance>
+	<distance>97.66</distance>
 	<star>
 		<magB>6.901</magB>
 		<magV>5.910</magV>
@@ -22,14 +22,14 @@
 			<name>HR 5184 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.5</mass>
-			<period>2082</period>
+			<period>2082.0</period>
 			<semimajoraxis>4.3</semimajoraxis>
 			<eccentricity>0.66</eccentricity>
-			<periastron>117</periastron>
+			<periastron>117.0</periastron>
 			<description>The planet HD 120084 b is on an eccentric orbit around a G7 star. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/04/17</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
+		<periastrontime errorminus="-61.000000" errorplus="-61.000000">2450774.0</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>

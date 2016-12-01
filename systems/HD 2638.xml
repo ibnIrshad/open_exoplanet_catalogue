@@ -47,11 +47,11 @@
 					<semimajoraxis>0.044</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>10/12/24</lastupdate>
+					<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 					<discoveryyear>2005</discoveryyear>
 					<temperature>978.2</temperature>
 					<list>Planets in binary systems, S-type</list>
-				</planet>
+				<periastron errorminus="" errorplus="">0.0</periastron><periastrontime errorminus="-0.002000" errorplus="-0.002000">2453323.206</periastrontime><istransiting>0</istransiting></planet>
 			</star>
 			<star>
 				<name>HD 2638 C</name>
