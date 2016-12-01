@@ -2,7 +2,7 @@
 	<name>HD 208527</name>
 	<rightascension>21 56 24</rightascension>
 	<declination>+21 14 23</declination>
-	<distance>320.2</distance>
+	<distance>352.11</distance>
 	<star>
 		<mass>1.6</mass>
 		<radius>51.1</radius>
@@ -23,10 +23,10 @@
 			<eccentricity>0.08</eccentricity>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/11</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>877.3</temperature>
-		</planet>
+		<periastron errorminus="-19.5000" errorplus="-19.5000">278.0</periastron><periastrontime errorminus="-45.700000" errorplus="-45.700000">2450745.3</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 208527</name>
 	</star>
 </system>
