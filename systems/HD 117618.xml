@@ -2,7 +2,7 @@
 	<name>HD 117618</name>
 	<rightascension>13 32 25</rightascension>
 	<declination>-47 16 16</declination>
-	<distance>38</distance>
+	<distance>38.02</distance>
 	<star>
 		<mass>1.05</mass>
 		<radius>1.19</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>0.176</semimajoraxis>
 			<eccentricity>0.42</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>664.2</temperature>
-		</planet>
+		<periastron errorminus="-19.0000" errorplus="-19.0000">254.0</periastron><periastrontime errorminus="-1.800000" errorplus="-1.800000">2450832.2</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 117618.02</name>
 			<list>Controversial</list>

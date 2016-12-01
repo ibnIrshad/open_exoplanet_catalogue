@@ -2,7 +2,7 @@
 	<name>HD 156279</name>
 	<rightascension>17 12 23</rightascension>
 	<declination>+63 21 08</declination>
-	<distance>36.6</distance>
+	<distance>35.37</distance>
 	<star>
 		<mass>0.93</mass>
 		<magV>8.08</magV>
@@ -22,10 +22,10 @@
 			<semimajoraxis>0.495</semimajoraxis>
 			<eccentricity>0.708</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>327.8</temperature>
-		</planet>
+		<periastron errorminus="-1.7000" errorplus="-1.7000">264.2</periastron><periastrontime errorminus="-0.180000" errorplus="-0.180000">2455525.59</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 156279</name>
 		<temperature>5453.0</temperature>
 	</star>

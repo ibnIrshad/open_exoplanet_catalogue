@@ -17,16 +17,16 @@
 		<planet>
 			<name>HD 154345 b</name>
 			<list>Confirmed planets</list>
-			<mass>1</mass>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
+			<mass>0.947</mass>
+			<period>3342.0</period>
+			<semimajoraxis>4.19</semimajoraxis>
+			<eccentricity>0.044</eccentricity>
 			<inclination>50</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>106.4</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">68.0</periastron><periastrontime errorminus="-330.000000" errorplus="-330.000000">2452830.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 154345</name>
 		<temperature>5468.0</temperature>
 	</star>
