@@ -2,7 +2,7 @@
 	<name>HAT-P-27</name>
 	<rightascension>14 51 04</rightascension>
 	<declination>+05 56 50</declination>
-	<distance>204</distance>
+	<distance>204.0</distance>
 	<star>
 		<mass>0.92</mass>
 		<radius>0.87</radius>
@@ -24,17 +24,17 @@
 			<mass>0.62</mass>
 			<radius>1.02</radius>
 			<period>3.039577</period>
-			<semimajoraxis>0.0400</semimajoraxis>
+			<semimajoraxis>0.04</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<spinorbitalignment>24.2</spinorbitalignment>
 			<inclination>85.0</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1102.7</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="" errorplus="">0.0</periastron><impactparameter errorminus="-0.0100" errorplus="-0.0100">0.87</impactparameter></planet>
 		<name>HAT-P-27</name>
 		<temperature>5300.0</temperature>
 	</star>

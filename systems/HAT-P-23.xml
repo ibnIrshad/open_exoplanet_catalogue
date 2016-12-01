@@ -2,7 +2,7 @@
 	<name>HAT-P-23</name>
 	<rightascension>20 24 30</rightascension>
 	<declination>+16 45 44</declination>
-	<distance>393</distance>
+	<distance>393.0</distance>
 	<star>
 		<mass>1.13</mass>
 		<radius>1.203</radius>
@@ -19,16 +19,16 @@
 			<name>TYC 1632-01396-1 b</name>
 			<name>2MASS J20242972+1645437 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.09</mass>
-			<radius>1.368</radius>
-			<period>1.212884</period>
-			<semimajoraxis>0.0232</semimajoraxis>
-			<eccentricity>0.106</eccentricity>
-			<inclination>85.1</inclination>
+			<mass>2.07</mass>
+			<radius>1.224</radius>
+			<period>1.21288287</period>
+			<semimajoraxis>0.02302</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>85.74</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1873.6</temperature>
+			<temperature>1951.0</temperature>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2454852.26464</transittime>
 			<istransiting>1</istransiting>
 		</planet>

@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 168746 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.23</mass>
-			<period>6.403</period>
-			<semimajoraxis>0.065</semimajoraxis>
-			<eccentricity>0.081</eccentricity>
+			<mass>0.248</mass>
+			<period>6.404</period>
+			<semimajoraxis>0.0659</semimajoraxis>
+			<eccentricity>0.107</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1026.4</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">17.0</periastron><periastrontime errorminus="-0.470000" errorplus="-0.470000">2451757.83</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 168746</name>
 		<temperature>5610.0</temperature>
 	</star>
