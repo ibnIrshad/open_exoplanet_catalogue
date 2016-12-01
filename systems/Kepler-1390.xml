@@ -4,10 +4,10 @@
 	<declination>+48 14 56</declination>
 	<star>
 		<name>Kepler-1390</name>
-		<temperature errorminus="169.2" errorplus="141.6">5753.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">0.98</mass>
-		<radius errorminus="0.10" errorplus="0.20">0.98</radius>
-		<metallicity errorminus="0.19" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="141.59" errorplus="-169.25">5753.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">0.98</mass>
+		<radius errorminus="0.10" errorplus="-0.1">0.98</radius>
+		<metallicity errorminus="0.19" errorplus="-0.186">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1390 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000046300" errorplus="0.000046300">6.480216730</period>
 			<radius errorminus="0.012" errorplus="0.022">0.105</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.000" errorplus="-3.000">4.47</age><magV errorminus="" errorplus="">14.421</magV></star>
+<distance errorminus="-81.51" errorplus="-81.51">760.0</distance></system>

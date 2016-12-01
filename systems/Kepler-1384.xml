@@ -4,10 +4,10 @@
 	<declination>+39 31 37</declination>
 	<star>
 		<name>Kepler-1384</name>
-		<temperature errorminus="126.8" errorplus="158.7">4919.0</temperature>
+		<temperature errorminus="158.66" errorplus="-126.82">4919.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
-		<metallicity errorminus="0.17" errorplus="0.17">-0.06</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.168">-0.06</metallicity>
 		<planet>
 			<name>Kepler-1384 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000087650" errorplus="0.000087650">15.362627530</period>
 			<radius errorminus="0.018" errorplus="0.038">0.173</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.700" errorplus="-2.700">4.57</age><magV errorminus="" errorplus="">15.384</magV></star>
+<distance errorminus="-39.06" errorplus="-39.06">618.0</distance></system>

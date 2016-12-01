@@ -4,10 +4,10 @@
 	<declination>+41 24 37</declination>
 	<star>
 		<name>Kepler-1379</name>
-		<temperature errorminus="114.1" errorplus="78.9">5188.0</temperature>
+		<temperature errorminus="78.92" errorplus="-114.14">5188.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
-		<metallicity errorminus="0.18" errorplus="0.17">-0.04</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.183">-0.04</metallicity>
 		<planet>
 			<name>Kepler-1379 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003130" errorplus="0.000003130">0.881841150</period>
 			<radius errorminus="0.008" errorplus="0.011">0.116</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.100" errorplus="-3.100">5.01</age><magV errorminus="" errorplus="">15.919</magV></star>
+<distance errorminus="-67.84" errorplus="-67.84">951.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+47 10 28</declination>
 	<star>
 		<name>Kepler-1388</name>
-		<temperature errorminus="51.9" errorplus="48.2">4098.0</temperature>
+		<temperature errorminus="48.16" errorplus="-51.9">4098.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.63</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.61</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">0.02</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.107">0.02</metallicity>
 		<planet>
 			<name>Kepler-1388 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -56,5 +56,5 @@
 			<period errorminus="0.000726900" errorplus="0.000726900">37.632708400</period>
 			<radius errorminus="0.013" errorplus="0.012">0.219</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.81" errorplus="-2.640">4.47</age><magV errorminus="" errorplus="">16.279</magV></star>
+<distance errorminus="23.64" errorplus="-30.78">492.0</distance></system>
