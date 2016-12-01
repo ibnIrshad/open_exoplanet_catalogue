@@ -3,7 +3,7 @@
 	<name>K2-1</name>
 	<rightascension>23 34 28</rightascension>
 	<declination>-01 34 57</declination>
-	<distance errorminus="70" errorplus="70">410</distance>
+	<distance errorminus="70" errorplus="70">410.0</distance>
 	<star>
 		<name>WASP-28</name>
 		<name>2MASS J23342787-0134482</name>
@@ -27,18 +27,18 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.043" errorplus="0.043">0.907</mass>
 			<radius errorminus="0.042" errorplus="0.042">1.213</radius>
-			<period errorminus="0.000006" errorplus="0.000006">3.4088300</period>
+			<period errorminus="0.000006" errorplus="0.000006">3.40883</period>
 			<transittime errorminus="0.00031" errorplus="0.00031" unit="BJD">2455290.40519</transittime>
 			<semimajoraxis errorminus="0.00076" errorplus="0.00076">0.04469</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<eccentricity>0.0</eccentricity>
 			<spinorbitalignment errorminus="18" errorplus="18">8</spinorbitalignment>
 			<inclination errorminus="0.67" errorplus="0.67">88.61</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/02/07</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature errorminus="37" errorplus="37">1468</temperature>
+			<lastupdate>05/2015-03-0/2015-03-0</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+			<temperature errorminus="37" errorplus="37">1468.0</temperature>
 			<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1000" errorplus="-0.1000">0.21</impactparameter></planet>
 	</star>
 </system>

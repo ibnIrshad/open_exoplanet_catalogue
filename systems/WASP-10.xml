@@ -2,7 +2,7 @@
 	<name>WASP-10</name>
 	<rightascension>23 15 58</rightascension>
 	<declination>+31 27 46</declination>
-	<distance>90</distance>
+	<distance>90.0</distance>
 	<star>
 		<mass>0.71</mass>
 		<radius>0.783</radius>
@@ -18,19 +18,19 @@
 			<name>WASP-10 b</name>
 			<name>2MASS J23155829+3127462 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.06</mass>
+			<mass>3.15</mass>
 			<radius>1.08</radius>
 			<period>3.0927616</period>
-			<semimajoraxis>0.0371</semimajoraxis>
+			<semimajoraxis>0.03781</semimajoraxis>
 			<eccentricity>0.057</eccentricity>
-			<inclination>86.8</inclination>
+			<inclination>88.49</inclination>
 			<transittime errorminus="0.000082" errorplus="0.000082" unit="BJD">2454664.033369</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>08/12/02</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>946.8</temperature>
+			<temperature>1370.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0430" errorplus="-0.0430">0.299</impactparameter></planet>
 		<name>WASP-10</name>
 		<temperature>4675.0</temperature>
 	</star>

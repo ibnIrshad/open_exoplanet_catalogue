@@ -2,7 +2,7 @@
 	<name>WASP-26</name>
 	<rightascension>00 18 25</rightascension>
 	<declination>-15 16 02</declination>
-	<distance>250</distance>
+	<distance>250.0</distance>
 	<star>
 		<mass>1.12</mass>
 		<radius>1.34</radius>
@@ -28,7 +28,7 @@
 			<inclination>82.91</inclination>
 			<transittime errorminus="0.00058" errorplus="0.00058" unit="BJD">2455228.38916</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1521.3</temperature>
 			<istransiting>1</istransiting>
