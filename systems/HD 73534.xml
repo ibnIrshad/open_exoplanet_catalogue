@@ -2,7 +2,7 @@
 	<name>HD 73534</name>
 	<rightascension>08 39 16</rightascension>
 	<declination>+12 57 37</declination>
-	<distance>96.99</distance>
+	<distance errorminus="4.9" errorplus="-4.9">81.0</distance>
 	<star>
 		<mass>1.29</mass>
 		<radius>2.65</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 73534 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.15</mass>
-			<period>1800</period>
-			<semimajoraxis>3.15</semimajoraxis>
-			<eccentricity>0.046</eccentricity>
+			<mass errorminus="0.087" errorplus="-0.087">1.15</mass>
+			<period errorminus="40.0" errorplus="-40.0">1770.0</period>
+			<semimajoraxis errorminus="0.068" errorplus="-0.068">3.15</semimajoraxis>
+			<eccentricity errorminus="0.071" errorplus="-0.071">0.046</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>200.2</temperature>
-		</planet>
+		<periastron errorminus="-66.0000" errorplus="-66.0000">12.0</periastron><periastrontime errorminus="-850.000000" errorplus="-850.000000">2456450.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 73534</name>
 		<temperature>4952.0</temperature>
 	</star>

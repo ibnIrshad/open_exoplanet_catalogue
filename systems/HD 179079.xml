@@ -2,7 +2,7 @@
 	<name>HD 179079</name>
 	<rightascension>19 11 10</rightascension>
 	<declination>-02 38 18</declination>
-	<distance>63.69</distance>
+	<distance errorminus="3.6" errorplus="-4.06">63.69</distance>
 	<star>
 		<mass>1.087</mass>
 		<radius>1.48</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 179079 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.08</mass>
-			<period>14.476</period>
-			<semimajoraxis>0.11</semimajoraxis>
-			<eccentricity>0.115</eccentricity>
+			<mass errorminus="0.008" errorplus="-0.008">0.08</mass>
+			<period errorminus="0.011" errorplus="-0.011">14.476</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.001">0.11</semimajoraxis>
+			<eccentricity errorminus="0.087" errorplus="-0.087">0.115</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/2014-07-0/2014-07-0</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>925.0</temperature>
-		</planet>
+		<periastron errorminus="-62.0000" errorplus="-62.0000">357.0</periastron><periastrontime errorminus="-2.400000" errorplus="-2.400000">2454400.5</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 179079</name>
 		<temperature>5724.0</temperature>
 	</star>

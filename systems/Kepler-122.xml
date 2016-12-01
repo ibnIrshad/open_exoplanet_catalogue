@@ -21,16 +21,16 @@
 			<name>KOI-232.01</name>
 			<name>KIC 4833421 c</name>
 			<name>KIC 4833421.01</name>
-			<radius errorminus="0.01458" errorplus="0.10571">0.53493</radius>
+			<radius errorminus="0.01458" errorplus="-0.103">0.53493</radius>
 			<period errorminus="0.000009" errorplus="0.000009">12.465988</period>
 			<transittime errorminus="0.0004700" errorplus="0.0004700">2454967.0029100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-122 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.108</semimajoraxis><impactparameter errorminus="-0.1900" errorplus="-0.1900">0.5</impactparameter></planet>
 		<planet>
 			<name>Kepler-122 b</name>
 			<name>KOI-232 b</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-122 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.0</impactparameter></planet>
 		<planet>
 			<name>Kepler-122 d</name>
 			<name>KOI-232 d</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-122 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.155</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.01</impactparameter></planet>
 		<planet>
 			<name>Kepler-122 e</name>
 			<name>KOI-232 e</name>
@@ -75,10 +75,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-122 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-122 e are still unknown, the object has been confirmed by transit timing variations.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.227</semimajoraxis><impactparameter errorminus="-0.3200" errorplus="-0.3200">0.84</impactparameter></planet>
 		<planet>
 			<name>Kepler-122 f</name>
 			<name>KOI-232 f</name>
@@ -89,10 +89,10 @@
 			<transittime errorminus="0.00546" errorplus="0.00546">2454997.22391</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-122 f was confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>28/2014-05-2/2014-05-2</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="-0.05100" errorplus="-0.05100">0.113</mass></planet>
 	</star>
 </system>

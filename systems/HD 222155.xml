@@ -2,7 +2,7 @@
 	<name>HD 222155</name>
 	<rightascension>23 38 00</rightascension>
 	<declination>+48 59 47</declination>
-	<distance>49.1</distance>
+	<distance errorminus="2.0" errorplus="-2.18">50.45</distance>
 	<star>
 		<mass>1.13</mass>
 		<radius>1.67</radius>
@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 222155 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>3999</period>
-			<semimajoraxis>5.1</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.67" errorplus="-0.53">1.9</mass>
+			<period errorminus="469.0" errorplus="-541.0">3999</period>
+			<semimajoraxis errorminus="0.6" errorplus="-0.7">5.1</semimajoraxis>
+			<eccentricity errorminus="0.27" errorplus="-0.22">0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>145.2</temperature>
-		</planet>
+		<periastron errorminus="-52.0000" errorplus="-52.0000">137.0</periastron><periastrontime errorminus="-498.000000" errorplus="-498.000000">2456319.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 222155</name>
 		<temperature>5765.0</temperature>
 	</star>

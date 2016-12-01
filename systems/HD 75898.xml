@@ -2,7 +2,7 @@
 	<name>HD 75898</name>
 	<rightascension>08 53 51</rightascension>
 	<declination>+33 03 25</declination>
-	<distance>80.58</distance>
+	<distance errorminus="6.45" errorplus="-7.68">80.58</distance>
 	<star>
 		<mass>1.28</mass>
 		<radius>1.6</radius>
@@ -18,14 +18,14 @@
 			<name>HD 75898 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.51</mass>
-			<period>418.2</period>
+			<period errorminus="5.7" errorplus="-5.7">418.2</period>
 			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<eccentricity errorminus="0.05" errorplus="-0.05">0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>307.6</temperature>
-		</planet>
+		<periastron errorminus="-30.0000" errorplus="-30.0000">263.7</periastron><periastrontime errorminus="-37.000000" errorplus="-37.000000">2452907.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 75898</name>
 		<temperature>6021.0</temperature>
 	</star>
