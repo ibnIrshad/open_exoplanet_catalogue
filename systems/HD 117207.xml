@@ -2,7 +2,7 @@
 	<name>HD 117207</name>
 	<rightascension>13 29 21</rightascension>
 	<declination>-35 34 15</declination>
-	<distance>33</distance>
+	<distance>33.01</distance>
 	<star>
 		<mass>1.07</mass>
 		<radius>1.09</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 117207 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.06</mass>
-			<period>2627.08</period>
-			<semimajoraxis>3.78</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass>1.88</mass>
+			<period>2597.0</period>
+			<semimajoraxis>3.79</semimajoraxis>
+			<eccentricity>0.144</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>128.4</temperature>
-		</planet>
+		<periastron errorminus="-16.0000" errorplus="-16.0000">73.0</periastron><periastrontime errorminus="-120.000000" errorplus="-120.000000">2450630.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 117207</name>
 		<temperature>5432.0</temperature>
 	</star>

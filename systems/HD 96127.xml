@@ -2,7 +2,7 @@
 	<name>HD 96127</name>
 	<rightascension>11 05 45.94825</rightascension>
 	<declination>+44 18 05.6092</declination>
-	<distance errorminus="135" errorplus="135">483</distance>
+	<distance errorminus="135" errorplus="135">221.24</distance>
 	<star>
 		<name>HD 96127</name>
 		<name>HIP 54232</name>
@@ -32,8 +32,8 @@
 			<periastrontime errorminus="31.0" errorplus="31.0">2453969.9</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The host star is a K2 giant.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>14/2015-05-1/2015-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

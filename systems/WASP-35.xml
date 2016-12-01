@@ -25,7 +25,7 @@
 			<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2455531.47984</transittime>
 			<temperature errorminus="30" errorplus="30">1450</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/04/15</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

@@ -2,7 +2,7 @@
 	<name>HD 102329</name>
 	<rightascension>11 46 46</rightascension>
 	<declination>+03 28 27</declination>
-	<distance>158</distance>
+	<distance>138.5</distance>
 	<star>
 		<mass>1.95</mass>
 		<radius>6.3</radius>
@@ -18,14 +18,14 @@
 			<list>Confirmed planets</list>
 			<mass>5.9</mass>
 			<period>778.1</period>
-			<semimajoraxis>2.01</semimajoraxis>
+			<semimajoraxis>2.03</semimajoraxis>
 			<eccentricity>0.211</eccentricity>
 			<description>The star HD 102329 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>376.0</temperature>
-		</planet>
+		<periastron errorminus="-10.0000" errorplus="-10.0000">182.0</periastron><periastrontime errorminus="-30.000000" errorplus="-30.000000">2455096.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 102329</name>
 		<temperature>4830.0</temperature>
 	</star>

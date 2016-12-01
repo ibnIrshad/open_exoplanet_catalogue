@@ -2,7 +2,7 @@
 	<name>HD 219077</name>
 	<rightascension>23 14 07</rightascension>
 	<declination>-62 42 00</declination>
-	<distance>29</distance>
+	<distance>29.2</distance>
 	<star>
 		<name>HD 219077</name>
 		<magV>6.12</magV>
@@ -19,15 +19,15 @@
 			<name>HD 219077 b</name>
 			<list>Confirmed planets</list>
 			<mass>10.39</mass>
-			<period>5501</period>
-			<eccentricity>0.770</eccentricity>
+			<period>5501.0</period>
+			<eccentricity>0.77</eccentricity>
 			<periastron>57.61</periastron>
 			<semimajoraxis>6.22</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>124.9</temperature>
-		</planet>
+		<periastrontime errorminus="-1.400000" errorplus="-1.400000">2450455.8</periastrontime><istransiting>0</istransiting></planet>
 		<temperature>5362.0</temperature>
 	</star>
 </system>

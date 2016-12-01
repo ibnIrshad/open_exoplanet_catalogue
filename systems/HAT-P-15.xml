@@ -2,7 +2,7 @@
 	<name>HAT-P-15</name>
 	<rightascension>04 24 59.534</rightascension>
 	<declination>+39 27 38.31</declination>
-	<distance>190</distance>
+	<distance>190.0</distance>
 	<star>
 		<mass>1.013</mass>
 		<radius>1.08</radius>
@@ -25,12 +25,12 @@
 			<eccentricity>0.19</eccentricity>
 			<inclination>89.1</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/05/31</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>819.9</temperature>
+			<temperature>904.0</temperature>
 			<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2454638.56019</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-1.0000" errorplus="-1.0000">262.0</periastron><impactparameter errorminus="-0.0860" errorplus="-0.0860">0.342</impactparameter></planet>
 		<name>HAT-P-15</name>
 		<temperature>5568.0</temperature>
 	</star>

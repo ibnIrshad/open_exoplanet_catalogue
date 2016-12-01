@@ -23,31 +23,31 @@
 		<age errorminus="0.48" errorplus="0.76">1.88</age>
 		<planet>
 			<name>HD 33844 b</name>
-			<period errorminus="6.4" errorplus="6.4">547.9</period>
-			<eccentricity errorminus="0.07" errorplus="0.07">0.16</eccentricity>
-			<periastron errorminus="62" errorplus="62">190</periastron>
-			<periastrontime errorminus="50" errorplus="50">2454578</periastrontime>
-			<mass errorminus="0.11" errorplus="0.11" type="msini">1.92</mass>
-			<semimajoraxis errorminus="0.01" errorplus="0.01">1.59</semimajoraxis>
+			<period errorminus="6.4" errorplus="6.4">551.4</period>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.15</eccentricity>
+			<periastron errorminus="62" errorplus="62">211.0</periastron>
+			<periastrontime errorminus="50" errorplus="50">2454609.0</periastrontime>
+			<mass errorminus="0.11" errorplus="0.11" type="msini">1.96</mass>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">1.6</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
-			<lastupdate>15/12/28</lastupdate>
+			<lastupdate>14/2016-01-1/2016-01-1</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 33844 c</name>
-			<period errorminus="32.5" errorplus="32.5">924.3</period>
-			<eccentricity errorminus="0.08" errorplus="0.08">0.09</eccentricity>
-			<periastron errorminus="30" errorplus="30">5</periastron>
-			<periastrontime errorminus="281" errorplus="281">2454356</periastrontime>
-			<mass errorminus="0.16" errorplus="0.16" type="msini">1.68</mass>
-			<semimajoraxis errorminus="0.03" errorplus="0.03">2.25</semimajoraxis>
+			<period errorminus="32.5" errorplus="32.5">916.0</period>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.13</eccentricity>
+			<periastron errorminus="30" errorplus="30">71.0</periastron>
+			<periastrontime errorminus="281" errorplus="281">2454544.0</periastrontime>
+			<mass errorminus="0.16" errorplus="0.16" type="msini">1.75</mass>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">2.24</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
-			<lastupdate>15/12/28</lastupdate>
+			<lastupdate>14/2016-01-1/2016-01-1</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>Kepler-12</name>
 	<rightascension>19 04 58</rightascension>
 	<declination>+50 02 25</declination>
-	<distance>600</distance>
+	<distance>600.0</distance>
 	<star>
 		<mass errorminus="0.09" errorplus="0.13">1.09</mass>
 		<radius errorminus="0.24" errorplus="0.30">1.42</radius>
@@ -22,19 +22,19 @@
 			<name>2MASS J19045842+5002253 b</name>
 			<name>KIC 11804465 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05">0.43</mass>
-			<radius errorminus="0.04" errorplus="0.03">1.75</radius>
-			<period>4.4379637</period>
-			<semimajoraxis>0.0556</semimajoraxis>
+			<mass errorminus="0.05" errorplus="0.05">0.432</mass>
+			<radius errorminus="0.04" errorplus="0.03">1.754</radius>
+			<period>4.4379629</period>
+			<semimajoraxis>0.0553</semimajoraxis>
 			<eccentricity>0.01</eccentricity>
-			<inclination>88.76</inclination>
+			<inclination>88.796</inclination>
 			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1354.2</temperature>
+			<temperature>1480.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0120" errorplus="-0.0120">0.168</impactparameter></planet>
 		<name>Kepler-12</name>
 		<name>KOI-20</name>
 		<name>KIC 11804465</name>

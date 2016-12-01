@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 210277 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.23</mass>
-			<period>442.1</period>
-			<semimajoraxis>1.1</semimajoraxis>
-			<eccentricity>0.472</eccentricity>
+			<mass>1.29</mass>
+			<period>442.19</period>
+			<semimajoraxis>1.138</semimajoraxis>
+			<eccentricity>0.476</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/09/06</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>1998</discoveryyear>
 			<temperature>240.3</temperature>
-		</planet>
+		<periastron errorminus="-2.8000" errorplus="-2.8000">119.1</periastron><periastrontime errorminus="-2.600000" errorplus="-2.600000">2450104.3</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 210277</name>
 		<temperature>5532.0</temperature>
 	</star>

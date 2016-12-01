@@ -2,7 +2,7 @@
 	<name>CoRoT-10</name>
 	<rightascension>19 24 15</rightascension>
 	<declination>+00 44 46</declination>
-	<distance>345</distance>
+	<distance>345.0</distance>
 	<star>
 		<mass>0.89</mass>
 		<radius>0.79</radius>
@@ -29,11 +29,11 @@
 			<inclination>88.55</inclination>
 			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>600.8</temperature>
+			<temperature>600.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-6.4000" errorplus="-6.4000">218.9</periastron><impactparameter errorminus="-0.0300" errorplus="-0.0300">0.85</impactparameter><periastrontime errorminus="-0.080000" errorplus="-0.080000">2454990.85</periastrontime></planet>
 		<name>CoRoT-10</name>
 		<temperature>5075.0</temperature>
 	</star>

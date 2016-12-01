@@ -2,7 +2,7 @@
 	<name>omi CrB</name>
 	<rightascension>15 20 08.55879</rightascension>
 	<declination>+29 36 58.3488</declination>
-	<distance errorminus="3.0" errorplus="3.0">82.8</distance>
+	<distance errorminus="3.0" errorplus="3.0">84.03</distance>
 	<star>
 		<name>omi CrB</name>
 		<name>Omicron Coronae Borealis</name>
@@ -39,12 +39,12 @@
 			<period errorminus="0.54" errorplus="0.54">187.83</period>
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity errorminus="0.085" errorplus="0.085">0.191</eccentricity>
-			<periastron errorminus="36" errorplus="36">79</periastron>
+			<periastron errorminus="36" errorplus="36">79.0</periastron>
 			<periastrontime errorminus="17" errorplus="17">2452211</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>03/2015-09-0/2015-09-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

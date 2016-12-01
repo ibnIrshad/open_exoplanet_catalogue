@@ -29,7 +29,7 @@
 			<name>TYC 3138-1820-1 b</name>
 			<name>2MASS J19213425+4017055 b</name>
 			<period>6.48163</period>
-			<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
+			<radius errorminus="0.006379" errorplus="0.006379">0.211</radius>
 			<mass upperlimit="0.022964" />
 			<transittime unit="BJD">2454955.97755</transittime>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.069</semimajoraxis>
@@ -38,10 +38,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0200" errorplus="-0.0200">0.58</impactparameter></planet>
 		<planet>
 			<name>Kepler-109 c</name>
 			<name>KOI-123.02</name>
@@ -50,7 +50,7 @@
 			<name>TYC 3138-1820-1 c</name>
 			<name>2MASS J19213425+4017055 c</name>
 			<period>21.2227</period>
-			<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
+			<radius errorminus="0.006379" errorplus="0.006379">0.225</radius>
 			<mass upperlimit="0.068576" />
 			<transittime unit="BJD">2454970.57250</transittime>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.152</semimajoraxis>
@@ -59,9 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0800" errorplus="-0.0800">0.16</impactparameter></planet>
 	</star>
 </system>

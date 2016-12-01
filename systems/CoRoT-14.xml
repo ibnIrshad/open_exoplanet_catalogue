@@ -2,7 +2,7 @@
 	<name>CoRoT-14</name>
 	<rightascension>06 53 42</rightascension>
 	<declination>-05 32 10</declination>
-	<distance>1340</distance>
+	<distance>1340.0</distance>
 	<star>
 		<mass>1.13</mass>
 		<radius>1.21</radius>
@@ -29,11 +29,11 @@
 			<inclination>79.6</inclination>
 			<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2454787.6702</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1781.4</temperature>
+			<temperature>1952.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0200" errorplus="-0.0200">0.86</impactparameter><periastrontime errorminus="" errorplus="">2454787.6702</periastrontime></planet>
 		<name>CoRoT-14</name>
 		<temperature>6035.0</temperature>
 	</star>

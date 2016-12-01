@@ -19,19 +19,19 @@
 			<name>KOI-97.01</name>
 			<name>KOI-97 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.44</mass>
-			<radius errorminus="0.01" errorplus="0.01">1.62</radius>
-			<period>4.885525</period>
-			<semimajoraxis>0.06246</semimajoraxis>
+			<mass errorminus="0.04" errorplus="0.04">0.441</mass>
+			<radius errorminus="0.01" errorplus="0.01">1.622</radius>
+			<period>4.8854892</period>
+			<semimajoraxis>0.06067</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
-			<inclination>85.18</inclination>
+			<inclination>85.161</inclination>
 			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.8</temperature>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>1630.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0046" errorplus="-0.0046">0.5599</impactparameter></planet>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>
 		<name>KIC 5780885</name>

@@ -21,31 +21,31 @@
 			<name>KOI-663.01</name>
 			<name>KIC 6425957 b</name>
 			<name>KIC 6425957.01</name>
-			<radius errorminus="0.01276" errorplus="0.01276">0.13761</radius>
-			<period errorminus=".000002" errorplus="0.000002">2.755640</period>
+			<radius errorminus="0.01276" errorplus="0.01276">0.135</radius>
+			<period errorminus=".000002" errorplus="0.000002">2.75564</period>
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2455003.8445400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-205 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.032</semimajoraxis><impactparameter errorminus="-0.3000" errorplus="-0.3000">0.87</impactparameter></planet>
 		<planet>
 			<name>Kepler-205 c</name>
 			<name>KOI-663 c</name>
 			<name>KOI-663.02</name>
 			<name>KIC 6425957 c</name>
 			<name>KIC 6425957.02</name>
-			<radius errorminus="0.01094" errorplus="0.01094">0.14945</radius>
+			<radius errorminus="0.01094" errorplus="0.01094">0.146</radius>
 			<period errorminus=".000038" errorplus="0.000038">20.306546</period>
 			<transittime errorminus="0.0011300" errorplus="0.0011300">2455005.6562000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-205 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.81</impactparameter></planet>
 	</star>
 </system>

@@ -23,14 +23,14 @@
 			<name>KOI-299 b</name>
 			<name>KIC 2692377 b</name>
 			<period>1.54168</period>
-			<radius errorminus="0.020049" errorplus="0.020049">0.181349</radius>
-			<mass errorminus="0.005033" errorplus="0.005033">0.011167</mass>
+			<radius errorminus="0.020049" errorplus="0.020049">0.178</radius>
+			<mass errorminus="0.005033" errorplus="0.005033">0.011</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1400" errorplus="-0.1400">0.56</impactparameter></planet>
 	</star>
 </system>

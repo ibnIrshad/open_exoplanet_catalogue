@@ -2,7 +2,7 @@
 	<name>WASP-38</name>
 	<rightascension>16 15 50</rightascension>
 	<declination>+10 01 57</declination>
-	<distance>110</distance>
+	<distance>110.0</distance>
 	<star>
 		<mass>1.23</mass>
 		<radius>1.35</radius>
@@ -22,16 +22,16 @@
 			<name>2MASS J16155036+1001572 b</name>
 			<name>BD+10 2980 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.71</mass>
-			<radius>1.09</radius>
-			<period>6.87188</period>
-			<semimajoraxis>0.0758</semimajoraxis>
-			<eccentricity>0.028</eccentricity>
-			<inclination>89.5</inclination>
-			<periastron>-22.2</periastron>
+			<mass>2.691</mass>
+			<radius>1.094</radius>
+			<period>6.871815</period>
+			<semimajoraxis>0.07522</semimajoraxis>
+			<eccentricity>0.0314</eccentricity>
+			<inclination>88.69</inclination>
+			<periastron>-16.0</periastron>
 			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/30</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<spinorbitalignment>7.5</spinorbitalignment>
 			<temperature>1152.9</temperature>

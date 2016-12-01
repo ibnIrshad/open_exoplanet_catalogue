@@ -2,7 +2,7 @@
 	<name>HD 173416</name>
 	<rightascension>18 43 36</rightascension>
 	<declination>+36 33 24</declination>
-	<distance>135</distance>
+	<distance>134.95</distance>
 	<star>
 		<mass>2</mass>
 		<radius>13.5</radius>
@@ -20,10 +20,10 @@
 			<semimajoraxis>1.16</semimajoraxis>
 			<eccentricity>0.21</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/12</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/2014-07-0/2014-07-0</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>702.5</temperature>
-		</planet>
+		<periastron errorminus="-11.0000" errorplus="-11.0000">254.0</periastron><periastrontime errorminus="-8.300000" errorplus="-8.300000">2453465.8</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 173416</name>
 		<temperature>4683.0</temperature>
 	</star>

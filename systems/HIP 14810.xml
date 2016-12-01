@@ -2,7 +2,7 @@
 	<name>HIP 14810</name>
 	<rightascension>03 11 14</rightascension>
 	<declination>+21 05 50</declination>
-	<distance>52.9</distance>
+	<distance>52.88</distance>
 	<star>
 		<mass>0.99</mass>
 		<radius>1</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>0.0692</semimajoraxis>
 			<eccentricity>0.1427</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>14/2015-05-1/2015-05-1</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 			<temperature>918.2</temperature>
-		</planet>
+		<periastron errorminus="-0.3800" errorplus="-0.3800">159.32</periastron><periastrontime errorminus="-0.007000" errorplus="-0.007000">2453694.598</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HIP 14810 c</name>
 			<list>Confirmed planets</list>
@@ -33,22 +33,22 @@
 			<semimajoraxis>0.545</semimajoraxis>
 			<eccentricity>0.164</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<lastupdate>14/2015-05-1/2015-05-1</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>327.0</temperature>
-		</planet>
+		<periastron errorminus="-2.5000" errorplus="-2.5000">329.0</periastron><periastrontime errorminus="-0.007300" errorplus="-0.007300">2454672.24</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HIP 14810 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.57</mass>
-			<period>962</period>
+			<period>952.0</period>
 			<semimajoraxis>1.89</semimajoraxis>
 			<eccentricity>0.173</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<lastupdate>14/2015-05-1/2015-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>175.6</temperature>
-		</planet>
+		<periastron errorminus="-19.0000" errorplus="-19.0000">286.0</periastron><periastrontime errorminus="-0.007300" errorplus="-0.007300">2454317.198</periastrontime><istransiting>0</istransiting></planet>
 		<name>HIP 14810</name>
 		<temperature>5485.0</temperature>
 	</star>

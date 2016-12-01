@@ -2,7 +2,7 @@
 	<name>CoRoT-23</name>
 	<rightascension>18 39 08</rightascension>
 	<declination>+04 21 28</declination>
-	<distance>600</distance>
+	<distance>600.0</distance>
 	<star>
 		<mass>1.14</mass>
 		<radius>1.61</radius>
@@ -20,17 +20,17 @@
 			<list>Confirmed planets</list>
 			<mass>2.8</mass>
 			<radius>1.05</radius>
-			<period>3.6314</period>
-			<semimajoraxis>0.0477</semimajoraxis>
+			<period>3.6313</period>
+			<semimajoraxis>0.048</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<inclination>85.7</inclination>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455308.939</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/20</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1508.9</temperature>
+			<temperature>1660.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-9.0000" errorplus="-9.0000">52.0</periastron><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.56</impactparameter></planet>
 		<name>CoRoT-23</name>
 		<temperature>5900.0</temperature>
 	</star>

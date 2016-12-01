@@ -2,7 +2,7 @@
 	<name>eps Coronae Borealis</name>
 	<rightascension>15 57 35.25147</rightascension>
 	<declination>+26 52 40.3635</declination>
-	<distance>67.9</distance>
+	<distance>70.42</distance>
 	<binary>
 		<name>WDS J15576+2653</name>
 		<separation unit="arcsec">2.00</separation>
@@ -57,10 +57,10 @@
 				<periastrontime errorminus="39.7" errorplus="39.7">2451235.3</periastrontime>
 				<description>Radial velocity measurements for eps CrB exhibit periodic variation of 417 days with an amplitude of 129 meters per second. The minimum mass for the planetary companion is 6.7 Jupiter masses.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/09/22</lastupdate>
+				<lastupdate>10/2015-09-1/2015-09-1</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<istransiting>0</istransiting></planet>
 		</star>
 		<star>
 			<name>eps Coronae Borealis B</name>

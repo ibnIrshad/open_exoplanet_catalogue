@@ -2,7 +2,7 @@
 	<name>XO-4</name>
 	<rightascension>07 21 33.1657</rightascension>
 	<declination>+58 16 05.005</declination>
-	<distance>293</distance>
+	<distance>293.0</distance>
 	<star>
 		<name>XO-4</name>
 		<name>TYC 3793-1994-1</name>
@@ -22,16 +22,16 @@
 			<name>2MASS J07213317+5816051 b</name>
 			<name>TYC 3793-1994-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.099" errorplus="0.10">1.615</mass>
-			<radius errorminus="0.029" errorplus="0.040">1.615</radius>
-			<period errorminus="0.0000023" errorplus="0.0000023">4.1250707</period>
+			<mass errorminus="0.099" errorplus="0.10">1.78</mass>
+			<radius errorminus="0.029" errorplus="0.040">1.33</radius>
+			<period errorminus="0.0000023" errorplus="0.0000023">4.1250828</period>
 			<semimajoraxis errorminus="0.00042" errorplus="0.00042">0.05485</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.63" errorplus="0.61">88.26</inclination>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.63" errorplus="0.61">88.8</inclination>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454725.18901</transittime>
 			<spinorbitalignment errorminus="7.5" errorplus="8.8">-40.0</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

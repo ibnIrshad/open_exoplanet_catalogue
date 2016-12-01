@@ -12,15 +12,15 @@
 		<planet>
 			<name>HD 27894 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.62</mass>
-			<period>17.991</period>
-			<semimajoraxis>0.122</semimajoraxis>
-			<eccentricity>0.049</eccentricity>
+			<mass>0.645</mass>
+			<period>17.9904</period>
+			<semimajoraxis>0.125</semimajoraxis>
+			<eccentricity>0.0486</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/25</lastupdate>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>548.8</temperature>
-		</planet>
+		<periastron errorminus="-11.0000" errorplus="-11.0000">132.0</periastron><periastrontime errorminus="-0.550000" errorplus="-0.550000">2452933.64</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 27894</name>
 		<temperature>4875.0</temperature>
 	</star>

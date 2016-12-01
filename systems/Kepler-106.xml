@@ -25,59 +25,59 @@
 			<name>KOI-116 c</name>
 			<name>KIC 8395660 c</name>
 			<period>13.5708</period>
-			<radius errorminus="0.029162" errorplus="0.029162">0.227826</radius>
-			<mass errorminus="0.010066" errorplus="0.010066">0.032841</mass>
+			<radius errorminus="0.029162" errorplus="0.029162">0.223</radius>
+			<mass errorminus="0.010066" errorplus="0.010066">0.033</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0300" errorplus="-0.0300">0.69</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 e</name>
 			<name>KOI-116.02</name>
 			<name>KOI-116 e</name>
 			<name>KIC 8395660 e</name>
 			<period>43.8445</period>
-			<radius errorminus="0.030073" errorplus="0.030073">0.233294</radius>
+			<radius errorminus="0.030073" errorplus="0.030073">0.228</radius>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.018245" errorplus="0.018245">0.035137</mass>
+			<mass errorminus="0.018245" errorplus="0.018245">0.035</mass>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1300" errorplus="-0.1300">0.28</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 b</name>
 			<name>KOI-116.03</name>
 			<name>KOI-116 b</name>
 			<name>KIC 8395660 b</name>
 			<period>6.16486</period>
-			<radius errorminus="0.010024" errorplus="0.010024">0.074727</radius>
+			<radius errorminus="0.010024" errorplus="0.010024">0.073</radius>
 			<mass upperlimit="0.016672" />
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1500" errorplus="-0.1500">0.39</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 d</name>
 			<name>KOI-116.04</name>
 			<name>KOI-116 d</name>
 			<name>KIC 8395660 d</name>
 			<period>23.9802</period>
-			<radius errorminus="0.011847" errorplus="0.011847">0.086574</radius>
+			<radius errorminus="0.011847" errorplus="0.011847">0.085</radius>
 			<mass upperlimit="0.025480" />
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1100" errorplus="-0.1100">0.45</impactparameter></planet>
 	</star>
 </system>

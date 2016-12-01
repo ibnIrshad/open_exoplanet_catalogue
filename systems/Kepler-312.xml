@@ -20,31 +20,31 @@
 			<name>KOI-1628.01</name>
 			<name>KIC 6975129 c</name>
 			<name>KIC 6975129.01</name>
-			<radius errorminus="0.05559" errorplus="0.05559">0.28706</radius>
+			<radius errorminus="0.05559" errorplus="0.05559">0.281</radius>
 			<period errorminus=".000068" errorplus="0.000068">19.747412</period>
 			<transittime errorminus="0.0019100" errorplus="0.0019100">2454980.1036000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-312 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-312 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.153</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.18</impactparameter></planet>
 		<planet>
 			<name>Kepler-312 b</name>
 			<name>KOI-1628 b</name>
 			<name>KOI-1628.02</name>
 			<name>KIC 6975129 b</name>
 			<name>KIC 6975129.02</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.11756</radius>
+			<radius errorminus="0.02278" errorplus="0.02278">0.115</radius>
 			<period errorminus=".000012" errorplus="0.000012">1.772419</period>
 			<transittime errorminus="0.0038100" errorplus="0.0038100">2454965.0877800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-312 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-312 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.031</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.36</impactparameter></planet>
 	</star>
 </system>

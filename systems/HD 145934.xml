@@ -20,15 +20,15 @@
 			<name>HD 145934 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.26" errorplus="0.26">2.28</mass>
-			<period errorminus="100" errorplus="100">2730</period>
+			<period errorminus="100" errorplus="100">2730.0</period>
 			<semimajoraxis errorminus="0.14" errorplus="0.14">4.6</semimajoraxis>
 			<eccentricity errorminus="0.063" errorplus="0.053">0.053</eccentricity>
-			<periastron errorminus="62" errorplus="62">215</periastron>
+			<periastron errorminus="62" errorplus="62">215.0</periastron>
 			<periastrontime errorminus="370" errorplus="370" unit="BJD">2451430</periastrontime>
 			<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>15/08/15</lastupdate>
+			<istransiting>0</istransiting>
+			<lastupdate>08/2015-01-0/2015-01-0</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

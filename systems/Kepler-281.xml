@@ -21,31 +21,31 @@
 			<name>KOI-1258.01</name>
 			<name>KIC 8630788 c</name>
 			<name>KIC 8630788.01</name>
-			<radius errorminus="0.00547" errorplus="0.18773">0.48390</radius>
+			<radius errorminus="0.00547" errorplus="0.18773">0.474</radius>
 			<period errorminus=".000111" errorplus="0.000111">36.337373</period>
 			<transittime errorminus="0.0017500" errorplus="0.0017500">2454993.4009200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-281 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-281 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.215</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.77</impactparameter></planet>
 		<planet>
 			<name>Kepler-281 b</name>
 			<name>KOI-1258 b</name>
 			<name>KOI-1258.02</name>
 			<name>KIC 8630788 b</name>
 			<name>KIC 8630788.02</name>
-			<radius errorminus="0.01094" errorplus="0.10207">0.25699</radius>
+			<radius errorminus="0.01094" errorplus="0.10207">0.252</radius>
 			<period errorminus=".000139" errorplus="0.000139">14.646008</period>
 			<transittime errorminus="0.0058800" errorplus="0.0058800">2454969.5169100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-281 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-281 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.117</semimajoraxis><impactparameter errorminus="-0.3300" errorplus="-0.3300">0.92</impactparameter></planet>
 	</star>
 </system>

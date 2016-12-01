@@ -2,7 +2,7 @@
 	<name>HAT-P-37</name>
 	<rightascension>18 57 11</rightascension>
 	<declination>+51 16 09</declination>
-	<distance>411</distance>
+	<distance>411.0</distance>
 	<star>
 		<mass>0.929</mass>
 		<radius>0.877</radius>
@@ -21,17 +21,17 @@
 			<mass>1.169</mass>
 			<radius>1.178</radius>
 			<period>2.797436</period>
-			<semimajoraxis>0.0378</semimajoraxis>
+			<semimajoraxis>0.0379</semimajoraxis>
 			<eccentricity>0.058</eccentricity>
 			<inclination>86.9</inclination>
 			<description>HAT-P-37 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/01/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1166.3</temperature>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>1271.0</temperature>
 			<transittime errorminus="0.00029" errorplus="0.00029" unit="BJD">2455642.14318</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-84.0000" errorplus="-84.0000">164.0</periastron><impactparameter errorminus="-0.0620" errorplus="-0.0620">0.505</impactparameter></planet>
 		<name>HAT-P-37</name>
 		<temperature>5500.0</temperature>
 	</star>

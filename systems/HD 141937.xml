@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 141937 b</name>
 			<list>Confirmed planets</list>
-			<mass>9.7</mass>
+			<mass>9.316</mass>
 			<period>653.22</period>
-			<semimajoraxis>1.52</semimajoraxis>
+			<semimajoraxis>1.4877</semimajoraxis>
 			<eccentricity>0.41</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>215.8</temperature>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<name>HD 141937</name>
 		<temperature>5925.0</temperature>
 	</star>

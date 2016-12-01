@@ -3,7 +3,7 @@
 	<name>UGA-1785</name>
 	<rightascension>18 56 14</rightascension>
 	<declination>+44 31 05</declination>
-	<distance>66</distance>
+	<distance>66.0</distance>
 	<star>
 		<magB errorminus="0.04" errorplus="0.04">10.45</magB>
 		<magV errorminus="0.03" errorplus="0.03">9.77</magV>
@@ -26,18 +26,18 @@
 			<name>KIC 8478994 b</name>
 			<name>UGA-1785 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.0065" errorplus="0.0047">0.0270</radius>
-			<period errorminus="0.000085" errorplus="0.000058">13.367308</period>
+			<radius errorminus="0.0065" errorplus="0.0047">0.029</radius>
+			<period errorminus="0.000085" errorplus="0.000058">13.3675</period>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.1003</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.21">0.08</eccentricity>
 			<inclination errorminus="0.53" errorplus="0.30">88.63</inclination>
 			<transittime errorminus="0.00089" errorplus="0.00034" unit="BJD">2455017.03271</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>27/2016-10-2/2016-10-2</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>Kepler-37 b is a tiny planet, about the size of our Moon. Due to the high irradiation it has probably a rocky surface with no atmosphere or water, similar to Mercury. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1300" errorplus="-0.1300">0.48</impactparameter><mass errorminus="" errorplus="">0.03146</mass></planet>
 		<planet>
 			<name>Kepler-37 c</name>
 			<name>KOI-245.02</name>
@@ -45,18 +45,18 @@
 			<name>KIC 8478994 c</name>
 			<name>UGA-1785 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.0074" errorplus="0.0058">0.0662</radius>
-			<period errorminus="0.000044" errorplus="0.000046">21.301886</period>
+			<radius errorminus="0.0074" errorplus="0.0058">0.067</radius>
+			<period errorminus="0.000044" errorplus="0.000046">21.302</period>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0011">0.1368</semimajoraxis>
 			<eccentricity errorminus="0.09" errorplus="0.18">0.09</eccentricity>
 			<inclination errorminus="0.33" errorplus="0.19">89.07</inclination>
 			<transittime errorminus="0.00078" errorplus="0.00036" unit="BJD">2455024.83816</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>27/2016-10-2/2016-10-2</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>Kepler-37 is a three planet system discovered by Kepler. The planet Kepler-37 c is about three quaters the size of Earth. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0200" errorplus="-0.0200">0.43</impactparameter><mass errorminus="" errorplus="">0.03776</mass></planet>
 		<planet>
 			<name>Kepler-37 d</name>
 			<name>KOI-245.01</name>
@@ -64,18 +64,18 @@
 			<name>KIC 8478994 d</name>
 			<name>UGA-1785 d</name>
 			<list>Confirmed planets</list>
-			<radius>0.181349</radius>
-			<period errorminus="0.000043" errorplus="0.000040">39.792187</period>
+			<radius>0.173</radius>
+			<period errorminus="0.000043" errorplus="0.000040">39.7922</period>
 			<semimajoraxis errorminus="0.0022" errorplus="0.0016">0.2076</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.07">0.15</eccentricity>
 			<inclination errorminus="0.047" errorplus="0.043">89.335</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>27/2016-10-2/2016-10-2</lastupdate>
 			<transittime errorminus="0.00049" errorplus="0.00043" unit="BJD">2455008.24979</transittime>
 			<discoveryyear>2013</discoveryyear>
 			<description>Kepler-37 d is the outermost planet in a three planet system discovered by Kepler. It is twice as big as Earth and therefore the largest known planet in the system. NASA has given the planetary system the alternative identifier UGA-1785 in honor of the University of Georgia.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.53</impactparameter><mass errorminus="" errorplus="">0.03839</mass></planet>
 		<planet>
 			<name>Kepler-37 e</name>
 			<name>KOI-245 e</name>
@@ -85,10 +85,10 @@
 			<period>51.196</period>
 			<semimajoraxis>0.2508</semimajoraxis>
 			<description>The fourth planet in the Kepler-37 system was discovered by transit timing variations. Very little is known of its properties.</description>
-			<lastupdate>15/03/18</lastupdate>
-			<discoverymethod>timing</discoverymethod>
+			<lastupdate>28/2014-05-2/2014-05-2</lastupdate>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>0</istransiting>
+			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

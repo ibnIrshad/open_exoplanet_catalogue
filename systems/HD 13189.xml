@@ -2,7 +2,7 @@
 	<name>HD 13189</name>
 	<rightascension>02 09 40</rightascension>
 	<declination>+32 18 59</declination>
-	<distance>185</distance>
+	<distance>300.3</distance>
 	<star>
 		<mass>4.5</mass>
 		<radius>50.39</radius>
@@ -12,15 +12,15 @@
 		<planet>
 			<name>HD 13189 b</name>
 			<list>Confirmed planets</list>
-			<mass>14</mass>
+			<mass>14.0</mass>
 			<period>471.6</period>
 			<semimajoraxis>1.85</semimajoraxis>
 			<eccentricity>0.27</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>442.7</temperature>
-		</planet>
+		<periastron errorminus="-12.0000" errorplus="-12.0000">160.7</periastron><periastrontime errorminus="-20.200000" errorplus="-20.200000">2452327.9</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 13189</name>
 		<temperature>5150.0</temperature>
 	</star>

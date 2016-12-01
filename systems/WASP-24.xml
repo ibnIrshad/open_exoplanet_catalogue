@@ -19,19 +19,19 @@
 			<name>2MASS J15085174+0220358 b</name>
 			<name>TYC 0339-00329-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.032</mass>
-			<radius>1.104</radius>
-			<period>2.3412083</period>
-			<semimajoraxis>0.0359</semimajoraxis>
+			<mass>1.071</mass>
+			<radius>1.3</radius>
+			<period>2.34121242</period>
+			<semimajoraxis>0.03651</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>83.64</inclination>
 			<transittime errorminus="0.00016" errorplus="0.00017" unit="BJD">2455081.38018</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/11/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1514.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0190" errorplus="-0.0190">0.653</impactparameter></planet>
 		<name>WASP-24</name>
 		<temperature>6075.0</temperature>
 	</star>

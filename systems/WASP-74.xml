@@ -2,7 +2,7 @@
 	<name>WASP-74</name>
 	<rightascension>20 18 09.32</rightascension>
 	<declination>-01 04 32.6</declination>
-	<distance errorminus="20" errorplus="20">120</distance>
+	<distance errorminus="20" errorplus="20">120.0</distance>
 	<star>
 		<name>WASP-74</name>
 		<name>1SWASP J201809.32-010432.6</name>
@@ -32,16 +32,16 @@
 			<mass errorminus="0.06" errorplus="0.06">0.95</mass>
 			<radius errorminus="0.06" errorplus="0.06">1.56</radius>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.037</semimajoraxis>
-			<period errorminus="0.000001" errorplus="0.000001">2.137750</period>
+			<period errorminus="0.000001" errorplus="0.000001">2.13775</period>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
 			<inclination errorminus="0.24" errorplus="0.24">79.81</inclination>
-			<eccentricity upperlimit="0.07" />
-			<temperature errorminus="40" errorplus="40">1910</temperature>
+			<eccentricity upperlimit="0.07">0.0</eccentricity>
+			<temperature errorminus="40" errorplus="40">1910.0</temperature>
 			<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/10/24</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>09/2015-07-0/2015-07-0</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0060" errorplus="-0.0060">0.86</impactparameter></planet>
 	</star>
 </system>

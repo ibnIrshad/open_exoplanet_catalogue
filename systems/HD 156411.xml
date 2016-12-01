@@ -21,10 +21,10 @@
 			<semimajoraxis>1.88</semimajoraxis>
 			<eccentricity>0.22</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>278.0</temperature>
-		</planet>
+		<periastron errorminus="-14.0000" errorplus="-14.0000">45.0</periastron><periastrontime errorminus="-33.000000" errorplus="-33.000000">2454356.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 156411</name>
 		<temperature>5900.0</temperature>
 	</star>

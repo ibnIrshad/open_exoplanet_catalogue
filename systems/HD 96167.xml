@@ -2,7 +2,7 @@
 	<name>HD 96167</name>
 	<rightascension>11 05 15</rightascension>
 	<declination>-10 17 29</declination>
-	<distance>84</distance>
+	<distance>84.03</distance>
 	<star>
 		<mass>1.31</mass>
 		<radius>1.86</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>1.3</semimajoraxis>
 			<eccentricity>0.71</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>14/2015-05-1/2015-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>293.2</temperature>
-		</planet>
+		<periastron errorminus="-7.0000" errorplus="-7.0000">285.0</periastron><periastrontime errorminus="-5.000000" errorplus="-5.000000">2453057.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 96167</name>
 		<temperature>5770.0</temperature>
 	</star>

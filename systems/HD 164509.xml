@@ -2,7 +2,7 @@
 	<name>HD 164509</name>
 	<rightascension>18 01 31</rightascension>
 	<declination>+00 06 16</declination>
-	<distance>52</distance>
+	<distance>51.81</distance>
 	<star>
 		<mass>1.13</mass>
 		<radius>1.06</radius>
@@ -23,10 +23,10 @@
 			<eccentricity>0.26</eccentricity>
 			<description>HD 164509 is a metal rich G5V star with at least one planet. A linear trend in the RV residuals suggest the existance of an additional planet.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>286.2</temperature>
-		</planet>
+		<periastron errorminus="-110.0000" errorplus="-110.0000">324.0</periastron><periastrontime errorminus="-30.000000" errorplus="-30.000000">2455703.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 164509</name>
 		<temperature>5922.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 118203</name>
 	<rightascension>13 34 02</rightascension>
 	<declination>+53 43 42</declination>
-	<distance>88.6</distance>
+	<distance>88.57</distance>
 	<star>
 		<mass>1.23</mass>
 		<magV>8.05</magV>
@@ -20,10 +20,10 @@
 			<semimajoraxis>0.07</semimajoraxis>
 			<eccentricity>0.309</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1408.2</temperature>
-		</planet>
+		<periastron errorminus="-2.4000" errorplus="-2.4000">155.7</periastron><periastrontime errorminus="-0.030000" errorplus="-0.030000">2453394.23</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 118203</name>
 		<temperature>5600.0</temperature>
 	</star>

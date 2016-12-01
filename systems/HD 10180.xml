@@ -2,7 +2,7 @@
 	<name>HD 10180</name>
 	<rightascension>01 37 54</rightascension>
 	<declination>-60 30 42</declination>
-	<distance>39.4</distance>
+	<distance>39.02</distance>
 	<star>
 		<mass>1.06</mass>
 		<magV>7.33</magV>
@@ -28,16 +28,16 @@
 		<planet>
 			<name>HD 10180 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.04089410</mass>
-			<period>5.75973</period>
-			<semimajoraxis>0.0641</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass>0.0416</mass>
+			<period>5.75969</period>
+			<semimajoraxis>0.06412</semimajoraxis>
+			<eccentricity>0.073</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1128.3</temperature>
-		</planet>
+		<periastron errorminus="-24.0000" errorplus="-24.0000">328.0</periastron><periastrontime errorminus="-0.426000" errorplus="-0.426000">2454001.445</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 10180 i</name>
 			<list>Controversial</list>
@@ -54,29 +54,29 @@
 		<planet>
 			<name>HD 10180 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.03743383</mass>
-			<period>16.354</period>
-			<semimajoraxis>0.1284</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
+			<mass>0.0378</mass>
+			<period>16.357</period>
+			<semimajoraxis>0.12859</semimajoraxis>
+			<eccentricity>0.131</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>796.3</temperature>
-		</planet>
+		<periastron errorminus="-23.0000" errorplus="-23.0000">325.0</periastron><periastrontime errorminus="-1.157000" errorplus="-1.157000">2454022.119</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 10180 e</name>
 			<list>Confirmed planets</list>
-			<mass>0.078642</mass>
-			<period>49.75</period>
-			<semimajoraxis>0.270</semimajoraxis>
-			<eccentricity>0.01</eccentricity>
+			<mass>0.0805</mass>
+			<period>49.748</period>
+			<semimajoraxis>0.2699</semimajoraxis>
+			<eccentricity>0.051</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>549.9</temperature>
-		</planet>
+		<periastron errorminus="-54.0000" errorplus="-54.0000">147.0</periastron><periastrontime errorminus="-6.910000" errorplus="-6.910000">2454006.26</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 10180 j</name>
 			<list>Controversial</list>
@@ -93,42 +93,42 @@
 		<planet>
 			<name>HD 10180 f</name>
 			<list>Confirmed planets</list>
-			<mass>0.0717219</mass>
-			<period>122.88</period>
-			<semimajoraxis>0.494</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
+			<mass>0.0722</mass>
+			<period>122.744</period>
+			<semimajoraxis>0.4929</semimajoraxis>
+			<eccentricity>0.119</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>406.5</temperature>
-		</planet>
+		<periastron errorminus="-27.0000" errorplus="-27.0000">327.0</periastron><periastrontime errorminus="-11.030000" errorplus="-11.030000">2454024.67</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 10180 g</name>
 			<list>Confirmed planets</list>
-			<mass>0.06920541</mass>
-			<period>596</period>
-			<semimajoraxis>1.415</semimajoraxis>
-			<eccentricity>0.03</eccentricity>
+			<mass>0.0732</mass>
+			<period>604.67</period>
+			<semimajoraxis>1.427</semimajoraxis>
+			<eccentricity>0.263</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>239.0</temperature>
-		</planet>
+		<periastron errorminus="-59.0000" errorplus="-59.0000">327.0</periastron><periastrontime errorminus="-68.300000" errorplus="-68.300000">2454002.8</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 10180 h</name>
 			<list>Confirmed planets</list>
-			<mass>0.206987</mass>
-			<period>2300</period>
-			<semimajoraxis>3.49</semimajoraxis>
-			<eccentricity>0.18</eccentricity>
+			<mass>0.2066</mass>
+			<period>2205.0</period>
+			<semimajoraxis>3.381</semimajoraxis>
+			<eccentricity>0.095</eccentricity>
 			<description>HD 10180 is a solar type star in the constellation Hydrus. The planetary system contains at least 7 planets with masses comparable to the ice giants in the solar system. There is even evidence for two more planets, but these are still awaiting confirmation. The planets in this system are in near resonance. The age of the star is 7.3 Gigayears. The planets have been discovered with the HARPS spectrograph at the La Silla Observatory in Chile.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/10</lastupdate>
+			<lastupdate>25/2015-06-2/2015-06-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.9</temperature>
-		</planet>
+		<periastron errorminus="-72.0000" errorplus="-72.0000">142.0</periastron><periastrontime errorminus="-393.100000" errorplus="-393.100000">2453433.4</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 10180</name>
 		<temperature>5911.0</temperature>
 	</star>

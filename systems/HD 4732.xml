@@ -28,9 +28,9 @@
 			<eccentricity>0.13</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<periastron errorminus="-16.0000" errorplus="-16.0000">85.0</periastron><periastrontime errorminus="-18.000000" errorplus="-18.000000">2454967.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 4732 c</name>
 			<name>HR 228 c</name>
@@ -38,14 +38,14 @@
 			<name>HD 4732 c</name>
 			<list>Confirmed planets</list>
 			<mass>2.37</mass>
-			<period>2732</period>
-			<semimajoraxis>4.60</semimajoraxis>
+			<period>2732.0</period>
+			<semimajoraxis>4.6</semimajoraxis>
 			<eccentricity>0.23</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<periastron errorminus="-15.0000" errorplus="-15.0000">118.0</periastron><periastrontime errorminus="-103.000000" errorplus="-103.000000">2456093.0</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 	<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>
 </system>

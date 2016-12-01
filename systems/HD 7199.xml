@@ -2,7 +2,7 @@
 	<name>HD 7199</name>
 	<rightascension>01 10 47</rightascension>
 	<declination>-66 11 17</declination>
-	<distance>36</distance>
+	<distance>35.88</distance>
 	<star>
 		<mass>0.89</mass>
 		<radius>0.96</radius>
@@ -17,15 +17,15 @@
 			<name>HD 7199 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.29</mass>
-			<period>615</period>
+			<period>615.0</period>
 			<semimajoraxis>1.36</semimajoraxis>
 			<eccentricity>0.19</eccentricity>
 			<description>HD 7199 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>199.1</temperature>
-		</planet>
+		<periastron errorminus="-64.0000" errorplus="-64.0000">155.0</periastron><periastrontime errorminus="-277.000000" errorplus="-277.000000">2455030.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 7199</name>
 		<temperature>5386.0</temperature>
 	</star>
