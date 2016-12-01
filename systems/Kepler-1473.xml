@@ -4,10 +4,10 @@
 	<declination>+48 59 46</declination>
 	<star>
 		<name>Kepler-1473</name>
-		<temperature errorminus="64.1" errorplus="77.2">6046.0</temperature>
+		<temperature errorminus="77.17" errorplus="-64.08">6046.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.09</mass>
-		<radius errorminus="0.06" errorplus="0.08">1.09</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">-0.01</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">1.09</radius>
+		<metallicity errorminus="0.10" errorplus="-0.097">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1473 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000084140" errorplus="0.000084140">14.427355100</period>
 			<radius errorminus="0.007" errorplus="0.008">0.106</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.060" errorplus="-1.060">2.63</age><magV errorminus="" errorplus="">13.359</magV></star>
+<distance errorminus="-36.61" errorplus="-36.61">625.0</distance></system>

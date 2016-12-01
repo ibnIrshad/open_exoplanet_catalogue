@@ -4,10 +4,10 @@
 	<declination>+41 44 46</declination>
 	<star>
 		<name>Kepler-1478</name>
-		<temperature errorminus="137.7" errorplus="102.5">5904.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">1.04</mass>
-		<radius errorminus="0.11" errorplus="0.28">1.06</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">0.03</metallicity>
+		<temperature errorminus="102.51" errorplus="-137.72">5904.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.04</mass>
+		<radius errorminus="0.28" errorplus="-0.11">1.06</radius>
+		<metallicity errorminus="0.18" errorplus="-0.178">0.03</metallicity>
 		<planet>
 			<name>Kepler-1478 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000512100" errorplus="0.000512100">26.084059400</period>
 			<radius errorminus="0.017" errorplus="0.042">0.154</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.200" errorplus="-2.200">3.98</age><magV errorminus="" errorplus="">15.44</magV></star>
+<distance errorminus="-156.48" errorplus="-156.48">1405.0</distance></system>
