@@ -2,7 +2,7 @@
 	<name>WASP-133</name>
 	<rightascension>20 58 18.08</rightascension>
 	<declination>-35 47 47.5</declination>
-	<distance errorminus="21" errorplus="21">547</distance>
+	<distance errorminus="21" errorplus="21">547.0</distance>
 	<star>
 		<name>WASP-133</name>
 		<name>2MASS J20581808-3547475</name>
@@ -20,14 +20,14 @@
 			<period>2.176423</period>
 			<transittime unit="HJD">2547116.9874</transittime>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0345</semimajoraxis>
-			<temperature errorminus="40" errorplus="40">1790</temperature>
-			<inclination errorminus="1" errorplus="1">87</inclination>
-			<eccentricity upperlimit="0.17" />
+			<temperature errorminus="40" errorplus="40">1790.0</temperature>
+			<inclination errorminus="1" errorplus="1">87.0</inclination>
+			<eccentricity upperlimit="0.17">0.17</eccentricity>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>05/2016-05-0/2016-05-0</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<impactparameter errorminus="-0.1000" errorplus="-0.1000">0.2</impactparameter></planet>
 	</star>
 </system>
