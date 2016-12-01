@@ -4,10 +4,10 @@
 	<declination>+49 37 24</declination>
 	<star>
 		<name>Kepler-538</name>
-		<temperature errorminus="58.6" errorplus="69.8">5650.0</temperature>
+		<temperature errorminus="69.81" errorplus="-58.6">5650.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.96</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.90</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.05</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.107">-0.05</metallicity>
 		<planet>
 			<name>Kepler-538 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000093260" errorplus="0.000093260">81.737806990</period>
 			<radius errorminus="0.008" errorplus="0.009">0.202</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.390" errorplus="-1.390">2.95</age><magV errorminus="" errorplus="">11.195</magV></star>
+<distance errorminus="-7.27" errorplus="-7.27">165.0</distance></system>
