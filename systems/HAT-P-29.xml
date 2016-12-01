@@ -2,7 +2,7 @@
 	<name>HAT-P-29</name>
 	<rightascension>02 12 31</rightascension>
 	<declination>+51 46 44</declination>
-	<distance>322</distance>
+	<distance>322.0</distance>
 	<star>
 		<mass>1.207</mass>
 		<radius>1.224</radius>
@@ -20,17 +20,17 @@
 			<list>Confirmed planets</list>
 			<mass>0.778</mass>
 			<radius>1.107</radius>
-			<period>5.72318</period>
+			<period>5.723186</period>
 			<semimajoraxis>0.0667</semimajoraxis>
 			<eccentricity>0.095</eccentricity>
 			<inclination>87.1</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1149.1</temperature>
+			<temperature>1260.0</temperature>
 			<transittime errorminus="0.00181" errorplus="0.00181" unit="BJD">2455197.57540</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-30.0000" errorplus="-30.0000">169.0</periastron><impactparameter errorminus="-0.0940" errorplus="-0.0940">0.591</impactparameter></planet>
 		<name>HAT-P-29</name>
 		<temperature>6087.0</temperature>
 	</star>

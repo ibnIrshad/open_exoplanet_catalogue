@@ -23,10 +23,10 @@
 			<semimajoraxis>1.94</semimajoraxis>
 			<eccentricity>0.526</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>164.2</temperature>
-		</planet>
+		<periastron errorminus="-7.2000" errorplus="-7.2000">81.3</periastron><periastrontime errorminus="-12.000000" errorplus="-12.000000">2452504.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 81040</name>
 		<temperature>5700.0</temperature>
 	</star>

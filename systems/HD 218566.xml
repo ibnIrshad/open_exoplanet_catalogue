@@ -2,7 +2,7 @@
 	<name>HD 218566</name>
 	<rightascension>23 09 10.72771</rightascension>
 	<declination>-02 15 38.6775</declination>
-	<distance errorminus="0.93" errorplus="0.93">28.55</distance>
+	<distance errorminus="0.93" errorplus="0.93">29.94</distance>
 	<star>
 		<name>HD 218566</name>
 		<name>HIP 114322</name>
@@ -31,10 +31,10 @@
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.6873</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
 			<periastrontime errorminus="154" errorplus="154">2450360</periastrontime>
-			<periastron errorminus="24" errorplus="24">36</periastron>
+			<periastron errorminus="24" errorplus="24">36.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/03</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
