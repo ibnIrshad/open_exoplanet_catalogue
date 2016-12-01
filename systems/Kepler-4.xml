@@ -2,7 +2,7 @@
 	<name>Kepler-4</name>
 	<rightascension>19 02 28</rightascension>
 	<declination>+50 08 09</declination>
-	<distance>550</distance>
+	<distance errorminus="80.0" errorplus="-80.0">550</distance>
 	<star>
 		<mass>1.223</mass>
 		<radius>1.487</radius>
@@ -21,19 +21,19 @@
 			<name>KOI-7.01</name>
 			<name>KOI-7 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.077</mass>
-			<radius>0.357</radius>
-			<period>3.21346</period>
-			<semimajoraxis>0.0456</semimajoraxis>
+			<mass errorminus="0.012" errorplus="-0.012">0.077</mass>
+			<radius errorminus="0.019" errorplus="-0.019">0.357</radius>
+			<period errorminus="0.00022" errorplus="-0.00022">3.21346</period>
+			<semimajoraxis errorminus="0.0009" errorplus="-0.0009">0.0456</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>89.76</inclination>
+			<inclination errorminus="0.24" errorplus="-2.05">89.76</inclination>
 			<transittime errorminus="0.0015" errorplus="0.0015" unit="HJD">2454956.6127</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/01/06</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1474.7</temperature>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature errorminus="200.0" errorplus="-200.0">1650.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0220" errorplus="-0.0220">0.022</impactparameter></planet>
 		<name>Kepler-4</name>
 		<name>KOI-7</name>
 		<name>KIC 11853905</name>

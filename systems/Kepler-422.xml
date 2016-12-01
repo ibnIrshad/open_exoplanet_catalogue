@@ -20,9 +20,9 @@
 			<name>KOI-22 b</name>
 			<name>KOI-22.01</name>
 			<name>KIC 9631995 b</name>
-			<radius errorminus="0.11" errorplus="0.11">1.15</radius>
+			<radius errorminus="0.11" errorplus="-0.11">1.15</radius>
 			<eccentricity>0.016</eccentricity>
-			<mass errorminus="0.13" errorplus="0.13">0.43</mass>
+			<mass errorminus="0.13" errorplus="-0.13">0.43</mass>
 			<period errorminus="0.0000005" errorplus="0.0000005">7.8914483</period>
 			<transittime errorminus="0.00011" errorplus="0.00011">2455010.25005</transittime>
 			<semimajoraxis errorminus="0.010" errorplus="0.011">0.082</semimajoraxis>
@@ -31,8 +31,8 @@
 			<description>Kepler-422 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-22 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/09/30</lastupdate>
+			<lastupdate>03/2014-10-0/2014-10-0</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<impactparameter errorminus="-0.0450" errorplus="-0.0450">0.416</impactparameter></planet>
 	</star>
 </system>
