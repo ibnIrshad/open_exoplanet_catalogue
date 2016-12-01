@@ -4,10 +4,10 @@
 	<declination>+50 54 35</declination>
 	<star>
 		<name>Kepler-879</name>
-		<temperature errorminus="120.2" errorplus="96.0">5792.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.02</mass>
-		<radius errorminus="0.10" errorplus="0.22">1.02</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">0.05</metallicity>
+		<temperature errorminus="96.05" errorplus="-120.23">5792.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.02</mass>
+		<radius errorminus="0.22" errorplus="-0.1">1.02</radius>
+		<metallicity errorminus="0.15" errorplus="-0.155">0.05</metallicity>
 		<planet>
 			<name>Kepler-879 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000142000" errorplus="0.000142000">33.385593800</period>
 			<radius errorminus="0.025" errorplus="0.059">0.229</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.490" errorplus="-2.490">4.27</age><magV errorminus="" errorplus="">14.264</magV></star>
+<distance errorminus="-75.25" errorplus="-75.25">772.0</distance></system>

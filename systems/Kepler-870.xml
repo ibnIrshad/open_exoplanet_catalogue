@@ -4,10 +4,10 @@
 	<declination>+50 28 43</declination>
 	<star>
 		<name>Kepler-870</name>
-		<temperature errorminus="151.0" errorplus="139.2">5857.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">1.01</mass>
-		<radius errorminus="0.10" errorplus="0.18">1.02</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="139.18" errorplus="-150.97">5857.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.01</mass>
+		<radius errorminus="0.10" errorplus="-0.1">1.02</radius>
+		<metallicity errorminus="0.17" errorplus="-0.167">-0.01</metallicity>
 		<planet>
 			<name>Kepler-870 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000118400" errorplus="0.000118400">21.358762100</period>
 			<radius errorminus="0.026" errorplus="0.045">0.248</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.070" errorplus="-2.070">3.8</age><magV errorminus="" errorplus="">15.259</magV></star>
+<distance errorminus="-132.72" errorplus="-132.72">1231.0</distance></system>

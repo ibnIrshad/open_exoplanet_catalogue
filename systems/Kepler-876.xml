@@ -4,10 +4,10 @@
 	<declination>+43 23 02</declination>
 	<star>
 		<name>Kepler-876</name>
-		<temperature errorminus="63.8" errorplus="63.1">5060.0</temperature>
+		<temperature errorminus="63.15" errorplus="-63.75">5060.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.77</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.171">-0.03</metallicity>
 		<planet>
 			<name>Kepler-876 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000024660" errorplus="0.000024660">5.144380110</period>
 			<radius errorminus="0.008" errorplus="0.009">0.128</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.220" errorplus="-3.220">5.25</age><magV errorminus="" errorplus="">15.369</magV></star>
+<distance errorminus="-39.85" errorplus="-39.85">735.0</distance></system>

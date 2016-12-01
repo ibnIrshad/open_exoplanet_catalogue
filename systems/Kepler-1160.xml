@@ -4,10 +4,10 @@
 	<declination>+43 21 51</declination>
 	<star>
 		<name>Kepler-1160</name>
-		<temperature errorminus="63.4" errorplus="61.2">5519.0</temperature>
+		<temperature errorminus="61.23" errorplus="-63.44">5519.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.92</mass>
-		<radius errorminus="0.05" errorplus="0.11">0.89</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.01</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.89</radius>
+		<metallicity errorminus="0.16" errorplus="-0.163">0.01</metallicity>
 		<planet>
 			<name>Kepler-1160 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000031220" errorplus="0.000031220">7.970349580</period>
 			<radius errorminus="0.012" errorplus="0.025">0.191</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.840" errorplus="-2.840">4.57</age><magV errorminus="" errorplus="">15.833</magV></star>
+<distance errorminus="-83.89" errorplus="-83.89">1293.0</distance></system>

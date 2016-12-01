@@ -4,10 +4,10 @@
 	<declination>+46 44 47</declination>
 	<star>
 		<name>Kepler-960</name>
-		<temperature errorminus="40.5" errorplus="41.3">4755.0</temperature>
+		<temperature errorminus="41.26" errorplus="-40.53">4755.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.16" errorplus="0.16">0.02</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.163">0.02</metallicity>
 		<planet>
 			<name>Kepler-960 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000001670" errorplus="0.000001670">3.126862230</period>
 			<radius errorminus="0.022" errorplus="0.006">0.204</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.990" errorplus="-1.990">3.63</age><magV errorminus="" errorplus="">13.884</magV></star>
+<distance errorminus="-13.29" errorplus="-13.29">298.0</distance></system>

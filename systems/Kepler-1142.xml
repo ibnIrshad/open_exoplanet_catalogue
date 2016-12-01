@@ -4,10 +4,10 @@
 	<declination>+44 04 56</declination>
 	<star>
 		<name>Kepler-1142</name>
-		<temperature errorminus="132.1" errorplus="98.6">5685.0</temperature>
-		<mass errorminus="0.06" errorplus="0.05">0.97</mass>
-		<radius errorminus="0.08" errorplus="0.24">0.96</radius>
-		<metallicity errorminus="0.17" errorplus="0.12">0.02</metallicity>
+		<temperature errorminus="98.59" errorplus="-132.1">5685.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.97</mass>
+		<radius errorminus="0.24" errorplus="-0.08">0.96</radius>
+		<metallicity errorminus="0.17" errorplus="-0.171">0.02</metallicity>
 		<planet>
 			<name>Kepler-1142 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000138900" errorplus="0.000138900">18.302724800</period>
 			<radius errorminus="0.016" errorplus="0.038">0.131</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.470" errorplus="-3.470">5.37</age><magV errorminus="" errorplus="">14.31</magV></star>
+<distance errorminus="-66.61" errorplus="-66.61">697.0</distance></system>

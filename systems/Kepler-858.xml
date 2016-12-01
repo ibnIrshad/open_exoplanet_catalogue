@@ -4,10 +4,10 @@
 	<declination>+51 12 33</declination>
 	<star>
 		<name>Kepler-858</name>
-		<temperature errorminus="61.1" errorplus="74.3">5653.0</temperature>
+		<temperature errorminus="74.35" errorplus="-61.07">5653.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.96</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.91</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.04</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.106">-0.04</metallicity>
 		<planet>
 			<name>Kepler-858 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000055330" errorplus="0.000055330">76.136020280</period>
 			<radius errorminus="0.018" errorplus="0.021">0.434</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.680" errorplus="-1.680">3.39</age><magV errorminus="" errorplus="">12.45</magV></star>
+<distance errorminus="-13.20" errorplus="-13.20">296.0</distance></system>

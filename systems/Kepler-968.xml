@@ -4,10 +4,10 @@
 	<declination>+50 06 43</declination>
 	<star>
 		<name>Kepler-968</name>
-		<temperature errorminus="38.9" errorplus="37.1">4598.0</temperature>
+		<temperature errorminus="37.07" errorplus="-38.88">4598.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.70</radius>
-		<metallicity errorminus="0.21" errorplus="0.13">0.13</metallicity>
+		<metallicity errorminus="0.21" errorplus="-0.211">0.13</metallicity>
 		<planet>
 			<name>Kepler-968 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000009540" errorplus="0.000009540">5.709404920</period>
 			<radius errorminus="0.006" errorplus="0.007">0.151</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.2" errorplus="-0.786">2.14</age><magV errorminus="" errorplus="">14.265</magV></star>
+<distance errorminus="11.3" errorplus="-12.89">312.0</distance></system>

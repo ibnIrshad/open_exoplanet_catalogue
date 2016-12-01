@@ -4,10 +4,10 @@
 	<declination>+38 53 40</declination>
 	<star>
 		<name>Kepler-1164</name>
-		<temperature errorminus="63.8" errorplus="80.3">5183.0</temperature>
+		<temperature errorminus="80.28" errorplus="-63.78">5183.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.79</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.105">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1164 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000010860" errorplus="0.000010860">3.975997680</period>
 			<radius errorminus="0.006" errorplus="0.004">0.100</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.820" errorplus="-1.820">3.63</age><magV errorminus="" errorplus="">14.11</magV></star>
+<distance errorminus="-15.12" errorplus="-15.12">447.0</distance></system>

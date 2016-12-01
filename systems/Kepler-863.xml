@@ -4,10 +4,10 @@
 	<declination>+43 14 56</declination>
 	<star>
 		<name>Kepler-863</name>
-		<temperature errorminus="195.6" errorplus="317.9">5678.0</temperature>
-		<mass errorminus="0.07" errorplus="0.11">0.96</mass>
-		<radius errorminus="0.10" errorplus="0.22">0.95</radius>
-		<metallicity errorminus="0.19" errorplus="0.14">-0.03</metallicity>
+		<temperature errorminus="317.91" errorplus="-195.62">5678.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">0.96</mass>
+		<radius errorminus="0.22" errorplus="-0.1">0.95</radius>
+		<metallicity errorminus="0.19" errorplus="-0.187">-0.03</metallicity>
 		<planet>
 			<name>Kepler-863 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000042850" errorplus="0.000042850">15.594618740</period>
 			<radius errorminus="0.029" errorplus="0.061">0.259</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.130" errorplus="-2.130">3.8</age><magV errorminus="" errorplus="">15.43</magV></star>
+<distance errorminus="-130.49" errorplus="-130.49">1145.0</distance></system>

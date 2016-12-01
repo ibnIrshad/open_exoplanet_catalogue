@@ -4,10 +4,10 @@
 	<declination>+45 02 28</declination>
 	<star>
 		<name>Kepler-963</name>
-		<temperature errorminus="150.8" errorplus="214.9">5461.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">0.91</mass>
-		<radius errorminus="0.06" errorplus="0.10">0.87</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.02</metallicity>
+		<temperature errorminus="214.9" errorplus="-150.82">5461.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.91</mass>
+		<radius errorminus="0.06" errorplus="-0.06">0.87</radius>
+		<metallicity errorminus="0.17" errorplus="-0.17">-0.02</metallicity>
 		<planet>
 			<name>Kepler-963 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000015680" errorplus="0.000015680">9.976837050</period>
 			<radius errorminus="0.017" errorplus="0.027">0.237</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.430" errorplus="-2.430">4.07</age><magV errorminus="" errorplus="">14.943</magV></star>
+<distance errorminus="-60.70" errorplus="-60.70">786.0</distance></system>

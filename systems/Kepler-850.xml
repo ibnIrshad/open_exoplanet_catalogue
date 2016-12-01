@@ -4,10 +4,10 @@
 	<declination>+48 34 31</declination>
 	<star>
 		<name>Kepler-850</name>
-		<temperature errorminus="95.5" errorplus="89.3">5932.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">1.06</mass>
-		<radius errorminus="0.12" errorplus="0.29">1.09</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.03</metallicity>
+		<temperature errorminus="89.3" errorplus="-95.55">5932.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.06</mass>
+		<radius errorminus="0.29" errorplus="-0.12">1.09</radius>
+		<metallicity errorminus="0.16" errorplus="-0.164">0.03</metallicity>
 		<planet>
 			<name>Kepler-850 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000038180" errorplus="0.000038180">7.193038780</period>
 			<radius errorminus="0.019" errorplus="0.042">0.159</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.140" errorplus="-2.140">3.89</age><magV errorminus="" errorplus="">15.451</magV></star>
+<distance errorminus="-175.69" errorplus="-175.69">1535.0</distance></system>
