@@ -4,10 +4,10 @@
 	<declination>+44 14 15</declination>
 	<star>
 		<name>Kepler-778</name>
-		<temperature errorminus="62.1" errorplus="72.0">5102.0</temperature>
+		<temperature errorminus="71.96" errorplus="-62.12">5102.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.77</radius>
-		<metallicity errorminus="0.19" errorplus="0.15">-0.09</metallicity>
+		<metallicity errorminus="0.19" errorplus="-0.186">-0.09</metallicity>
 		<planet>
 			<name>Kepler-778 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000010830" errorplus="0.000010830">3.755744260</period>
 			<radius errorminus="0.012" errorplus="0.009">0.150</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.240" errorplus="-3.240">5.25</age><magV errorminus="" errorplus="">15.764</magV></star>
+<distance errorminus="-63.02" errorplus="-63.02">899.0</distance></system>

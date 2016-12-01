@@ -4,10 +4,10 @@
 	<declination>+38 56 21</declination>
 	<star>
 		<name>Kepler-786</name>
-		<temperature errorminus="45.6" errorplus="59.8">4838.0</temperature>
+		<temperature errorminus="59.77" errorplus="-45.6">4838.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.81</mass>
 		<radius errorminus="0.01" errorplus="0.01">0.74</radius>
-		<metallicity errorminus="0.10" errorplus="0.11">0.09</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.103">0.09</metallicity>
 		<planet>
 			<name>Kepler-786 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000257100" errorplus="0.000257100">53.529348700</period>
 			<radius errorminus="0.006" errorplus="0.011">0.217</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.960" errorplus="-0.960">2.51</age><magV errorminus="" errorplus="">14.887</magV></star>
+<distance errorminus="-11.46" errorplus="-11.46">512.0</distance></system>

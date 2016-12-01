@@ -4,10 +4,10 @@
 	<declination>+41 38 08</declination>
 	<star>
 		<name>Kepler-776</name>
-		<temperature errorminus="86.6" errorplus="57.1">5071.0</temperature>
+		<temperature errorminus="57.15" errorplus="-86.62">5071.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.16" errorplus="0.16">0.05</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.164">0.05</metallicity>
 		<planet>
 			<name>Kepler-776 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000019690" errorplus="0.000019690">4.897187840</period>
 			<radius errorminus="0.006" errorplus="0.010">0.114</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.620" errorplus="-2.620">4.37</age><magV errorminus="" errorplus="">15.456</magV></star>
+<distance errorminus="-36.71" errorplus="-36.71">727.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+37 58 11</declination>
 	<star>
 		<name>Kepler-766</name>
-		<temperature errorminus="141.0" errorplus="95.5">5992.0</temperature>
-		<mass errorminus="0.07" errorplus="0.09">1.10</mass>
-		<radius errorminus="0.13" errorplus="0.31">1.15</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">0.09</metallicity>
+		<temperature errorminus="95.54" errorplus="-140.96">5992.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.10</mass>
+		<radius errorminus="0.31" errorplus="-0.13">1.15</radius>
+		<metallicity errorminus="0.15" errorplus="-0.147">0.09</metallicity>
 		<planet>
 			<name>Kepler-766 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000016400" errorplus="0.000016400">6.100278040</period>
-			<radius errorminus="0.036" errorplus="0.083">0.302</radius>
+			<radius errorminus="0.036" errorplus="-0.036">0.302</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.910" errorplus="-1.910">3.63</age><magV errorminus="" errorplus="">15.678</magV></star>
+<distance errorminus="-196.98" errorplus="-196.98">1614.0</distance></system>

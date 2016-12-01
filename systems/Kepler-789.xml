@@ -4,10 +4,10 @@
 	<declination>+38 56 48</declination>
 	<star>
 		<name>Kepler-789</name>
-		<temperature errorminus="120.7" errorplus="204.6">5870.0</temperature>
-		<mass errorminus="0.07" errorplus="0.09">1.01</mass>
-		<radius errorminus="0.11" errorplus="0.20">1.02</radius>
-		<metallicity errorminus="0.20" errorplus="0.14">-0.06</metallicity>
+		<temperature errorminus="204.63" errorplus="-120.74">5870.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.01</mass>
+		<radius errorminus="0.11" errorplus="-0.11">1.02</radius>
+		<metallicity errorminus="0.20" errorplus="-0.199">-0.06</metallicity>
 		<planet>
 			<name>Kepler-789 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000030710" errorplus="0.000030710">8.638477250</period>
 			<radius errorminus="0.021" errorplus="0.037">0.189</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.000" errorplus="-2.000">3.72</age><magV errorminus="" errorplus="">14.507</magV></star>
+<distance errorminus="-103.69" errorplus="-103.69">915.0</distance></system>

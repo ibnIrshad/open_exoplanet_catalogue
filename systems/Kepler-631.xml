@@ -4,10 +4,10 @@
 	<declination>+40 13 42</declination>
 	<star>
 		<name>Kepler-631</name>
-		<temperature errorminus="75.5" errorplus="85.6">6185.0</temperature>
+		<temperature errorminus="85.62" errorplus="-75.47">6185.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">1.24</mass>
-		<radius errorminus="0.10" errorplus="0.14">1.33</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
+		<radius errorminus="0.10" errorplus="-0.1">1.33</radius>
+		<metallicity errorminus="0.08" errorplus="-0.079">0.23</metallicity>
 		<planet>
 			<name>Kepler-631 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000037700" errorplus="0.000037700">17.979790590</period>
 			<radius errorminus="0.021" errorplus="0.029">0.259</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.912" errorplus="-0.912">2.51</age><magV errorminus="" errorplus="">13.5</magV></star>
+<distance errorminus="-67.00" errorplus="-67.00">843.0</distance></system>
