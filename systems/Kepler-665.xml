@@ -4,10 +4,10 @@
 	<declination>+48 28 43</declination>
 	<star>
 		<name>Kepler-665</name>
-		<temperature errorminus="87.0" errorplus="93.8">4913.0</temperature>
+		<temperature errorminus="93.83" errorplus="-86.97">4913.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.168">-0.03</metallicity>
 		<planet>
 			<name>Kepler-665 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000043080" errorplus="0.000043080">16.013102050</period>
 			<radius errorminus="0.013" errorplus="0.013">0.232</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.750" errorplus="-2.750">4.68</age><magV errorminus="" errorplus="">15.39</magV></star>
+<distance errorminus="-36.75" errorplus="-36.75">651.0</distance></system>

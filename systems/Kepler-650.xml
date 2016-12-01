@@ -4,10 +4,10 @@
 	<declination>+45 09 15</declination>
 	<star>
 		<name>Kepler-650</name>
-		<temperature errorminus="77.6" errorplus="64.9">5849.0</temperature>
-		<mass errorminus="0.05" errorplus="0.08">1.08</mass>
-		<radius errorminus="0.21" errorplus="0.23">1.35</radius>
-		<metallicity errorminus="0.08" errorplus="0.09">0.13</metallicity>
+		<temperature errorminus="64.94" errorplus="-77.61">5849.0</temperature>
+		<mass errorminus="0.05" errorplus="-0.05">1.08</mass>
+		<radius errorminus="0.21" errorplus="-0.21">1.35</radius>
+		<metallicity errorminus="0.08" errorplus="-0.084">0.13</metallicity>
 		<planet>
 			<name>Kepler-650 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003310" errorplus="0.000003310">3.032145590</period>
 			<radius errorminus="0.040" errorplus="0.045">0.264</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.860" errorplus="-1.860">6.46</age><magV errorminus="" errorplus="">13.684</magV></star>
+<distance errorminus="-122.22" errorplus="-122.22">805.0</distance></system>

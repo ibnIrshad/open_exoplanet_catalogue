@@ -4,10 +4,10 @@
 	<declination>+47 56 48</declination>
 	<star>
 		<name>Kepler-663</name>
-		<temperature errorminus="127.7" errorplus="90.6">5264.0</temperature>
+		<temperature errorminus="90.56" errorplus="-127.67">5264.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.82</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.165">0.03</metallicity>
 		<planet>
 			<name>Kepler-663 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000014480" errorplus="0.000014480">4.996782840</period>
 			<radius errorminus="0.014" errorplus="0.018">0.232</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.830" errorplus="-2.830">4.57</age><magV errorminus="" errorplus="">15.861</magV></star>
+<distance errorminus="-63.50" errorplus="-63.50">1030.0</distance></system>

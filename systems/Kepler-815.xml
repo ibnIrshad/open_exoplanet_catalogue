@@ -4,9 +4,9 @@
 	<declination>+47 52 53</declination>
 	<star>
 		<name>Kepler-815</name>
-		<temperature errorminus="43.6" errorplus="52.6">5028.0</temperature>
-		<mass errorminus="0.19" errorplus="0.05">1.25</mass>
-		<radius errorminus="0.26" errorplus="0.09">3.42</radius>
+		<temperature errorminus="52.57" errorplus="-43.63">5028.0</temperature>
+		<mass errorminus="0.05" errorplus="-0.19">1.25</mass>
+		<radius errorminus="0.09" errorplus="-0.26">3.42</radius>
 		<metallicity errorminus="0.03" errorplus="0.04">-0.03</metallicity>
 		<planet>
 			<name>Kepler-815 b</name>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000059100" errorplus="0.000059100">8.575035520</period>
 			<radius errorminus="0.029" errorplus="0.017">0.367</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.560" errorplus="-0.560">4.9</age><magV errorminus="" errorplus="">13.242</magV></star>
+<distance errorminus="-85.52" errorplus="-85.52">1199.0</distance></system>
