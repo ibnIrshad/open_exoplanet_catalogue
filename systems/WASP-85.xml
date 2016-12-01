@@ -15,22 +15,22 @@
 			<planet>
 				<name>WASP-85 A b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.065" errorplus="0.065">1.265</mass>
+				<mass errorminus="0.065" errorplus="-0.065">1.265</mass>
 				<radius errorminus="0.03" errorplus="0.03">1.24</radius>
 				<period errorminus="0.00000044" errorplus="0.00000044">2.65567770</period>
 				<semimajoraxis errorminus="0.001" errorplus="0.001">0.039</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<inclination errorminus="0.03" errorplus="0.11">89.69</inclination>
+				<inclination errorminus="0.03" errorplus="-0.03">89.69</inclination>
 				<transittime errorminus="0.000014" errorplus="0.000014" unit="BJD">2456847.472856</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/09/15</lastupdate>
+				<lastupdate>07/2016-07-0/2016-07-0</lastupdate>
 				<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1. The star has starspots which are occulted by the planet, indicating that the orbit is misaligned with the stellar equator.</description>
-				<discoveryyear>2014</discoveryyear>
-				<temperature errorminus="6" errorplus="6">1452</temperature>
+				<discoveryyear>2016</discoveryyear>
+				<temperature errorminus="6" errorplus="-6.0">1452</temperature>
 				<spinorbitalignment lowerlimit="10" />
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="-0.0180" errorplus="-0.0180">0.047</impactparameter></planet>
 		</star>
 		<star>
 			<name>WASP-85 B</name>

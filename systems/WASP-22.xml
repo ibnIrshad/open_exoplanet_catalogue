@@ -19,17 +19,17 @@
 			<name>TYC 6446-00326-1 b</name>
 			<name>2MASS J03311633-2349109 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.588</mass>
-			<radius>1.158</radius>
-			<period>3.5327313</period>
-			<semimajoraxis>0.04698</semimajoraxis>
+			<mass errorminus="0.028" errorplus="-0.018">0.588</mass>
+			<radius errorminus="0.046" errorplus="-0.027">1.158</radius>
+			<period errorminus="7e-07" errorplus="-7e-07">3.5327313</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.0004">0.04698</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.26</inclination>
+			<inclination errorminus="1.0" errorplus="-1.0">88.6</inclination>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2455497.40043</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/07/01</lastupdate>
+			<lastupdate>25/2016-02-2/2016-02-2</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1297.5</temperature>
+			<temperature errorminus="20.0" errorplus="-20.0">1502.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-22</name>

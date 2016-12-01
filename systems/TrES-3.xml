@@ -2,7 +2,7 @@
 	<name>TrES-3</name>
 	<rightascension>17 52 07</rightascension>
 	<declination>+37 32 46</declination>
-	<distance>400</distance>
+	<distance errorminus="12.0" errorplus="-12.0">228.0</distance>
 	<star>
 		<name>TrES-3</name>
 		<mass>0.88</mass>
@@ -22,15 +22,15 @@
 			<name>2MASS J17520702+3732461</name>
 			<name>TrES-3</name>
 			<list>Confirmed planets</list>
-			<mass>1.91</mass>
-			<radius>1.305</radius>
+			<mass errorminus="0.075" errorplus="-0.08">1.91</mass>
+			<radius errorminus="0.031" errorplus="-0.037">1.305</radius>
 			<period>1.30618608</period>
 			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0226</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.21" errorplus="0.21">82.15</inclination>
+			<inclination errorminus="0.21" errorplus="-0.16">81.85</inclination>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455358.86636</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/13</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<description>The planet TrES-3 b has an orbital perdiod of just 31 hours and is undergoing orbital decay due to tidal effects.</description>
 			<istransiting>1</istransiting>
