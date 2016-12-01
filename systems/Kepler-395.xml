@@ -12,7 +12,7 @@
 		<name>Kepler-395</name>
 		<name>KOI-2650</name>
 		<name>KIC 8890150</name>
-		<temperature errorminus="100" errorplus="100">4262</temperature>
+		<temperature errorminus="100" errorplus="-100.0">4262</temperature>
 		<radius errorminus=".022" errorplus="0.022">0.556</radius>
 		<mass errorminus="0.0370" errorplus="0.0370">0.5470</mass>
 		<planet>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.177</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.4</impactparameter></planet>
 		<planet>
 			<name>Kepler-395 b</name>
 			<name>KOI-2650 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.061</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.09</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.163</metallicity><magV errorminus="" errorplus="">15.987</magV></star>
 </system>

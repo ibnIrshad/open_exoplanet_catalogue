@@ -12,8 +12,8 @@
 		<name>Kepler-388</name>
 		<name>KOI-2466</name>
 		<name>KIC 8544992</name>
-		<temperature errorminus="200" errorplus="200">4498</temperature>
-		<radius errorminus=".069" errorplus="0.069">0.586</radius>
+		<temperature errorminus="200" errorplus="-200.0">4498</temperature>
+		<radius errorminus=".069" errorplus="-0.07">0.586</radius>
 		<mass errorminus="0.0150" errorplus="0.0150">0.6350</mass>
 		<planet>
 			<name>Kepler-388 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.036</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.2</impactparameter></planet>
 		<planet>
 			<name>Kepler-388 c</name>
 			<name>KOI-2466 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.093</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.18</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.329</metallicity><magV errorminus="" errorplus="">14.993</magV></star>
 </system>
