@@ -4,21 +4,21 @@
 	<declination>+46 44 31</declination>
 	<star>
 		<name>Kepler-1307</name>
-		<temperature errorminus="103.2" errorplus="77.6">5884.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">1.06</mass>
-		<radius errorminus="0.11" errorplus="0.29">1.08</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.06</metallicity>
+		<temperature errorminus="77.63" errorplus="-103.16">5884.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.06</mass>
+		<radius errorminus="0.29" errorplus="-0.11">1.08</radius>
+		<metallicity errorminus="0.15" errorplus="-0.147">0.06</metallicity>
 		<planet>
 			<name>Kepler-1307 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000095220" errorplus="0.000095220">18.016210960</period>
 			<radius errorminus="0.024" errorplus="0.059">0.220</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.290" errorplus="-2.290">4.07</age><magV errorminus="" errorplus="">15.394</magV></star>
+<distance errorminus="-147.88" errorplus="-147.88">1396.0</distance></system>

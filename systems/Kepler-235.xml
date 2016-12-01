@@ -12,7 +12,7 @@
 		<name>Kepler-235</name>
 		<name>KOI-812</name>
 		<name>KIC 4139816</name>
-		<temperature errorminus="100" errorplus="100">4255</temperature>
+		<temperature errorminus="100" errorplus="-100.0">4255</temperature>
 		<radius errorminus=".021" errorplus="0.021">0.554</radius>
 		<mass errorminus="0.0180" errorplus="0.0180">0.5810</mass>
 		<planet>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-235 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.037</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.37</impactparameter></planet>
 		<planet>
 			<name>Kepler-235 d</name>
 			<name>KOI-812 d</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-235 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.11</impactparameter></planet>
 		<planet>
 			<name>Kepler-235 e</name>
 			<name>KOI-812 e</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-235 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.213</semimajoraxis><impactparameter errorminus="-0.3400" errorplus="-0.3400">0.68</impactparameter></planet>
 		<planet>
 			<name>Kepler-235 c</name>
 			<name>KOI-812 c</name>
@@ -75,9 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-235 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-235 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.24</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.087</metallicity><magV errorminus="" errorplus="">15.954</magV></star>
 </system>
