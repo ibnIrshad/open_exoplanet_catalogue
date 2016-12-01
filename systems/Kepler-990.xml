@@ -4,16 +4,16 @@
 	<declination>+46 52 53</declination>
 	<star>
 		<name>Kepler-990</name>
-		<temperature errorminus="213.6" errorplus="211.1">5948.0</temperature>
-		<mass errorminus="0.09" errorplus="0.12">1.05</mass>
-		<radius errorminus="0.14" errorplus="0.27">1.08</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.01</metallicity>
+		<temperature errorminus="211.07" errorplus="-213.6">5948.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.05</mass>
+		<radius errorminus="0.27" errorplus="-0.14">1.08</radius>
+		<metallicity errorminus="0.17" errorplus="-0.173">0.01</metallicity>
 		<planet>
 			<name>Kepler-990 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000670" errorplus="0.000000670">0.538354310</period>
 			<radius errorminus="0.017" errorplus="0.031">0.136</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.38" errorplus="-1.750">3.55</age><magV errorminus="" errorplus="">14.498</magV></star>
+<distance errorminus="242.95" errorplus="-130.03">933.0</distance></system>
