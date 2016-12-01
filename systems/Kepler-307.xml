@@ -20,14 +20,14 @@
 			<name>KOI-1576.01</name>
 			<name>KIC 5299459 b</name>
 			<name>KIC 5299459.01</name>
-			<radius errorminus="0.02825" errorplus="0.11938">0.29162</radius>
-			<mass errorminus="0.002740" errorplus="0.002854">0.023403</mass>
+			<radius errorminus="0.02825" errorplus="0.11938">0.217</radius>
+			<mass errorminus="0.002740" errorplus="0.002854">0.02341</mass>
 			<transittime errorminus="0.0009800" errorplus="0.0009800">2454976.0458200</transittime>
-			<period>10.416</period>
+			<period>10.4208</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -37,14 +37,14 @@
 			<name>KOI-1576.02</name>
 			<name>KIC 5299459 c</name>
 			<name>KIC 5299459.02</name>
-			<radius errorminus="0.01276" errorplus="0.10389">0.25516</radius>
-			<mass errorminus="0.001825" errorplus="0.002055">0.011468</mass>
+			<radius errorminus="0.01276" errorplus="0.10389">0.196</radius>
+			<mass errorminus="0.001825" errorplus="0.002055">0.01145</mass>
 			<transittime errorminus="0.0013400" errorplus="0.0013400">2454965.6317400</transittime>
-			<period>13.084</period>
+			<period>13.0729</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
