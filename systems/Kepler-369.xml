@@ -12,7 +12,7 @@
 		<name>Kepler-369</name>
 		<name>KOI-2179</name>
 		<name>KIC 10670119</name>
-		<temperature errorminus="100" errorplus="100">3591</temperature>
+		<temperature errorminus="100" errorplus="-100.0">3591</temperature>
 		<radius errorminus=".014" errorplus="0.014">0.471</radius>
 		<mass errorminus="0.3000" errorplus="0.3000">0.4700</mass>
 		<planet>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.094</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.01</impactparameter></planet>
 		<planet>
 			<name>Kepler-369 b</name>
 			<name>KOI-2179 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.03</semimajoraxis><impactparameter errorminus="-0.2500" errorplus="-0.2500">0.27</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.207</metallicity><magV errorminus="" errorplus="">15.673</magV></star>
 </system>

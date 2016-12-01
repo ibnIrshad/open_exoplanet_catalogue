@@ -14,8 +14,8 @@
 		<name>Kepler-381</name>
 		<name>KOI-2352</name>
 		<name>KIC 8013439</name>
-		<temperature errorminus="100" errorplus="100">6152</temperature>
-		<radius errorminus=".350" errorplus="0.350">1.568</radius>
+		<temperature errorminus="100" errorplus="-100.0">6152</temperature>
+		<radius errorminus=".350" errorplus="-0.35">1.568</radius>
 		<mass>1.3780</mass>
 		<planet>
 			<name>Kepler-381 c</name>
@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.117</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.49</impactparameter></planet>
 		<planet>
 			<name>Kepler-381 b</name>
 			<name>KOI-2352 b</name>
@@ -48,6 +48,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.29</impactparameter></planet>
 	</star>
 </system>
