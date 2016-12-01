@@ -2,7 +2,7 @@
 	<name>HD 20868</name>
 	<rightascension>03 20 42.69404</rightascension>
 	<declination>-33 43 48.3916</declination>
-	<distance errorminus="2.9" errorplus="2.9">46.2</distance>
+	<distance errorminus="2.9" errorplus="2.9">48.9</distance>
 	<star>
 		<name>HD 20868</name>
 		<name>HIP 15578</name>
@@ -31,8 +31,8 @@
 			<periastron errorminus="0.4" errorplus="0.4">356.2</periastron>
 			<periastrontime errorminus="0.1" errorplus="0.1">2454451.52</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>05/2014-11-0/2014-11-0</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

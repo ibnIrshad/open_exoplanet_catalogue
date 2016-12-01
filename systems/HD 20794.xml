@@ -17,42 +17,42 @@
 		<planet>
 			<name>HD 20794 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0084933</mass>
+			<mass>0.0085</mass>
 			<period>18.315</period>
 			<semimajoraxis>0.1207</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planetary system around the star HD 20794 consists of three super-Earths.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>27/2015-08-2/2015-08-2</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>661.0</temperature>
-		</planet>
+			<temperature>660.0</temperature>
+		<periastron errorminus="" errorplus="">0.0</periastron><inclination errorminus="" errorplus="">90.0</inclination><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 20794 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.00754968</mass>
+			<mass>0.0076</mass>
 			<period>40.114</period>
 			<semimajoraxis>0.2036</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planetary system around the star HD 20794 consists of three super-Earths. The planet HD 20794 c is the smallest planet signature detected so far (0.56 m/s) and might need further data to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>27/2015-08-2/2015-08-2</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>508.9</temperature>
-		</planet>
+			<temperature>508.0</temperature>
+		<periastron errorminus="" errorplus="">0.0</periastron><inclination errorminus="" errorplus="">90.0</inclination><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 20794 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.015099</mass>
+			<mass>0.015</mass>
 			<period>90.309</period>
 			<semimajoraxis>0.3499</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planetary system around the star HD 20794 consists of three super-Earths.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>27/2015-08-2/2015-08-2</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>388.2</temperature>
-		</planet>
+			<temperature>388.0</temperature>
+		<periastron errorminus="" errorplus="">0.0</periastron><inclination errorminus="" errorplus="">90.0</inclination><istransiting>0</istransiting></planet>
 		<name>HD 20794</name>
 		<temperature>5490.0</temperature>
 	</star>
