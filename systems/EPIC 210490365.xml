@@ -3,7 +3,7 @@
 	<name>K2-25</name>
 	<rightascension>04 13 05.61</rightascension>
 	<declination>+15 14 52.00</declination>
-	<distance errorminus="3.3" errorplus="3.3">45.7</distance>
+	<distance errorminus="3.3" errorplus="-3.3">45.7</distance>
 	<star>
 		<name>EPIC 210490365</name>
 		<name>K2-25</name>
@@ -17,7 +17,7 @@
 		<magK errorminus="0.019" errorplus="0.019">10.444</magK>
 		<spectraltype errorminus="0.3">M4.5</spectraltype>
 		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
-		<temperature errorminus="60" errorplus="60">3180</temperature>
+		<temperature errorminus="60" errorplus="-60.0">3180</temperature>
 		<mass errorminus="0.021" errorplus="0.021">0.294</mass>
 		<radius errorminus="0.020" errorplus="0.020">0.295</radius>
 		<age lowerlimit="650" upperlimit="800" />
@@ -26,10 +26,10 @@
 			<name>K2-25 b</name>
 			<period errorminus="0.000037" errorplus="0.000031">3.484552</period>
 			<transittime errorminus="0.00024" errorplus="0.00049" unit="BJD">2457062.57935</transittime>
-			<inclination errorminus="0.70" errorplus="1.16">88.32</inclination>
-			<eccentricity errorminus="0.21" errorplus="0.16">0.27</eccentricity>
-			<periastron errorminus="39.28" errorplus="44.46">62.10</periastron>
-			<radius errorminus="0.028" errorplus="0.085">0.306</radius>
+			<inclination errorminus="1.2" errorplus="-0.7">88.32</inclination>
+			<eccentricity errorminus="0.21" errorplus="-0.21">0.27</eccentricity>
+			<periastron errorminus="44.0" errorplus="-39.0">62.0</periastron>
+			<radius errorminus="0.028" errorplus="-0.028">0.306</radius>
 			<mass upperlimit="3" />
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
@@ -38,6 +38,6 @@
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
-		</planet>
+		<impactparameter errorminus="-0.4200" errorplus="-0.4200">0.6</impactparameter></planet>
 	</star>
 </system>

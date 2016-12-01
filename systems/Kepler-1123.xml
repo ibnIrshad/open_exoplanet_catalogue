@@ -4,10 +4,10 @@
 	<declination>+50 40 13</declination>
 	<star>
 		<name>Kepler-1123</name>
-		<temperature errorminus="90.5" errorplus="75.4">5500.0</temperature>
+		<temperature errorminus="75.39" errorplus="-90.52">5500.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
-		<radius errorminus="0.06" errorplus="0.13">0.90</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.05</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.90</radius>
+		<metallicity errorminus="0.15" errorplus="-0.153">0.05</metallicity>
 		<planet>
 			<name>Kepler-1123 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000011780" errorplus="0.000011780">4.339464540</period>
 			<radius errorminus="0.010" errorplus="0.022">0.149</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.320" errorplus="-3.320">5.13</age><magV errorminus="" errorplus="">14.822</magV></star>
+<distance errorminus="-52.85" errorplus="-52.85">796.0</distance></system>

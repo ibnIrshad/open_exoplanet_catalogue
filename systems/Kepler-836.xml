@@ -4,10 +4,10 @@
 	<declination>+45 42 16</declination>
 	<star>
 		<name>Kepler-836</name>
-		<temperature errorminus="83.1" errorplus="74.3">5895.0</temperature>
-		<mass errorminus="0.07" errorplus="0.06">1.03</mass>
-		<radius errorminus="0.10" errorplus="0.24">1.04</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="74.32" errorplus="-83.11">5895.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.03</mass>
+		<radius errorminus="0.24" errorplus="-0.1">1.04</radius>
+		<metallicity errorminus="0.18" errorplus="-0.183">-0.01</metallicity>
 		<planet>
 			<name>Kepler-836 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000023630" errorplus="0.000023630">11.361123270</period>
 			<radius errorminus="0.029" errorplus="0.057">0.244</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.400" errorplus="-2.400">4.27</age><magV errorminus="" errorplus="">14.63</magV></star>
+<distance errorminus="-96.42" errorplus="-96.42">1003.0</distance></system>
