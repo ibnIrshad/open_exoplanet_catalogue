@@ -4,21 +4,21 @@
 	<declination>+41 06 41</declination>
 	<star>
 		<name>Kepler-1333</name>
-		<temperature errorminus="162.2" errorplus="142.8">5628.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">0.94</mass>
-		<radius errorminus="0.08" errorplus="0.13">0.92</radius>
-		<metallicity errorminus="0.19" errorplus="0.15">-0.04</metallicity>
+		<temperature errorminus="142.84" errorplus="-162.16">5628.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.94</mass>
+		<radius errorminus="0.08" errorplus="-0.08">0.92</radius>
+		<metallicity errorminus="0.19" errorplus="-0.187">-0.04</metallicity>
 		<planet>
 			<name>Kepler-1333 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000707700" errorplus="0.000707700">109.647184200</period>
 			<radius errorminus="0.022" errorplus="0.036">0.251</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.790" errorplus="-2.790">4.57</age><magV errorminus="" errorplus="">15.162</magV></star>
+<distance errorminus="-92.46" errorplus="-92.46">958.0</distance></system>

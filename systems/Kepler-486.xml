@@ -4,21 +4,21 @@
 	<declination>+49 16 01</declination>
 	<star>
 		<name>Kepler-486</name>
-		<temperature errorminus="45.2" errorplus="44.9">4926.0</temperature>
+		<temperature errorminus="44.94" errorplus="-45.25">4926.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.04</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.166">-0.04</metallicity>
 		<planet>
 			<name>Kepler-486 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004240" errorplus="0.000004240">30.360446670</period>
 			<radius errorminus="0.050" errorplus="0.036">0.981</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.660" errorplus="-2.660">4.47</age><magV errorminus="" errorplus="">14.388</magV></star>
+<distance errorminus="-22.73" errorplus="-22.73">428.0</distance></system>

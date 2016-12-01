@@ -12,9 +12,9 @@
 		<name>Kepler-215</name>
 		<name>KOI-700</name>
 		<name>KIC 8962094</name>
-		<temperature errorminus="64" errorplus="164">5739</temperature>
-		<radius errorminus=".236" errorplus="0.236">1.027</radius>
-		<mass errorminus="0.0750" errorplus="0.0750">0.9770</mass>
+		<temperature errorminus="164.0" errorplus="-164.0">5739</temperature>
+		<radius errorminus=".236" errorplus="-0.24">1.027</radius>
+		<mass errorminus="0.0750" errorplus="0.0750">0.77</mass>
 		<planet>
 			<name>Kepler-215 d</name>
 			<name>KOI-700 d</name>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-215 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.185</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.15</impactparameter></planet>
 		<planet>
 			<name>Kepler-215 b</name>
 			<name>KOI-700 b</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-215 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.084</semimajoraxis><impactparameter errorminus="-0.2500" errorplus="-0.2500">0.58</impactparameter></planet>
 		<planet>
 			<name>Kepler-215 c</name>
 			<name>KOI-700 c</name>
@@ -59,10 +59,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-215 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.113</semimajoraxis><impactparameter errorminus="-0.3100" errorplus="-0.3100">0.85</impactparameter></planet>
 		<planet>
 			<name>Kepler-215 e</name>
 			<name>KOI-700 e</name>
@@ -75,9 +75,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-215 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.314</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.28</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.618</metallicity><magV errorminus="" errorplus="">13.58</magV></star>
 </system>

@@ -4,21 +4,21 @@
 	<declination>+40 43 11</declination>
 	<star>
 		<name>Kepler-506</name>
-		<temperature errorminus="58.1" errorplus="57.8">6236.0</temperature>
+		<temperature errorminus="57.77" errorplus="-58.08">6236.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">1.19</mass>
 		<radius errorminus="0.02" errorplus="0.02">1.19</radius>
-		<metallicity errorminus="0.09" errorplus="0.08">0.09</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.086">0.09</metallicity>
 		<planet>
 			<name>Kepler-506 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003150" errorplus="0.000003150">6.883405500</period>
 			<radius errorminus="0.005" errorplus="0.005">0.244</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.407" errorplus="-0.407">1.74</age><magV errorminus="" errorplus="">10.868</magV></star>
+<distance errorminus="-5.75" errorplus="-5.75">231.0</distance></system>

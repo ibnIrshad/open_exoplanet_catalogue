@@ -12,8 +12,8 @@
 		<name>Kepler-219</name>
 		<name>KOI-718</name>
 		<name>KIC 9884104</name>
-		<temperature errorminus="100" errorplus="100">5786</temperature>
-		<radius errorminus=".249" errorplus="0.249">1.491</radius>
+		<temperature errorminus="100" errorplus="-100.0">5786</temperature>
+		<radius errorminus=".249" errorplus="-0.25">1.491</radius>
 		<mass errorminus="0.0610" errorplus="0.0610">1.1710</mass>
 		<planet>
 			<name>Kepler-219 b</name>
@@ -27,26 +27,26 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-219 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-219 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.057</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.03</impactparameter></planet>
 		<planet>
 			<name>Kepler-219 c</name>
 			<name>KOI-718 c</name>
 			<name>KOI-718.02</name>
 			<name>KIC 9884104 c</name>
 			<name>KIC 9884104.02</name>
-			<radius errorminus="0.05468" errorplus="0.05468">0.32625</radius>
+			<radius errorminus="0.05468" errorplus="-0.054">0.32625</radius>
 			<period errorminus=".000075" errorplus="0.000075">22.714613</period>
 			<transittime errorminus="0.0020800" errorplus="0.0020800">2454980.2910800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-219 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-219 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.165</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.01</impactparameter></planet>
 		<planet>
 			<name>Kepler-219 d</name>
 			<name>KOI-718 d</name>
@@ -59,9 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-219 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-219 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.272</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.06</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.02</metallicity><magV errorminus="" errorplus="">13.764</magV></star>
 </system>

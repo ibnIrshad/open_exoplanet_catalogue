@@ -4,21 +4,21 @@
 	<declination>+40 50 38</declination>
 	<star>
 		<name>Kepler-1347</name>
-		<temperature errorminus="56.0" errorplus="74.5">5193.0</temperature>
+		<temperature errorminus="74.46" errorplus="-55.99">5193.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.79</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.11</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.112">-0.11</metallicity>
 		<planet>
 			<name>Kepler-1347 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000070010" errorplus="0.000070010">14.009475280</period>
 			<radius errorminus="0.004" errorplus="0.005">0.092</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.240" errorplus="-3.240">5.62</age><magV errorminus="" errorplus="">13.38</magV></star>
+<distance errorminus="-13.98" errorplus="-13.98">321.0</distance></system>
