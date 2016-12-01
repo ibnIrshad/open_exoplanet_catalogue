@@ -2,9 +2,9 @@
 	<name>CoRoT-2</name>
 	<rightascension>19 27 07</rightascension>
 	<declination>+01 23 02</declination>
-	<distance>300</distance>
+	<distance>200.0</distance>
 	<star>
-		<mass errorminus="0.06" errorplus="0.06">0.97</mass>
+		<mass errorminus="0.06" errorplus="-0.08">0.97</mass>
 		<radius errorminus="0.018" errorplus="0.018">0.902</radius>
 		<magV>12.568</magV>
 		<magB>13.422</magB>
@@ -20,20 +20,20 @@
 			<name>2MASS J19270649+0123013 b</name>
 			<name>CoRoTID 101206560 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.16" errorplus="0.16">3.31</mass>
+			<mass errorminus="0.16" errorplus="-0.22">3.47</mass>
 			<radius errorminus="0.029" errorplus="0.029">1.465</radius>
 			<period errorminus="0.0000017" errorplus="0.0000017">1.7429964</period>
-			<semimajoraxis>0.0281</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.10" errorplus="0.10">87.84</inclination>
+			<semimajoraxis errorminus="0.00076" errorplus="-0.0008">0.0281</semimajoraxis>
+			<eccentricity errorminus="0.0077" errorplus="-0.0076">0.0</eccentricity>
+			<inclination errorminus="0.10" errorplus="-0.16">88.08</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/05</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>1392.7</temperature>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2454237.53562</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-5.0000" errorplus="-5.0000">102.0</periastron><impactparameter errorminus="-0.0190" errorplus="-0.0190">0.221</impactparameter><periastrontime errorminus="-0.000140" errorplus="-0.000140">2454237.53562</periastrontime></planet>
 		<name>CoRoT-2</name>
-		<temperature>5575.0</temperature>
-	</star>
+		<temperature errorminus="120.0" errorplus="-120.0">5625.0</temperature>
+	<age errorminus="-2.700" errorplus="-2.700">2.7</age></star>
 </system>

@@ -12,8 +12,8 @@
 		<name>Kepler-171</name>
 		<name>KOI-509</name>
 		<name>KIC 6381846</name>
-		<temperature errorminus="200" errorplus="200">5642</temperature>
-		<radius errorminus=".376" errorplus="0.376">0.839</radius>
+		<temperature errorminus="200" errorplus="-200.0">5642</temperature>
+		<radius errorminus=".376" errorplus="-0.38">0.839</radius>
 		<mass errorminus="0.0550" errorplus="0.0550">0.9310</mass>
 		<planet>
 			<name>Kepler-171 b</name>
@@ -21,7 +21,7 @@
 			<name>KOI-509.01</name>
 			<name>KIC 6381846 b</name>
 			<name>KIC 6381846.01</name>
-			<radius errorminus="0.00456" errorplus="0.09569">0.21324</radius>
+			<radius errorminus="0.00456" errorplus="-0.094">0.21324</radius>
 			<period errorminus=".000007" errorplus="0.000007">4.166972</period>
 			<transittime errorminus="0.0009800" errorplus="0.0009800">2455002.7141500</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-171 c</name>
 			<name>KOI-509 c</name>
 			<name>KOI-509.02</name>
 			<name>KIC 6381846 c</name>
 			<name>KIC 6381846.02</name>
-			<radius errorminus="0.01367" errorplus="0.10480">0.23329</radius>
+			<radius errorminus="0.01367" errorplus="-0.103">0.23329</radius>
 			<period errorminus=".000026" errorplus="0.000026">11.463462</period>
 			<transittime errorminus="0.0013800" errorplus="0.0013800">2454970.3842800</transittime>
 			<list>Confirmed planets</list>
@@ -46,14 +46,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.098</semimajoraxis><impactparameter errorminus="-0.1900" errorplus="-0.1900">0.04</impactparameter></planet>
 		<planet>
 			<name>Kepler-171 d</name>
 			<name>KOI-509 d</name>
 			<name>KOI-509.03</name>
 			<name>KIC 6381846 d</name>
 			<name>KIC 6381846.03</name>
-			<radius errorminus="0.08202" errorplus="0.08202">0.17224</radius>
+			<radius errorminus="0.08202" errorplus="-0.08">0.17224</radius>
 			<period errorminus=".000699" errorplus="0.000699">39.595519</period>
 			<transittime errorminus="0.0104200" errorplus="0.0104200">2455001.1192200</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.223</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.58</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.151</metallicity><magV errorminus="" errorplus="">14.883</magV></star>
 </system>
