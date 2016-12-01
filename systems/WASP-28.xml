@@ -3,12 +3,12 @@
 	<name>K2-1</name>
 	<rightascension>23 34 28</rightascension>
 	<declination>-01 34 57</declination>
-	<distance errorminus="70" errorplus="70">410</distance>
+	<distance errorminus="70" errorplus="-70.0">410</distance>
 	<star>
 		<name>WASP-28</name>
 		<name>2MASS J23342787-0134482</name>
 		<name>K2-1</name>
-		<temperature errorminus="140" errorplus="140">6150</temperature>
+		<temperature errorminus="140" errorplus="-140.0">6150</temperature>
 		<mass errorminus="0.05" errorplus="0.05">1.021</mass>
 		<radius errorminus="0.031" errorplus="0.031">1.094</radius>
 		<magV>12</magV>
@@ -17,9 +17,9 @@
 		<magJ errorminus="0.026" errorplus="0.026">11.078</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.762</magH>
 		<magK errorminus="0.024" errorplus="0.024">10.732</magK>
-		<metallicity errorminus="0.1" errorplus="0.1">-0.29</metallicity>
+		<metallicity errorminus="0.1" errorplus="-0.1">-0.29</metallicity>
 		<spectraltype>F8</spectraltype>
-		<age errorminus="2" errorplus="3">5</age>
+		<age errorminus="3.0" errorplus="-2.0">5</age>
 		<planet>
 			<name>WASP-28 b</name>
 			<name>2MASS J23342787-0134482 b</name>
@@ -32,13 +32,13 @@
 			<semimajoraxis errorminus="0.00076" errorplus="0.00076">0.04469</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<spinorbitalignment errorminus="18" errorplus="18">8</spinorbitalignment>
-			<inclination errorminus="0.67" errorplus="0.67">88.61</inclination>
+			<inclination errorminus="0.67" errorplus="-0.67">88.61</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/02/07</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature errorminus="37" errorplus="37">1468</temperature>
+			<lastupdate>05/2015-03-0/2015-03-0</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+			<temperature errorminus="37" errorplus="-37.0">1468</temperature>
 			<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1000" errorplus="-0.1000">0.21</impactparameter></planet>
 	</star>
 </system>
