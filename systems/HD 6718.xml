@@ -2,7 +2,7 @@
 	<name>HD 6718</name>
 	<rightascension>01 07 49</rightascension>
 	<declination>-08 14 01</declination>
-	<distance>55.9</distance>
+	<distance errorminus="2.4" errorplus="-2.2">54.9</distance>
 	<star>
 		<mass>0.96</mass>
 		<radius>1.02</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 6718 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.56</mass>
-			<period>2496</period>
-			<semimajoraxis>3.56</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.11" errorplus="-0.1">1.56</mass>
+			<period errorminus="176.0" errorplus="-176.0">2496</period>
+			<semimajoraxis errorminus="0.24" errorplus="-0.15">3.56</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="-0.04">0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>135.5</temperature>
-		</planet>
+		<periastron errorminus="-35.0000" errorplus="-35.0000">286.0</periastron><periastrontime errorminus="-251.000000" errorplus="-251.000000">2454357.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 6718</name>
 		<temperature>5745.0</temperature>
 	</star>
