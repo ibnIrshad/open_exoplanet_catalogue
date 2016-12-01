@@ -2,7 +2,7 @@
 	<name>HD 44219</name>
 	<rightascension>06 20 14</rightascension>
 	<declination>-10 43 30</declination>
-	<distance>50.43</distance>
+	<distance errorminus="2.1" errorplus="-1.9">50.43</distance>
 	<star>
 		<mass>1</mass>
 		<radius>1.32</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 44219 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.58</mass>
-			<period>472.3</period>
-			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<mass errorminus="0.06" errorplus="-0.04">0.58</mass>
+			<period errorminus="6.3" errorplus="-5.0">472.3</period>
+			<semimajoraxis errorminus="0.02" errorplus="-0.02">1.19</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="-0.09">0.61</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>22/2015-01-2/2015-01-2</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>260.2</temperature>
-		</planet>
+		<periastron errorminus="-3.2000" errorplus="-3.2000">147.4</periastron><periastrontime errorminus="-3.100000" errorplus="-3.100000">2454585.6</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 44219</name>
 		<temperature>5752.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HAT-P-25</name>
 	<rightascension>03 13 45</rightascension>
 	<declination>+25 11 51</declination>
-	<distance>297</distance>
+	<distance errorminus="17.0" errorplus="-13.0">297</distance>
 	<star>
 		<mass>1.01</mass>
 		<radius>0.959</radius>
@@ -19,19 +19,19 @@
 			<name>HAT-P-25 b</name>
 			<name>2MASS J03134450+2511506 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.567</mass>
-			<radius>1.19</radius>
-			<period>3.652836</period>
-			<semimajoraxis>0.0466</semimajoraxis>
-			<eccentricity>0.032</eccentricity>
-			<inclination>87.6</inclination>
+			<mass errorminus="0.022" errorplus="-0.022">0.567</mass>
+			<radius errorminus="0.081" errorplus="-0.056">1.19</radius>
+			<period errorminus="1.9e-05" errorplus="-1.9e-05">3.652836</period>
+			<semimajoraxis errorminus="0.0005" errorplus="-0.0005">0.0466</semimajoraxis>
+			<eccentricity errorminus="0.022" errorplus="-0.022">0.032</eccentricity>
+			<inclination errorminus="0.5" errorplus="-0.5">87.6</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1100.1</temperature>
+			<temperature errorminus="36.0" errorplus="-36.0">1202.0</temperature>
 			<transittime errorminus="0.00047" errorplus="0.00047" unit="BJD">2455176.85173</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-117.0000" errorplus="-117.0000">271.0</periastron><impactparameter errorminus="-0.0980" errorplus="-0.0980">0.456</impactparameter></planet>
 		<name>HAT-P-25</name>
 		<temperature>5500.0</temperature>
 	</star>

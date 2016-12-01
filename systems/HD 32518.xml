@@ -2,7 +2,7 @@
 	<name>HD 32518</name>
 	<rightascension>05 09 36.71904</rightascension>
 	<declination>+69 38 21.8510</declination>
-	<distance errorminus="8.4" errorplus="8.4">120.6</distance>
+	<distance errorminus="9.84" errorplus="-11.83">117.37</distance>
 	<star>
 		<name>HD 32518</name>
 		<name>HIP 24003</name>
@@ -24,15 +24,15 @@
 		<planet>
 			<name>HD 32518 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.68" errorplus="0.68" type="msini">3.04</mass>
-			<period errorminus="0.38" errorplus="0.38">157.54</period>
+			<mass errorminus="0.68" errorplus="-0.68" type="msini">3.04</mass>
+			<period errorminus="0.38" errorplus="-0.38">157.54</period>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.59</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.01</eccentricity>
-			<periastron errorminus="126.71" errorplus="126.71">306.11</periastron>
-			<periastrontime errorminus="13.66" errorplus="13.66">2452950.29</periastrontime>
+			<periastron errorminus="126.71" errorplus="-126.71">306.11</periastron>
+			<periastrontime errorminus="13.66" errorplus="-13.66">2452950.29</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

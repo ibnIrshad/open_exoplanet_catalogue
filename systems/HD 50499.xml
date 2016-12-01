@@ -2,7 +2,7 @@
 	<name>HD 50499</name>
 	<rightascension>06 52 02</rightascension>
 	<declination>-33 54 56</declination>
-	<distance>47.26</distance>
+	<distance errorminus="1.47" errorplus="-1.57">47.26</distance>
 	<star>
 		<mass>1.27</mass>
 		<radius>1.38</radius>
@@ -13,15 +13,15 @@
 		<planet>
 			<name>HD 50499 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.71</mass>
-			<period>2482.7</period>
-			<semimajoraxis>3.86</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
+			<mass errorminus="0.2" errorplus="-0.2">1.71</mass>
+			<period errorminus="110.0" errorplus="-110.0">2482.7</period>
+			<semimajoraxis errorminus="0.6" errorplus="-0.6">3.86</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="-0.14">0.23</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>17/2014-12-1/2014-12-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>155.1</temperature>
-		</planet>
+		<periastron errorminus="-36.0000" errorplus="-36.0000">262.0</periastron><periastrontime errorminus="-225.000000" errorplus="-225.000000">2451234.6</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 50499</name>
 		<temperature>5902.0</temperature>
 	</star>

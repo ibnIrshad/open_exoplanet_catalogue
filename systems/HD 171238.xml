@@ -2,7 +2,7 @@
 	<name>HD 171238</name>
 	<rightascension>18 34 44</rightascension>
 	<declination>-28 04 20</declination>
-	<distance>50.28</distance>
+	<distance errorminus="2.33" errorplus="-2.61">44.05</distance>
 	<star>
 		<mass>0.943</mass>
 		<magV>8.66</magV>
@@ -15,15 +15,15 @@
 		<planet>
 			<name>HD 171238 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.6</mass>
-			<period>1523</period>
-			<semimajoraxis>2.54</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<mass errorminus="0.15" errorplus="-0.15">2.6</mass>
+			<period errorminus="40.0" errorplus="-45.0">1523</period>
+			<semimajoraxis errorminus="0.06" errorplus="-0.06">2.54</semimajoraxis>
+			<eccentricity errorminus="0.061" errorplus="-0.065">0.4</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>02/2014-07-0/2014-07-0</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>152.4</temperature>
-		</planet>
+		<periastron errorminus="-9.8000" errorplus="-9.8000">47.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2455062.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 171238</name>
 		<temperature>5467.0</temperature>
 	</star>

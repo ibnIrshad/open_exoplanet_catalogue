@@ -2,7 +2,7 @@
 	<name>HAT-P-26</name>
 	<rightascension>14 12 37.54</rightascension>
 	<declination>+04 03 36.13</declination>
-	<distance>134</distance>
+	<distance errorminus="18.0" errorplus="-8.0">134</distance>
 	<star>
 		<mass>0.816</mass>
 		<radius>0.788</radius>
@@ -19,19 +19,19 @@
 			<name>TYC 320-01027-1 b</name>
 			<name>2MASS J14123753+0403359 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.059</mass>
-			<radius>0.565</radius>
-			<period>4.234516</period>
-			<semimajoraxis>0.0479</semimajoraxis>
-			<eccentricity>0.124</eccentricity>
-			<inclination>88.6</inclination>
+			<mass errorminus="0.007" errorplus="-0.007">0.059</mass>
+			<radius errorminus="0.072" errorplus="-0.032">0.565</radius>
+			<period errorminus="1.5e-05" errorplus="-1.5e-05">4.234516</period>
+			<semimajoraxis errorminus="0.0006" errorplus="-0.0006">0.0479</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="-0.06">0.124</eccentricity>
+			<inclination errorminus="0.5" errorplus="-0.9">88.6</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>907.4</temperature>
+			<temperature errorminus="66.0" errorplus="-37.0">1001.0</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-165.0000" errorplus="-165.0000">54.0</periastron><impactparameter errorminus="-0.1220" errorplus="-0.1220">0.303</impactparameter></planet>
 		<name>HAT-P-26</name>
 		<temperature>5079.0</temperature>
 	</star>

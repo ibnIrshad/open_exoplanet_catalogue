@@ -2,7 +2,7 @@
 	<name>HD 45652</name>
 	<rightascension>06 29 13</rightascension>
 	<declination>+10 56 02</declination>
-	<distance>36</distance>
+	<distance errorminus="1.61" errorplus="-1.77">36.14</distance>
 	<star>
 		<mass>0.83</mass>
 		<magV>8.1</magV>
@@ -18,14 +18,14 @@
 			<name>HD 45652 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.47</mass>
-			<period>43.6</period>
+			<period errorminus="0.2" errorplus="-0.2">43.6</period>
 			<semimajoraxis>0.23</semimajoraxis>
-			<eccentricity>0.38</eccentricity>
+			<eccentricity errorminus="0.06" errorplus="-0.06">0.38</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/10/14</lastupdate>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>472.4</temperature>
-		</planet>
+		<periastron errorminus="-12.0000" errorplus="-12.0000">273.0</periastron><periastrontime errorminus="-1.200000" errorplus="-1.200000">2454120.3</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 45652</name>
 		<temperature>5312.0</temperature>
 	</star>
