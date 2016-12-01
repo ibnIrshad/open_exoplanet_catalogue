@@ -2,7 +2,7 @@
 	<name>HAT-P-6</name>
 	<rightascension>23 39 06</rightascension>
 	<declination>+42 27 58</declination>
-	<distance>200</distance>
+	<distance>261.0</distance>
 	<star>
 		<mass>1.29</mass>
 		<radius>1.46</radius>
@@ -20,17 +20,17 @@
 			<list>Confirmed planets</list>
 			<mass>1.057</mass>
 			<radius>1.33</radius>
-			<period>3.853003</period>
+			<period>3.852985</period>
 			<semimajoraxis>0.05235</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.51</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1529.9</temperature>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454035.67652</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0300" errorplus="-0.0300">0.602</impactparameter></planet>
 		<name>HAT-P-6</name>
 		<temperature>6570.0</temperature>
 	</star>

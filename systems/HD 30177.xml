@@ -2,7 +2,7 @@
 	<name>HD 30177</name>
 	<rightascension>04 41 54</rightascension>
 	<declination>-58 01 14</declination>
-	<distance>55</distance>
+	<distance>54.71</distance>
 	<star>
 		<mass>0.95</mass>
 		<radius>1.12</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 30177 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.7</mass>
-			<period>1620</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<mass>10.45</mass>
+			<period>2770.0</period>
+			<semimajoraxis>3.95</semimajoraxis>
+			<eccentricity>0.193</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>23/2014-07-2/2014-07-2</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>153.5</temperature>
-		</planet>
+		<periastron errorminus="-15.0000" errorplus="-15.0000">34.0</periastron><periastrontime errorminus="-72.000000" errorplus="-72.000000">2451437.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 30177</name>
 		<temperature>5320.0</temperature>
 	</star>

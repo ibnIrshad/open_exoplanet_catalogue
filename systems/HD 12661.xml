@@ -18,27 +18,27 @@
 		<planet>
 			<name>HD 12661 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>263.6</period>
-			<semimajoraxis>0.83</semimajoraxis>
-			<eccentricity>0.377</eccentricity>
+			<mass>2.176</mass>
+			<period>262.709</period>
+			<semimajoraxis>0.8079</semimajoraxis>
+			<eccentricity>0.3768</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>291.4</temperature>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 12661 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.57</mass>
-			<period>1708</period>
-			<semimajoraxis>2.56</semimajoraxis>
+			<mass>1.812</mass>
+			<period>1708.0</period>
+			<semimajoraxis>2.8145</semimajoraxis>
 			<eccentricity>0.031</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>167.5</temperature>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<name>HD 12661</name>
 		<temperature>5742.0</temperature>
 	</star>

@@ -20,14 +20,14 @@
 			<name>Kepler-177 b</name>
 			<name>KIC 8806123 b</name>
 			<name>KIC 8806123.02</name>
-			<radius errorminus="0.01367" errorplus="0.01367">0.26428</radius>
-			<mass errorminus="0.00063" errorplus="0.00786">0.00535</mass>
+			<radius errorminus="0.01367" errorplus="0.01367">0.259</radius>
+			<mass errorminus="0.00063" errorplus="0.00786">0.006</mass>
 			<transittime errorminus="0.0038000" errorplus="0.0038000">2454971.9160800</transittime>
 			<period>36.855</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/09/13</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -37,14 +37,14 @@
 			<name>Kepler-177 c</name>
 			<name>KIC 8806123 c</name>
 			<name>KIC 8806123.01</name>
-			<radius errorminus="0.03372" errorplus="0.03372">0.64703</radius>
-			<mass errorminus="0.00094" errorplus="0.03334">0.01982</mass>
+			<radius errorminus="0.03372" errorplus="0.03372">0.633</radius>
+			<mass errorminus="0.00094" errorplus="0.03334">0.024</mass>
 			<transittime errorminus="0.0010000" errorplus="0.0010000">2455031.2347700</transittime>
 			<period>49.412</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/09/13</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

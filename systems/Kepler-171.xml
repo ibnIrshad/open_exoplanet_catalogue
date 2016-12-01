@@ -21,47 +21,47 @@
 			<name>KOI-509.01</name>
 			<name>KIC 6381846 b</name>
 			<name>KIC 6381846.01</name>
-			<radius errorminus="0.00456" errorplus="0.09569">0.21324</radius>
+			<radius errorminus="0.00456" errorplus="0.09569">0.209</radius>
 			<period errorminus=".000007" errorplus="0.000007">4.166972</period>
 			<transittime errorminus="0.0009800" errorplus="0.0009800">2455002.7141500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-171 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-171 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-171 c</name>
 			<name>KOI-509 c</name>
 			<name>KOI-509.02</name>
 			<name>KIC 6381846 c</name>
 			<name>KIC 6381846.02</name>
-			<radius errorminus="0.01367" errorplus="0.10480">0.23329</radius>
+			<radius errorminus="0.01367" errorplus="0.10480">0.228</radius>
 			<period errorminus=".000026" errorplus="0.000026">11.463462</period>
 			<transittime errorminus="0.0013800" errorplus="0.0013800">2454970.3842800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-171 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-171 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.098</semimajoraxis><impactparameter errorminus="-0.1900" errorplus="-0.1900">0.04</impactparameter></planet>
 		<planet>
 			<name>Kepler-171 d</name>
 			<name>KOI-509 d</name>
 			<name>KOI-509.03</name>
 			<name>KIC 6381846 d</name>
 			<name>KIC 6381846.03</name>
-			<radius errorminus="0.08202" errorplus="0.08202">0.17224</radius>
+			<radius errorminus="0.08202" errorplus="0.08202">0.169</radius>
 			<period errorminus=".000699" errorplus="0.000699">39.595519</period>
 			<transittime errorminus="0.0104200" errorplus="0.0104200">2455001.1192200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-171 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-171 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.223</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.58</impactparameter></planet>
 	</star>
 </system>

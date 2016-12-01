@@ -2,7 +2,7 @@
 	<name>HD 16175</name>
 	<rightascension>02 37 02</rightascension>
 	<declination>+42 03 45</declination>
-	<distance>59.8</distance>
+	<distance>59.84</distance>
 	<star>
 		<mass>1.35</mass>
 		<radius>1.87</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.4</mass>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass>4.77</mass>
+			<period>995.4</period>
+			<semimajoraxis>2.148</semimajoraxis>
+			<eccentricity>0.637</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>19/2016-05-1/2016-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>243.7</temperature>
-		</planet>
+		<periastron errorminus="-2.2000" errorplus="-2.2000">221.5</periastron><periastrontime errorminus="-2.600000" errorplus="-2.600000">2455801.4</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 16175</name>
 		<temperature>6000.0</temperature>
 	</star>
