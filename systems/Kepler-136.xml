@@ -14,8 +14,8 @@
 		<magJ errorminus="0.021" errorplus="0.021">10.804</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.573</magH>
 		<magK errorminus="0.012" errorplus="0.012">10.519</magK>
-		<temperature errorminus="100" errorplus="100">6165</temperature>
-		<radius errorminus=".248" errorplus="0.248">1.355</radius>
+		<temperature errorminus="100" errorplus="-100.0">6165</temperature>
+		<radius errorminus=".248" errorplus="-0.25">1.355</radius>
 		<mass errorminus="0.0430" errorplus="0.0430">1.2040</mass>
 		<planet>
 			<name>Kepler-136 b</name>
@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.106</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.39</impactparameter></planet>
 		<planet>
 			<name>Kepler-136 c</name>
 			<name>KOI-312 c</name>
@@ -48,6 +48,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.133</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.1</impactparameter></planet>
 	</star>
 </system>

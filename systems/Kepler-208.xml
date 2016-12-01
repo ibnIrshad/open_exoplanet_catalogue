@@ -12,8 +12,8 @@
 		<name>Kepler-208</name>
 		<name>KOI-671</name>
 		<name>KIC 7040629</name>
-		<temperature errorminus="100" errorplus="100">6092</temperature>
-		<radius errorminus=".243" errorplus="0.243">1.314</radius>
+		<temperature errorminus="100" errorplus="-100.0">6092</temperature>
+		<radius errorminus=".243" errorplus="-0.24">1.314</radius>
 		<mass>0.9630</mass>
 		<planet>
 			<name>Kepler-208 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.16</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 c</name>
 			<name>KOI-671 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.27</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 e</name>
 			<name>KOI-671 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.132</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.21</impactparameter></planet>
 		<planet>
 			<name>Kepler-208 d</name>
 			<name>KOI-671 d</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.103</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.11</impactparameter></planet>
+	<magV errorminus="" errorplus="">13.749</magV></star>
 </system>
