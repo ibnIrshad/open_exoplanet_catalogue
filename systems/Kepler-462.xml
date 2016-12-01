@@ -4,10 +4,10 @@
 	<declination>+43 48 51</declination>
 	<star>
 		<name>Kepler-462</name>
-		<temperature errorminus="57.6" errorplus="58.9">7070.0</temperature>
-		<mass errorminus="0.11" errorplus="0.11">1.59</mass>
-		<radius errorminus="0.28" errorplus="0.33">2.04</radius>
-		<metallicity errorminus="0.09" errorplus="0.08">-0.06</metallicity>
+		<temperature errorminus="58.86" errorplus="-57.56">7070.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.59</mass>
+		<radius errorminus="0.28" errorplus="-0.28">2.04</radius>
+		<metallicity errorminus="0.09" errorplus="-0.088">-0.06</metallicity>
 		<planet>
 			<name>Kepler-462 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000206800" errorplus="0.000206800">84.687980800</period>
-			<radius errorminus="0.046" errorplus="0.055">0.336</radius>
+			<radius errorminus="0.046" errorplus="-0.046">0.336</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.130" errorplus="-0.130">1.45</age><magV errorminus="" errorplus="">11.642</magV></star>
+<distance errorminus="-101.46" errorplus="-101.46">733.0</distance></system>

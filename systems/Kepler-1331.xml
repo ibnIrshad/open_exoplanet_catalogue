@@ -4,10 +4,10 @@
 	<declination>+41 13 28</declination>
 	<star>
 		<name>Kepler-1331</name>
-		<temperature errorminus="204.6" errorplus="243.2">4508.0</temperature>
+		<temperature errorminus="243.21" errorplus="-204.59">4508.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.72</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.69</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.05</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.16">0.05</metallicity>
 		<planet>
 			<name>Kepler-1331 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000001210" errorplus="0.000001210">0.789161650</period>
 			<radius errorminus="0.007" errorplus="0.008">0.094</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.410" errorplus="-2.410">4.17</age><magV errorminus="" errorplus="">15.031</magV></star>
+<distance errorminus="-30.43" errorplus="-30.43">365.0</distance></system>

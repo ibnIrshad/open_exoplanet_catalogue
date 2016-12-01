@@ -4,10 +4,10 @@
 	<declination>+46 14 57</declination>
 	<star>
 		<name>Kepler-484</name>
-		<temperature errorminus="48.7" errorplus="54.6">5668.0</temperature>
+		<temperature errorminus="54.61" errorplus="-48.74">5668.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.96</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.87</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">-0.10</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.085">-0.10</metallicity>
 		<planet>
 			<name>Kepler-484 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000007200" errorplus="0.000007200">10.045569310</period>
 			<radius errorminus="0.004" errorplus="0.006">0.203</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.326" errorplus="-0.326">1.48</age><magV errorminus="" errorplus="">13.024</magV></star>
+<distance errorminus="-9.77" errorplus="-9.77">377.0</distance></system>
