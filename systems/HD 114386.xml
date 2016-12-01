@@ -17,14 +17,14 @@
 			<name>HD 114386 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.24</mass>
-			<period errorminus="15.6" errorplus="15.6">937</period>
+			<period errorminus="15.6" errorplus="15.6">937.7</period>
 			<semimajoraxis>1.65</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.23</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/05</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>182.8</temperature>
-		</planet>
+		<periastron errorminus="-14.0000" errorplus="-14.0000">273.0</periastron><periastrontime errorminus="-43.000000" errorplus="-43.000000">2450454.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 114386 c</name>
 			<list>Confirmed planets</list>

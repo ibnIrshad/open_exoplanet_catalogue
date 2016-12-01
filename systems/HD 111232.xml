@@ -2,7 +2,7 @@
 	<name>HD 111232</name>
 	<rightascension>12 48 51</rightascension>
 	<declination>-68 25 30</declination>
-	<distance>29</distance>
+	<distance>28.88</distance>
 	<star>
 		<mass>0.78</mass>
 		<magV>7.61</magV>
@@ -16,14 +16,14 @@
 			<name>HD 111232 b</name>
 			<list>Confirmed planets</list>
 			<mass>6.8</mass>
-			<period>1143</period>
+			<period>1143.0</period>
 			<semimajoraxis>1.97</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>21/2014-08-2/2014-08-2</lastupdate>
+			<discoveryyear>2003</discoveryyear>
 			<temperature>163.3</temperature>
-		</planet>
+		<periastron errorminus="-6.0000" errorplus="-6.0000">98.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2451230.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 111232</name>
 		<temperature>5494.0</temperature>
 	</star>

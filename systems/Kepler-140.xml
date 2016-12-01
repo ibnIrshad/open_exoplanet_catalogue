@@ -21,31 +21,31 @@
 			<name>KOI-327.01</name>
 			<name>KIC 9881662 b</name>
 			<name>KIC 9881662.01</name>
-			<radius errorminus="0.02825" errorplus="0.02825">0.14672</radius>
-			<period errorminus=".000008" errorplus="0.000008">3.254270</period>
+			<radius errorminus="0.02825" errorplus="0.02825">0.144</radius>
+			<period errorminus=".000008" errorplus="0.000008">3.25427</period>
 			<transittime errorminus="0.0013300" errorplus="0.0013300">2455005.6615100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-140 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-140 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-140 c</name>
 			<name>KOI-327 c</name>
 			<name>KOI-327.02</name>
 			<name>KIC 9881662 c</name>
 			<name>KIC 9881662.02</name>
-			<radius errorminus="0.03190" errorplus="0.03190">0.16403</radius>
+			<radius errorminus="0.03190" errorplus="0.03190">0.161</radius>
 			<period errorminus=".001370" errorplus="0.001370">91.353282</period>
 			<transittime errorminus="0.0087400" errorplus="0.0087400">2455022.6056200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-140 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-140 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.414</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.13</impactparameter></planet>
 	</star>
 </system>
