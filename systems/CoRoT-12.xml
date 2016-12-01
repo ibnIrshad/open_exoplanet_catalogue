@@ -2,7 +2,7 @@
 	<name>CoRoT-12</name>
 	<rightascension>06 43 04</rightascension>
 	<declination>-01 17 47</declination>
-	<distance>1150</distance>
+	<distance>1150.0</distance>
 	<star>
 		<mass>1.078</mass>
 		<radius>1.116</radius>
@@ -25,11 +25,11 @@
 			<inclination>85.48</inclination>
 			<transittime errorminus="0.00036" errorplus="0.00036" unit="BJD">2454398.62785</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1318.7</temperature>
+			<temperature>1442.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-27.0000" errorplus="-27.0000">105.0</periastron><impactparameter errorminus="-0.0300" errorplus="-0.0300">0.573</impactparameter></planet>
 		<name>CoRoT-12</name>
 		<temperature>5675.0</temperature>
 	</star>

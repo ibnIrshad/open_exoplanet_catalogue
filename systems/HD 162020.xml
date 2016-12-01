@@ -21,10 +21,10 @@
 			<semimajoraxis>0.074</semimajoraxis>
 			<eccentricity>0.277</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>656.4</temperature>
-		</planet>
+		<periastron errorminus="-0.0020" errorplus="-0.0020">-27.328</periastron><periastrontime errorminus="-0.005000" errorplus="-0.005000">2451990.677</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 162020</name>
 		<temperature>4830.0</temperature>
 	</star>

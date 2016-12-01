@@ -2,7 +2,7 @@
 	<name>HD 37124</name>
 	<rightascension>05 37 02</rightascension>
 	<declination>+20 43 50</declination>
-	<distance>33</distance>
+	<distance>33.24</distance>
 	<star>
 		<mass>0.83</mass>
 		<radius>0.82</radius>
@@ -23,10 +23,10 @@
 			<semimajoraxis>0.53364</semimajoraxis>
 			<eccentricity>0.054</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>1999</discoveryyear>
+			<lastupdate>18/2016-08-1/2016-08-1</lastupdate>
+			<discoveryyear>2002</discoveryyear>
 			<temperature>306.6</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">130.0</periastron><periastrontime errorminus="-11.000000" errorplus="-11.000000">2450305.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 37124 c</name>
 			<list>Confirmed planets</list>
@@ -35,22 +35,22 @@
 			<semimajoraxis>1.71</semimajoraxis>
 			<eccentricity>0.125</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>2005</discoveryyear>
+			<lastupdate>18/2016-08-1/2016-08-1</lastupdate>
+			<discoveryyear>2002</discoveryyear>
 			<temperature>171.1</temperature>
-		</planet>
+		<periastron errorminus="-17.0000" errorplus="-17.0000">53.0</periastron><periastrontime errorminus="-11.000000" errorplus="-11.000000">2449534.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 37124 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.696</mass>
-			<period>1862</period>
+			<period>1862.0</period>
 			<semimajoraxis>2.807</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<lastupdate>18/2016-08-1/2016-08-1</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 			<temperature>133.5</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">0.0</periastron><periastrontime errorminus="-11.000000" errorplus="-11.000000">2448558.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 37124</name>
 		<temperature>5610.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 154672</name>
 	<rightascension>17 10 05</rightascension>
 	<declination>-56 26 57</declination>
-	<distance>65.8</distance>
+	<distance>64.77</distance>
 	<star>
 		<mass>1.06</mass>
 		<radius>1.27</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 154672 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.02</mass>
-			<period>163.91</period>
-			<semimajoraxis>0.6</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<mass>4.73</mass>
+			<period>163.967</period>
+			<semimajoraxis>0.59</semimajoraxis>
+			<eccentricity>0.6</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/05/20</lastupdate>
+			<lastupdate>10/2016-11-1/2016-11-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>357.1</temperature>
-		</planet>
+		<periastron errorminus="-0.5700" errorplus="-0.5700">265.28</periastron><istransiting>0</istransiting></planet>
 		<name>HD 154672</name>
 		<temperature>5714.0</temperature>
 	</star>

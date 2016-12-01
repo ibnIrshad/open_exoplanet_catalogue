@@ -2,7 +2,7 @@
 	<name>HD 159868</name>
 	<rightascension>17 39 00</rightascension>
 	<declination>-43 08 44</declination>
-	<distance>52.7</distance>
+	<distance>52.72</distance>
 	<star>
 		<mass>1.09</mass>
 		<magV>7.24</magV>
@@ -20,23 +20,23 @@
 			<eccentricity>0.01</eccentricity>
 			<description>A second planet in this system has been discovered in 2012 by the Anglo-Australian Planet Search.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/15</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>224.9</temperature>
-		</planet>
+		<periastron errorminus="-171.0000" errorplus="-171.0000">350.0</periastron><periastrontime errorminus="-56.000000" errorplus="-56.000000">2453435.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 159868 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.73</mass>
 			<period>352.3</period>
-			<semimajoraxis>1</semimajoraxis>
+			<semimajoraxis>1.0</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<description>This planet was discovered by the Anglo-Australian Planet Search. It is orbiting a star previously known to host one planet. After the discovery of the second planet, the reported eccentricity of the first planet changed significantly. This system is an example of how multiple-planet systems can masquerade as moderately eccentric single-planet systems.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/15</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>336.8</temperature>
-		</planet>
+		<periastron errorminus="-25.0000" errorplus="-25.0000">290.0</periastron><periastrontime errorminus="-21.000000" errorplus="-21.000000">2453239.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 159868</name>
 		<temperature>5395.0</temperature>
 	</star>

@@ -18,10 +18,10 @@
 			<semimajoraxis>3.86</semimajoraxis>
 			<eccentricity>0.23</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>17/2014-12-1/2014-12-1</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>155.1</temperature>
-		</planet>
+		<periastron errorminus="-36.0000" errorplus="-36.0000">262.0</periastron><periastrontime errorminus="-225.000000" errorplus="-225.000000">2451234.6</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 50499</name>
 		<temperature>5902.0</temperature>
 	</star>

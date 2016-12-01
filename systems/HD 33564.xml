@@ -19,14 +19,14 @@
 			<name>HD 33564 b</name>
 			<list>Confirmed planets</list>
 			<mass>9.1</mass>
-			<period>388</period>
+			<period>388.0</period>
 			<semimajoraxis>1.1</semimajoraxis>
 			<eccentricity>0.34</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>03/2014-12-0/2014-12-0</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>273.5</temperature>
-		</planet>
+		<periastron errorminus="-4.0000" errorplus="-4.0000">205.0</periastron><periastrontime errorminus="-8.000000" errorplus="-8.000000">2452603.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 33564</name>
 		<temperature>6250.0</temperature>
 	</star>

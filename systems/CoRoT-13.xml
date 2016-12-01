@@ -2,7 +2,7 @@
 	<name>CoRoT-13</name>
 	<rightascension>06 50 53</rightascension>
 	<declination>-05 05 11</declination>
-	<distance>1310</distance>
+	<distance>1060.0</distance>
 	<star>
 		<mass>1.09</mass>
 		<radius>1.01</radius>
@@ -29,11 +29,11 @@
 			<inclination>88.02</inclination>
 			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2454790.8099</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/07/12</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1166.5</temperature>
+			<temperature>1700.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0540" errorplus="-0.0540">0.374</impactparameter></planet>
 		<name>CoRoT-13</name>
 		<temperature>5945.0</temperature>
 	</star>
