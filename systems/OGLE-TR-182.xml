@@ -16,15 +16,15 @@
 			<name>OGLE-TR-182 b</name>
 			<name>2MASS J11091871-6105429 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<radius>1.47</radius>
-			<period>3.9791</period>
-			<semimajoraxis>0.051</semimajoraxis>
+			<mass errorminus="0.15" errorplus="-0.15">1.06</mass>
+			<radius errorminus="0.24" errorplus="-0.08">1.13</radius>
+			<period errorminus="1e-05" errorplus="-1e-05">3.9791</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.001">0.051</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>85.7</inclination>
+			<inclination errorminus="0.3" errorplus="-0.3">85.7</inclination>
 			<transittime errorminus="0.002" errorplus="0.002" unit="BJD">2454270.574</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1235.0</temperature>
 			<istransiting>1</istransiting>

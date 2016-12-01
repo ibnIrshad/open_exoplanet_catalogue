@@ -20,18 +20,18 @@
 			<name>2MASS J08414382+2013368</name>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
-			<mass>0.54</mass>
-			<period>4.4264</period>
+			<mass errorminus="0.039" errorplus="-0.039">0.54</mass>
+			<period errorminus="0.007" errorplus="-0.007">4.4264</period>
 			<eccentricity>0</eccentricity>
 			<description>This planet is a so-called Hot Jupiter which orbits tightly around its parent star in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/09/14</lastupdate>
+			<lastupdate>10/2015-09-1/2015-09-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>beehive</image>
 			<imagedescription>Artist's impression of a planet in the Beehive cluster.
 
 Image credit: NASA/JPL-Caltech</imagedescription>
-		</planet>
+		<periastrontime errorminus="-0.053000" errorplus="-0.053000">2455992.861</periastrontime><istransiting>0</istransiting></planet>
 		<name>Pr0201</name>
 	</star>
 </system>

@@ -26,22 +26,22 @@
 				<name>WASP-12 A b</name>
 				<name>2MASS J06303279+2940202 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.404</mass>
-				<radius>1.736</radius>
-				<period>1.0914222</period>
-				<semimajoraxis>0.02293</semimajoraxis>
+				<mass errorminus="0.076" errorplus="-0.069">1.404</mass>
+				<radius errorminus="0.057" errorplus="-0.055">1.9</radius>
+				<period errorminus="1.4e-07" errorplus="-1.4e-07">1.0914222</period>
+				<semimajoraxis errorminus="0.00056" errorplus="-0.0005">0.02293</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>86</inclination>
+				<inclination errorminus="0.72" errorplus="-0.64">83.37</inclination>
 				<spinorbitalignment errorminus="20" errorplus="15">59</spinorbitalignment>
 				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454508.98074</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/07/31</lastupdate>
+				<lastupdate>15/2016-09-1/2016-09-1</lastupdate>
 				<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 				<discoveryyear>2008</discoveryyear>
-				<temperature>2319.7</temperature>
+				<temperature errorminus="58.0" errorplus="-62.0">2580.0</temperature>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<impactparameter errorminus="-0.0340" errorplus="-0.0340">0.351</impactparameter></planet>
 		</star>
 		<binary>
 			<separation errorminus="0.0006" errorplus="0.0006" unit="arcsec">0.0843</separation>
