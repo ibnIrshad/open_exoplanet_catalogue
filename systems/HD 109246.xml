@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 109246 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.77</mass>
-			<period>68.27</period>
-			<semimajoraxis>0.33</semimajoraxis>
-			<eccentricity>0.12</eccentricity>
+			<mass errorminus="0.09" errorplus="-0.09">0.77</mass>
+			<period errorminus="0.13" errorplus="-0.13">68.27</period>
+			<semimajoraxis errorminus="0.08" errorplus="-0.08">0.33</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="-0.04">0.12</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/06/28</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>452.6</temperature>
-		</planet>
+		<periastron errorminus="-29.0000" errorplus="-29.0000">235.0</periastron><periastrontime errorminus="-4.700000" errorplus="-4.700000">2454824.6</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 109246</name>
 		<temperature>5844.0</temperature>
 	</star>

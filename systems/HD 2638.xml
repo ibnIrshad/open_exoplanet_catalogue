@@ -2,7 +2,7 @@
 	<name>HD 2638</name>
 	<rightascension>00 29 16.10949</rightascension>
 	<declination>-05 54 37.7582</declination>
-	<distance>53.71</distance>
+	<distance errorminus="3.63" errorplus="-4.2">53.71</distance>
 	<binary>
 		<name>WDS J00293-0555</name>
 		<separation unit="arcsec">839.60</separation>
@@ -43,15 +43,15 @@
 					<name>HD 2638 b</name>
 					<list>Confirmed planets</list>
 					<mass>0.48</mass>
-					<period>3.4442</period>
+					<period errorminus="0.0002" errorplus="-0.0002">3.4442</period>
 					<semimajoraxis>0.044</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
 					<discoverymethod>RV</discoverymethod>
-					<lastupdate>10/12/24</lastupdate>
+					<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 					<discoveryyear>2005</discoveryyear>
 					<temperature>978.2</temperature>
 					<list>Planets in binary systems, S-type</list>
-				</planet>
+				<periastron errorminus="" errorplus="">0.0</periastron><periastrontime errorminus="-0.002000" errorplus="-0.002000">2453323.206</periastrontime><istransiting>0</istransiting></planet>
 			</star>
 			<star>
 				<name>HD 2638 C</name>

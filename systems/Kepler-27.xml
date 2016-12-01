@@ -26,11 +26,11 @@
 			<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454991.6726</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>532.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="" errorplus="">9.11</mass></planet>
 		<planet>
 			<name>Kepler-27 c</name>
 			<name>KOI-841.02</name>
@@ -43,10 +43,10 @@
 			<transittime errorminus="0.0032" errorplus="0.0032" unit="BJD">2454986.4274</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>418.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="" errorplus="">13.8</mass></planet>
 	</star>
 </system>

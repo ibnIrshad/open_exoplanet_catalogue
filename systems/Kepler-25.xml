@@ -32,11 +32,11 @@
 			<eccentricity errorminus="0.05" errorplus="0.11">0.05</eccentricity>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>27/2016-10-2/2016-10-2</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>1220.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.54</impactparameter><mass errorminus="-0.01321" errorplus="-0.01321">0.0302</mass></planet>
 		<planet>
 			<name>Kepler-25 c</name>
 			<name>KIC 4349452 c</name>
@@ -51,23 +51,23 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet. The orbit is aligned at 26.9 degrees from the stellar equator.</description>
 			<spinorbitalignment errorminus="7.1" errorplus="7.1">9.4</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>27/2016-10-2/2016-10-2</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>959.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0000" errorplus="0.0000">0.88</impactparameter><mass errorminus="-0.01793" errorplus="-0.01793">0.0774</mass></planet>
 		<planet>
 			<name>Kepler-25 d</name>
 			<name>KOI-244.10</name>
 			<name>KIC 4349452 d</name>
 			<name>KOI-244 d</name>
-			<period errorminus="2" errorplus="2">123</period>
+			<period errorminus="2" errorplus="-2.0">123</period>
 			<mass errorminus="0.043096" errorplus="0.043096">0.282798</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>RV</discoverymethod>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
