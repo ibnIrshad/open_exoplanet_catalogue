@@ -28,7 +28,7 @@
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 10.50 days for 13.5401 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 ± 6 degrees to the line of sight.</description>
 			<semimajoraxis errorminus="0.0037" errorplus="0.0037">0.1028</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/04/14</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -38,7 +38,7 @@
 			<name>KOI-1241 c</name>
 			<name>KIC 6448890 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.060" errorplus="0.066">0.569</mass>
+			<mass errorminus="0.060" errorplus="-0.06">0.569</mass>
 			<radius errorminus="0.040" errorplus="0.041">0.874</radius>
 			<period errorminus="0.00062" errorplus="0.00059">21.40239</period>
 			<transittime errorminus="0.0055" errorplus="0.0057" unit="BJD">2454978.6560</transittime>
@@ -47,7 +47,7 @@
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 21.41 days for 11.0797 hours. Periodic transit timing variations confirm its planetary nature. The orbit is inclined relative to the stellar equator, which is tilted by 47 ± 6 degrees to the line of sight.</description>
 			<semimajoraxis errorminus="0.0059" errorplus="0.0059">0.1652</semimajoraxis>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/04/14</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -56,13 +56,13 @@
 			<name>KOI-1241 d</name>
 			<name>KIC 6448890 d</name>
 			<list>Controversial</list>
-			<mass>3.3</mass>
-			<eccentricity>0.4</eccentricity>
-			<semimajoraxis>2.0</semimajoraxis>
+			<mass errorminus="0.38" errorplus="-0.38">5.61</mass>
+			<eccentricity errorminus="0.01" errorplus="-0.01">0.2</eccentricity>
+			<semimajoraxis errorminus="0.08" errorplus="-0.08">2.16</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/14</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 			<description>A linear trend in the radial velocity measurements indicate a third object orbiting Kepler-56, which has tilted the orbits of the inner planets with respect to the stellar equator. So far it has not been possible to confirm the nature of this object from the observations of the system, but it may be a giant planet in a 2 AU orbit.</description>
-		</planet>
+		<periastron errorminus="-5.7000" errorplus="-5.7000">-15.0</periastron><period errorminus="-5.00000000" errorplus="-5.00000000">1002.0</period><istransiting>0</istransiting></planet>
 	</star>
 </system>

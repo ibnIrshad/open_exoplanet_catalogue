@@ -2,7 +2,7 @@
 	<name>Kepler-71</name>
 	<rightascension>19 39 27</rightascension>
 	<declination>+46 17 09</declination>
-	<distance>918.88</distance>
+	<distance>800.0</distance>
 	<star>
 		<magB>15.1</magB>
 		<magR errorminus="0.11" errorplus="0.11">15.35</magR>
@@ -21,17 +21,17 @@
 			<name>KOI-217 b</name>
 			<name>KOI-217.01</name>
 			<name>KIC 9595827 b</name>
-			<radius errorminus="0.51033" errorplus="0.51033">1.06622</radius>
+			<radius errorminus="0.02" errorplus="-0.02">1.06622</radius>
 			<period errorminus="1.785e-07" errorplus="1.785e-07">3.9050814125</period>
 			<transittime errorminus="0.0000006" errorplus="0.0000006">2454966.4143153</transittime>
 			<semimajoraxis errorminus="1.48e-09" errorplus="1.48e-09">0.0484618</semimajoraxis>
-			<inclination errorminus="0.683" errorplus="0.683">89.67</inclination>
+			<inclination errorminus="0.2" errorplus="-0.4">89.8</inclination>
 			<temperature errorminus="47.8" errorplus="47.8">1046.2</temperature>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/25</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="" errorplus="">0.0</eccentricity></planet>
 	</star>
 </system>
