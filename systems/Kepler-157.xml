@@ -21,43 +21,43 @@
 			<name>KOI-442.01</name>
 			<name>KIC 3745690 c</name>
 			<name>KIC 3745690.01</name>
-			<radius errorminus="0.03919" errorplus="0.03919">0.20413</radius>
-			<period errorminus=".000049" errorplus="0.000049">13.540500</period>
+			<radius errorminus="0.03919" errorplus="0.03919">0.2</radius>
+			<period errorminus=".000049" errorplus="0.000049">13.5405</period>
 			<transittime errorminus="0.0021900" errorplus="0.0021900">2455004.6803200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-157 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.11</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.34</impactparameter></planet>
 		<planet>
 			<name>Kepler-157 b</name>
 			<name>KOI-442 b</name>
 			<name>KOI-442.02</name>
 			<name>KIC 3745690 b</name>
 			<name>KIC 3745690.02</name>
-			<radius errorminus="0.02369" errorplus="0.02369">0.12029</radius>
+			<radius errorminus="0.02369" errorplus="0.02369">0.118</radius>
 			<period errorminus=".000006" errorplus="0.000006">1.732342</period>
 			<transittime errorminus="0.0020500" errorplus="0.0020500">2454967.5302000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-157 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.028</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-157 d</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000023880" errorplus="0.000023880">7.025734740</period>
-			<radius errorminus="0.009" errorplus="0.014">0.130</radius>
+			<period errorminus="0.000023880" errorplus="0.000023880">7.02573474</period>
+			<radius errorminus="0.009" errorplus="0.014">0.13</radius>
 		</planet>
 	</star>
 </system>
