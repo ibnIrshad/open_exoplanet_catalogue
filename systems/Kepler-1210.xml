@@ -4,10 +4,10 @@
 	<declination>+48 13 10</declination>
 	<star>
 		<name>Kepler-1210</name>
-		<temperature errorminus="91.6" errorplus="67.2">5568.0</temperature>
+		<temperature errorminus="67.19" errorplus="-91.62">5568.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.94</mass>
-		<radius errorminus="0.07" errorplus="0.16">0.92</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">0.92</radius>
+		<metallicity errorminus="0.17" errorplus="-0.166">0.04</metallicity>
 		<planet>
 			<name>Kepler-1210 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000048990" errorplus="0.000048990">8.071240730</period>
 			<radius errorminus="0.012" errorplus="0.027">0.152</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.320" errorplus="-3.320">5.13</age><magV errorminus="" errorplus="">15.553</magV></star>
+<distance errorminus="-87.45" errorplus="-87.45">1155.0</distance></system>

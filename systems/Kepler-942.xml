@@ -4,10 +4,10 @@
 	<declination>+44 08 59</declination>
 	<star>
 		<name>Kepler-942</name>
-		<temperature errorminus="66.3" errorplus="77.8">4861.0</temperature>
+		<temperature errorminus="77.85" errorplus="-66.28">4861.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.81</mass>
 		<radius errorminus="0.01" errorplus="0.02">0.75</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.09</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.1">0.09</metallicity>
 		<planet>
 			<name>Kepler-942 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000069620" errorplus="0.000069620">44.964174880</period>
 			<radius errorminus="0.007" errorplus="0.021">0.190</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.150" errorplus="-2.150">4.17</age><magV errorminus="" errorplus="">13.054</magV></star>
+<distance errorminus="-5.36" errorplus="-5.36">218.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+46 39 44</declination>
 	<star>
 		<name>Kepler-1233</name>
-		<temperature errorminus="168.5" errorplus="139.1">6198.0</temperature>
-		<mass errorminus="0.10" errorplus="0.18">1.16</mass>
-		<radius errorminus="0.18" errorplus="0.52">1.25</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.02</metallicity>
+		<temperature errorminus="139.13" errorplus="-168.47">6198.0</temperature>
+		<mass errorminus="0.10" errorplus="-0.1">1.16</mass>
+		<radius errorminus="0.52" errorplus="-0.18">1.25</radius>
+		<metallicity errorminus="0.16" errorplus="-0.161">0.02</metallicity>
 		<planet>
 			<name>Kepler-1233 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000517100" errorplus="0.000517100">45.126304200</period>
-			<radius errorminus="0.035" errorplus="0.096">0.232</radius>
+			<radius errorminus="0.035" errorplus="-0.035">0.232</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.100" errorplus="-1.100">2.88</age><magV errorminus="" errorplus="">14.689</magV></star>
+<distance errorminus="-200.04" errorplus="-200.04">1281.0</distance></system>
