@@ -4,21 +4,21 @@
 	<declination>+43 16 28</declination>
 	<star>
 		<name>Kepler-1584</name>
-		<temperature errorminus="93.5" errorplus="86.3">6069.0</temperature>
-		<mass errorminus="0.07" errorplus="0.09">1.10</mass>
-		<radius errorminus="0.12" errorplus="0.28">1.13</radius>
-		<metallicity errorminus="0.20" errorplus="0.14">0.00</metallicity>
+		<temperature errorminus="86.35" errorplus="-93.46">6069.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.10</mass>
+		<radius errorminus="0.28" errorplus="-0.12">1.13</radius>
+		<metallicity errorminus="0.20" errorplus="-0.196">0.00</metallicity>
 		<planet>
 			<name>Kepler-1584 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000157000" errorplus="0.000157000">13.399709900</period>
 			<radius errorminus="0.019" errorplus="0.036">0.144</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.600" errorplus="-1.600">3.31</age><magV errorminus="" errorplus="">14.924</magV></star>
+<distance errorminus="-149.19" errorplus="-149.19">1325.0</distance></system>

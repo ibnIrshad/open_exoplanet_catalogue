@@ -6,11 +6,11 @@
 		<name>WASP-101</name>
 		<name>1SWASP J063324.26-232910.2</name>
 		<name>2MASS 06332426-2329103</name>
-		<mass errorminus="0.07" errorplus="0.07">1.34</mass>
+		<mass errorminus="0.07" errorplus="-0.07">1.34</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.29</radius>
-		<temperature errorminus="110" errorplus="110">6400</temperature>
-		<metallicity errorminus="0.12" errorplus="0.12">0.2</metallicity>
-		<age>0.9</age>
+		<temperature errorminus="110" errorplus="-110.0">6400</temperature>
+		<metallicity errorminus="0.12" errorplus="-0.12">0.2</metallicity>
+		<age errorminus="1.3" errorplus="-0.4">0.9</age>
 		<spectraltype>F6</spectraltype>
 		<magV>10.3</magV>
 		<magB errorminus="0.04" errorplus="0.04">10.78</magB>
@@ -24,17 +24,17 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.04" errorplus="0.04">0.5</mass>
 			<radius errorminus="0.05" errorplus="0.05">1.41</radius>
-			<temperature errorminus="35" errorplus="35">1560</temperature>
+			<temperature errorminus="35" errorplus="-35.0">1560</temperature>
 			<period errorminus="0.000004" errorplus="0.000004">3.585722</period>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456164.6934</transittime>
 			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0506</semimajoraxis>
-			<eccentricity upperlimit="0.03" />
-			<inclination errorminus="0.2" errorplus="0.2">85</inclination>
+			<eccentricity upperlimit="0.03">0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="-0.2">85</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0130" errorplus="-0.0130">0.736</impactparameter></planet>
 	</star>
 </system>

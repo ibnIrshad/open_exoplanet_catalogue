@@ -4,21 +4,21 @@
 	<declination>+46 38 34</declination>
 	<star>
 		<name>Kepler-1564</name>
-		<temperature errorminus="90.4" errorplus="77.1">5528.0</temperature>
+		<temperature errorminus="77.11" errorplus="-90.36">5528.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.93</mass>
-		<radius errorminus="0.05" errorplus="0.11">0.90</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.03</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.90</radius>
+		<metallicity errorminus="0.16" errorplus="-0.159">0.03</metallicity>
 		<planet>
 			<name>Kepler-1564 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000191900" errorplus="0.000191900">18.054038100</period>
 			<radius errorminus="0.012" errorplus="0.017">0.131</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.840" errorplus="-2.840">4.57</age><magV errorminus="" errorplus="">15.004</magV></star>
+<distance errorminus="-56.91" errorplus="-56.91">872.0</distance></system>

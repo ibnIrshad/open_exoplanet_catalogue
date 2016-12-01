@@ -4,21 +4,21 @@
 	<declination>+47 34 23</declination>
 	<star>
 		<name>Kepler-1577</name>
-		<temperature errorminus="75.1" errorplus="84.3">4862.0</temperature>
+		<temperature errorminus="84.27" errorplus="-75.08">4862.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.00</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.164">0.00</metallicity>
 		<planet>
 			<name>Kepler-1577 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000036660" errorplus="0.000036660">6.305602470</period>
 			<radius errorminus="0.010" errorplus="0.004">0.101</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.430" errorplus="-2.430">4.27</age><magV errorminus="" errorplus="">15.056</magV></star>
+<distance errorminus="-26.31" errorplus="-26.31">543.0</distance></system>
