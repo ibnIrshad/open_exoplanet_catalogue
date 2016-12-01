@@ -4,21 +4,21 @@
 	<declination>+37 03 33</declination>
 	<star>
 		<name>Kepler-745</name>
-		<temperature errorminus="158.1" errorplus="106.5">5849.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">1.04</mass>
-		<radius errorminus="0.10" errorplus="0.28">1.04</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.06</metallicity>
+		<temperature errorminus="106.52" errorplus="-158.12">5849.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.04</mass>
+		<radius errorminus="0.28" errorplus="-0.1">1.04</radius>
+		<metallicity errorminus="0.16" errorplus="-0.158">0.06</metallicity>
 		<planet>
 			<name>Kepler-745 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000059450" errorplus="0.000059450">9.931435560</period>
 			<radius errorminus="0.020" errorplus="0.052">0.193</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.300" errorplus="-2.300">4.07</age><magV errorminus="" errorplus="">15.214</magV></star>
+<distance errorminus="-128.59" errorplus="-128.59">1199.0</distance></system>
