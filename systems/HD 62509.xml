@@ -23,14 +23,14 @@
 			<name>Beta Geminorum b</name>
 			<name>Beta Gem b</name>
 			<list>Confirmed planets</list>
-			<mass>2.9</mass>
+			<mass>2.3</mass>
 			<period>589.64</period>
-			<semimajoraxis>1.69</semimajoraxis>
+			<semimajoraxis>1.64</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>482.6</temperature>
-		</planet>
+		<periastron errorminus="-95.6500" errorplus="-95.6500">354.58</periastron><periastrontime errorminus="-4.500000" errorplus="-4.500000">2447739.02</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>
