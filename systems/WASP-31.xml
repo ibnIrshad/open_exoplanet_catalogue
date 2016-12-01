@@ -2,7 +2,7 @@
 	<name>WASP-31</name>
 	<rightascension>11 17 45</rightascension>
 	<declination>-19 03 17</declination>
-	<distance>400</distance>
+	<distance>360.0</distance>
 	<star>
 		<mass>1.16</mass>
 		<radius>1.24</radius>
@@ -20,14 +20,14 @@
 			<name>2MASS J11174536-1903171 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.478</mass>
-			<radius>1.537</radius>
-			<period>3.405909</period>
-			<semimajoraxis>0.04657</semimajoraxis>
+			<radius>1.549</radius>
+			<period>3.4059096</period>
+			<semimajoraxis>0.04659</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>84.54</inclination>
+			<inclination>84.41</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1410.6</temperature>
 			<istransiting>1</istransiting>

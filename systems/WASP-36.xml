@@ -2,7 +2,7 @@
 	<name>WASP-36</name>
 	<rightascension>08 46 19.298</rightascension>
 	<declination>-08 01 37.01</declination>
-	<distance>450</distance>
+	<distance>450.0</distance>
 	<star>
 		<mass>1.02</mass>
 		<radius>0.943</radius>
@@ -18,17 +18,17 @@
 			<name>WASP-36 b</name>
 			<name>2MASS J08461929-0801370 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.279</mass>
-			<radius>1.269</radius>
-			<period>1.5373653</period>
-			<semimajoraxis>0.02624</semimajoraxis>
+			<mass>2.361</mass>
+			<radius>1.327</radius>
+			<period>1.53736596</period>
+			<semimajoraxis>0.02677</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.65</inclination>
+			<inclination>83.15</inclination>
 			<transittime errorminus="0.000095" errorplus="0.000095" unit="BJD">2455569.83809</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/25</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1554.5</temperature>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>1733.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-36</name>
