@@ -4,21 +4,21 @@
 	<declination>+42 00 25</declination>
 	<star>
 		<name>Kepler-1463</name>
-		<temperature errorminus="125.8" errorplus="93.9">5679.0</temperature>
-		<mass errorminus="0.06" errorplus="0.05">0.96</mass>
-		<radius errorminus="0.08" errorplus="0.16">0.95</radius>
-		<metallicity errorminus="0.19" errorplus="0.15">0.00</metallicity>
+		<temperature errorminus="93.91" errorplus="-125.8">5679.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.96</mass>
+		<radius errorminus="0.08" errorplus="-0.08">0.95</radius>
+		<metallicity errorminus="0.19" errorplus="-0.191">0.00</metallicity>
 		<planet>
 			<name>Kepler-1463 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000512300" errorplus="0.000512300">25.158640000</period>
 			<radius errorminus="0.017" errorplus="0.029">0.166</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.990" errorplus="-2.990">4.79</age><magV errorminus="" errorplus="">15.759</magV></star>
+<distance errorminus="-124.82" errorplus="-124.82">1341.0</distance></system>

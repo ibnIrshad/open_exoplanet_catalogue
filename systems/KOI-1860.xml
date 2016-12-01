@@ -20,14 +20,14 @@
 			<list>Confirmed planets</list>
 			<period>6.319</period>
 			<semimajoraxis>0.0458</semimajoraxis>
-			<radius errorminus="0.029" errorplus="0.088">0.221</radius>
+			<radius errorminus="0.029" errorplus="-0.029">0.221</radius>
 			<transittime errorminus="0.00161" errorplus="0.00161">2454965.23059</transittime>
 			<description>The planet Kepler-416 b has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>28/2014-05-2/2014-05-2</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="-0.12400" errorplus="-0.12400">0.183</mass></planet>
 		<planet>
 			<name>KOI-1860 c</name>
 			<name>Kepler-416 c</name>
@@ -39,9 +39,9 @@
 			<radius errorminus="0.030" errorplus="0.091">0.227</radius>
 			<transittime errorminus="0.00195" errorplus="0.00195">2455193.32274</transittime>
 			<description>The planet Kepler-416 c has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>28/2014-05-2/2014-05-2</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -70,5 +70,5 @@
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
+	<magV errorminus="" errorplus="">14.028</magV></star>
 </system>
