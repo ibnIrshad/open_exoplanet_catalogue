@@ -21,79 +21,79 @@
 			<name>KOI-904.01</name>
 			<name>KIC 8150320 d</name>
 			<name>KIC 8150320.01</name>
-			<radius errorminus="0.00820" errorplus="0.00820">0.14490</radius>
+			<radius errorminus="0.00820" errorplus="0.00820">0.142</radius>
 			<period errorminus=".000004" errorplus="0.000004">2.211099</period>
 			<transittime errorminus="0.0009100" errorplus="0.0009100">2455003.1491200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.029</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-55 b</name>
 			<name>KOI-904 b</name>
 			<name>KOI-904.02</name>
 			<name>KIC 8150320 b</name>
 			<name>KIC 8150320.02</name>
-			<radius errorminus="0.01094" errorplus="0.01094">0.19684</radius>
-			<period errorminus=".000176" errorplus="0.000176">27.953314</period>
+			<radius errorminus="0.01094" errorplus="0.01094">0.217</radius>
+			<period errorminus=".000176" errorplus="0.000176">27.9481449</period>
 			<transittime errorminus="0.0030900" errorplus="0.0030900">2455011.7569100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="" errorplus="">1.49</mass></planet>
 		<planet>
 			<name>Kepler-55 c</name>
 			<name>KOI-904 c</name>
 			<name>KOI-904.03</name>
 			<name>KIC 8150320 c</name>
 			<name>KIC 8150320.03</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.18864</radius>
-			<period errorminus=".000268" errorplus="0.000268">42.142596</period>
+			<radius errorminus="0.01002" errorplus="0.01002">0.197</radius>
+			<period errorminus=".000268" errorplus="0.000268">42.1516418</period>
 			<transittime errorminus="0.0036000" errorplus="0.0036000">2454972.0322300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="" errorplus="">1.11</mass></planet>
 		<planet>
 			<name>Kepler-55 e</name>
 			<name>KOI-904 e</name>
 			<name>KOI-904.04</name>
 			<name>KIC 8150320 e</name>
 			<name>KIC 8150320.04</name>
-			<radius errorminus="0.02096" errorplus="0.02096">0.14125</radius>
+			<radius errorminus="0.02096" errorplus="0.02096">0.138</radius>
 			<period errorminus=".000021" errorplus="0.000021">4.617534</period>
 			<transittime errorminus="0.0022400" errorplus="0.0022400">2454968.0425400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.048</semimajoraxis><impactparameter errorminus="-0.2900" errorplus="-0.2900">0.72</impactparameter></planet>
 		<planet>
 			<name>Kepler-55 f</name>
 			<name>KOI-904 f</name>
 			<name>KOI-904.05</name>
 			<name>KIC 8150320 f</name>
 			<name>KIC 8150320.05</name>
-			<radius errorminus="0.00911" errorplus="0.00911">0.14490</radius>
+			<radius errorminus="0.00911" errorplus="0.00911">0.142</radius>
 			<period errorminus=".000045" errorplus="0.000045">10.198545</period>
 			<transittime errorminus="0.0026500" errorplus="0.0026500">2454970.9171400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.081</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.46</impactparameter></planet>
 	</star>
 </system>

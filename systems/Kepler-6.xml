@@ -18,19 +18,19 @@
 			<name>KOI-17.01</name>
 			<name>KOI-17 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.67</mass>
-			<radius errorminus="0.03" errorplus="0.02">1.30</radius>
-			<period errorminus="0.000017" errorplus="0.000017">3.234723</period>
-			<semimajoraxis>0.04567</semimajoraxis>
+			<mass errorminus="0.04" errorplus="0.04">0.668</mass>
+			<radius errorminus="0.03" errorplus="0.02">1.304</radius>
+			<period errorminus="0.000017" errorplus="0.000017">3.2346996</period>
+			<semimajoraxis>0.04852</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.3" errorplus="0.3">86.8</inclination>
+			<inclination errorminus="0.3" errorplus="0.3">88.93</inclination>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454954.48636</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1374.1</temperature>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>1460.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0250" errorplus="-0.0250">0.141</impactparameter></planet>
 		<name>Kepler-6</name>
 		<name>KOI-17</name>
 		<name>KIC 10874614</name>
