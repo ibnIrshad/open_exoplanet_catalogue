@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-323 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-323 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.046</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.1</impactparameter></planet>
 		<planet>
 			<name>Kepler-323 b</name>
 			<name>KOI-1824 b</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-323 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-323 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.028</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.09</impactparameter></planet>
 	</star>
 </system>

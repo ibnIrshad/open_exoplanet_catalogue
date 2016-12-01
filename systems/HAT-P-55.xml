@@ -2,7 +2,7 @@
 	<name>HAT-P-55</name>
 	<rightascension>17 37 05.52</rightascension>
 	<declination>+25 43 52.3</declination>
-	<distance errorminus="19" errorplus="19">480</distance>
+	<distance errorminus="19" errorplus="-19.0">480</distance>
 	<star>
 		<name>HAT-P-55</name>
 		<name>GSC 2080-00517</name>
@@ -23,18 +23,18 @@
 			<name>GSC 2080-00517 b</name>
 			<name>2MASS 17370562+2543522 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.056" errorplus="0.056">0.582</mass>
-			<radius errorminus="0.055" errorplus="0.055">1.182</radius>
-			<temperature errorminus="26" errorplus="26">1313</temperature>
+			<mass errorminus="0.056" errorplus="-0.056">0.582</mass>
+			<radius errorminus="0.055" errorplus="-0.055">1.182</radius>
+			<temperature errorminus="26" errorplus="-26.0">1313</temperature>
 			<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.04604</semimajoraxis>
-			<eccentricity upperlimit="0.139" />
-			<inclination errorminus="0.56" errorplus="0.56">87.70</inclination>
+			<eccentricity upperlimit="0.139">0.139</eccentricity>
+			<inclination errorminus="0.56" errorplus="-0.56">87.70</inclination>
 			<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2456730.83468</transittime>
 			<description>This planet was discovered by the HATNet transit survey. The planet is a typical hot Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/11</lastupdate>
+			<lastupdate>17/2015-06-1/2015-06-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0860" errorplus="-0.0860">0.392</impactparameter><period errorminus="-0.00000640" errorplus="-0.00000640">3.5852467</period></planet>
 	</star>
 </system>
