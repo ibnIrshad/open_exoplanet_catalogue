@@ -4,7 +4,7 @@
 	<name>Hamal</name>
 	<rightascension>02 07 10.40570</rightascension>
 	<declination>+23 27 44.7032</declination>
-	<distance errorminus="0.10" errorplus="0.10">20.18</distance>
+	<distance errorminus="0.10" errorplus="0.10">20.21</distance>
 	<star>
 		<name>alf Ari</name>
 		<name>Alpha Arietis</name>
@@ -43,8 +43,8 @@
 			<periastrontime errorminus="7.36" errorplus="7.36">2451213.52</periastrontime>
 			<periastron errorminus="6.84" errorplus="6.84">89.16</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-		</planet>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

@@ -21,30 +21,30 @@
 			<name>KOI-115.01</name>
 			<name>KIC 9579641 b</name>
 			<name>KIC 9579641.01</name>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
-			<period errorminus="0.000004" errorplus="0.000004">5.412200</period>
+			<radius errorminus="0.05468" errorplus="0.05468">0.429</radius>
+			<period errorminus="0.000004" errorplus="0.000004">5.4122</period>
 			<transittime errorminus="0.0004200" errorplus="0.0004200">2454966.1424900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-105 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="-0.003000" errorplus="-0.003000">0.066</semimajoraxis><eccentricity errorminus="-0.470000" errorplus="-0.470000">0.47</eccentricity><periastron errorminus="-272.1600" errorplus="-272.1600">272.16</periastron><inclination errorminus="-3.880" errorplus="-3.880">85.94</inclination><impactparameter errorminus="-0.1700" errorplus="-0.1700">0.64</impactparameter><temperature errorminus="-228" errorplus="-228">1418.0</temperature></planet>
 		<planet>
 			<name>Kepler-105 c</name>
 			<name>KOI-115 c</name>
 			<name>KOI-115.02</name>
 			<name>KIC 9579641 c</name>
 			<name>KIC 9579641.02</name>
-			<radius errorminus="0.03098" errorplus="0.03098">0.14672</radius>
-			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
+			<radius errorminus="0.03098" errorplus="0.03098">0.117</radius>
+			<period errorminus="0.000017" errorplus="0.000017">7.1262</period>
 			<transittime errorminus="0.0014100" errorplus="0.0014100">2454972.0042100</transittime>
-			<mass errorminus="0.002781" errorplus="0.002904">0.014483</mass>
+			<mass errorminus="0.002781" errorplus="0.002904">0.01447</mass>
 			<list>Confirmed planets</list>
 			<description>Kepler-105 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 c are still unknown, the object is highly unlikely to be a false positive. TTV measurements indicate it is likely to be rocky.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
