@@ -2,7 +2,7 @@
 	<name>HD 95089</name>
 	<rightascension>10 58 48</rightascension>
 	<declination>+01 43 45</declination>
-	<distance>139</distance>
+	<distance>149.03</distance>
 	<star>
 		<mass>1.58</mass>
 		<radius>4.9</radius>
@@ -17,14 +17,14 @@
 			<name>HD 95089 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.2</mass>
-			<period>507</period>
+			<period>507.0</period>
 			<semimajoraxis>1.51</semimajoraxis>
 			<eccentricity>0.157</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>396.7</temperature>
-		</planet>
+		<periastron errorminus="-60.0000" errorplus="-60.0000">317.0</periastron><periastrontime errorminus="-90.000000" errorplus="-90.000000">2454983.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 95089</name>
 		<temperature>5002.0</temperature>
 	</star>
