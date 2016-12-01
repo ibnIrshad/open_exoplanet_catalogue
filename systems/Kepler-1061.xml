@@ -4,10 +4,10 @@
 	<declination>+50 16 31</declination>
 	<star>
 		<name>Kepler-1061</name>
-		<temperature errorminus="59.0" errorplus="71.8">6067.0</temperature>
+		<temperature errorminus="71.81" errorplus="-59.04">6067.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.09</mass>
-		<radius errorminus="0.05" errorplus="0.06">1.07</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">1.07</radius>
+		<metallicity errorminus="0.10" errorplus="-0.101">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1061 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003880" errorplus="0.000003880">2.757982670</period>
 			<radius errorminus="0.033" errorplus="0.010">0.177</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.699" errorplus="-0.699">2.14</age><magV errorminus="" errorplus="">13.263</magV></star>
+<distance errorminus="-28.54" errorplus="-28.54">585.0</distance></system>

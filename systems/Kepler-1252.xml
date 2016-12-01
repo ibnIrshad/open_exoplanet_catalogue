@@ -4,10 +4,10 @@
 	<declination>+46 41 34</declination>
 	<star>
 		<name>Kepler-1252</name>
-		<temperature errorminus="218.4" errorplus="144.6">5949.0</temperature>
-		<mass errorminus="0.09" errorplus="0.09">1.06</mass>
-		<radius errorminus="0.14" errorplus="0.27">1.09</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.03</metallicity>
+		<temperature errorminus="144.6" errorplus="-218.38">5949.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.06</mass>
+		<radius errorminus="0.27" errorplus="-0.14">1.09</radius>
+		<metallicity errorminus="0.16" errorplus="-0.161">0.03</metallicity>
 		<planet>
 			<name>Kepler-1252 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000124800" errorplus="0.000124800">15.054032900</period>
 			<radius errorminus="0.021" errorplus="0.037">0.149</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.120" errorplus="-2.120">3.89</age><magV errorminus="" errorplus="">14.503</magV></star>
+<distance errorminus="-110.23" errorplus="-110.23">828.0</distance></system>

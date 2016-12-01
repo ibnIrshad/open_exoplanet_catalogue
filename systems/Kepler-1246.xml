@@ -4,10 +4,10 @@
 	<declination>+48 58 56</declination>
 	<star>
 		<name>Kepler-1246</name>
-		<temperature errorminus="51.3" errorplus="49.7">4611.0</temperature>
+		<temperature errorminus="49.69" errorplus="-51.31">4611.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.73</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.69</radius>
-		<metallicity errorminus="0.16" errorplus="0.16">-0.03</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.163">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1246 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000088520" errorplus="0.000088520">11.322715130</period>
 			<radius errorminus="0.020" errorplus="0.018">0.121</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.100" errorplus="-2.100">3.89</age><magV errorminus="" errorplus="">15.006</magV></star>
+<distance errorminus="-25.53" errorplus="-25.53">435.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+48 07 53</declination>
 	<star>
 		<name>Kepler-1040</name>
-		<temperature errorminus="65.7" errorplus="78.2">5694.0</temperature>
+		<temperature errorminus="78.24" errorplus="-65.65">5694.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.98</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.96</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">0.01</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.96</radius>
+		<metallicity errorminus="0.10" errorplus="-0.102">0.01</metallicity>
 		<planet>
 			<name>Kepler-1040 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.001945000" errorplus="0.001945000">201.121400000</period>
 			<radius errorminus="0.009" errorplus="0.016">0.186</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.200" errorplus="-2.200">4.17</age><magV errorminus="" errorplus="">13.328</magV></star>
+<distance errorminus="-25.47" errorplus="-25.47">473.0</distance></system>

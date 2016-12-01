@@ -4,10 +4,10 @@
 	<declination>+46 39 58</declination>
 	<star>
 		<name>Kepler-1044</name>
-		<temperature errorminus="124.5" errorplus="112.3">5985.0</temperature>
-		<mass errorminus="0.07" errorplus="0.08">1.08</mass>
-		<radius errorminus="0.12" errorplus="0.25">1.11</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.04</metallicity>
+		<temperature errorminus="112.26" errorplus="-124.51">5985.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.08</mass>
+		<radius errorminus="0.25" errorplus="-0.12">1.11</radius>
+		<metallicity errorminus="0.16" errorplus="-0.163">0.04</metallicity>
 		<planet>
 			<name>Kepler-1044 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000018670" errorplus="0.000018670">6.774088680</period>
 			<radius errorminus="0.026" errorplus="0.055">0.238</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.790" errorplus="-1.790">3.55</age><magV errorminus="" errorplus="">15.368</magV></star>
+<distance errorminus="-170.91" errorplus="-170.91">1507.0</distance></system>

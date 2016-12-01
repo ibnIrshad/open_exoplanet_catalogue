@@ -4,10 +4,10 @@
 	<declination>+49 56 45</declination>
 	<star>
 		<name>Kepler-1036</name>
-		<temperature errorminus="69.6" errorplus="83.3">5533.0</temperature>
+		<temperature errorminus="83.31" errorplus="-69.58">5533.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.95</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.89</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.04</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.099">0.04</metallicity>
 		<planet>
 			<name>Kepler-1036 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000709000" errorplus="0.000709000">122.880805800</period>
 			<radius errorminus="0.047" errorplus="0.012">0.269</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.610" errorplus="-1.610">3.24</age><magV errorminus="" errorplus="">13.8</magV></star>
+<distance errorminus="-20.21" errorplus="-20.21">507.0</distance></system>
