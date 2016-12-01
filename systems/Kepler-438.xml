@@ -2,7 +2,7 @@
 	<name>Kepler-438</name>
 	<rightascension>18 46 35.00</rightascension>
 	<declination>+41 57 03.9</declination>
-	<distance errorminus="23" errorplus="20">145</distance>
+	<distance errorminus="20.0" errorplus="-23.0">145</distance>
 	<star>
 		<name>Kepler-438</name>
 		<name>KOI-3284</name>
@@ -26,13 +26,13 @@
 			<period errorminus="0.00029" errorplus="0.00025">35.23319</period>
 			<transittime errorminus="0.0032" errorplus="0.0044" unit="BJD">2455673.0307</transittime>
 			<semimajoraxis errorminus="0.042" errorplus="0.051">0.166</semimajoraxis>
-			<inclination errorminus="0.32" errorplus="0.14">89.86</inclination>
-			<eccentricity lowerlimit="0.03" />
+			<inclination errorminus="0.14" errorplus="-0.32">89.86</inclination>
+			<eccentricity errorminus="0.1" errorplus="-0.03" lowerlimit="0.03">0.03</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015. This planet is one of the most Earth-like planets discovered to date.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<lastupdate>06/2015-01-0/2015-01-0</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<impactparameter errorminus="-0.3400" errorplus="-0.3400">0.9</impactparameter></planet>
 	</star>
 </system>

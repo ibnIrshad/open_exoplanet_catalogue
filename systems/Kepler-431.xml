@@ -26,9 +26,9 @@
 			<description>The planet Kepler-431 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="" errorplus="">1032.0</temperature></planet>
 		<planet>
 			<name>Kepler-431 c</name>
 			<name>KOI-3097 c</name>
@@ -42,9 +42,9 @@
 			<description>The planet Kepler-431 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="" errorplus="">951.0</temperature></planet>
 		<planet>
 			<name>Kepler-431 d</name>
 			<name>KOI-3097 d</name>
@@ -58,8 +58,8 @@
 			<description>The planet Kepler-431 d was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="" errorplus="">856.0</temperature></planet>
 	</star>
 </system>

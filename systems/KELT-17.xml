@@ -2,7 +2,7 @@
 	<name>KELT-17</name>
 	<rightascension>08 22 28.21</rightascension>
 	<declination>+13 44 07.2</declination>
-	<distance errorminus="10" errorplus="10">210</distance>
+	<distance errorminus="10" errorplus="-10.0">210</distance>
 	<star>
 		<name>KELT-17</name>
 		<name>TYC 807-903-1</name>
@@ -19,17 +19,17 @@
 		<planet>
 			<name>KELT-17 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.060" errorplus="0.065">1.525</radius>
-			<mass errorminus="0.29" errorplus="0.28">1.31</mass>
+			<radius errorminus="0.060" errorplus="-0.06">1.525</radius>
+			<mass errorminus="0.29" errorplus="-0.29">1.31</mass>
 			<period errorminus="0.0000052" errorplus="0.0000053">3.0801716</period>
 			<transittime errorminus="0.00033" errorplus="0.00033" unit="BJD">2457226.142194</transittime>
 			<semimajoraxis errorminus="0.00061" errorplus="0.00065">0.04881</semimajoraxis>
-			<temperature errorminus="33" errorplus="32">2087</temperature>
+			<temperature errorminus="32.0" errorplus="-33.0">2087</temperature>
 			<description>KELT-17 b is highly misaligned with respect to the stellar spin axis and was used to measure the level of differential rotation of its host star. Jointly discovered with KELT-North and KELT-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/07/19</lastupdate>
+			<lastupdate>08/2016-09-0/2016-09-0</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<inclination errorminus="-0.430" errorplus="-0.430">84.87</inclination><impactparameter errorminus="-0.0350" errorplus="-0.0350">0.57</impactparameter></planet>
 	</star>
 </system>

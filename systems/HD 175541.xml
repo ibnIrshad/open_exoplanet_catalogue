@@ -2,7 +2,7 @@
 	<name>HD 175541</name>
 	<rightascension>18 55 41</rightascension>
 	<declination>+04 15 55</declination>
-	<distance>128</distance>
+	<distance errorminus="16.07" errorplus="-21.48">127.55</distance>
 	<star>
 		<mass>1.65</mass>
 		<radius>3.85</radius>
@@ -17,14 +17,14 @@
 			<name>HD 175541 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.61</mass>
-			<period>297.3</period>
+			<period errorminus="0.6" errorplus="-0.6">297.3</period>
 			<semimajoraxis>1.03</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<eccentricity errorminus="0.2" errorplus="-0.2">0.33</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/20</lastupdate>
+			<lastupdate>09/2014-07-0/2014-07-0</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>428.3</temperature>
-		</planet>
+		<periastron errorminus="-30.0000" errorplus="-30.0000">183.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2450213.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 175541</name>
 		<temperature>5060.0</temperature>
 	</star>
