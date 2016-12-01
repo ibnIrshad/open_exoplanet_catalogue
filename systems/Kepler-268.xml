@@ -12,8 +12,8 @@
 		<name>Kepler-268</name>
 		<name>KOI-1113</name>
 		<name>KIC 2854914</name>
-		<temperature errorminus="100" errorplus="100">6081</temperature>
-		<radius errorminus=".234" errorplus="0.234">1.274</radius>
+		<temperature errorminus="100" errorplus="-100.0">6081</temperature>
+		<radius errorminus=".234" errorplus="-0.23">1.274</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
 		<planet>
 			<name>Kepler-268 b</name>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.18</semimajoraxis><impactparameter errorminus="-0.1900" errorplus="-0.1900">0.07</impactparameter></planet>
 		<planet>
 			<name>Kepler-268 c</name>
 			<name>KOI-1113 c</name>
 			<name>KOI-1113.02</name>
 			<name>KIC 2854914 c</name>
 			<name>KIC 2854914.02</name>
-			<radius errorminus="0.06288" errorplus="0.06288">0.30802</radius>
+			<radius errorminus="0.06288" errorplus="-0.062">0.30802</radius>
 			<period errorminus=".000761" errorplus="0.000761">83.446393</period>
 			<transittime errorminus="0.0059200" errorplus="0.0059200">2454991.6851000</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.391</semimajoraxis><impactparameter errorminus="-0.3300" errorplus="-0.3300">0.91</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.114</metallicity><magV errorminus="" errorplus="">13.703</magV></star>
 </system>

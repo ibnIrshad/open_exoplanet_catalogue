@@ -12,9 +12,9 @@
 		<name>Kepler-319</name>
 		<name>KOI-1805</name>
 		<name>KIC 4644952</name>
-		<temperature errorminus="100" errorplus="100">5526</temperature>
-		<radius errorminus=".125" errorplus="0.125">0.903</radius>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9600</mass>
+		<temperature errorminus="100" errorplus="-100.0">5526</temperature>
+		<radius errorminus=".125" errorplus="-0.12">0.903</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">1.29</mass>
 		<planet>
 			<name>Kepler-319 c</name>
 			<name>KOI-1805 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.069</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.13</impactparameter></planet>
 		<planet>
 			<name>Kepler-319 d</name>
 			<name>KOI-1805 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.191</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.55</impactparameter></planet>
 		<planet>
 			<name>Kepler-319 b</name>
 			<name>KOI-1805 b</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.051</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.26</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.487</metallicity><magV errorminus="" errorplus="">13.828</magV></star>
 </system>
