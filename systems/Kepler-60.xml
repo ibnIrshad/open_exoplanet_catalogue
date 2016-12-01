@@ -8,12 +8,12 @@
 		<name>KOI-2086</name>
 		<name>KIC 6768394</name>
 		<name>2MASS J19155069+4215540</name>
-		<temperature>5915.0</temperature>
+		<temperature errorminus="144.0" errorplus="-144.0">5905.0</temperature>
 		<magJ errorminus="0.023" errorplus="0.023">12.804</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.569</magH>
 		<magK errorminus="0.018" errorplus="0.018">12.516</magK>
-		<mass>1.105</mass>
-		<radius>1.5</radius>
+		<mass errorminus="0.08" errorplus="-0.08">1.105</mass>
+		<radius errorminus="0.09" errorplus="-0.09">1.26</radius>
 		<planet>
 			<name>Kepler-60 b</name>
 			<name>KOI-2086.01</name>
@@ -21,7 +21,7 @@
 			<name>KIC 6768394 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0022" errorplus="0.0022">0.0129</mass>
-			<radius errorminus="0.050" errorplus="0.109">0.196</radius>
+			<radius errorminus="0.050" errorplus="-0.012">0.196</radius>
 			<period errorminus="0.0005" errorplus="0.0005">7.1320</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454902.035</transittime>
 			<semimajoraxis>0.07497</semimajoraxis>
@@ -30,7 +30,7 @@
 			<meananomaly>-110.47</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -41,7 +41,7 @@
 			<name>KIC 6768394 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0031" errorplus="0.0031">0.0151</mass>
-			<radius errorminus="0.054" errorplus="0.118">0.212</radius>
+			<radius errorminus="0.054" errorplus="-0.013">0.212</radius>
 			<period errorminus="0.0006" errorplus="0.0006">8.9177</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454906.075</transittime>
 			<semimajoraxis>0.08701</semimajoraxis>
@@ -50,7 +50,7 @@
 			<meananomaly>-67.35</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -61,7 +61,7 @@
 			<name>KIC 6768394 d</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0035" errorplus="0.0035">0.0120</mass>
-			<radius>0.232382</radius>
+			<radius errorminus="0.014" errorplus="-0.014">0.232382</radius>
 			<period errorminus="0.001" errorplus="0.001">11.903</period>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2454899.273</transittime>
 			<semimajoraxis>0.10548</semimajoraxis>
@@ -70,9 +70,9 @@
 			<meananomaly>81.84</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>07/2016-04-0/2016-04-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
+	<metallicity errorminus="0.1" errorplus="-0.100">-0.09</metallicity><magV errorminus="" errorplus="">13.959</magV></star>
 </system>
