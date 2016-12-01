@@ -21,63 +21,63 @@
 			<name>KOI-720.01</name>
 			<name>KIC 9963524 c</name>
 			<name>KIC 9963524.01</name>
-			<radius errorminus="0.02461" errorplus="0.02461">0.26701</radius>
+			<radius errorminus="0.02461" errorplus="0.02461">0.261</radius>
 			<period errorminus=".000004" errorplus="0.000004">5.690586</period>
 			<transittime errorminus="0.0003700" errorplus="0.0003700">2455007.0486500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-221 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-221 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.059</semimajoraxis><impactparameter errorminus="-0.1600" errorplus="-0.1600">0.04</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 d</name>
 			<name>KOI-720 d</name>
 			<name>KOI-720.02</name>
 			<name>KIC 9963524 d</name>
 			<name>KIC 9963524.02</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.24879</radius>
-			<period errorminus=".000011" errorplus="0.000011">10.041560</period>
+			<radius errorminus="0.02278" errorplus="0.02278">0.244</radius>
+			<period errorminus=".000011" errorplus="0.000011">10.04156</period>
 			<transittime errorminus="0.0006000" errorplus="0.0006000">2454970.0845600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-221 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-221 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.36</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 e</name>
 			<name>KOI-720 e</name>
 			<name>KOI-720.03</name>
 			<name>KIC 9963524 e</name>
 			<name>KIC 9963524.03</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.23967</radius>
+			<radius errorminus="0.02278" errorplus="0.02278">0.235</radius>
 			<period errorminus=".000029" errorplus="0.000029">18.369917</period>
 			<transittime errorminus="0.0008700" errorplus="0.0008700">2454964.8604800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-221 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-221 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.26</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 b</name>
 			<name>KOI-720 b</name>
 			<name>KOI-720.04</name>
 			<name>KIC 9963524 b</name>
 			<name>KIC 9963524.04</name>
-			<radius errorminus="0.01549" errorplus="0.01549">0.15583</radius>
+			<radius errorminus="0.01549" errorplus="0.01549">0.153</radius>
 			<period errorminus=".000004" errorplus="0.000004">2.795906</period>
 			<transittime errorminus="0.0008400" errorplus="0.0008400">2454965.7292900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-221 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-221 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.037</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.61</impactparameter></planet>
 	</star>
 </system>
