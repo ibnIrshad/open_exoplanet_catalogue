@@ -26,19 +26,19 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.009" errorplus="0.009">0.2755</mass>
 			<radius errorminus="0.065" errorplus="0.076">1.021</radius>
-			<temperature errorminus="-26" errorplus="30">1024</temperature>
+			<temperature errorminus="-26" errorplus="30">1001.0</temperature>
 			<period errorminus="0.00055" errorplus="0.00055">10.02165</period>
 			<semimajoraxis errorminus="0.00079" errorplus="0.00084">0.09459</semimajoraxis>
 			<eccentricity errorminus="0.023" errorplus="0.023">0.302</eccentricity>
 			<transittime errorminus="0.0009" errorplus="0.00095" unit="HJD">2456533.82326</transittime>
 			<inclination errorminus="0.3" errorplus="0.3">89.14</inclination>
-			<periastron errorminus="2.7" errorplus="2.3">242</periastron>
+			<periastron errorminus="2.7" errorplus="2.3">242.0</periastron>
 			<description>WASP-117b is a Hot Saturn on an eccentric and misaligned orbit. This is the first planet with a period beyond 10 days found by the WASP survey. Because of its large orbital separation tidal forces are weak and have had little impact on the evolution of the system.</description>
 			<spinorbitalignment errorminus="11" errorplus="11">-44</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/27</lastupdate>
+			<lastupdate>27/2014-08-2/2014-08-2</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<impactparameter errorminus="-0.1100" errorplus="-0.1100">0.32</impactparameter></planet>
 	</star>
 </system>
