@@ -4,10 +4,10 @@
 	<declination>+39 05 46</declination>
 	<star>
 		<name>Kepler-1549</name>
-		<temperature errorminus="124.1" errorplus="103.6">5324.0</temperature>
+		<temperature errorminus="103.58" errorplus="-124.08">5324.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.88</mass>
-		<radius errorminus="0.05" errorplus="0.07">0.84</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.02</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.84</radius>
+		<metallicity errorminus="0.16" errorplus="-0.16">0.02</metallicity>
 		<planet>
 			<name>Kepler-1549 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.003111000" errorplus="0.003111000">214.886545000</period>
 			<radius errorminus="0.018" errorplus="0.020">0.229</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.000" errorplus="-3.000">4.79</age><magV errorminus="" errorplus="">15.188</magV></star>
+<distance errorminus="-49.50" errorplus="-49.50">792.0</distance></system>

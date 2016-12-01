@@ -4,10 +4,10 @@
 	<declination>+41 37 04</declination>
 	<star>
 		<name>Kepler-520</name>
-		<temperature errorminus="60.9" errorplus="69.0">6112.0</temperature>
+		<temperature errorminus="68.96" errorplus="-60.87">6112.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.10</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.09</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">-0.03</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.099">-0.03</metallicity>
 		<planet>
 			<name>Kepler-520 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000012310" errorplus="0.000012310">5.211042610</period>
 			<radius errorminus="0.004" errorplus="0.006">0.095</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.07" errorplus="-0.619">2.04</age><magV errorminus="" errorplus="">12.797</magV></star>
+<distance errorminus="26.52" errorplus="-25.26">492.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+49 38 16</declination>
 	<star>
 		<name>Kepler-1574</name>
-		<temperature errorminus="107.3" errorplus="85.1">5892.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.06</mass>
-		<radius errorminus="0.10" errorplus="0.23">1.08</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.08</metallicity>
+		<temperature errorminus="85.09" errorplus="-107.29">5892.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.06</mass>
+		<radius errorminus="0.23" errorplus="-0.1">1.08</radius>
+		<metallicity errorminus="0.15" errorplus="-0.153">0.08</metallicity>
 		<planet>
 			<name>Kepler-1574 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000060060" errorplus="0.000060060">6.942433400</period>
 			<radius errorminus="0.013" errorplus="0.025">0.115</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.110" errorplus="-2.110">3.8</age><magV errorminus="" errorplus="">15.158</magV></star>
+<distance errorminus="-126.68" errorplus="-126.68">1275.0</distance></system>

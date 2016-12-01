@@ -4,10 +4,10 @@
 	<declination>+41 22 26</declination>
 	<star>
 		<name>Kepler-518</name>
-		<temperature errorminus="51.8" errorplus="57.6">5842.0</temperature>
+		<temperature errorminus="57.63" errorplus="-51.77">5842.0</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.96</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.88</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">-0.23</metallicity>
+		<metallicity errorminus="0.08" errorplus="-0.083">-0.23</metallicity>
 		<planet>
 			<name>Kepler-518 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000004500" errorplus="0.000004500">8.512035880</period>
 			<radius errorminus="0.004" errorplus="0.004">0.188</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.240" errorplus="-0.240">1.35</age><magV errorminus="" errorplus="">12.549</magV></star>
+<distance errorminus="-7.77" errorplus="-7.77">324.0</distance></system>
