@@ -12,8 +12,8 @@
 		<name>Kepler-147</name>
 		<name>KOI-392</name>
 		<name>KIC 3942670</name>
-		<temperature errorminus="100" errorplus="100">6012</temperature>
-		<radius errorminus=".289" errorplus="0.289">1.468</radius>
+		<temperature errorminus="100" errorplus="-100.0">6012</temperature>
+		<radius errorminus=".289" errorplus="-0.29">1.468</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">0.9800</mass>
 		<planet>
 			<name>Kepler-147 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.216</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-147 b</name>
 			<name>KOI-392 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.113</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.51</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.078</metallicity><magV errorminus="" errorplus="">13.954</magV></star>
 </system>

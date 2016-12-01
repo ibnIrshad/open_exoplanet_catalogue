@@ -12,8 +12,8 @@
 		<name>Kepler-139</name>
 		<name>KOI-316</name>
 		<name>KIC 8008067</name>
-		<temperature errorminus="100" errorplus="100">5594</temperature>
-		<radius errorminus=".251" errorplus="0.251">1.300</radius>
+		<temperature errorminus="100" errorplus="-100.0">5594</temperature>
+		<radius errorminus=".251" errorplus="-0.25">1.300</radius>
 		<mass errorminus="0.0480" errorplus="0.0480">1.0840</mass>
 		<planet>
 			<name>Kepler-139 b</name>
@@ -21,7 +21,7 @@
 			<name>KOI-316.01</name>
 			<name>KIC 8008067 b</name>
 			<name>KIC 8008067.01</name>
-			<radius errorminus="0.05194" errorplus="0.05194">0.26792</radius>
+			<radius errorminus="0.05194" errorplus="-0.051">0.26792</radius>
 			<period errorminus=".000037" errorplus="0.000037">15.771044</period>
 			<transittime errorminus="0.0013000" errorplus="0.0013000">2455017.9058200</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.127</semimajoraxis><impactparameter errorminus="-0.2000" errorplus="-0.2000">0.06</impactparameter></planet>
 		<planet>
 			<name>Kepler-139 c</name>
 			<name>KOI-316 c</name>
 			<name>KOI-316.02</name>
 			<name>KIC 8008067 c</name>
 			<name>KIC 8008067.02</name>
-			<radius errorminus="0.06288" errorplus="0.06288">0.30802</radius>
+			<radius errorminus="0.06288" errorplus="-0.062">0.30802</radius>
 			<period errorminus=".001720" errorplus="0.001720">157.072878</period>
 			<transittime errorminus="0.0044000" errorplus="0.0044000">2455314.2626600</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.586</semimajoraxis><impactparameter errorminus="-0.3000" errorplus="-0.3000">0.83</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.154</metallicity><magV errorminus="" errorplus="">12.701</magV></star>
 </system>
