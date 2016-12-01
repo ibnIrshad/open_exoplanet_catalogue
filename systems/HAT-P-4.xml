@@ -2,7 +2,7 @@
 	<name>HAT-P-4</name>
 	<rightascension>15 19 58</rightascension>
 	<declination>+36 13 47</declination>
-	<distance>310</distance>
+	<distance errorminus="24.0" errorplus="-24.0">314.0</distance>
 	<star>
 		<mass>1.26</mass>
 		<radius>1.59</radius>
@@ -20,20 +20,20 @@
 			<name>2MASS J15195792+3613467 b</name>
 			<name>SAO 64638 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<radius>1.27</radius>
+			<mass errorminus="0.033" errorplus="-0.044">0.68</mass>
+			<radius errorminus="0.049" errorplus="-0.06">1.27</radius>
 			<period>3.0565114</period>
-			<semimajoraxis>0.0446</semimajoraxis>
+			<semimajoraxis errorminus="0.00081" errorplus="-0.0015">0.0446</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>89.67</inclination>
+			<inclination errorminus="0.09" errorplus="-2.2">89.91</inclination>
 			<transittime errorminus="0.00023" errorplus="0.00025" unit="BJD">2454365.91538</transittime>
 			<description>The star HAT-P-4 is located in the constellation Bootes.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1550.7</temperature>
+			<temperature errorminus="30.0" errorplus="-26.0">1686.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.01</impactparameter></planet>
 		<name>HAT-P-4</name>
 		<temperature>5890.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 167042</name>
 	<rightascension>18 10 31.64008</rightascension>
 	<declination>+54 17 11.5922</declination>
-	<distance errorminus="0.66" errorplus="0.66">50.23</distance>
+	<distance errorminus="1.24" errorplus="-1.31">50.0</distance>
 	<star>
 		<name>HD 167042</name>
 		<name>HIP 89047</name>
@@ -26,16 +26,16 @@
 		<planet>
 			<name>HD 167042 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.09" type="msini">1.70</mass>
-			<period errorminus="3.11" errorplus="3.48">420.77</period>
+			<mass errorminus="0.12" errorplus="-0.12" type="msini">1.70</mass>
+			<period errorminus="3.48" errorplus="-3.11">420.77</period>
 			<semimajoraxis errorminus="0.04" errorplus="0.03">1.32</semimajoraxis>
 			<eccentricity errorminus="0.065" errorplus="0.028">0.089</eccentricity>
-			<periastron errorminus="35.8" errorplus="35.4">85.7</periastron>
-			<periastrontime errorminus="41.6" errorplus="40.6">2454230.1</periastrontime>
+			<periastron errorminus="35.4" errorplus="-35.8">85.7</periastron>
+			<periastrontime errorminus="40.6" errorplus="-41.6">2454230.1</periastrontime>
 			<description>HD 167042 b is a giant planet orbiting a subgiant star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HATS-15</name>
 	<rightascension>20 44 22.20</rightascension>
 	<declination>-19 26 15.0</declination>
-	<distance errorminus="23" errorplus="23">689</distance>
+	<distance errorminus="23" errorplus="-23.0">689</distance>
 	<star>
 		<name>HATS-15</name>
 		<name>2MASS J20442207-1926150</name>
@@ -21,17 +21,17 @@
 			<name>HATS-15 b</name>
 			<period errorminus="0.00000094" errorplus="0.00000094">1.74748753</period>
 			<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2456387.21161</transittime>
-			<inclination errorminus="0.67" errorplus="0.97">87.13</inclination>
-			<eccentricity upperlimit="0.126" />
-			<mass errorminus="0.15" errorplus="0.15">2.17</mass>
+			<inclination errorminus="0.97" errorplus="-0.67">87.13</inclination>
+			<eccentricity upperlimit="0.126">0.126</eccentricity>
+			<mass errorminus="0.15" errorplus="-0.15">2.17</mass>
 			<radius errorminus="0.040" errorplus="0.040">1.105</radius>
 			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.02712</semimajoraxis>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
 			<description>HATS-15b is a massive planet transiting a G9V star.</description>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>23/2016-06-2/2016-06-2</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<impactparameter errorminus="-0.1010" errorplus="-0.1010">0.317</impactparameter><temperature errorminus="-30" errorplus="-30">1505.0</temperature></planet>
 	</star>
 </system>

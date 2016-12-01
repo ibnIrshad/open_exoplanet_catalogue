@@ -2,7 +2,7 @@
 	<name>HD 103774</name>
 	<rightascension>11 56 55</rightascension>
 	<declination>-12 06 28</declination>
-	<distance>55</distance>
+	<distance errorminus="2.27" errorplus="-2.48">53.08</distance>
 	<star>
 		<name>HD 103774</name>
 		<name>HIP 58263</name>
@@ -19,16 +19,16 @@
 			<name>HD 103774 b</name>
 			<name>HIP 58263 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.367</mass>
-			<period>5.8881</period>
-			<semimajoraxis>0.070</semimajoraxis>
-			<eccentricity>0.09</eccentricity>
-			<periastron>-42</periastron>
+			<mass errorminus="0.022" errorplus="-0.022">0.367</mass>
+			<period errorminus="0.0005" errorplus="-0.0005">5.8881</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.001">0.070</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="-0.04">0.09</eccentricity>
+			<periastron errorminus="64.0" errorplus="-64.0">-42</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
 			<temperature>1310.9</temperature>
-		</planet>
+		<periastrontime errorminus="-2.000000" errorplus="-2.000000">2455675.4</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>

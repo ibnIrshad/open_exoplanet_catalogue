@@ -2,7 +2,7 @@
 	<name>HD 142415</name>
 	<rightascension>15 57 40</rightascension>
 	<declination>-60 12 00</declination>
-	<distance>34.2</distance>
+	<distance errorminus="0.98" errorplus="-1.03">34.57</distance>
 	<star>
 		<mass>1.09</mass>
 		<radius>1.03</radius>
@@ -18,14 +18,14 @@
 			<name>HD 142415 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.62</mass>
-			<period>386.3</period>
+			<period errorminus="1.6" errorplus="-1.6">386.3</period>
 			<semimajoraxis>1.05</semimajoraxis>
 			<eccentricity>0.5</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>250.5</temperature>
-		</planet>
+		<periastron errorminus="-4.0000" errorplus="-4.0000">255.0</periastron><periastrontime errorminus="-4.000000" errorplus="-4.000000">2451519.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 142415</name>
 		<temperature>5834.0</temperature>
 	</star>
