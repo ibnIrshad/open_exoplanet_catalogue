@@ -10,19 +10,19 @@
 		<magJ errorminus="0.025" errorplus="0.025">12.357</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.126</magH>
 		<magK errorminus="0.011" errorplus="0.011">12.041</magK>
-		<temperature errorminus="84" errorplus="84">5972</temperature>
-		<radius errorminus="0.12" errorplus="0.12">1.24</radius>
-		<mass errorminus="0.06" errorplus="0.06">1.15</mass>
+		<temperature errorminus="84" errorplus="-84.0">5972</temperature>
+		<radius errorminus="0.12" errorplus="-0.12">1.24</radius>
+		<mass errorminus="0.06" errorplus="-0.06">1.15</mass>
 		<age errorminus="1.1000" errorplus="1.1000">1.5000</age>
-		<metallicity errorminus="0.09" errorplus="0.09">0.23</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.09">0.23</metallicity>
 		<planet>
 			<name>Kepler-422 b</name>
 			<name>KOI-22 b</name>
 			<name>KOI-22.01</name>
 			<name>KIC 9631995 b</name>
-			<radius errorminus="0.11" errorplus="0.11">1.15</radius>
+			<radius errorminus="0.11" errorplus="-0.11">1.15</radius>
 			<eccentricity>0.016</eccentricity>
-			<mass errorminus="0.13" errorplus="0.13">0.43</mass>
+			<mass errorminus="0.13" errorplus="-0.13">0.43</mass>
 			<period errorminus="0.0000005" errorplus="0.0000005">7.8914483</period>
 			<transittime errorminus="0.00011" errorplus="0.00011">2455010.25005</transittime>
 			<semimajoraxis errorminus="0.010" errorplus="0.011">0.082</semimajoraxis>
@@ -33,6 +33,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/09/30</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
+		<impactparameter errorminus="-0.0450" errorplus="-0.0450">0.416</impactparameter></planet>
+	<magV errorminus="" errorplus="">13.435</magV></star>
 </system>
