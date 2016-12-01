@@ -12,8 +12,8 @@
 		<name>Kepler-163</name>
 		<name>KOI-471</name>
 		<name>KIC 10019643</name>
-		<temperature errorminus="200" errorplus="200">5776</temperature>
-		<radius errorminus=".380" errorplus="0.380">0.917</radius>
+		<temperature errorminus="200" errorplus="-200.0">5776</temperature>
+		<radius errorminus=".380" errorplus="-0.38">0.917</radius>
 		<mass errorminus="0.0760" errorplus="0.0760">0.9600</mass>
 		<planet>
 			<name>Kepler-163 c</name>
@@ -21,16 +21,16 @@
 			<name>KOI-471.01</name>
 			<name>KIC 10019643 c</name>
 			<name>KIC 10019643.01</name>
-			<radius errorminus="0.08566" errorplus="0.08566">0.20595</radius>
+			<radius errorminus="0.08566" errorplus="-0.084">0.20595</radius>
 			<period errorminus=".000081" errorplus="0.000081">21.347262</period>
 			<transittime errorminus="0.0022500" errorplus="0.0022500">2455004.7359000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-163 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-163 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.152</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.15</impactparameter></planet>
 		<planet>
 			<name>Kepler-163 b</name>
 			<name>KOI-471 b</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-163 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-163 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.078</semimajoraxis><impactparameter errorminus="-0.2500" errorplus="-0.2500">0.55</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.016</metallicity><magV errorminus="" errorplus="">14.415</magV></star>
 </system>
