@@ -4,10 +4,10 @@
 	<declination>+47 48 52</declination>
 	<star>
 		<name>Kepler-566</name>
-		<temperature errorminus="80.2" errorplus="59.7">5132.0</temperature>
+		<temperature errorminus="59.73" errorplus="-80.24">5132.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.01</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.173">-0.01</metallicity>
 		<planet>
 			<name>Kepler-566 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000042300" errorplus="0.000042300">18.427946240</period>
 			<radius errorminus="0.012" errorplus="0.012">0.192</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.700" errorplus="-2.700">4.57</age><magV errorminus="" errorplus="">14.958</magV></star>
+<distance errorminus="-36.05" errorplus="-36.05">628.0</distance></system>

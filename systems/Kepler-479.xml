@@ -4,10 +4,10 @@
 	<declination>+37 46 11</declination>
 	<star>
 		<name>Kepler-479</name>
-		<temperature errorminus="57.4" errorplus="73.6">5247.0</temperature>
+		<temperature errorminus="73.63" errorplus="-57.4">5247.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.86</mass>
 		<radius errorminus="0.02" errorplus="0.03">0.81</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.02</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.107">-0.02</metallicity>
 		<planet>
 			<name>Kepler-479 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000013600" errorplus="0.000013600">12.493413070</period>
 			<radius errorminus="0.006" errorplus="0.008">0.189</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.310" errorplus="-2.310">4.27</age><magV errorminus="" errorplus="">13.575</magV></star>
+<distance errorminus="-12.22" errorplus="-12.22">371.0</distance></system>

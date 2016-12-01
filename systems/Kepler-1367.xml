@@ -4,10 +4,10 @@
 	<declination>+47 52 43</declination>
 	<star>
 		<name>Kepler-1367</name>
-		<temperature errorminus="57.1" errorplus="55.8">4106.0</temperature>
+		<temperature errorminus="55.83" errorplus="-57.12">4106.0</temperature>
 		<mass errorminus="0.05" errorplus="0.03">0.62</mass>
 		<radius errorminus="0.05" errorplus="0.03">0.60</radius>
-		<metallicity errorminus="0.20" errorplus="0.17">-0.06</metallicity>
+		<metallicity errorminus="0.20" errorplus="-0.204">-0.06</metallicity>
 		<planet>
 			<name>Kepler-1367 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000005240" errorplus="0.000005240">1.574090270</period>
 			<radius errorminus="0.007" errorplus="0.006">0.082</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.230" errorplus="-2.230">3.89</age><magV errorminus="" errorplus="">15.571</magV></star>
+<distance errorminus="-37.89" errorplus="-37.89">357.0</distance></system>

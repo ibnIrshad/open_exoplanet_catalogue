@@ -4,10 +4,10 @@
 	<declination>+41 36 54</declination>
 	<star>
 		<name>Kepler-557</name>
-		<temperature errorminus="199.3" errorplus="151.8">6068.0</temperature>
-		<mass errorminus="0.09" errorplus="0.12">1.11</mass>
-		<radius errorminus="0.16" errorplus="0.35">1.16</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.02</metallicity>
+		<temperature errorminus="151.79" errorplus="-199.33">6068.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.11</mass>
+		<radius errorminus="0.35" errorplus="-0.16">1.16</radius>
+		<metallicity errorminus="0.16" errorplus="-0.16">0.02</metallicity>
 		<planet>
 			<name>Kepler-557 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004870" errorplus="0.000004870">3.705989550</period>
-			<radius errorminus="0.034" errorplus="0.071">0.238</radius>
+			<radius errorminus="0.034" errorplus="-0.034">0.238</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.450" errorplus="-1.450">3.24</age><magV errorminus="" errorplus="">14.641</magV></star>
+<distance errorminus="-167.88" errorplus="-167.88">1126.0</distance></system>
