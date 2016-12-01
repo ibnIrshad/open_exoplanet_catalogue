@@ -22,14 +22,14 @@
 			<name>HD 240210 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">5.21</mass>
-			<period errorminus="2.33" errorplus="2.33">501.75</period>
-			<semimajoraxis>1.33</semimajoraxis>
+			<period errorminus="2.33" errorplus="-2.33">501.75</period>
+			<semimajoraxis>1.16</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.15</eccentricity>
-			<periastron errorminus="7.77" errorplus="7.77">277.59</periastron>
-			<periastrontime errorminus="10.93" errorplus="10.93">2454487.38</periastrontime>
+			<periastron errorminus="7.77" errorplus="-7.77">277.59</periastron>
+			<periastrontime errorminus="10.93" errorplus="-10.93">2454487.38</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

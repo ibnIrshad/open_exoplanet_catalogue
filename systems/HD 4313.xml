@@ -2,7 +2,7 @@
 	<name>HD 4313</name>
 	<rightascension>00 45 40</rightascension>
 	<declination>+07 50 42</declination>
-	<distance>137</distance>
+	<distance errorminus="14.45" errorplus="-18.52">131.41</distance>
 	<star>
 		<mass>1.72</mass>
 		<radius>4.9</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 4313 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>356</period>
-			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.041</eccentricity>
+			<mass errorminus="0.2" errorplus="-0.2">2.3</mass>
+			<period errorminus="2.6" errorplus="-2.6">356</period>
+			<semimajoraxis errorminus="0.03" errorplus="-0.03">1.19</semimajoraxis>
+			<eccentricity errorminus="0.037" errorplus="-0.037">0.041</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>450.4</temperature>
-		</planet>
+		<periastron errorminus="-80.0000" errorplus="-80.0000">76.0</periastron><periastrontime errorminus="-80.000000" errorplus="-80.000000">2454804.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 4313</name>
 		<temperature>5035.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HAT-P-49</name>
 	<rightascension>20 21 46</rightascension>
 	<declination>-26 41 34</declination>
-	<distance errorminus="13" errorplus="24">322</distance>
+	<distance errorminus="24.0" errorplus="-13.0">322</distance>
 	<star>
 		<name>HAT-P-49</name>
 		<name>GSC 2163-00549</name>
@@ -23,18 +23,18 @@
 			<name>GSC 2163-00549 b</name>
 			<name>2MASS 20214593+2641335 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.205" errorplus="0.205">1.730</mass>
-			<radius errorminus="0.077" errorplus="0.128">1.413</radius>
-			<temperature errorminus="42" errorplus="69">2131</temperature>
+			<mass errorminus="0.205" errorplus="-0.205">1.730</mass>
+			<radius errorminus="0.077" errorplus="-0.077">1.413</radius>
+			<temperature errorminus="69.0" errorplus="-42.0">2131</temperature>
 			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0438</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination errorminus="1.7" errorplus="1.7">86.2</inclination>
+			<inclination errorminus="1.7" errorplus="-1.7">86.2</inclination>
 			<transittime errorminus="0.00063" errorplus="0.00063" unit="BJD">2456399.62406</transittime>
 			<description>This planet was discovered by the HATNet transit survey. The planetary characteristics are consistent with that of a classical hot Jupiter. This system is an especially strong target for Rossiter-McLaughlin follow-up due to the host star's fast rotation.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="" errorplus="">0.0</periastron><impactparameter errorminus="-0.1410" errorplus="-0.1410">0.34</impactparameter><period errorminus="-0.00000600" errorplus="-0.00000600">2.691548</period></planet>
 	</star>
 </system>

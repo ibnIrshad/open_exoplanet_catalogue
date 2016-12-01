@@ -3,7 +3,7 @@
 	<name>HR 135</name>
 	<rightascension>00 33 10</rightascension>
 	<declination>+54 53 41</declination>
-	<distance>115</distance>
+	<distance errorminus="8.71" errorplus="-10.26">115.21</distance>
 	<star>
 		<magB>6.961</magB>
 		<magV>5.930</magV>
@@ -22,14 +22,14 @@
 			<name>HR 135 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.6</mass>
-			<period>311.6</period>
+			<period errorminus="1.7" errorplus="-1.9">311.6</period>
 			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity>0.129</eccentricity>
-			<periastron>64</periastron>
+			<eccentricity errorminus="0.099" errorplus="-0.085">0.129</eccentricity>
+			<periastron errorminus="56.0" errorplus="-48.0">64</periastron>
 			<description>The planet HD 2952 b is orbiting an evolved intermediate-mass star. The radial velocity measurements were taken at the Okaya Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/04/17</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
+		<periastrontime errorminus="-54.000000" errorplus="-54.000000">2450112.0</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>
