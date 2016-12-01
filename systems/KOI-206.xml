@@ -2,7 +2,7 @@
 	<name>KOI-206</name>
 	<rightascension>19 50 22.476</rightascension>
 	<declination>+40 58 38.17</declination>
-	<distance errorminus="210" errorplus="210">1870</distance>
+	<distance errorminus="210" errorplus="210">1870.0</distance>
 	<star>
 		<name>KOI-206</name>
 		<name>Kepler-433</name>
@@ -33,10 +33,10 @@
 			<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2454964.98152</transittime>
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/07</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature errorminus="87" errorplus="87">1776</temperature>
+			<lastupdate>14/2015-01-1/2015-01-1</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+			<temperature errorminus="87" errorplus="87">1776.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="-0.079000" errorplus="-0.079000">0.119</eccentricity><periastron errorminus="-36.0000" errorplus="-36.0000">68.0</periastron><inclination errorminus="-0.900" errorplus="-0.900">89.21</inclination><impactparameter errorminus="-0.0810" errorplus="-0.0810">0.082</impactparameter></planet>
 	</star>
 </system>
