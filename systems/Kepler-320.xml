@@ -12,8 +12,8 @@
 		<name>Kepler-320</name>
 		<name>KOI-1806</name>
 		<name>KIC 9529744</name>
-		<temperature errorminus="200" errorplus="200">6435</temperature>
-		<radius errorminus=".519" errorplus="0.519">1.108</radius>
+		<temperature errorminus="200" errorplus="-200.0">6435</temperature>
+		<radius errorminus=".519" errorplus="-0.52">1.108</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.1800</mass>
 		<planet>
 			<name>Kepler-320 c</name>
@@ -21,16 +21,16 @@
 			<name>KOI-1806.02</name>
 			<name>KIC 9529744 c</name>
 			<name>KIC 9529744.02</name>
-			<radius errorminus="0.05832" errorplus="0.05832">0.12485</radius>
+			<radius errorminus="0.05832" errorplus="-0.057">0.12485</radius>
 			<period errorminus=".000281" errorplus="0.000281">17.934937</period>
 			<transittime errorminus="0.0080100" errorplus="0.0080100">2454971.2182000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-320 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-320 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.142</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.22</impactparameter></planet>
 		<planet>
 			<name>Kepler-320 b</name>
 			<name>KOI-1806 b</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-320 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-320 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.085</semimajoraxis><impactparameter errorminus="-0.2900" errorplus="-0.2900">0.67</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.244</metallicity><magV errorminus="" errorplus="">13.474</magV></star>
 </system>

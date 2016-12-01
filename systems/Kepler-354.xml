@@ -12,24 +12,24 @@
 		<name>Kepler-354</name>
 		<name>KOI-2045</name>
 		<name>KIC 6026438</name>
-		<temperature errorminus="200" errorplus="200">4648</temperature>
-		<radius errorminus=".210" errorplus="0.210">0.674</radius>
+		<temperature errorminus="200" errorplus="-200.0">4648</temperature>
+		<radius errorminus=".210" errorplus="-0.21">0.674</radius>
 		<planet>
 			<name>Kepler-354 b</name>
 			<name>KOI-2045 b</name>
 			<name>KOI-2045.01</name>
 			<name>KIC 6026438 b</name>
 			<name>KIC 6026438.01</name>
-			<radius errorminus="0.05286" errorplus="0.05286">0.16768</radius>
+			<radius errorminus="0.05286" errorplus="-0.052">0.16768</radius>
 			<period errorminus=".000024" errorplus="0.000024">5.476660</period>
 			<transittime errorminus="0.0024100" errorplus="0.0024100">2454968.7020400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-354 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-354 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis><impactparameter errorminus="-0.2800" errorplus="-0.2800">0.73</impactparameter></planet>
 		<planet>
 			<name>Kepler-354 d</name>
 			<name>KOI-2045 d</name>
@@ -42,10 +42,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-354 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-354 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.146</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.16</impactparameter></planet>
 		<planet>
 			<name>Kepler-354 c</name>
 			<name>KOI-2045 c</name>
@@ -58,9 +58,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-354 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-354 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.115</semimajoraxis><impactparameter errorminus="-0.2600" errorplus="-0.2600">0.63</impactparameter></planet>
+	<mass errorminus="" errorplus="">0.65</mass><metallicity errorminus="" errorplus="">-0.036</metallicity><magV errorminus="" errorplus="">15.549</magV></star>
 </system>

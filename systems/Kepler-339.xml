@@ -12,8 +12,8 @@
 		<name>Kepler-339</name>
 		<name>KOI-1931</name>
 		<name>KIC 10978763</name>
-		<temperature errorminus="200" errorplus="200">5631</temperature>
-		<radius errorminus=".362" errorplus="0.362">0.802</radius>
+		<temperature errorminus="200" errorplus="-200.0">5631</temperature>
+		<radius errorminus=".362" errorplus="-0.36">0.802</radius>
 		<mass errorminus="0.0370" errorplus="0.0370">0.9340</mass>
 		<planet>
 			<name>Kepler-339 b</name>
@@ -21,16 +21,16 @@
 			<name>KOI-1931.01</name>
 			<name>KIC 10978763 b</name>
 			<name>KIC 10978763.01</name>
-			<radius errorminus="0.06015" errorplus="0.06015">0.12941</radius>
+			<radius errorminus="0.06015" errorplus="-0.059">0.12941</radius>
 			<period errorminus=".000019" errorplus="0.000019">4.977656</period>
 			<transittime errorminus="0.0022700" errorplus="0.0022700">2454967.6715100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-339 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.055</semimajoraxis><impactparameter errorminus="-0.3500" errorplus="-0.3500">0.6</impactparameter></planet>
 		<planet>
 			<name>Kepler-339 d</name>
 			<name>KOI-1931 d</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-339 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.091</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.25</impactparameter></planet>
 		<planet>
 			<name>Kepler-339 c</name>
 			<name>KOI-1931 c</name>
@@ -59,9 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-339 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.069</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.46</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.237</metallicity><magV errorminus="" errorplus="">14.531</magV></star>
 </system>

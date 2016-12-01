@@ -12,9 +12,9 @@
 		<name>Kepler-336</name>
 		<name>KOI-1916</name>
 		<name>KIC 6037581</name>
-		<temperature errorminus="100" errorplus="100">5867</temperature>
-		<radius errorminus=".230" errorplus="0.230">1.304</radius>
-		<mass errorminus="0.0600" errorplus="0.0600">1.0570</mass>
+		<temperature errorminus="100" errorplus="-100.0">5867</temperature>
+		<radius errorminus=".230" errorplus="-0.23">1.304</radius>
+		<mass errorminus="0.0600" errorplus="0.0600">0.89</mass>
 		<planet>
 			<name>Kepler-336 d</name>
 			<name>KOI-1916 d</name>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-336 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-336 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.154</semimajoraxis><impactparameter errorminus="-0.3500" errorplus="-0.3500">0.5</impactparameter></planet>
 		<planet>
 			<name>Kepler-336 c</name>
 			<name>KOI-1916 c</name>
@@ -43,10 +43,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-336 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-336 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.092</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-336 b</name>
 			<name>KOI-1916 b</name>
@@ -59,9 +59,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-336 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-336 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.033</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.06</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.401</metallicity><magV errorminus="" errorplus="">13.598</magV></star>
 </system>
