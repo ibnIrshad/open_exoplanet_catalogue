@@ -4,10 +4,10 @@
 	<declination>+49 56 20</declination>
 	<star>
 		<name>Kepler-997</name>
-		<temperature errorminus="55.0" errorplus="62.6">6150.0</temperature>
-		<mass errorminus="0.08" errorplus="0.15">1.22</mass>
-		<radius errorminus="0.30" errorplus="0.37">1.56</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.05</metallicity>
+		<temperature errorminus="62.57" errorplus="-54.96">6150.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.22</mass>
+		<radius errorminus="0.30" errorplus="-0.3">1.56</radius>
+		<metallicity errorminus="0.08" errorplus="-0.077">0.05</metallicity>
 		<planet>
 			<name>Kepler-997 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000005520" errorplus="0.000005520">2.707306720</period>
 			<radius errorminus="0.023" errorplus="0.029">0.121</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.690" errorplus="-0.690">3.63</age><magV errorminus="" errorplus="">11.894</magV></star>
+<distance errorminus="-88.85" errorplus="-88.85">470.0</distance></system>

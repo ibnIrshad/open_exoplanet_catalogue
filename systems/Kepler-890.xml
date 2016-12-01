@@ -4,10 +4,10 @@
 	<declination>+43 45 49</declination>
 	<star>
 		<name>Kepler-890</name>
-		<temperature errorminus="101.3" errorplus="84.7">5954.0</temperature>
-		<mass errorminus="0.07" errorplus="0.10">1.09</mass>
-		<radius errorminus="0.14" errorplus="0.36">1.13</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.09</metallicity>
+		<temperature errorminus="84.71" errorplus="-101.27">5954.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.09</mass>
+		<radius errorminus="0.36" errorplus="-0.14">1.13</radius>
+		<metallicity errorminus="0.17" errorplus="-0.166">0.09</metallicity>
 		<planet>
 			<name>Kepler-890 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000033450" errorplus="0.000033450">52.758755770</period>
-			<radius errorminus="0.095" errorplus="0.255">0.793</radius>
+			<radius errorminus="0.255" errorplus="-0.095">0.793</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.880" errorplus="-1.880">3.63</age><magV errorminus="" errorplus="">15.182</magV></star>
+<distance errorminus="-168.91" errorplus="-168.91">1387.0</distance></system>

@@ -4,9 +4,9 @@
 	<declination>+49 47 51</declination>
 	<star>
 		<name>Kepler-1004</name>
-		<temperature errorminus="39.5" errorplus="52.3">4972.0</temperature>
-		<mass errorminus="0.12" errorplus="0.18">1.11</mass>
-		<radius errorminus="0.22" errorplus="0.28">3.39</radius>
+		<temperature errorminus="52.3" errorplus="-39.52">4972.0</temperature>
+		<mass errorminus="0.12" errorplus="-0.12">1.11</mass>
+		<radius errorminus="0.22" errorplus="-0.22">3.39</radius>
 		<metallicity errorminus="0.03" errorplus="0.02">-0.04</metallicity>
 		<planet>
 			<name>Kepler-1004 b</name>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000011980" errorplus="0.000011980">5.287897870</period>
-			<radius errorminus="0.039" errorplus="0.070">0.560</radius>
+			<radius errorminus="0.039" errorplus="-0.039">0.560</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.310" errorplus="-3.310">7.76</age><magV errorminus="" errorplus="">13.427</magV></star>
+<distance errorminus="-66.57" errorplus="-66.57">1080.0</distance></system>

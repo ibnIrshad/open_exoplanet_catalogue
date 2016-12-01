@@ -4,10 +4,10 @@
 	<declination>+49 55 23</declination>
 	<star>
 		<name>Kepler-884</name>
-		<temperature errorminus="52.6" errorplus="62.9">5715.0</temperature>
+		<temperature errorminus="62.9" errorplus="-52.56">5715.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.94</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.088">0.05</metallicity>
 		<planet>
 			<name>Kepler-884 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000013590" errorplus="0.000013590">5.699195140</period>
 			<radius errorminus="0.004" errorplus="0.004">0.110</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.934" errorplus="-0.934">2.45</age><magV errorminus="" errorplus="">13.069</magV></star>
+<distance errorminus="-14.26" errorplus="-14.26">420.0</distance></system>

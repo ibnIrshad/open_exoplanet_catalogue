@@ -4,10 +4,10 @@
 	<declination>+47 14 01</declination>
 	<star>
 		<name>Kepler-989</name>
-		<temperature errorminus="53.6" errorplus="52.7">5074.0</temperature>
+		<temperature errorminus="52.66" errorplus="-53.62">5074.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.175">0.01</metallicity>
 		<planet>
 			<name>Kepler-989 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000009620" errorplus="0.000009620">7.964315350</period>
 			<radius errorminus="0.012" errorplus="0.012">0.197</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.820" errorplus="-2.820">4.68</age><magV errorminus="" errorplus="">14.425</magV></star>
+<distance errorminus="-25.20" errorplus="-25.20">484.0</distance></system>

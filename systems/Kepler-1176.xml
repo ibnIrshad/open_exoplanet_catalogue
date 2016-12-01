@@ -4,10 +4,10 @@
 	<declination>+45 16 27</declination>
 	<star>
 		<name>Kepler-1176</name>
-		<temperature errorminus="268.6" errorplus="264.6">5844.0</temperature>
-		<mass errorminus="0.08" errorplus="0.11">1.01</mass>
-		<radius errorminus="0.13" errorplus="0.26">1.02</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="264.61" errorplus="-268.56">5844.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.01</mass>
+		<radius errorminus="0.26" errorplus="-0.13">1.02</radius>
+		<metallicity errorminus="0.17" errorplus="-0.165">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1176 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000133600" errorplus="0.000133600">24.173857900</period>
 			<radius errorminus="0.029" errorplus="0.056">0.219</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.020" errorplus="-2.020">3.8</age><magV errorminus="" errorplus="">15.056</magV></star>
+<distance errorminus="-139.95" errorplus="-139.95">1023.0</distance></system>

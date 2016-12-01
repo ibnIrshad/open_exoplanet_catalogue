@@ -4,10 +4,10 @@
 	<declination>+44 07 45</declination>
 	<star>
 		<name>Kepler-1200</name>
-		<temperature errorminus="140.0" errorplus="101.0">4612.0</temperature>
+		<temperature errorminus="101.02" errorplus="-139.97">4612.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.74</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.70</radius>
-		<metallicity errorminus="0.20" errorplus="0.16">0.04</metallicity>
+		<metallicity errorminus="0.20" errorplus="-0.196">0.04</metallicity>
 		<planet>
 			<name>Kepler-1200 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003120" errorplus="0.000003120">1.118549720</period>
 			<radius errorminus="0.007" errorplus="0.005">0.095</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.480" errorplus="-1.480">3.02</age><magV errorminus="" errorplus="">15.793</magV></star>
+<distance errorminus="-33.77" errorplus="-33.77">579.0</distance></system>

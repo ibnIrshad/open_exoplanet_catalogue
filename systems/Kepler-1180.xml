@@ -4,10 +4,10 @@
 	<declination>+43 09 22</declination>
 	<star>
 		<name>Kepler-1180</name>
-		<temperature errorminus="227.0" errorplus="243.5">6077.0</temperature>
-		<mass errorminus="0.09" errorplus="0.16">1.09</mass>
-		<radius errorminus="0.15" errorplus="0.31">1.14</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">0.00</metallicity>
+		<temperature errorminus="243.54" errorplus="-226.98">6077.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.09</mass>
+		<radius errorminus="0.31" errorplus="-0.15">1.14</radius>
+		<metallicity errorminus="0.18" errorplus="-0.178">0.00</metallicity>
 		<planet>
 			<name>Kepler-1180 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000136900" errorplus="0.000136900">16.860128600</period>
 			<radius errorminus="0.024" errorplus="0.049">0.178</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.310" errorplus="-1.310">3.09</age><magV errorminus="" errorplus="">14.989</magV></star>
+<distance errorminus="-179.28" errorplus="-179.28">1284.0</distance></system>

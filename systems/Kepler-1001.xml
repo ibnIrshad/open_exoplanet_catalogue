@@ -4,10 +4,10 @@
 	<declination>+48 37 07</declination>
 	<star>
 		<name>Kepler-1001</name>
-		<temperature errorminus="68.9" errorplus="66.2">5491.0</temperature>
+		<temperature errorminus="66.16" errorplus="-68.91">5491.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.90</mass>
-		<radius errorminus="0.06" errorplus="0.09">0.88</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.03</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.88</radius>
+		<metallicity errorminus="0.17" errorplus="-0.17">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1001 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000043400" errorplus="0.000043400">14.305119830</period>
 			<radius errorminus="0.043" errorplus="0.030">0.281</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.930" errorplus="-2.930">4.68</age><magV errorminus="" errorplus="">15.338</magV></star>
+<distance errorminus="-69.51" errorplus="-69.51">1009.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+46 59 56</declination>
 	<star>
 		<name>Kepler-900</name>
-		<temperature errorminus="70.0" errorplus="83.8">4836.0</temperature>
+		<temperature errorminus="83.81" errorplus="-69.99">4836.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.78</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.73</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.01</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.167">-0.01</metallicity>
 		<planet>
 			<name>Kepler-900 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000014340" errorplus="0.000014340">6.991308600</period>
 			<radius errorminus="0.030" errorplus="0.011">0.186</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.640" errorplus="-2.640">4.57</age><magV errorminus="" errorplus="">14.94</magV></star>
+<distance errorminus="-25.42" errorplus="-25.42">505.0</distance></system>

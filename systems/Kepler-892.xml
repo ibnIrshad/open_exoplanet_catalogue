@@ -4,10 +4,10 @@
 	<declination>+43 53 18</declination>
 	<star>
 		<name>Kepler-892</name>
-		<temperature errorminus="45.6" errorplus="47.3">4747.0</temperature>
+		<temperature errorminus="47.29" errorplus="-45.63">4747.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.75</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.04</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.163">-0.04</metallicity>
 		<planet>
 			<name>Kepler-892 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000031060" errorplus="0.000031060">13.752107200</period>
 			<radius errorminus="0.024" errorplus="0.033">0.251</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.030" errorplus="-3.030">5.01</age><magV errorminus="" errorplus="">15.587</magV></star>
+<distance errorminus="-34.99" errorplus="-34.99">640.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+40 23 21</declination>
 	<star>
 		<name>Kepler-904</name>
-		<temperature errorminus="149.1" errorplus="119.7">6160.0</temperature>
-		<mass errorminus="0.09" errorplus="0.14">1.16</mass>
-		<radius errorminus="0.16" errorplus="0.42">1.25</radius>
-		<metallicity errorminus="0.14" errorplus="0.13">0.05</metallicity>
+		<temperature errorminus="119.73" errorplus="-149.12">6160.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.16</mass>
+		<radius errorminus="0.42" errorplus="-0.16">1.25</radius>
+		<metallicity errorminus="0.14" errorplus="-0.144">0.05</metallicity>
 		<planet>
 			<name>Kepler-904 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000008930" errorplus="0.000008930">3.021668630</period>
 			<radius errorminus="0.021" errorplus="0.053">0.158</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.260" errorplus="-1.260">3.02</age><magV errorminus="" errorplus="">14.429</magV></star>
+<distance errorminus="-162.87" errorplus="-162.87">1151.0</distance></system>
