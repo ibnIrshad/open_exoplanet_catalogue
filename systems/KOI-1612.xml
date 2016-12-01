@@ -31,8 +31,8 @@
 			<transittime unit="BJD">2454965.67928</transittime>
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/16</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.92</impactparameter></planet>
 	</star>
 </system>

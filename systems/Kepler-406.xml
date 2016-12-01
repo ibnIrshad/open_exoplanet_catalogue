@@ -23,29 +23,29 @@
 			<name>KOI-321 b</name>
 			<name>KIC 8753657 b</name>
 			<period>2.42629</period>
-			<radius errorminus="0.002734" errorplus="0.002734">0.130316</radius>
-			<mass errorminus="0.004404" errorplus="0.004404">0.019975</mass>
+			<radius errorminus="0.002734" errorplus="0.002734">0.128</radius>
+			<mass errorminus="0.004404" errorplus="0.004404">0.02</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0600" errorplus="-0.0600">0.1</impactparameter></planet>
 		<planet>
 			<name>Kepler-406 c</name>
 			<name>KOI-321.02</name>
 			<name>KOI-321 c</name>
 			<name>KIC 8753657 c</name>
 			<period>4.62332</period>
-			<radius errorminus="0.002734" errorplus="0.002734">0.077461</radius>
-			<mass errorminus="0.005662" errorplus="0.005662">0.008525</mass>
+			<radius errorminus="0.002734" errorplus="0.002734">0.076</radius>
+			<mass errorminus="0.005662" errorplus="0.005662">0.009</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0600" errorplus="-0.0600">0.36</impactparameter></planet>
 	</star>
 </system>

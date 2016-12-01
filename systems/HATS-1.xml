@@ -2,7 +2,7 @@
 	<name>HATS-1</name>
 	<rightascension>11 42 06.080</rightascension>
 	<declination>-23 21 17.44</declination>
-	<distance>303</distance>
+	<distance>303.0</distance>
 	<star>
 		<mass>0.986</mass>
 		<radius>1.038</radius>
@@ -28,12 +28,12 @@
 			<inclination>85.6</inclination>
 			<description>HATS-1 b is the first planet discovery of HATSouth, a global network of autonomous wide-field telescopes.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/06/08</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1250.3</temperature>
+			<temperature>1359.0</temperature>
 			<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">2455241.28722</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0230" errorplus="-0.0230">0.633</impactparameter></planet>
 		<name>HATS-1</name>
 		<temperature>5870.0</temperature>
 	</star>
