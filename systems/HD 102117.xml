@@ -2,7 +2,7 @@
 	<name>HD 102117</name>
 	<rightascension>11 44 50</rightascension>
 	<declination>-58 42 13</declination>
-	<distance>42</distance>
+	<distance>42.0</distance>
 	<star>
 		<mass>1.03</mass>
 		<radius>1.27</radius>
@@ -17,14 +17,14 @@
 			<name>HD 102117 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.172</mass>
-			<period>20.67</period>
+			<period>20.8133</period>
 			<semimajoraxis>0.1532</semimajoraxis>
-			<eccentricity>0.106</eccentricity>
+			<eccentricity>0.121</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/11/25</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 			<temperature>719.6</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">279.0</periastron><periastrontime errorminus="-2.600000" errorplus="-2.600000">2450942.2</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 102117</name>
 		<temperature>5672.0</temperature>
 	</star>

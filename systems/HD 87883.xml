@@ -2,7 +2,7 @@
 	<name>HD 87883</name>
 	<rightascension>10 08 43</rightascension>
 	<declination>+34 14 32</declination>
-	<distance>18.1</distance>
+	<distance>18.06</distance>
 	<star>
 		<mass>0.82</mass>
 		<radius>0.76</radius>
@@ -17,14 +17,14 @@
 			<name>HD 87883 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.78</mass>
-			<period>2754</period>
+			<period>2754.0</period>
 			<semimajoraxis>3.6</semimajoraxis>
 			<eccentricity>0.53</eccentricity>
 			<inclination>8.5</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/07</lastupdate>
+			<lastupdate>24/2015-04-2/2015-04-2</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<periastron errorminus="-15.0000" errorplus="-15.0000">291.0</periastron><periastrontime errorminus="-90.000000" errorplus="-90.000000">2451139.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 87883</name>
 		<temperature>4980.0</temperature>
 	</star>

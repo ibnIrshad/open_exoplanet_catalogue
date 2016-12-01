@@ -16,14 +16,14 @@
 			<name>HD 187085 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.75</mass>
-			<period>986</period>
+			<period>986.0</period>
 			<semimajoraxis>2.05</semimajoraxis>
 			<eccentricity>0.47</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<lastupdate>23/2014-07-2/2014-07-2</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>215.5</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">94.0</periastron><periastrontime errorminus="" errorplus="">2450912.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 187085</name>
 		<temperature>6075.0</temperature>
 	</star>
