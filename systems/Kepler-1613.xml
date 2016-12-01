@@ -4,10 +4,10 @@
 	<declination>+43 25 15</declination>
 	<star>
 		<name>Kepler-1613</name>
-		<temperature errorminus="111.6" errorplus="92.9">6005.0</temperature>
-		<mass errorminus="0.07" errorplus="0.08">1.08</mass>
-		<radius errorminus="0.12" errorplus="0.24">1.12</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.01</metallicity>
+		<temperature errorminus="92.89" errorplus="-111.57">6005.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.08</mass>
+		<radius errorminus="0.24" errorplus="-0.12">1.12</radius>
+		<metallicity errorminus="0.17" errorplus="-0.174">0.01</metallicity>
 		<planet>
 			<name>Kepler-1613 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000199100" errorplus="0.000199100">1.518429900</period>
 			<radius errorminus="0.045" errorplus="0.039">0.186</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.790" errorplus="-1.790">3.55</age><magV errorminus="" errorplus="">14.118</magV></star>
+<distance errorminus="-99.32" errorplus="-99.32">855.0</distance></system>

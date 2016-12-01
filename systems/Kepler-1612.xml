@@ -4,10 +4,10 @@
 	<declination>+45 39 18</declination>
 	<star>
 		<name>Kepler-1612</name>
-		<temperature errorminus="130.3" errorplus="105.0">5643.0</temperature>
+		<temperature errorminus="104.98" errorplus="-130.31">5643.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.96</mass>
-		<radius errorminus="0.07" errorplus="0.16">0.94</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.03</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">0.94</radius>
+		<metallicity errorminus="0.17" errorplus="-0.166">0.03</metallicity>
 		<planet>
 			<name>Kepler-1612 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000027270" errorplus="0.000027270">3.917951010</period>
 			<radius errorminus="0.010" errorplus="0.016">0.092</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.850" errorplus="-2.850">4.57</age><magV errorminus="" errorplus="">14.75</magV></star>
+<distance errorminus="-70.76" errorplus="-70.76">837.0</distance></system>

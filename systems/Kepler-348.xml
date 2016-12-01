@@ -12,8 +12,8 @@
 		<name>Kepler-348</name>
 		<name>KOI-2011</name>
 		<name>KIC 5384079</name>
-		<temperature errorminus="100" errorplus="100">6177</temperature>
-		<radius errorminus=".251" errorplus="0.251">1.359</radius>
+		<temperature errorminus="100" errorplus="-100.0">6177</temperature>
+		<radius errorminus=".251" errorplus="-0.25">1.359</radius>
 		<planet>
 			<name>Kepler-348 b</name>
 			<name>KOI-2011 b</name>
@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-348 c</name>
 			<name>KOI-2011 c</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.138</semimajoraxis><impactparameter errorminus="-0.2700" errorplus="-0.2700">0.62</impactparameter></planet>
+	<mass errorminus="" errorplus="">1.15</mass><metallicity errorminus="" errorplus="">-0.039</metallicity><magV errorminus="" errorplus="">12.556</magV></star>
 </system>

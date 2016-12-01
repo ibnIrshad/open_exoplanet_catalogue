@@ -12,9 +12,9 @@
 		<name>Kepler-331</name>
 		<name>KOI-1895</name>
 		<name>KIC 4263293</name>
-		<temperature errorminus="200" errorplus="200">4347</temperature>
+		<temperature errorminus="200" errorplus="-200.0">4347</temperature>
 		<radius errorminus=".047" errorplus="0.047">0.492</radius>
-		<mass errorminus="0.0140" errorplus="0.0140">0.6530</mass>
+		<mass errorminus="0.0140" errorplus="0.0140">0.51</mass>
 		<planet>
 			<name>Kepler-331 b</name>
 			<name>KOI-1895 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.48</impactparameter></planet>
 		<planet>
 			<name>Kepler-331 c</name>
 			<name>KOI-1895 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.105</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.08</impactparameter></planet>
 		<planet>
 			<name>Kepler-331 d</name>
 			<name>KOI-1895 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.159</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.29</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.85</metallicity><magV errorminus="" errorplus="">15.862</magV></star>
 </system>
