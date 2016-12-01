@@ -20,10 +20,10 @@
 			<semimajoraxis>0.24</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/11/27</lastupdate>
+			<lastupdate>22/2015-01-2/2015-01-2</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>762.5</temperature>
-		</planet>
+		<periastron errorminus="-5.0000" errorplus="-5.0000">290.0</periastron><periastrontime errorminus="-0.500000" errorplus="-0.500000">2454046.6</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 43691</name>
 		<temperature>6200.0</temperature>
 	</star>

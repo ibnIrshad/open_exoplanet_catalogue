@@ -30,17 +30,17 @@
 			<name>Gl 176 b</name>
 			<name>HD 285968 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">0.0264</mass>
+			<mass type="msini">0.026</mass>
 			<period errorminus="0.0054" errorplus="0.0054">8.7836</period>
 			<semimajoraxis>0.066</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<eccentricity>0.0</eccentricity>
+			<periastron>0.0</periastron>
 			<periastrontime errorminus="0.33" errorplus="0.33">2454399.79</periastrontime>
 			<description>Gliese 176 is a red dwarf located in the constellation Taurus. It has half the mass of our Sun. The planet consists mainly of rock but probably has a thick gas atmosphere.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/02/03</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-		</planet>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		<temperature errorminus="" errorplus="">450.0</temperature><istransiting>0</istransiting></planet>
 		<temperature>3520</temperature>
 	</star>
 </system>

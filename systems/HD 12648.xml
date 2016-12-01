@@ -35,8 +35,8 @@
 			<eccentricity errorminus="0.16" errorplus="0.16">0.04</eccentricity>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/30</lastupdate>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<periastron errorminus="-140.7000" errorplus="-140.7000">99.3</periastron><istransiting>0</istransiting></planet>
 	</star>
 </system>

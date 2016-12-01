@@ -2,7 +2,7 @@
 	<name>HAT-P-20</name>
 	<rightascension>07 27 40</rightascension>
 	<declination>+24 20 11</declination>
-	<distance>70</distance>
+	<distance>70.0</distance>
 	<star>
 		<mass>0.756</mass>
 		<radius>0.694</radius>
@@ -25,12 +25,12 @@
 			<eccentricity>0.015</eccentricity>
 			<inclination>86.8</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/11</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>888.3</temperature>
+			<temperature>970.0</temperature>
 			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455080.92661</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-130.0000" errorplus="-130.0000">317.0</periastron><impactparameter errorminus="-0.0280" errorplus="-0.0280">0.631</impactparameter></planet>
 		<name>HAT-P-20</name>
 		<temperature>4595.0</temperature>
 	</star>
