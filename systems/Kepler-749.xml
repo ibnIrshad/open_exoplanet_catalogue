@@ -4,10 +4,10 @@
 	<declination>+43 54 14</declination>
 	<star>
 		<name>Kepler-749</name>
-		<temperature errorminus="165.4" errorplus="218.0">5009.0</temperature>
-		<mass errorminus="0.05" errorplus="0.06">0.79</mass>
-		<radius errorminus="0.06" errorplus="0.06">0.75</radius>
-		<metallicity errorminus="0.19" errorplus="0.17">-0.11</metallicity>
+		<temperature errorminus="218.03" errorplus="-165.4">5009.0</temperature>
+		<mass errorminus="0.05" errorplus="-0.05">0.79</mass>
+		<radius errorminus="0.06" errorplus="-0.06">0.75</radius>
+		<metallicity errorminus="0.19" errorplus="-0.19">-0.11</metallicity>
 		<planet>
 			<name>Kepler-749 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000046020" errorplus="0.000046020">17.317165850</period>
 			<radius errorminus="0.023" errorplus="0.021">0.277</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.810" errorplus="-2.810">4.57</age><magV errorminus="" errorplus="">15.759</magV></star>
+<distance errorminus="-61.74" errorplus="-61.74">753.0</distance></system>

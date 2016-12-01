@@ -4,10 +4,10 @@
 	<declination>+46 34 04</declination>
 	<star>
 		<name>Kepler-738</name>
-		<temperature errorminus="61.9" errorplus="66.3">5327.0</temperature>
+		<temperature errorminus="66.34" errorplus="-61.93">5327.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.86</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.82</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.09</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.82</radius>
+		<metallicity errorminus="0.17" errorplus="-0.172">-0.09</metallicity>
 		<planet>
 			<name>Kepler-738 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000088020" errorplus="0.000088020">24.587215730</period>
 			<radius errorminus="0.015" errorplus="0.018">0.223</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.920" errorplus="-2.920">4.57</age><magV errorminus="" errorplus="">15.598</magV></star>
+<distance errorminus="-70.33" errorplus="-70.33">992.0</distance></system>

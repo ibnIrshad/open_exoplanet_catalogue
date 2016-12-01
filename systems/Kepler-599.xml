@@ -4,10 +4,10 @@
 	<declination>+41 04 10</declination>
 	<star>
 		<name>Kepler-599</name>
-		<temperature errorminus="90.3" errorplus="78.8">5127.0</temperature>
+		<temperature errorminus="78.75" errorplus="-90.28">5127.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">-0.02</metallicity>
+		<metallicity errorminus="0.15" errorplus="-0.148">-0.02</metallicity>
 		<planet>
 			<name>Kepler-599 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000031610" errorplus="0.000031610">15.655626520</period>
 			<radius errorminus="0.029" errorplus="0.013">0.253</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-3.100" errorplus="-3.100">5.01</age><magV errorminus="" errorplus="">14.97</magV></star>
+<distance errorminus="-32.17" errorplus="-32.17">627.0</distance></system>

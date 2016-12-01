@@ -4,10 +4,10 @@
 	<declination>+47 10 58</declination>
 	<star>
 		<name>Kepler-744</name>
-		<temperature errorminus="77.4" errorplus="84.0">5594.0</temperature>
+		<temperature errorminus="84.04" errorplus="-77.39">5594.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.93</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">0.00</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.93</radius>
+		<metallicity errorminus="0.11" errorplus="-0.106">0.00</metallicity>
 		<planet>
 			<name>Kepler-744 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000026490" errorplus="0.000026490">12.062224430</period>
 			<radius errorminus="0.008" errorplus="0.011">0.145</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.910" errorplus="-2.910">5.13</age><magV errorminus="" errorplus="">13.581</magV></star>
+<distance errorminus="-26.91" errorplus="-26.91">486.0</distance></system>

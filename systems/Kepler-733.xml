@@ -4,10 +4,10 @@
 	<declination>+45 54 53</declination>
 	<star>
 		<name>Kepler-733</name>
-		<temperature errorminus="94.3" errorplus="89.8">5418.0</temperature>
+		<temperature errorminus="89.83" errorplus="-94.34">5418.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.90</mass>
-		<radius errorminus="0.05" errorplus="0.08">0.86</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.01</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.86</radius>
+		<metallicity errorminus="0.16" errorplus="-0.16">0.01</metallicity>
 		<planet>
 			<name>Kepler-733 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000056820" errorplus="0.000056820">20.834247260</period>
 			<radius errorminus="0.017" errorplus="0.041">0.252</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.600" errorplus="-2.600">4.27</age><magV errorminus="" errorplus="">15.412</magV></star>
+<distance errorminus="-63.68" errorplus="-63.68">980.0</distance></system>
