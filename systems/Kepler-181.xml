@@ -12,8 +12,8 @@
 		<name>Kepler-181</name>
 		<name>KOI-543</name>
 		<name>KIC 11823054</name>
-		<temperature errorminus="200" errorplus="200">5333</temperature>
-		<radius errorminus=".367" errorplus="0.367">0.749</radius>
+		<temperature errorminus="200" errorplus="-200.0">5333</temperature>
+		<radius errorminus=".367" errorplus="-0.37">0.749</radius>
 		<mass errorminus="0.0320" errorplus="0.0320">0.8530</mass>
 		<planet>
 			<name>Kepler-181 c</name>
@@ -21,7 +21,7 @@
 			<name>KOI-543.01</name>
 			<name>KIC 11823054 c</name>
 			<name>KIC 11823054.01</name>
-			<radius errorminus="0.08931" errorplus="0.08931">0.18135</radius>
+			<radius errorminus="0.08931" errorplus="-0.087">0.18135</radius>
 			<period errorminus=".000008" errorplus="0.000008">4.302149</period>
 			<transittime errorminus="0.0010200" errorplus="0.0010200">2455006.4371700</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.049</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-181 b</name>
 			<name>KOI-543 b</name>
 			<name>KOI-543.02</name>
 			<name>KIC 11823054 b</name>
 			<name>KIC 11823054.02</name>
-			<radius errorminus="0.05650" errorplus="0.05650">0.11574</radius>
+			<radius errorminus="0.05650" errorplus="-0.055">0.11574</radius>
 			<period errorminus=".000013" errorplus="0.000013">3.137873</period>
 			<transittime errorminus="0.0024000" errorplus="0.0024000">2454966.5556200</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.04</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.16</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.162</metallicity><magV errorminus="" errorplus="">14.707</magV></star>
 </system>
