@@ -14,7 +14,7 @@
 		<magJ errorminus="0.025" errorplus="0.025">10.814</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.577</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.535</magK>
-		<temperature errorminus="102" errorplus="102">6004</temperature>
+		<temperature errorminus="102" errorplus="-102.0">6004</temperature>
 		<radius errorminus="0.033" errorplus="0.033">1.120</radius>
 		<mass errorminus="0.0350" errorplus="0.0350">0.8640</mass>
 		<planet>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2100" errorplus="-0.2100">0.22</impactparameter></planet>
 		<planet>
 			<name>Kepler-197 d</name>
 			<name>KOI-623 d</name>
@@ -54,7 +54,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.3400" errorplus="-0.3400">0.66</impactparameter></planet>
 		<planet>
 			<name>Kepler-197 b</name>
 			<name>KOI-623 b</name>
@@ -73,7 +73,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2100" errorplus="-0.2100">0.22</impactparameter></planet>
 		<planet>
 			<name>Kepler-197 e</name>
 			<name>KOI-623 e</name>
@@ -92,6 +92,6 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="-0.2300" errorplus="-0.2300">0.14</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.533</metallicity></star>
 </system>

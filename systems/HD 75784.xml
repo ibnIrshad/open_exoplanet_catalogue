@@ -2,7 +2,7 @@
 	<name>HD 75784</name>
 	<rightascension>08 52 23.941</rightascension>
 	<declination>+13 14 00.37</declination>
-	<distance errorminus="6.2" errorplus="6.2">68.7</distance>
+	<distance errorminus="6.2" errorplus="-6.2">68.7</distance>
 	<star>
 		<name>HD 75784</name>
 		<name>HIP 43569</name>
@@ -18,12 +18,12 @@
 		<magJ>6.092</magJ>
 		<magH>5.626</magH>
 		<magK>5.502</magK>
-		<mass errorminus="0.08" errorplus="0.08">1.41</mass>
-		<radius errorminus="0.3" errorplus="0.3">3.3</radius>
-		<temperature errorminus="44" errorplus="44">4917</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.41</mass>
+		<radius errorminus="0.3" errorplus="-0.3">3.3</radius>
+		<temperature errorminus="44" errorplus="-44.0">4917</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.25</metallicity>
-		<spectraltype>K3IV</spectraltype>
-		<age errorminus="0.7" errorplus="0.7">4.0</age>
+		<spectraltype>K3 IV</spectraltype>
+		<age errorminus="0.7" errorplus="-0.7">4.0</age>
 		<planet>
 			<name>HD 75784 b</name>
 			<name>HD 75784 b</name>
@@ -35,14 +35,14 @@
 			<name>SAO 98188 b</name>
 			<name>BD+13 2007 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.30" errorplus="0.30">1.15</mass>
-			<period errorminus="6.1" errorplus="6.1">341.7</period>
+			<mass errorminus="0.30" errorplus="-0.3">1.15</mass>
+			<period errorminus="6.1" errorplus="-6.1">341.7</period>
 			<semimajoraxis errorminus="0.013" errorplus="0.013">1.073</semimajoraxis>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.13</eccentricity>
+			<eccentricity errorminus="0.1" errorplus="-0.1">0.13</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets. HD 75784 is a star with high proper motion.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<periastron errorminus="-136.0000" errorplus="-136.0000">29.0</periastron><periastrontime errorminus="-172.000000" errorplus="-172.000000">2454411.0</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>
