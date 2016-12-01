@@ -20,15 +20,15 @@
 			<name>EPIC 201393098.01</name>
 			<name>K2-7 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.052" errorplus="0.052">0.246</radius>
+			<radius errorminus="0.052" errorplus="0.052">0.238</radius>
 			<period errorminus="0.00947" errorplus="0.00947">28.67992</period>
 			<transittime errorminus="0.0149" errorplus="0.0149" unit="BJD">2456824.6155</transittime>
 			<semimajoraxis errorminus="0.0043" errorplus="0.0043">0.1814</semimajoraxis>
-			<temperature errorminus="61" errorplus="61">651</temperature>
+			<temperature errorminus="61" errorplus="61">651.0</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
+			<lastupdate>16/2015-07-1/2015-07-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
