@@ -2,7 +2,7 @@
 	<name>TYC 3667-1280-1</name>
 	<rightascension>00 51 32.9649</rightascension>
 	<declination>+58 25 34.268</declination>
-	<distance errorminus="37" errorplus="37">481</distance>
+	<distance errorminus="37" errorplus="37">481.0</distance>
 	<star>
 		<name>TYC 3667-1280-1</name>
 		<name>GSC 03667-01280</name>
@@ -22,14 +22,14 @@
 			<period errorminus="0.005" errorplus="0.005">26.468</period>
 			<periastrontime errorminus="3.3" errorplus="3.7">2456320.1</periastrontime>
 			<eccentricity errorminus="0.014" errorplus="0.043">0.036</eccentricity>
-			<periastron errorminus="50" errorplus="50">240</periastron>
+			<periastron errorminus="50" errorplus="50">240.0</periastron>
 			<mass errorminus="0.4" errorplus="0.4" type="msini">5.4</mass>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
 			<description>TYC 3667-1280-1 b is on the brink of engulfment by its host star, which is a former A-type star entering the red giant branch.</description>
-			<lastupdate>16/04/11</lastupdate>
+			<lastupdate>31/2016-03-3/2016-03-3</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<temperature errorminus="-100" errorplus="-100">1350.0</temperature><istransiting>0</istransiting></planet>
 	</star>
 </system>
