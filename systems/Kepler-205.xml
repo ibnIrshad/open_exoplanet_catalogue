@@ -12,7 +12,7 @@
 		<name>Kepler-205</name>
 		<name>KOI-663</name>
 		<name>KIC 6425957</name>
-		<temperature errorminus="100" errorplus="100">4321</temperature>
+		<temperature errorminus="100" errorplus="-100.0">4321</temperature>
 		<radius errorminus=".022" errorplus="0.022">0.546</radius>
 		<mass errorminus="0.0140" errorplus="0.0140">0.5920</mass>
 		<planet>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-205 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.032</semimajoraxis><impactparameter errorminus="-0.3000" errorplus="-0.3000">0.87</impactparameter></planet>
 		<planet>
 			<name>Kepler-205 c</name>
 			<name>KOI-663 c</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-205 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.81</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.149</metallicity><magV errorminus="" errorplus="">13.506</magV></star>
 </system>

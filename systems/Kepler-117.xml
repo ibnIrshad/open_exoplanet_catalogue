@@ -4,16 +4,16 @@
 	<name>KIC 10723750</name>
 	<rightascension>19 15 10.326</rightascension>
 	<declination>+48 02 24.81</declination>
-	<distance errorminus="50" errorplus="50">1430</distance>
+	<distance errorminus="50" errorplus="-50.0">1430</distance>
 	<star>
 		<name>Kepler-117</name>
 		<name>KOI-209</name>
 		<name>KIC 10723750</name>
 		<name>UCAC3 277-144185</name>
-		<temperature errorminus="110" errorplus="110">6150</temperature>
+		<temperature errorminus="110" errorplus="-110.0">6150</temperature>
 		<radius errorminus="0.049" errorplus="0.049">1.606</radius>
-		<mass errorminus="0.023" errorplus="0.13">1.129</mass>
-		<age errorminus="1.4" errorplus="1.4">5.3</age>
+		<mass errorminus="0.13" errorplus="-0.02">1.129</mass>
+		<age errorminus="1.4" errorplus="-1.4">5.3</age>
 		<magB errorminus="0.024" errorplus="0.024">14.93</magB>
 		<magV errorminus="0.018" errorplus="0.018">14.29</magV>
 		<magI errorminus="0.014" errorplus="0.014">14.58</magI>
@@ -21,7 +21,7 @@
 		<magJ errorminus="0.026" errorplus="0.026">13.324</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.99</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.01</magK>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.04</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.1">-0.04</metallicity>
 		<planet>
 			<name>Kepler-117 c</name>
 			<name>KOI-209 c</name>
@@ -33,17 +33,17 @@
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2454968.6309700</transittime>
 			<semimajoraxis errorminus="0.0028" errorplus="0.0092">0.2804</semimajoraxis>
 			<eccentricity errorminus="0.0033" errorplus="0.0033">0.0323</eccentricity>
-			<inclination errorminus="0.1" errorplus="0.1">89.64</inclination>
-			<mass errorminus="0.18" errorplus="0.18">1.84</mass>
+			<inclination errorminus="0.1" errorplus="-0.1">89.64</inclination>
+			<mass errorminus="0.18" errorplus="-0.18">1.84</mass>
 			<radius errorminus="0.035" errorplus="0.035">1.101</radius>
-			<temperature errorminus="15" errorplus="15">704</temperature>
+			<temperature errorminus="15" errorplus="-15.0">704</temperature>
 			<list>Confirmed planets</list>
 			<description>Kepler-117 c has been discovered by the Kepler spacecraft and is the outermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-7.5000" errorplus="-7.5000">305.0</periastron><impactparameter errorminus="-0.0870" errorplus="-0.0870">0.268</impactparameter></planet>
 		<planet>
 			<name>Kepler-117 b</name>
 			<name>KOI-209 b</name>
@@ -56,15 +56,15 @@
 			<transittime errorminus="0.0008900" errorplus="0.0008900">2454978.8202800</transittime>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0047">0.1445</semimajoraxis>
 			<eccentricity errorminus="0.0062" errorplus="0.0062">0.0493</eccentricity>
-			<inclination errorminus="0.12" errorplus="0.12">88.74</inclination>
+			<inclination errorminus="0.12" errorplus="-0.12">88.74</inclination>
 			<mass errorminus="0.033" errorplus="0.033">0.094</mass>
-			<temperature errorminus="18" errorplus="18">984</temperature>
+			<temperature errorminus="18" errorplus="-18.0">984</temperature>
 			<list>Confirmed planets</list>
 			<description>Kepler-117 b has been discovered by the Kepler spacecraft and is the innermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<periastron errorminus="-4.1000" errorplus="-4.1000">254.3</periastron><impactparameter errorminus="-0.0320" errorplus="-0.0320">0.446</impactparameter></planet>
+	<spectraltype>F8 V</spectraltype></star>
 </system>

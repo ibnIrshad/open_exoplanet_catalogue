@@ -12,8 +12,8 @@
 		<name>Kepler-198</name>
 		<name>KOI-624</name>
 		<name>KIC 3541946</name>
-		<temperature errorminus="100" errorplus="100">5574</temperature>
-		<radius errorminus=".139" errorplus="0.139">0.940</radius>
+		<temperature errorminus="100" errorplus="-100.0">5574</temperature>
+		<radius errorminus=".139" errorplus="-0.14">0.940</radius>
 		<mass errorminus="0.0450" errorplus="0.0450">0.9580</mass>
 		<planet>
 			<name>Kepler-198 b</name>
@@ -27,10 +27,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-198 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-198 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.131</semimajoraxis><impactparameter errorminus="-0.1900" errorplus="-0.1900">0.03</impactparameter></planet>
 		<planet>
 			<name>Kepler-198 c</name>
 			<name>KOI-624 c</name>
@@ -43,21 +43,21 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-198 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-198 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.259</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.4</impactparameter></planet>
 		<planet>
 			<name>Kepler-198 d</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001330" errorplus="0.000001330">1.311844430</period>
 			<radius errorminus="0.006" errorplus="0.008">0.136</radius>
 		</planet>
-	</star>
+	<metallicity errorminus="" errorplus="">-0.14</metallicity><magV errorminus="" errorplus="">13.597</magV></star>
 </system>
