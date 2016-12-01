@@ -4,7 +4,7 @@
 	<name>KOI-701</name>
 	<rightascension>18 52 51</rightascension>
 	<declination>+45 20 59</declination>
-	<distance>368</distance>
+	<distance>368.0</distance>
 	<star>
 		<name>Kepler-62</name>
 		<name>KIC 9002278</name>
@@ -28,68 +28,68 @@
 			<name>KOI-701.02</name>
 			<name>KOI-701 b</name>
 			<list>Confirmed planets</list>
-			<radius>0.1193806</radius>
-			<temperature>750</temperature>
+			<radius>0.117</radius>
+			<temperature>750.0</temperature>
 			<period>5.714932</period>
 			<semimajoraxis>0.0553</semimajoraxis>
 			<inclination>89.2</inclination>
 			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455003.9189</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1300" errorplus="-0.1300">0.25</impactparameter><mass errorminus="" errorplus="">0.03</mass></planet>
 		<planet>
 			<name>Kepler-62 c</name>
 			<name>KIC 9002278 c</name>
 			<name>KOI-701.05</name>
 			<name>KOI-701 c</name>
 			<list>Confirmed planets</list>
-			<radius>0.049210359</radius>
-			<temperature>578</temperature>
+			<radius>0.048</radius>
+			<temperature>578.0</temperature>
 			<period>12.4417</period>
 			<semimajoraxis>0.0929</semimajoraxis>
 			<inclination>89.7</inclination>
 			<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2454967.651</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0900" errorplus="-0.0900">0.16</impactparameter><mass errorminus="" errorplus="">0.013</mass></planet>
 		<planet>
 			<name>Kepler-62 d</name>
 			<name>KIC 9002278 d</name>
 			<name>KOI-701.01</name>
 			<name>KOI-701 d</name>
 			<list>Confirmed planets</list>
-			<radius>0.1777040</radius>
-			<temperature>510</temperature>
+			<radius>0.174</radius>
+			<temperature>510.0</temperature>
 			<period>18.16406</period>
-			<semimajoraxis>0.120</semimajoraxis>
+			<semimajoraxis>0.12</semimajoraxis>
 			<inclination>89.7</inclination>
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2455013.8117</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1300" errorplus="-0.1300">0.22</impactparameter><mass errorminus="" errorplus="">0.044</mass></planet>
 		<planet>
 			<name>Kepler-62 e</name>
 			<name>KIC 9002278 e</name>
 			<name>KOI-701.03</name>
 			<name>KOI-701 e</name>
 			<list>Confirmed planets</list>
-			<radius>0.14671977</radius>
-			<temperature>270</temperature>
+			<radius>0.144</radius>
+			<temperature>270.0</temperature>
 			<period>122.3874</period>
 			<semimajoraxis>0.427</semimajoraxis>
 			<inclination>89.98</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454983.404</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Kepler-62 e is one of them.  Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<image>Kepler62e</image>
@@ -97,21 +97,21 @@
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0500" errorplus="-0.0500">0.06</impactparameter><mass errorminus="" errorplus="">0.113</mass></planet>
 		<planet>
 			<name>Kepler-62 f</name>
 			<name>KIC 9002278 f</name>
 			<name>KOI-701.04</name>
 			<name>KOI-701 f</name>
 			<list>Confirmed planets</list>
-			<radius>0.12849371</radius>
-			<temperature>208</temperature>
+			<radius>0.126</radius>
+			<temperature>208.0</temperature>
 			<period>267.291</period>
 			<semimajoraxis>0.718</semimajoraxis>
-			<inclination>89.90</inclination>
+			<inclination>89.9</inclination>
 			<transittime errorminus="0.006" errorplus="0.006" unit="BJD">2455422.71</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Kepler-62 f is one of them. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<image>Kepler62f</image>
@@ -119,6 +119,6 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1400" errorplus="-0.1400">0.41</impactparameter><mass errorminus="" errorplus="">0.11</mass></planet>
 	</star>
 </system>

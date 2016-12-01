@@ -2,7 +2,7 @@
 	<name>KOI-55</name>
 	<rightascension>19 45 25</rightascension>
 	<declination>+41 05 34</declination>
-	<distance>1180</distance>
+	<distance>1180.0</distance>
 	<star>
 		<mass>0.496</mass>
 		<radius>0.203</radius>
@@ -22,14 +22,14 @@
 			<list>Controversial</list>
 			<mass>0.0014</mass>
 			<radius>0.068</radius>
-			<period>0.2401</period>
+			<period>0.240104</period>
 			<semimajoraxis>0.006</semimajoraxis>
 			<description>The planet KOI-55 b is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/08/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>7112.0</temperature>
-		</planet>
+		<inclination errorminus="" errorplus="">65.0</inclination><istransiting>0</istransiting></planet>
 		<planet>
 			<name>KOI-55 c</name>
 			<name>Kepler-70 c</name>
@@ -37,15 +37,15 @@
 			<name>KIC 5807616 c</name>
 			<list>Controversial</list>
 			<mass>0.0021</mass>
-			<radius>0.078</radius>
-			<period>0.34289</period>
+			<radius>0.077</radius>
+			<period>0.342887</period>
 			<semimajoraxis>0.0076</semimajoraxis>
 			<description>The planet KOI-55 c is orbiting a former red-giant star. It probably survived deep immersion in the red-giant's envelope. When the star ran out of hydrogen after about 10 billion years, it swelled dramatically. Our own sun will also undergo this phase and expand as far as the Earth's orbit. The planet that we see today in the KOI-55 system might just be the dense core of an evaporated giant planet which survived the death of its sun. The planet was discovered with the Kepler spacecraft but is not transiting. It is inferred from brightness pulsations. This planet's existence has been challenged on the basis of the extended dataset showing amplitude variations and complex frequency structure around this period.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/08/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>6319.1</temperature>
-		</planet>
+		<inclination errorminus="" errorplus="">65.0</inclination><istransiting>0</istransiting></planet>
 		<name>KOI-55</name>
 		<name>Kepler-70</name>
 		<name>KIC 5807616</name>

@@ -2,7 +2,7 @@
 	<name>Kepler-41</name>
 	<rightascension>19 38 03</rightascension>
 	<declination>+48 58 54</declination>
-	<distance>771.43</distance>
+	<distance>770.0</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.262</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.938</magH>
@@ -25,17 +25,17 @@
 			<name>2MASS J19380317+4558539 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.09" errorplus="0.10">0.56</mass>
-			<radius errorminus="0.04" errorplus="0.04">1.04</radius>
-			<period errorminus="0.00000052" errorplus="0.00000052">1.85555820</period>
+			<radius errorminus="0.04" errorplus="0.04">1.29</radius>
+			<period errorminus="0.00000052" errorplus="0.00000052">1.8555582</period>
 			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.03101</semimajoraxis>
 			<inclination errorminus="0.09" errorplus="0.09">82.51</inclination>
-			<eccentricity>0</eccentricity>
+			<eccentricity>0.0</eccentricity>
 			<transittime errorminus="0.000051" errorplus="0.000051" unit="BJD">2455187.280482</transittime>
 			<description>KOI-196 b, also known as Kepler-41 b, is transiting its host star and was tagged as a planet candidate by the Kepler spacecraft. Astronomers then used the SOPHIE spectrograph at the Observatoire de Haute-Provence in France to confirm the planet. The day side temperature on the planet is almost 1700 degree Celsius. In 2013, it was independently confirmed by a phase curve analysis.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>29/2015-01-2/2015-01-2</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0050" errorplus="-0.0050">0.672</impactparameter><temperature errorminus="-31" errorplus="-31">1790.0</temperature></planet>
 	</star>
 </system>
