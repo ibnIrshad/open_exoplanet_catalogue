@@ -2,7 +2,7 @@
 	<name>Kepler-8</name>
 	<rightascension>18 45 09</rightascension>
 	<declination>+42 27 04</declination>
-	<distance errorminus="180" errorplus="180">1330</distance>
+	<distance errorminus="180" errorplus="180">1330.0</distance>
 	<star>
 		<mass errorminus="0.10" errorplus="0.09">1.13</mass>
 		<radius errorminus="0.13" errorplus="0.12">1.45</radius>
@@ -22,18 +22,18 @@
 			<name>KOI-10 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.13">0.59</mass>
-			<radius errorminus="0.06" errorplus="0.05">1.42</radius>
-			<period errorminus="0.00005" errorplus="0.0003">3.52254</period>
-			<semimajoraxis errorminus="0.0012" errorplus="0.0006">0.0483</semimajoraxis>
+			<radius errorminus="0.06" errorplus="0.05">1.416</radius>
+			<period errorminus="0.00005" errorplus="0.0003">3.5224991</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0006">0.0474</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.33" errorplus="0.33">84.07</inclination>
+			<inclination errorminus="0.33" errorplus="0.33">83.978</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0003" unit="BJD">2454954.1190</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1519.5</temperature>
+			<temperature>1680.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0023" errorplus="-0.0023">0.7191</impactparameter></planet>
 		<name>Kepler-8</name>
 		<name>KOI-10</name>
 		<name>KIC 6922244</name>

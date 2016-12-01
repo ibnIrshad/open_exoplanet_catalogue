@@ -2,7 +2,7 @@
 	<name>WASP-37</name>
 	<rightascension>14 47 47</rightascension>
 	<declination>+01 03 54</declination>
-	<distance>338</distance>
+	<distance>343.0</distance>
 	<star>
 		<mass>0.849</mass>
 		<radius>0.977</radius>
@@ -19,15 +19,15 @@
 			<name>WASP-37 b</name>
 			<name>2MASS J14474655+0103538 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.696</mass>
-			<radius>1.136</radius>
-			<period>3.577471</period>
-			<semimajoraxis>0.04339</semimajoraxis>
+			<mass>1.8</mass>
+			<radius>1.16</radius>
+			<period>3.577469</period>
+			<semimajoraxis>0.0446</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.78</inclination>
+			<inclination>88.82</inclination>
 			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2455338.6196</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/08/19</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1213.5</temperature>
 			<istransiting>1</istransiting>

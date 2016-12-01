@@ -2,7 +2,7 @@
 	<name>WASP-7</name>
 	<rightascension>20 44 10</rightascension>
 	<declination>-39 13 31</declination>
-	<distance>140</distance>
+	<distance>140.0</distance>
 	<star>
 		<mass>1.276</mass>
 		<radius>1.432</radius>
@@ -20,13 +20,13 @@
 			<list>Confirmed planets</list>
 			<mass>0.96</mass>
 			<radius>1.33</radius>
-			<period>4.9546416</period>
-			<semimajoraxis>0.0617</semimajoraxis>
+			<period>4.954658</period>
+			<semimajoraxis>0.0618</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.03</inclination>
+			<inclination>89.6</inclination>
 			<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2455446.63493</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1359.5</temperature>
 			<istransiting>1</istransiting>
