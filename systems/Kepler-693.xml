@@ -4,10 +4,10 @@
 	<declination>+40 21 30</declination>
 	<star>
 		<name>Kepler-693</name>
-		<temperature errorminus="77.4" errorplus="78.8">4881.0</temperature>
+		<temperature errorminus="78.78" errorplus="-77.41">4881.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.72</radius>
-		<metallicity errorminus="0.18" errorplus="0.17">-0.10</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.181">-0.10</metallicity>
 		<planet>
 			<name>Kepler-693 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000010720" errorplus="0.000010720">15.375633320</period>
-			<radius errorminus="0.069" errorplus="0.045">0.908</radius>
+			<radius errorminus="0.069" errorplus="-0.069">0.908</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.710" errorplus="-2.710">4.47</age><magV errorminus="" errorplus="">16.422</magV></star>
+<distance errorminus="-65.87" errorplus="-65.87">1002.0</distance></system>

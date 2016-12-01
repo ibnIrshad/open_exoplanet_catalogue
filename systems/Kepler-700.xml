@@ -4,10 +4,10 @@
 	<declination>+41 33 57</declination>
 	<star>
 		<name>Kepler-700</name>
-		<temperature errorminus="115.6" errorplus="77.7">5692.0</temperature>
+		<temperature errorminus="77.65" errorplus="-115.63">5692.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.98</mass>
-		<radius errorminus="0.07" errorplus="0.15">0.96</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">0.96</radius>
+		<metallicity errorminus="0.15" errorplus="-0.153">0.04</metallicity>
 		<planet>
 			<name>Kepler-700 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000172700" errorplus="0.000172700">80.872063900</period>
-			<radius errorminus="0.045" errorplus="0.081">0.534</radius>
+			<radius errorminus="0.045" errorplus="-0.045">0.534</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.630" errorplus="-2.630">4.37</age><magV errorminus="" errorplus="">15.201</magV></star>
+<distance errorminus="-86.23" errorplus="-86.23">1061.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+42 12 45</declination>
 	<star>
 		<name>Kepler-708</name>
-		<temperature errorminus="151.8" errorplus="138.5">5692.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">0.97</mass>
-		<radius errorminus="0.09" errorplus="0.21">0.96</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.01</metallicity>
+		<temperature errorminus="138.46" errorplus="-151.78">5692.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.97</mass>
+		<radius errorminus="0.21" errorplus="-0.09">0.96</radius>
+		<metallicity errorminus="0.17" errorplus="-0.175">0.01</metallicity>
 		<planet>
 			<name>Kepler-708 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003840" errorplus="0.000003840">3.167891940</period>
 			<radius errorminus="0.025" errorplus="0.057">0.261</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.650" errorplus="-2.650">4.37</age><magV errorminus="" errorplus="">15.533</magV></star>
+<distance errorminus="-119.36" errorplus="-119.36">1241.0</distance></system>

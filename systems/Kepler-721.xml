@@ -4,10 +4,10 @@
 	<declination>+44 28 50</declination>
 	<star>
 		<name>Kepler-721</name>
-		<temperature errorminus="56.1" errorplus="53.6">5075.0</temperature>
+		<temperature errorminus="53.6" errorplus="-56.09">5075.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">-0.01</metallicity>
+		<metallicity errorminus="0.15" errorplus="-0.155">-0.01</metallicity>
 		<planet>
 			<name>Kepler-721 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000006770" errorplus="0.000006770">5.392025390</period>
 			<radius errorminus="0.012" errorplus="0.012">0.236</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.980" errorplus="-2.980">4.9</age><magV errorminus="" errorplus="">15.651</magV></star>
+<distance errorminus="-43.00" errorplus="-43.00">848.0</distance></system>
