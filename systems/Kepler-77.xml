@@ -6,7 +6,7 @@
 	<name>2MASS 19182590+4420435</name>
 	<rightascension>19 18 25</rightascension>
 	<declination>+44 20 44</declination>
-	<distance errorminus="70" errorplus="70">570</distance>
+	<distance errorminus="70" errorplus="70">570.0</distance>
 	<star>
 		<magB errorminus="0.04" errorplus="0.04">15.03</magB>
 		<magV errorminus="0.03" errorplus="0.03">14.10</magV>
@@ -35,18 +35,18 @@
 			<name>USNO-A2 1275-11111739 b</name>
 			<name>2MASS 19182590+4420435 b</name>
 			<radius errorminus="0.016" errorplus="0.016">0.96</radius>
-			<period errorminus="2.3e-07" errorplus="2.3e-07">3.5787087</period>
+			<period errorminus="2.3e-07" errorplus="2.3e-07">3.57878087</period>
 			<transittime errorminus="2.9e-05" errorplus="2.9e-05">2455095.86573</transittime>
 			<mass errorminus="0.032" errorplus="0.032">0.43</mass>
 			<semimajoraxis errorminus="0.00063" errorplus="0.00063">0.04501</semimajoraxis>
 			<inclination errorminus="0.11" errorplus="0.11">88.0</inclination>
-			<temperature>1189.0</temperature>
+			<temperature>1440.0</temperature>
 			<list>Confirmed planets</list>
 			<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/04/03</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="" errorplus="">0.0</eccentricity><impactparameter errorminus="-0.0170" errorplus="-0.0170">0.341</impactparameter></planet>
 	</star>
 </system>

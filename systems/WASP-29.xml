@@ -2,7 +2,7 @@
 	<name>WASP-29</name>
 	<rightascension>23 51 31</rightascension>
 	<declination>-39 54 24</declination>
-	<distance>80</distance>
+	<distance>70.0</distance>
 	<star>
 		<mass>0.825</mass>
 		<radius>0.846</radius>
@@ -28,7 +28,7 @@
 			<inclination>88.8</inclination>
 			<transittime errorminus="0.004" errorplus="0.004" unit="BJD">2455320.23485</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/09/28</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>910.6</temperature>
 			<istransiting>1</istransiting>
