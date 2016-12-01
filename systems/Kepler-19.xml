@@ -22,18 +22,18 @@
 			<name>2MASS J19214099+3751064 b</name>
 			<name>KIC 2571238 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.0639" />
-			<radius errorminus="0.0043" errorplus="0.0043">0.1971</radius>
+			<mass upperlimit="0.0639">0.064</mass>
+			<radius errorminus="0.0043" errorplus="0.0043">0.197</radius>
 			<period errorminus="0.0000088" errorplus="0.0000088">9.2869944</period>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0846</semimajoraxis>
 			<inclination errorminus="0.44" errorplus="0.06">89.94</inclination>
 			<transittime errorminus="0.00036" errorplus="0.00036" unit="BJD">2454959.70597</transittime>
 			<description>Sinusoidal transit timing variations have been detected in this system. An additional planet might be present.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/09</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="" errorplus="">0.0</eccentricity><impactparameter errorminus="-0.0200" errorplus="-0.0200">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-19 c</name>
 			<name>TYC 3134-1549-1 c</name>
@@ -42,12 +42,12 @@
 			<name>2MASS J19214099+3751064 c</name>
 			<name>KIC 2571238 c</name>
 			<list>Confirmed planets</list>
-			<period upperlimit="160" />
-			<mass upperlimit="6.0" />
+			<period upperlimit="160">160.0</period>
+			<mass upperlimit="6.0">6.0</mass>
 			<description>The planet Kepler-19 c was the first confirmed detection of a planet by transit timing variations.</description>
-			<discoverymethod>timing</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<istransiting>0</istransiting>
 		</planet>
 		<name>Kepler-19</name>
@@ -56,4 +56,4 @@
 		<temperature errorminus="60" errorplus="60">5541</temperature>
 		<age errorminus="1.7" errorplus="1.7">1.9</age>
 	</star>
-</system>
+<distance errorminus="" errorplus="">2119.0</distance></system>
