@@ -2,7 +2,7 @@
 	<name>24 Sex</name>
 	<rightascension>10 23 28.370</rightascension>
 	<declination>-00 54 08.09</declination>
-	<distance errorminus="4.9" errorplus="4.9">74.8</distance>
+	<distance errorminus="4.9" errorplus="4.9">74.79</distance>
 	<star>
 		<name>24 Sex</name>
 		<name>24 Sextantis</name>
@@ -37,9 +37,9 @@
 			<periastrontime errorminus="172.3" errorplus="67.3">2454762</periastrontime>
 			<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<planet>
 			<name>24 Sex c</name>
 			<name>24 Sextantis c</name>
@@ -52,9 +52,9 @@
 			<periastrontime errorminus="96.5" errorplus="209.9">2454930</periastrontime>
 			<description>24 Sextantis is located in the constellation of Sextans. The two planets in the system are in a 2:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>
 </system>
