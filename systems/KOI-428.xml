@@ -2,7 +2,7 @@
 	<name>KOI-428</name>
 	<rightascension>19 47 15</rightascension>
 	<declination>+47 31 36</declination>
-	<distance>2700</distance>
+	<distance>2700.0</distance>
 	<star>
 		<mass>1.48</mass>
 		<radius>2.13</radius>
@@ -30,10 +30,10 @@
 			<inclination>89.7</inclination>
 			<transittime errorminus="0.0024" errorplus="0.0024" unit="BJD">2455005.5198</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/01/01</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0370" errorplus="-0.0370">0.045</impactparameter><temperature errorminus="-30" errorplus="-30">1620.0</temperature></planet>
 		<name>KOI-428</name>
 		<name>KIC 10418224</name>
 		<name>Kepler-40</name>
