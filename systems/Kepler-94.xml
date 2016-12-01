@@ -12,9 +12,9 @@
 		<name>Kepler-94</name>
 		<name>KOI-104</name>
 		<name>KIC 10318874</name>
-		<temperature errorminus="98" errorplus="98">4781</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.34</metallicity>
-		<mass errorminus="0.06" errorplus="0.06">0.81</mass>
+		<temperature errorminus="98" errorplus="-98.0">4781</temperature>
+		<metallicity errorminus="0.07" errorplus="-0.07">0.34</metallicity>
+		<mass errorminus="0.06" errorplus="-0.06">0.81</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.76</radius>
 		<age>1.41</age>
 		<planet>
@@ -31,19 +31,19 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.85</impactparameter></planet>
 		<planet>
 			<name>Kepler-94 c</name>
 			<name>KOI-104.10</name>
 			<name>KOI-104 c</name>
 			<name>KIC 10318874 c</name>
-			<period errorminus="3" errorplus="3">820.3</period>
-			<mass errorminus="0.629140" errorplus="0.629140">9.833460</mass>
+			<period errorminus="3" errorplus="-3.0">820.3</period>
+			<mass errorminus="0.629140" errorplus="-0.629">9.833460</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
-		</planet>
-	</star>
+		<istransiting>0</istransiting></planet>
+	<magV errorminus="" errorplus="">12.895</magV></star>
 </system>

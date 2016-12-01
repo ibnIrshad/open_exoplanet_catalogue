@@ -2,7 +2,7 @@
 	<name>81 Cet</name>
 	<rightascension>02 37 42.80105</rightascension>
 	<declination>-03 23 46.2201</declination>
-	<distance errorminus="3.9" errorplus="3.9">92.5</distance>
+	<distance errorminus="8.37" errorplus="-10.11">97.18</distance>
 	<star>
 		<name>81 Cet</name>
 		<name>81 Ceti</name>
@@ -13,31 +13,31 @@
 		<name>HR 771</name>
 		<name>BD-04 436</name>
 		<name>2MASS J02374179-0323462</name>
-		<mass>2.4</mass>
-		<radius>11</radius>
+		<mass errorminus="0.1" errorplus="-0.4">2.4</mass>
+		<radius errorminus="2.0" errorplus="-1.0">11</radius>
 		<magV>5.65</magV>
 		<magB>6.667</magB>
 		<magJ errorminus="0.266" errorplus="0.266">3.940</magJ>
 		<magH errorminus="0.234" errorplus="0.234">3.386</magH>
 		<magK errorminus="0.258" errorplus="0.258">3.266</magK>
-		<temperature>4790.0</temperature>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>G5III</spectraltype>
+		<temperature errorminus="25.0" errorplus="-25.0">4785.0</temperature>
+		<metallicity errorminus="0.03" errorplus="-0.03">-0.06</metallicity>
+		<spectraltype>G5 III</spectraltype>
 		<planet>
 			<name>81 Cet b</name>
 			<name>81 Ceti b</name>
 			<name>HD 16400 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">5.3</mass>
-			<period errorminus="8.8" errorplus="8.8">952.7</period>
+			<period errorminus="8.8" errorplus="-8.8">952.7</period>
 			<semimajoraxis>2.5</semimajoraxis>
 			<eccentricity errorminus="0.029" errorplus="0.029">0.206</eccentricity>
-			<periastron errorminus="6.9" errorplus="6.9">175.0</periastron>
-			<periastrontime errorminus="26" errorplus="26">2452486</periastrontime>
+			<periastron errorminus="6.9" errorplus="-6.9">175.0</periastron>
+			<periastrontime errorminus="26" errorplus="-26.0">2452486</periastrontime>
 			<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
