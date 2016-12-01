@@ -12,8 +12,8 @@
 		<name>Kepler-392</name>
 		<name>KOI-2585</name>
 		<name>KIC 7673841</name>
-		<temperature errorminus="26" errorplus="226">5938</temperature>
-		<radius errorminus=".231" errorplus="0.231">1.129</radius>
+		<temperature errorminus="226.0" errorplus="-226.0">5938</temperature>
+		<radius errorminus=".231" errorplus="-0.23">1.129</radius>
 		<planet>
 			<name>Kepler-392 b</name>
 			<name>KOI-2585 b</name>
@@ -26,10 +26,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-392 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-392 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.059</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.24</impactparameter></planet>
 		<planet>
 			<name>Kepler-392 c</name>
 			<name>KOI-2585 c</name>
@@ -42,9 +42,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-392 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-392 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.093</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.08</impactparameter></planet>
+	<mass errorminus="" errorplus="">1.13</mass><metallicity errorminus="" errorplus="">-0.297</metallicity><magV errorminus="" errorplus="">13.455</magV></star>
 </system>
