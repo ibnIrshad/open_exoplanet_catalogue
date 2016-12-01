@@ -21,14 +21,14 @@
 			<name>KOI-5800 b</name>
 			<name>Kepler-459 b</name>
 			<period errorminus="0.01697" errorplus="0.01628">854.08300</period>
-			<inclination errorminus="0.098" errorplus="0.096">89.861</inclination>
-			<radius errorminus="0.071" errorplus="0.080">0.491</radius>
+			<inclination errorminus="0.098" errorplus="-0.098">89.861</inclination>
+			<radius errorminus="0.071" errorplus="-0.071">0.491</radius>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2455168.236</transittime>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The planet KIC 10525077 b was discovered and validated by the Planet Hunters project in 2015. Only two transits have been observed for this planet. Because of missing data, the period is uncertain: an alternate value of 427 days is possible. It is validated with a confidence of 0.998.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>05/2016-01-0/2016-01-0</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
