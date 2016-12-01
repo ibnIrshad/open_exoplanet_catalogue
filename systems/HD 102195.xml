@@ -2,7 +2,7 @@
 	<name>HD 102195</name>
 	<rightascension>11 45 42</rightascension>
 	<declination>+02 49 17</declination>
-	<distance>28.98</distance>
+	<distance errorminus="0.94" errorplus="-1.01">28.98</distance>
 	<star>
 		<mass>0.926</mass>
 		<radius>0.835</radius>
@@ -19,14 +19,14 @@
 			<name>HD 102195 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.45</mass>
-			<period>4.113775</period>
+			<period errorminus="0.000557" errorplus="-0.000557">4.113775</period>
 			<semimajoraxis>0.049</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/21</lastupdate>
-			<discoveryyear>2005</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>963.1</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">0.0</periastron><periastrontime errorminus="-0.030000" errorplus="-0.030000">2453895.96</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 102195</name>
 		<temperature>5291.0</temperature>
 	</star>

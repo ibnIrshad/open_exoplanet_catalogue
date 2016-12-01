@@ -2,7 +2,7 @@
 	<name>HD 102272</name>
 	<rightascension>11 46 24</rightascension>
 	<declination>+14 07 26</declination>
-	<distance>360</distance>
+	<distance>164.2</distance>
 	<star>
 		<mass>1.9</mass>
 		<radius>10.1</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 102272 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.9</mass>
-			<period>127.58</period>
-			<semimajoraxis>0.614</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.2" errorplus="-0.2">5.9</mass>
+			<period errorminus="0.3" errorplus="-0.3">127.58</period>
+			<semimajoraxis errorminus="0.001" errorplus="-0.001">0.614</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="-0.04">0.05</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/06/12</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>877.6</temperature>
-		</planet>
+		<periastron errorminus="-58.0000" errorplus="-58.0000">118.0</periastron><periastrontime errorminus="-64.000000" errorplus="-64.000000">2452146.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 102272 c</name>
 			<list>Confirmed planets</list>

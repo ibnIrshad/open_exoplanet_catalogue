@@ -2,7 +2,7 @@
 	<name>HD 102956</name>
 	<rightascension>11 51 23</rightascension>
 	<declination>+57 38 27</declination>
-	<distance>126</distance>
+	<distance errorminus="12.37" errorplus="-15.55">121.07</distance>
 	<star>
 		<mass>1.68</mass>
 		<radius>4.4</radius>
@@ -17,15 +17,15 @@
 		<planet>
 			<name>HD 102956 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.96</mass>
-			<period>6.495</period>
-			<semimajoraxis>0.081</semimajoraxis>
-			<eccentricity>0.048</eccentricity>
+			<mass errorminus="0.05" errorplus="-0.05">0.96</mass>
+			<period errorminus="0.0004" errorplus="-0.0004">6.495</period>
+			<semimajoraxis errorminus="0.002" errorplus="-0.002">0.081</semimajoraxis>
+			<eccentricity errorminus="0.027" errorplus="-0.027">0.048</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/07/28</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1642.2</temperature>
-		</planet>
+		<periastron errorminus="-40.0000" errorplus="-40.0000">12.0</periastron><periastrontime errorminus="-0.700000" errorplus="-0.700000">2455346.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 102956</name>
 		<temperature>5054.0</temperature>
 	</star>

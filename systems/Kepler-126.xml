@@ -32,10 +32,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-126 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.3200" errorplus="-0.3200">0.65</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 d</name>
 			<name>KOI-260 d</name>
@@ -51,10 +51,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-126 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1700" errorplus="-0.1700">0.14</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 c</name>
 			<name>KOI-260 c</name>
@@ -70,9 +70,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-126 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-126 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2700" errorplus="-0.2700">0.71</impactparameter></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 192263</name>
 	<rightascension>20 14 00</rightascension>
 	<declination>-00 52 01</declination>
-	<distance>19.9</distance>
+	<distance errorminus="0.44" errorplus="-0.46">19.9</distance>
 	<star>
 		<mass>0.81</mass>
 		<radius>0.75</radius>
@@ -15,15 +15,15 @@
 		<planet>
 			<name>HD 192263 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.733</mass>
-			<period>24.3587</period>
-			<semimajoraxis>0.15312</semimajoraxis>
-			<eccentricity>0.008</eccentricity>
+			<mass errorminus="0.015" errorplus="-0.015">0.733</mass>
+			<period errorminus="0.0022" errorplus="-0.0022">24.3587</period>
+			<semimajoraxis errorminus="0.00095" errorplus="-0.00095">0.15312</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="-0.014">0.008</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/06/12</lastupdate>
+			<lastupdate>26/2015-03-2/2015-03-2</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>484.5</temperature>
-		</planet>
+		<periastron errorminus="-90.0000" errorplus="-90.0000">184.0</periastron><periastrontime errorminus="-6.800000" errorplus="-6.800000">2451796.9</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 192263</name>
 		<temperature>4965.0</temperature>
 	</star>

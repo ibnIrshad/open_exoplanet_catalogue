@@ -2,7 +2,7 @@
 	<name>HD 205739</name>
 	<rightascension>21 38 08</rightascension>
 	<declination>-31 44 15</declination>
-	<distance>90.3</distance>
+	<distance errorminus="8.3" errorplus="-10.17">90.3</distance>
 	<star>
 		<mass>1.22</mass>
 		<radius>1.33</radius>
@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 205739 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.37</mass>
-			<period>279.8</period>
-			<semimajoraxis>0.896</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<mass errorminus="0.07" errorplus="-0.09">1.37</mass>
+			<period errorminus="0.1" errorplus="-0.1">279.8</period>
+			<semimajoraxis errorminus="0.019" errorplus="-0.015">0.896</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="-0.07">0.27</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/09/08</lastupdate>
+			<lastupdate>25/2014-09-2/2014-09-2</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>330.2</temperature>
-		</planet>
+		<periastron errorminus="-8.0000" errorplus="-8.0000">301.0</periastron><periastrontime errorminus="-0.700000" errorplus="-0.700000">2453390.7</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 205739</name>
 		<temperature>6176.0</temperature>
 	</star>
