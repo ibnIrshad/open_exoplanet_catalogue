@@ -20,10 +20,10 @@
 			<semimajoraxis>1.29</semimajoraxis>
 			<eccentricity>0.166</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/05/07</lastupdate>
+			<lastupdate>02/2014-07-0/2014-07-0</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>513.6</temperature>
-		</planet>
+		<periastron errorminus="-13.4000" errorplus="-13.4000">347.4</periastron><periastrontime errorminus="-12.300000" errorplus="-12.300000">2452969.5</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 17092</name>
 		<temperature>4650.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>KOI-680</name>
 	<rightascension>19 29 08.959</rightascension>
 	<declination>+43 11 50.21</declination>
-	<distance errorminus="200" errorplus="200">2070</distance>
+	<distance errorminus="200" errorplus="200">2070.0</distance>
 	<star>
 		<name>KOI-680</name>
 		<name>Kepler-435</name>
@@ -33,10 +33,10 @@
 			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2455010.64241</transittime>
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/07</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature errorminus="70" errorplus="70">1729</temperature>
+			<lastupdate>14/2015-01-1/2015-01-1</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+			<temperature errorminus="70" errorplus="70">1729.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="-0.077000" errorplus="-0.077000">0.114</eccentricity><periastron errorminus="-36.0000" errorplus="-36.0000">104.0</periastron><inclination errorminus="-0.520" errorplus="-0.520">85.51</inclination><impactparameter errorminus="-0.0240" errorplus="-0.0240">0.448</impactparameter></planet>
 	</star>
 </system>
