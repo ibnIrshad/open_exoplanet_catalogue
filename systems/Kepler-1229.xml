@@ -4,21 +4,21 @@
 	<declination>+46 59 48</declination>
 	<star>
 		<name>Kepler-1229</name>
-		<temperature errorminus="38.6" errorplus="38.9">3784.0</temperature>
+		<temperature errorminus="38.88" errorplus="-38.61">3784.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.54</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.51</radius>
-		<metallicity errorminus="0.11" errorplus="0.09">-0.06</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.109">-0.06</metallicity>
 		<planet>
 			<name>Kepler-1229 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001069000" errorplus="0.001069000">86.828989000</period>
 			<radius errorminus="0.012" errorplus="0.010">0.125</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.070" errorplus="-2.070">3.72</age><magV errorminus="" errorplus="">15.474</magV></star>
+<distance errorminus="-19.81" errorplus="-19.81">236.0</distance></system>
