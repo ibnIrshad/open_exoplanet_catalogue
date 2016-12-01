@@ -25,7 +25,7 @@
 			<name>KIC 3102384 b</name>
 			<period errorminus="0.00000777" errorplus="0.00000777">10.57375339</period>
 			<transittime errorminus="0.0007718" errorplus="0.0007718" unit="BJD">2455008.0675855</transittime>
-			<inclination errorminus="0.203" errorplus="0.203">87.090</inclination>
+			<inclination errorminus="0.203" errorplus="-0.203">87.090</inclination>
 			<radius errorminus="0.0116" errorplus="0.0116">0.2114</radius>
 			<eccentricity>0</eccentricity>
 			<mass errorminus="0.00441" errorplus="0.00441">0.02152</mass>
@@ -34,25 +34,25 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Kepler-454 b is a small but non-rocky planet orbiting the star every 10.6 days. Its mass has been determined using radial velocities from HARPS-N.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>03/2015-12-0/2015-12-0</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<impactparameter errorminus="-0.0091" errorplus="-0.0091">0.9288</impactparameter></planet>
 		<planet>
 			<name>Kepler-454 c</name>
 			<name>KOI-273 c</name>
 			<name>KIC 3102384 c</name>
-			<period errorminus="0.70" errorplus="0.70">523.90</period>
-			<periastrontime errorminus="26" errorplus="26" unit="BJD">2454892</periastrontime>
+			<period errorminus="0.70" errorplus="-0.7">523.90</period>
+			<periastrontime errorminus="26" errorplus="-26.0" unit="BJD">2454892</periastrontime>
 			<eccentricity errorminus="0.0077" errorplus="0.0077">0.0214</eccentricity>
-			<periastron errorminus="17.4" errorplus="17.4">337.4</periastron>
-			<mass errorminus="0.12" errorplus="0.12" type="msini">4.46</mass>
+			<periastron errorminus="17.4" errorplus="-17.4">337.4</periastron>
+			<mass errorminus="0.12" errorplus="-0.12" type="msini">4.46</mass>
 			<semimajoraxis errorminus="0.0166" errorplus="0.0166">1.286</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Kepler-454 c is a jovian planet orbiting a metal-rich, solar-type star at 1.2 AU. Its presence was detected using radial velocities from HARPS-N.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>03/2015-12-0/2015-12-0</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<planet>
 			<name>Kepler-454 d</name>
 			<name>KOI-273 d</name>

@@ -3,7 +3,7 @@
 	<name>K2-17</name>
 	<rightascension>11 53 19.146</rightascension>
 	<declination>+06 24 44.14</declination>
-	<distance errorminus="6" errorplus="5">134</distance>
+	<distance errorminus="5.0" errorplus="-6.0">134</distance>
 	<star>
 		<name>EPIC 201855371</name>
 		<name>K2-17</name>
@@ -24,11 +24,11 @@
 			<period errorminus="0.00152" errorplus="0.00152">17.96753</period>
 			<transittime errorminus="0.0035" errorplus="0.0035" unit="BJD">2456817.9462</transittime>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.119</semimajoraxis>
-			<temperature errorminus="10" errorplus="10">487</temperature>
+			<temperature errorminus="10" errorplus="-10.0">487</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
+			<lastupdate>16/2015-07-1/2015-07-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
