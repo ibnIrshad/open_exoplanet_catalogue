@@ -21,47 +21,47 @@
 			<name>KOI-2148.01</name>
 			<name>KIC 6021193 d</name>
 			<name>KIC 6021193.01</name>
-			<radius errorminus="0.03645" errorplus="0.03645">0.18682</radius>
+			<radius errorminus="0.03645" errorplus="0.03645">0.183</radius>
 			<period errorminus=".000093" errorplus="0.000093">11.932125</period>
 			<transittime errorminus="0.0044300" errorplus="0.0044300">2454975.1053200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-363 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.107</semimajoraxis><impactparameter errorminus="-0.2800" errorplus="-0.2800">0.68</impactparameter></planet>
 		<planet>
 			<name>Kepler-363 c</name>
 			<name>KOI-2148 c</name>
 			<name>KOI-2148.02</name>
 			<name>KIC 6021193 c</name>
 			<name>KIC 6021193.02</name>
-			<radius errorminus="0.02461" errorplus="0.02461">0.15401</radius>
+			<radius errorminus="0.02461" errorplus="0.02461">0.151</radius>
 			<period errorminus=".000058" errorplus="0.000058">7.542427</period>
 			<transittime errorminus="0.0049200" errorplus="0.0049200">2454965.9542200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-363 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.1</impactparameter></planet>
 		<planet>
 			<name>Kepler-363 b</name>
 			<name>KOI-2148 b</name>
 			<name>KOI-2148.03</name>
 			<name>KIC 6021193 b</name>
 			<name>KIC 6021193.03</name>
-			<radius errorminus="0.01731" errorplus="0.01731">0.10571</radius>
+			<radius errorminus="0.01731" errorplus="0.01731">0.103</radius>
 			<period errorminus=".000053" errorplus="0.000053">3.614568</period>
 			<transittime errorminus="0.0085200" errorplus="0.0085200">2454967.6965600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-363 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.048</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.06</impactparameter></planet>
 	</star>
 </system>
