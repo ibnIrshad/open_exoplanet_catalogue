@@ -2,7 +2,7 @@
 	<name>Gliese 179</name>
 	<rightascension>04 52 05.731</rightascension>
 	<declination>+06 28 35.64</declination>
-	<distance errorminus="0.61" errorplus="0.61">12.29</distance>
+	<distance errorminus="0.61" errorplus="-0.62">12.12</distance>
 	<star>
 		<name>Gliese 179</name>
 		<name>GJ 179</name>
@@ -31,16 +31,16 @@
 			<name>Gj 179 b</name>
 			<name>Gl 179 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07" type="msini">0.82</mass>
-			<period errorminus="59" errorplus="59">2288</period>
+			<mass errorminus="0.07" errorplus="-0.07" type="msini">0.82</mass>
+			<period errorminus="59" errorplus="-59.0">2288</period>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">2.41</semimajoraxis>
-			<eccentricity errorminus="0.08" errorplus="0.08">0.21</eccentricity>
-			<periastron errorminus="24" errorplus="24">153</periastron>
-			<periastrontime errorminus="104" errorplus="104">2455140</periastrontime>
+			<eccentricity errorminus="0.08" errorplus="-0.08">0.21</eccentricity>
+			<periastron errorminus="24" errorplus="-24.0">153</periastron>
+			<periastrontime errorminus="104" errorplus="-104.0">2455140</periastrontime>
 			<description>The star Gliese 170 is located in the constellation Orion. The planet was discovered with the Keck Observatory on Mauna Kea in Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/09</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-		</planet>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
