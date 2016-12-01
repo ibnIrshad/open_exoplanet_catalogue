@@ -31,12 +31,12 @@
 			<transittime errorminus="0.00015" errorplus="0.00015" unit="BJD">2454953.95995</transittime>
 			<mass errorminus="0.000818" errorplus="0.000849">0.005882</mass>
 			<radius errorminus="0.008202" errorplus="0.008202">0.109356</radius>
-			<inclination errorminus="2.1" errorplus="2.6">75.2</inclination>
+			<inclination errorminus="9.0" errorplus="-14.0">79.0</inclination>
 			<description>The Earth-sized planet KIC 8435766 b, also known as Kepler-78 b, was identified in the Kepler database and confirmed to be a transiting planet (as opposed to an eclipsing binary) through the absence of ellipsoidal or radial velocity variations. The planet has a dayside temperature of 2300K-3100K. The planet's density is similar to that of Earth, suggesting a composition of rock and iron.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="" errorplus="">0.0</eccentricity><temperature errorminus="-750" errorplus="-750">2250.0</temperature></planet>
 	</star>
 </system>

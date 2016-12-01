@@ -2,7 +2,7 @@
 	<name>omi UMa</name>
 	<rightascension>08 30 15.87064</rightascension>
 	<declination>+60 43 05.4115</declination>
-	<distance errorminus="0.48" errorplus="0.48">54.91</distance>
+	<distance errorminus="1.99" errorplus="-2.14">56.31</distance>
 	<star>
 		<name>omi UMa</name>
 		<name>Omicron Ursae Majoris</name>
@@ -39,15 +39,15 @@
 			<name>HIP 41704 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">4.1</mass>
-			<period errorminus="35" errorplus="25">1630</period>
+			<period errorminus="35" errorplus="-35.0">1630</period>
 			<semimajoraxis>3.9</semimajoraxis>
-			<eccentricity errorminus="0.065" errorplus="0.065">0.130</eccentricity>
-			<periastron errorminus="42" errorplus="42">58</periastron>
-			<periastrontime errorminus="170" errorplus="170">2453400</periastrontime>
+			<eccentricity errorminus="0.065" errorplus="-0.065">0.130</eccentricity>
+			<periastron errorminus="42" errorplus="-42.0">58</periastron>
+			<periastrontime errorminus="170" errorplus="-170.0">2453400</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>03/2015-09-0/2015-09-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

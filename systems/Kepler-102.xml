@@ -29,11 +29,11 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.006291" errorplus="0.006291">0.028091</mass>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0300" errorplus="-0.0300">0.3</impactparameter></planet>
 		<planet>
 			<name>Kepler-102 d</name>
 			<name>KOI-82.02</name>
@@ -45,10 +45,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0500" errorplus="-0.0500">0.22</impactparameter></planet>
 		<planet>
 			<name>Kepler-102 f</name>
 			<name>KOI-82.03</name>
@@ -60,10 +60,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0300" errorplus="-0.0300">0.57</impactparameter></planet>
 		<planet>
 			<name>Kepler-102 c</name>
 			<name>KOI-82.04</name>
@@ -75,10 +75,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0500" errorplus="-0.0500">0.06</impactparameter></planet>
 		<planet>
 			<name>Kepler-102 b</name>
 			<name>KOI-82.05</name>
@@ -90,9 +90,9 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0600" errorplus="-0.0600">0.06</impactparameter></planet>
 	</star>
 </system>

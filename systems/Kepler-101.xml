@@ -27,19 +27,19 @@
 			<name>KIC 10905239 b</name>
 			<period errorminus="0.0000070" errorplus="0.0000070">3.4876812</period>
 			<transittime errorminus="0.00041" errorplus="0.00041" unit="BJD">2455188.77995</transittime>
-			<inclination errorminus="1.53" errorplus="1.73">85.82</inclination>
-			<eccentricity errorminus="0.059" errorplus="0.080">0.086</eccentricity>
-			<periastron errorminus="90" errorplus="32">231</periastron>
+			<inclination errorminus="1.73" errorplus="-1.53">85.82</inclination>
+			<eccentricity errorminus="0.059" errorplus="-0.059">0.086</eccentricity>
+			<periastron errorminus="32.0" errorplus="-90.0">231</periastron>
 			<mass errorminus="0.015" errorplus="0.016">0.161</mass>
-			<radius errorminus="0.070" errorplus="0.076">0.515</radius>
+			<radius errorminus="0.070" errorplus="-0.07">0.515</radius>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0010">0.0474</semimajoraxis>
 			<list>Confirmed planets</list>
 			<description>Kepler-101 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence and the radial velocity variations due to this planet have been detected with HARPS-N.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>25/2014-09-2/2014-09-2</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1800" errorplus="-0.1800">0.52</impactparameter><temperature errorminus="-145" errorplus="-145">1513.0</temperature></planet>
 		<planet>
 			<name>Kepler-101 c</name>
 			<name>KOI-46 c</name>
@@ -47,16 +47,16 @@
 			<name>KIC 10905239 c</name>
 			<period errorminus="0.000075" errorplus="0.000075">6.029760</period>
 			<transittime errorminus="0.0088" errorplus="0.0088" unit="BJD">2454965.4860</transittime>
-			<inclination errorminus="3.1" errorplus="3.4">84.6</inclination>
-			<mass upperlimit="0.0119" />
+			<inclination errorminus="3.4" errorplus="-3.1">84.6</inclination>
+			<mass upperlimit="0.0119">0.01</mass>
 			<radius errorminus="0.015" errorplus="0.017">0.112</radius>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0684</semimajoraxis>
 			<list>Confirmed planets</list>
 			<description>Kepler-101 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. The upper limit on the mass from radial velocity variations rules out pure iron compositions to 68.3% probability.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>25/2014-09-2/2014-09-2</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity errorminus="" errorplus="">0.0</eccentricity><periastron errorminus="" errorplus="">90.0</periastron><impactparameter errorminus="-0.3600" errorplus="-0.3600">0.75</impactparameter><temperature errorminus="-210" errorplus="-210">1413.0</temperature></planet>
 	</star>
 </system>

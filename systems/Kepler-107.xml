@@ -31,10 +31,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-107 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2800" errorplus="-0.2800">0.9</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 c</name>
 			<name>KOI-117 c</name>
@@ -50,10 +50,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-107 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2900" errorplus="-0.2900">0.78</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 b</name>
 			<name>KOI-117 b</name>
@@ -69,10 +69,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-107 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2400" errorplus="-0.2400">0.34</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 d</name>
 			<name>KOI-117 d</name>
@@ -88,9 +88,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-107 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-107 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.2400" errorplus="-0.2400">0.27</impactparameter></planet>
 	</star>
 </system>

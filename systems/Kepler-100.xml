@@ -34,10 +34,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0400" errorplus="-0.0400">0.05</impactparameter></planet>
 		<planet>
 			<name>Kepler-100 b</name>
 			<name>KOI-41.02</name>
@@ -53,10 +53,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0200" errorplus="-0.0200">0.54</impactparameter></planet>
 		<planet>
 			<name>Kepler-100 d</name>
 			<name>KOI-41.03</name>
@@ -71,9 +71,9 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0100" errorplus="-0.0100">0.75</impactparameter></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>11 UMi</name>
 	<rightascension>15 17 05.88899</rightascension>
 	<declination>+71 49 26.0466</declination>
-	<distance errorminus="2.8" errorplus="2.8">119.47</distance>
+	<distance errorminus="6.22" errorplus="-6.95">119.47</distance>
 	<star>
 		<name>11 UMi</name>
 		<name>11 Ursae Minoris</name>
@@ -30,16 +30,16 @@
 			<name>11 Ursae Minoris b</name>
 			<name>HD 136726 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.245" errorplus="0.245" type="msini">11.20</mass>
-			<period errorminus="3.25" errorplus="3.25">516.22</period>
-			<semimajoraxis errorminus="0.07" errorplus="0.07">1.54</semimajoraxis>
+			<mass errorminus="2.47" errorplus="-2.47" type="msini">10.5</mass>
+			<period errorminus="3.25" errorplus="-3.25">516.22</period>
+			<semimajoraxis errorminus="0.07" errorplus="-0.07">1.54</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.08</eccentricity>
-			<periastron errorminus="21.06" errorplus="21.06">117.63</periastron>
-			<periastrontime errorminus="2.06" errorplus="2.06">2452861.04</periastrontime>
+			<periastron errorminus="21.06" errorplus="-21.06">117.63</periastron>
+			<periastrontime errorminus="2.06" errorplus="-2.06">2452861.04</periastrontime>
 			<description>11 Ursae Minoris is a star located in the constellation Ursa Minor and also named Pherkard or Pherkad Minor.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

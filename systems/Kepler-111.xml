@@ -21,16 +21,16 @@
 			<name>KOI-139.01</name>
 			<name>KIC 8559644 c</name>
 			<name>KIC 8559644.01</name>
-			<radius errorminus="0.08293" errorplus="0.08293">0.66525</radius>
+			<radius errorminus="0.08293" errorplus="-0.081">0.66525</radius>
 			<period errorminus=".000411" errorplus="0.000411">224.784608</period>
 			<transittime errorminus="0.0009500" errorplus="0.0009500">2454975.0960400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-111 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-111 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.761</semimajoraxis><impactparameter errorminus="-0.0300" errorplus="-0.0300">0.72</impactparameter></planet>
 		<planet>
 			<name>Kepler-111 b</name>
 			<name>KOI-139 b</name>
@@ -43,9 +43,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-111 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-111 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.046</semimajoraxis><impactparameter errorminus="-0.1700" errorplus="-0.1700">0.01</impactparameter></planet>
 	</star>
 </system>
