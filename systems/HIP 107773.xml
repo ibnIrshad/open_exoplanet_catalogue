@@ -27,16 +27,16 @@
 			<name>2MASS J21500013-6442451 b</name>
 			<name>PPM 365403 b</name>
 			<name>TYC 9119-2234-1 b</name>
-			<period errorminus="0.5" errorplus="0.5">144.3</period>
-			<periastrontime errorminus="12.8" errorplus="12.8">2456202.3</periastrontime>
+			<period errorminus="0.5" errorplus="-0.5">144.3</period>
+			<periastrontime errorminus="12.8" errorplus="-12.8">2456202.3</periastrontime>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.21" errorplus="0.21">1.98</mass>
+			<mass errorminus="0.21" errorplus="-0.21">1.98</mass>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.72</semimajoraxis>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
+			<eccentricity errorminus="0.06" errorplus="-0.06">0.09</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>04/2015-06-0/2015-06-0</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-		</planet>
+		<periastron errorminus="-32.6000" errorplus="-32.6000">166.0</periastron><istransiting>0</istransiting></planet>
 	</star>
 </system>
