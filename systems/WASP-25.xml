@@ -21,18 +21,18 @@
 			<name>TYC 6706-00861-1 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.58</mass>
-			<radius>1.26</radius>
-			<period>3.76483</period>
-			<semimajoraxis>0.0474</semimajoraxis>
+			<radius>1.22</radius>
+			<period>3.764825</period>
+			<semimajoraxis>0.0473</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.7</inclination>
+			<inclination>88.0</inclination>
 			<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455274.99727</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/03/23</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1135.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="" errorplus="">0.0</periastron></planet>
 		<name>WASP-25</name>
 		<temperature>5750.0</temperature>
 	</star>

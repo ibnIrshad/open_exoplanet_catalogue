@@ -2,7 +2,7 @@
 	<name>WASP-43</name>
 	<rightascension>10 19 38</rightascension>
 	<declination>-09 48 23</declination>
-	<distance errorminus="20" errorplus="20">80</distance>
+	<distance errorminus="20" errorplus="20">80.0</distance>
 	<star>
 		<mass>0.717</mass>
 		<radius>0.667</radius>
@@ -19,15 +19,15 @@
 			<name>WASP-43 b</name>
 			<name>2MASS J10193800-0948225 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.034</mass>
-			<radius>1.036</radius>
-			<period>0.81347753</period>
-			<semimajoraxis>0.01526</semimajoraxis>
-			<eccentricity>0.0035</eccentricity>
-			<inclination>82.33</inclination>
+			<mass>1.78</mass>
+			<radius>0.93</radius>
+			<period>0.813475</period>
+			<semimajoraxis>0.0142</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>82.6</inclination>
 			<transittime errorminus="0.00012" errorplus="0.00012" unit="BJD">2455726.54336</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1317.6</temperature>
 			<istransiting>1</istransiting>
