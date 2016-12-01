@@ -12,8 +12,8 @@
 		<name>Kepler-401</name>
 		<name>KOI-2714</name>
 		<name>KIC 12206313</name>
-		<temperature errorminus="100" errorplus="100">6117</temperature>
-		<radius errorminus=".244" errorplus="0.244">1.333</radius>
+		<temperature errorminus="100" errorplus="-100.0">6117</temperature>
+		<radius errorminus=".244" errorplus="-0.24">1.333</radius>
 		<planet>
 			<name>Kepler-401 b</name>
 			<name>KOI-2714 b</name>
@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="-0.2500" errorplus="-0.2500">0.54</impactparameter></planet>
 		<planet>
 			<name>Kepler-401 c</name>
 			<name>KOI-2714 c</name>
@@ -45,7 +45,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.269</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.24</impactparameter></planet>
 		<planet>
 			<name>Kepler-401 d</name>
 			<discoverymethod>transit</discoverymethod>
@@ -58,5 +58,5 @@
 			<period errorminus="0.003170000" errorplus="0.003170000">184.256405000</period>
 			<radius errorminus="0.023" errorplus="0.036">0.203</radius>
 		</planet>
-	</star>
+	<metallicity errorminus="" errorplus="">-0.297</metallicity><magV errorminus="" errorplus="">13.312</magV></star>
 </system>

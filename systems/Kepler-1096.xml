@@ -4,10 +4,10 @@
 	<declination>+45 58 10</declination>
 	<star>
 		<name>Kepler-1096</name>
-		<temperature errorminus="39.8" errorplus="53.1">4306.0</temperature>
+		<temperature errorminus="53.07" errorplus="-39.79">4306.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.66</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.63</radius>
-		<metallicity errorminus="0.10" errorplus="0.13">-0.10</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.098">-0.10</metallicity>
 		<planet>
 			<name>Kepler-1096 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000006000" errorplus="0.000006000">2.892217510</period>
 			<radius errorminus="0.007" errorplus="0.033">0.111</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.160" errorplus="-2.160">3.8</age><magV errorminus="" errorplus="">15.068</magV></star>
+<distance errorminus="-17.04" errorplus="-17.04">344.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+44 05 15</declination>
 	<star>
 		<name>Kepler-1100</name>
-		<temperature errorminus="164.4" errorplus="128.6">6247.0</temperature>
-		<mass errorminus="0.11" errorplus="0.20">1.21</mass>
-		<radius errorminus="0.22" errorplus="0.63">1.34</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.05</metallicity>
+		<temperature errorminus="128.56" errorplus="-164.45">6247.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.21</mass>
+		<radius errorminus="0.63" errorplus="-0.22">1.34</radius>
+		<metallicity errorminus="0.14" errorplus="-0.144">0.05</metallicity>
 		<planet>
 			<name>Kepler-1100 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000021820" errorplus="0.000021820">6.422000580</period>
 			<radius errorminus="0.026" errorplus="0.073">0.156</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-0.966" errorplus="-0.966">2.69</age><magV errorminus="" errorplus="">13.862</magV></star>
+<distance errorminus="-158.33" errorplus="-158.33">940.0</distance></system>

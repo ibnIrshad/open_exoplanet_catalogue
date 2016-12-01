@@ -4,10 +4,10 @@
 	<declination>+40 18 40</declination>
 	<star>
 		<name>Kepler-1324</name>
-		<temperature errorminus="70.6" errorplus="54.1">4776.0</temperature>
+		<temperature errorminus="54.15" errorplus="-70.56">4776.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.78</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.73</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">0.05</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.176">0.05</metallicity>
 		<planet>
 			<name>Kepler-1324 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000008550" errorplus="0.000008550">4.115844680</period>
 			<radius errorminus="0.008" errorplus="0.007">0.135</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.370" errorplus="-1.370">2.88</age><magV errorminus="" errorplus="">15.141</magV></star>
+<distance errorminus="-24.16" errorplus="-24.16">522.0</distance></system>

@@ -12,8 +12,8 @@
 		<name>Kepler-228</name>
 		<name>KOI-756</name>
 		<name>KIC 10872983</name>
-		<temperature errorminus="200" errorplus="200">6043</temperature>
-		<radius errorminus=".465" errorplus="0.465">1.014</radius>
+		<temperature errorminus="200" errorplus="-200.0">6043</temperature>
+		<radius errorminus=".465" errorplus="-0.47">1.014</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0400</mass>
 		<planet>
 			<name>Kepler-228 d</name>
@@ -21,7 +21,7 @@
 			<name>KOI-756.01</name>
 			<name>KIC 10872983 d</name>
 			<name>KIC 10872983.01</name>
-			<radius errorminus="0.07746" errorplus="0.16859">0.36817</radius>
+			<radius errorminus="0.07746" errorplus="-0.165">0.36817</radius>
 			<period errorminus=".000036" errorplus="0.000036">11.094286</period>
 			<transittime errorminus="0.0018400" errorplus="0.0018400">2455004.2012300</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.101</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.46</impactparameter></planet>
 		<planet>
 			<name>Kepler-228 c</name>
 			<name>KOI-756 c</name>
 			<name>KOI-756.02</name>
 			<name>KIC 10872983 c</name>
 			<name>KIC 10872983.02</name>
-			<radius errorminus="0.02187" errorplus="0.11300">0.24605</radius>
+			<radius errorminus="0.02187" errorplus="-0.111">0.24605</radius>
 			<period errorminus=".000018" errorplus="0.000018">4.134444</period>
 			<transittime errorminus="0.0023000" errorplus="0.0023000">2455005.9767800</transittime>
 			<list>Confirmed planets</list>
@@ -46,14 +46,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.15</impactparameter></planet>
 		<planet>
 			<name>Kepler-228 b</name>
 			<name>KOI-756 b</name>
 			<name>KOI-756.03</name>
 			<name>KIC 10872983 b</name>
 			<name>KIC 10872983.03</name>
-			<radius errorminus="0.06470" errorplus="0.06470">0.13943</radius>
+			<radius errorminus="0.06470" errorplus="-0.063">0.13943</radius>
 			<period errorminus=".000026" errorplus="0.000026">2.566546</period>
 			<transittime errorminus="0.0054000" errorplus="0.0054000">2455012.5536000</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.038</semimajoraxis><impactparameter errorminus="-0.3800" errorplus="-0.3800">0.45</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.067</metallicity><magV errorminus="" errorplus="">15.714</magV></star>
 </system>

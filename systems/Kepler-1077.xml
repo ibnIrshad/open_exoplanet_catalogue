@@ -4,10 +4,10 @@
 	<declination>+42 16 04</declination>
 	<star>
 		<name>Kepler-1077</name>
-		<temperature errorminus="113.5" errorplus="99.9">5816.0</temperature>
-		<mass errorminus="0.05" errorplus="0.06">1.02</mass>
-		<radius errorminus="0.09" errorplus="0.23">1.02</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.03</metallicity>
+		<temperature errorminus="99.93" errorplus="-113.54">5816.0</temperature>
+		<mass errorminus="0.05" errorplus="-0.05">1.02</mass>
+		<radius errorminus="0.23" errorplus="-0.09">1.02</radius>
+		<metallicity errorminus="0.16" errorplus="-0.16">0.03</metallicity>
 		<planet>
 			<name>Kepler-1077 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000150300" errorplus="0.000150300">34.351187400</period>
 			<radius errorminus="0.029" errorplus="0.062">0.247</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.400" errorplus="-2.400">4.17</age><magV errorminus="" errorplus="">14.998</magV></star>
+<distance errorminus="-106.41" errorplus="-106.41">1098.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+40 22 51</declination>
 	<star>
 		<name>Kepler-1320</name>
-		<temperature errorminus="67.4" errorplus="52.0">4817.0</temperature>
+		<temperature errorminus="51.95" errorplus="-67.43">4817.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.80</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.10</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.167">0.10</metallicity>
 		<planet>
 			<name>Kepler-1320 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000001160" errorplus="0.000001160">0.868386530</period>
 			<radius errorminus="0.010" errorplus="0.006">0.152</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.640" errorplus="-1.640">3.16</age><magV errorminus="" errorplus="">15.898</magV></star>
+<distance errorminus="-30.73" errorplus="-30.73">771.0</distance></system>

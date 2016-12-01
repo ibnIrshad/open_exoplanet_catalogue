@@ -4,10 +4,10 @@
 	<declination>+49 27 09</declination>
 	<star>
 		<name>Kepler-1103</name>
-		<temperature errorminus="106.6" errorplus="106.1">6092.0</temperature>
-		<mass errorminus="0.08" errorplus="0.10">1.11</mass>
-		<radius errorminus="0.13" errorplus="0.31">1.15</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="106.14" errorplus="-106.64">6092.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.11</mass>
+		<radius errorminus="0.31" errorplus="-0.13">1.15</radius>
+		<metallicity errorminus="0.18" errorplus="-0.183">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1103 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000095430" errorplus="0.000095430">19.791919780</period>
 			<radius errorminus="0.024" errorplus="0.054">0.203</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.620" errorplus="-1.620">3.31</age><magV errorminus="" errorplus="">14.09</magV></star>
+<distance errorminus="-110.49" errorplus="-110.49">921.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+46 56 45</declination>
 	<star>
 		<name>Kepler-1306</name>
-		<temperature errorminus="132.9" errorplus="140.6">5727.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">0.98</mass>
-		<radius errorminus="0.09" errorplus="0.22">0.97</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">0.00</metallicity>
+		<temperature errorminus="140.59" errorplus="-132.91">5727.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.98</mass>
+		<radius errorminus="0.22" errorplus="-0.09">0.97</radius>
+		<metallicity errorminus="0.17" errorplus="-0.172">0.00</metallicity>
 		<planet>
 			<name>Kepler-1306 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000074040" errorplus="0.000074040">16.295953820</period>
 			<radius errorminus="0.016" errorplus="0.040">0.170</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.800" errorplus="-2.800">4.57</age><magV errorminus="" errorplus="">15.243</magV></star>
+<distance errorminus="-108.74" errorplus="-108.74">1130.0</distance></system>

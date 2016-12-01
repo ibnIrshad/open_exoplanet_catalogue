@@ -4,10 +4,10 @@
 	<declination>+46 03 11</declination>
 	<star>
 		<name>Kepler-1315</name>
-		<temperature errorminus="112.5" errorplus="81.9">4861.0</temperature>
+		<temperature errorminus="81.92" errorplus="-112.47">4861.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.80</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">0.07</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.165">0.07</metallicity>
 		<planet>
 			<name>Kepler-1315 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000000820" errorplus="0.000000820">0.843380110</period>
 			<radius errorminus="0.005" errorplus="0.007">0.123</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-1.840" errorplus="-1.840">3.47</age><magV errorminus="" errorplus="">14.975</magV></star>
+<distance errorminus="-25.43" errorplus="-25.43">505.0</distance></system>
