@@ -31,8 +31,8 @@
 			<description>Kepler-447 b is a hot Jupiter with an extremely grazing transit.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/02/11</lastupdate>
+			<lastupdate>19/2015-02-1/2015-02-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<periastron errorminus="-11.0000" errorplus="-11.0000">98.3</periastron><impactparameter errorminus="-0.0860" errorplus="-0.0860">1.076</impactparameter></planet>
 	</star>
 </system>

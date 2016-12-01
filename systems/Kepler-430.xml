@@ -21,14 +21,14 @@
 			<list>Confirmed planets</list>
 			<period>35.968</period>
 			<semimajoraxis>0.2244</semimajoraxis>
-			<radius>0.290</radius>
+			<radius>0.29</radius>
 			<transittime errorminus="0.00369" errorplus="0.00369">2454971.66952</transittime>
 			<description>The planet Kepler-430 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="" errorplus="">667.0</temperature></planet>
 		<planet>
 			<name>Kepler-430 c</name>
 			<name>KOI-2365 c</name>
@@ -37,13 +37,13 @@
 			<list>Confirmed planets</list>
 			<period>110.979</period>
 			<semimajoraxis>0.4757</semimajoraxis>
-			<radius>0.156</radius>
+			<radius>0.16</radius>
 			<transittime errorminus="0.0163" errorplus="0.0163">2454980.0564</transittime>
 			<description>The planet Kepler-430 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature errorminus="" errorplus="">458.0</temperature></planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 171028</name>
 	<rightascension>18 32 15</rightascension>
 	<declination>+06 56 45</declination>
-	<distance>90</distance>
+	<distance>90.0</distance>
 	<star>
 		<mass>0.99</mass>
 		<radius>1.95</radius>
@@ -17,14 +17,14 @@
 			<name>HD 171028 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.98</mass>
-			<period>550</period>
+			<period>550.0</period>
 			<semimajoraxis>1.32</semimajoraxis>
 			<eccentricity>0.59</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/11/10</lastupdate>
+			<lastupdate>02/2014-07-0/2014-07-0</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>296.2</temperature>
-		</planet>
+		<periastron errorminus="-1.0000" errorplus="-1.0000">304.0</periastron><periastrontime errorminus="-1.000000" errorplus="-1.000000">2454187.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 171028</name>
 		<temperature>5663.0</temperature>
 	</star>
