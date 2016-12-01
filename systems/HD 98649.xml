@@ -2,7 +2,7 @@
 	<name>HD 98649</name>
 	<rightascension>11 20 52</rightascension>
 	<declination>-23 13 02</declination>
-	<distance>40.3</distance>
+	<distance>42.77</distance>
 	<star>
 		<magV>8.03</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.646</magB>
@@ -21,14 +21,14 @@
 			<name>HD 98649 b</name>
 			<list>Confirmed planets</list>
 			<mass>6.8</mass>
-			<period>4951</period>
+			<period>4951.0</period>
 			<eccentricity>0.85</eccentricity>
-			<periastron>248</periastron>
+			<periastron>248.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<semimajoraxis>5.6</semimajoraxis>
-			<discoveryyear>2011</discoveryyear>
-		</planet>
+			<discoveryyear>2012</discoveryyear>
+		<periastrontime errorminus="-22.000000" errorplus="-22.000000">2450271.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 98649</name>
 	</star>
 </system>
