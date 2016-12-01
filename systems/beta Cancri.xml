@@ -3,7 +3,7 @@
 	<name>HD 69267</name>
 	<rightascension>08 16 30.92101</rightascension>
 	<declination>+09 11 07.9579</declination>
-	<distance errorminus="1.6" errorplus="1.6">93.0</distance>
+	<distance errorminus="1.6" errorplus="1.6">89.05</distance>
 	<star>
 		<name>beta Cancri</name>
 		<name>bet Cnc</name>
@@ -46,8 +46,8 @@
 			<periastrontime errorminus="9.8" errorplus="9.8">2453229.8</periastrontime>
 			<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once every 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

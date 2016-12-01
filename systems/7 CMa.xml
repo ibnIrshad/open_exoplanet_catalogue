@@ -2,7 +2,7 @@
 	<name>7 CMa</name>
 	<rightascension>06 36 41.038</rightascension>
 	<declination>-19 15 21.17</declination>
-	<distance errorminus="0.09" errorplus="0.09">19.75</distance>
+	<distance errorminus="0.09" errorplus="0.09">19.84</distance>
 	<star>
 		<name>7 CMa</name>
 		<name>7 Canis Majoris</name>
@@ -41,12 +41,12 @@
 			<period errorminus="7.4" errorplus="7.4">796.0</period>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">1.93</semimajoraxis>
 			<eccentricity errorminus="0.07" errorplus="0.07">0.22</eccentricity>
-			<periastron errorminus="14" errorplus="14">77</periastron>
+			<periastron errorminus="14" errorplus="14">77.0</periastron>
 			<periastrontime errorminus="34" errorplus="34" unit="BJD">2454093</periastrontime>
 			<description>This planet is orbiting the star 7 CMa and was discovered by the Pan-Pacific Planet Search (PPPS). It is the first detection from this ongoing survey.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/25</lastupdate>
+			<lastupdate>22/2015-10-2/2015-10-2</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
