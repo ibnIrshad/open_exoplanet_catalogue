@@ -2,7 +2,7 @@
 	<name>CoRoT-18</name>
 	<rightascension>06 32 41</rightascension>
 	<declination>-00 01 54</declination>
-	<distance>870</distance>
+	<distance>870.0</distance>
 	<star>
 		<mass>0.95</mass>
 		<radius>1</radius>
@@ -27,11 +27,11 @@
 			<inclination>86.5</inclination>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455321.72490</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/05</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1396.0</temperature>
+			<temperature>1550.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1400" errorplus="-0.1400">0.4</impactparameter></planet>
 		<name>CoRoT-18</name>
 		<temperature>5440.0</temperature>
 	</star>

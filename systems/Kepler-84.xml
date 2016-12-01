@@ -21,13 +21,13 @@
 			<name>KOI-1589.01</name>
 			<name>KIC 5301750 b</name>
 			<name>KIC 5301750.01</name>
-			<radius errorminus="0.04283" errorplus="0.04283">0.22509</radius>
-			<period errorminus=".000045" errorplus="0.000045">8.725818</period>
+			<radius errorminus="0.04283" errorplus="0.04283">0.199</radius>
+			<period errorminus=".000045" errorplus="0.000045">8.726</period>
 			<transittime errorminus="0.0030100" errorplus="0.0030100">2454971.7693700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -37,13 +37,13 @@
 			<name>KOI-1589.02</name>
 			<name>KIC 5301750 c</name>
 			<name>KIC 5301750.02</name>
-			<radius errorminus="0.05377" errorplus="0.05377">0.25152</radius>
-			<period errorminus=".000091" errorplus="0.000091">12.882779</period>
+			<radius errorminus="0.05377" errorplus="0.05377">0.211</radius>
+			<period errorminus=".000091" errorplus="0.000091">12.883</period>
 			<transittime errorminus="0.0047400" errorplus="0.0047400">2454968.1902400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -53,47 +53,47 @@
 			<name>KOI-1589.03</name>
 			<name>KIC 5301750 e</name>
 			<name>KIC 5301750.03</name>
-			<radius errorminus="0.04465" errorplus="0.04465">0.23694</radius>
+			<radius errorminus="0.04465" errorplus="0.04465">0.232</radius>
 			<period errorminus=".000224" errorplus="0.000224">27.434389</period>
 			<transittime errorminus="0.0040800" errorplus="0.0040800">2454978.1254000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.181</semimajoraxis><impactparameter errorminus="-0.2100" errorplus="-0.2100">0.09</impactparameter></planet>
 		<planet>
 			<name>Kepler-84 d</name>
 			<name>KOI-1589 d</name>
 			<name>KOI-1589.04</name>
 			<name>KIC 5301750 d</name>
 			<name>KIC 5301750.04</name>
-			<radius errorminus="0.02461" errorplus="0.02461">0.12576</radius>
+			<radius errorminus="0.02461" errorplus="0.02461">0.123</radius>
 			<period errorminus=".000042" errorplus="0.000042">4.224537</period>
 			<transittime errorminus="0.0059400" errorplus="0.0059400">2454968.4332700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-84 f</name>
 			<name>KOI-1589 f</name>
 			<name>KOI-1589.05</name>
 			<name>KIC 5301750 f</name>
 			<name>KIC 5301750.05</name>
-			<radius errorminus="0.03919" errorplus="0.03919">0.20049</radius>
+			<radius errorminus="0.03919" errorplus="0.03919">0.196</radius>
 			<period errorminus=".000812" errorplus="0.000812">44.552169</period>
 			<transittime errorminus="0.0118600" errorplus="0.0118600">2454993.2909700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.25</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.34</impactparameter></planet>
 	</star>
 </system>

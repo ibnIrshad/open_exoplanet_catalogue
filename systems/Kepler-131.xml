@@ -24,30 +24,30 @@
 			<name>KOI-283.01</name>
 			<name>KOI-283 b</name>
 			<name>KIC 5695396 b</name>
-			<period>16.0920</period>
-			<radius errorminus="0.018226" errorplus="0.018226">0.219624</radius>
-			<mass errorminus="0.011010" errorplus="0.011010">0.050740</mass>
+			<period>16.092</period>
+			<radius errorminus="0.018226" errorplus="0.018226">0.215</radius>
+			<mass errorminus="0.011010" errorplus="0.011010">0.051</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0200" errorplus="-0.0200">0.79</impactparameter></planet>
 		<planet>
 			<name>Kepler-131 c</name>
 			<name>KOI-283.02</name>
 			<name>KOI-283 c</name>
 			<name>KIC 5695396 c</name>
 			<period>25.5169</period>
-			<radius errorminus="0.006379" errorplus="0.006379">0.076549</radius>
-			<mass errorminus="0.018560" errorplus="0.018560">0.025952</mass>
+			<radius errorminus="0.006379" errorplus="0.006379">0.075</radius>
+			<mass errorminus="0.018560" errorplus="0.018560">0.026</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.1600" errorplus="-0.1600">0.27</impactparameter></planet>
 	</star>
 </system>

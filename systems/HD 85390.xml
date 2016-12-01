@@ -16,14 +16,14 @@
 			<name>HD 85390 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.132</mass>
-			<period>788</period>
+			<period>788.0</period>
 			<semimajoraxis>1.52</semimajoraxis>
 			<eccentricity>0.41</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>166.3</temperature>
-		</planet>
+		<periastron errorminus="-23.0000" errorplus="-23.0000">-94.0</periastron><istransiting>0</istransiting></planet>
 		<name>HD 85390</name>
 		<temperature>5186.0</temperature>
 	</star>

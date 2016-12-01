@@ -20,42 +20,42 @@
 			<name>KOI-2732.01</name>
 			<name>KIC 9886361 b</name>
 			<name>KIC 9886361.01</name>
-			<radius errorminus="0.02005" errorplus="0.02005">0.11391</radius>
+			<radius errorminus="0.02005" errorplus="0.02005">0.112</radius>
 			<period errorminus=".000051" errorplus="0.000051">7.031462</period>
 			<transittime errorminus="0.0045300" errorplus="0.0045300">2454967.4516100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-403 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.11</impactparameter></planet>
 		<planet>
 			<name>Kepler-403 c</name>
 			<name>KOI-2732 c</name>
 			<name>KOI-2732.03</name>
 			<name>KIC 9886361 c</name>
 			<name>KIC 9886361.03</name>
-			<radius errorminus="0.02916" errorplus="0.02916">0.15948</radius>
+			<radius errorminus="0.02916" errorplus="0.02916">0.156</radius>
 			<period errorminus=".000562" errorplus="0.000562">54.280749</period>
 			<transittime errorminus="0.0064800" errorplus="0.0064800">2454973.7172000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-403 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.297</semimajoraxis><impactparameter errorminus="-0.2300" errorplus="-0.2300">0.53</impactparameter></planet>
 		<planet>
 			<name>Kepler-403 d</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000082880" errorplus="0.000082880">13.611591290</period>
+			<period errorminus="0.000082880" errorplus="0.000082880">13.61159129</period>
 			<radius errorminus="0.017" errorplus="0.027">0.127</radius>
 		</planet>
 	</star>

@@ -16,15 +16,15 @@
 		<planet>
 			<name>HD 50554 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.16</mass>
-			<period>1293</period>
-			<semimajoraxis>2.41</semimajoraxis>
-			<eccentricity>0.5</eccentricity>
+			<mass>4.954</mass>
+			<period>1293.0</period>
+			<semimajoraxis>2.353</semimajoraxis>
+			<eccentricity>0.501</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>173.7</temperature>
-		</planet>
+		<istransiting>0</istransiting></planet>
 		<name>HD 50554</name>
 		<temperature>5902.0</temperature>
 	</star>

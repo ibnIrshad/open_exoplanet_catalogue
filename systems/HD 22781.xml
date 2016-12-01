@@ -21,10 +21,10 @@
 			<semimajoraxis>1.167</semimajoraxis>
 			<eccentricity>0.8191</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>167.0</temperature>
-		</planet>
+		<periastron errorminus="-0.5600" errorplus="-0.5600">315.92</periastron><periastrontime errorminus="-0.120000" errorplus="-0.120000">2454881.4</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 22781</name>
 		<temperature>5027.0</temperature>
 	</star>

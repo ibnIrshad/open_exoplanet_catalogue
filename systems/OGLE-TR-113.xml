@@ -2,7 +2,7 @@
 	<name>OGLE-TR-113</name>
 	<rightascension>10 52 24.40</rightascension>
 	<declination>-61 26 48.5</declination>
-	<distance>1500</distance>
+	<distance>600.0</distance>
 	<star>
 		<name>OGLE-TR-113</name>
 		<name>V752 Car</name>
@@ -20,15 +20,15 @@
 			<name>OGLE-TR-113 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.16" errorplus="0.16">1.26</mass>
-			<radius errorminus="0.052" errorplus="0.057">1.051</radius>
-			<period errorminus="0.00000014" errorplus="0.00000014">1.43247506</period>
-			<semimajoraxis errorminus="0.00015" errorplus="0.00015">0.02288</semimajoraxis>
+			<radius errorminus="0.052" errorplus="0.057">1.093</radius>
+			<period errorminus="0.00000014" errorplus="0.00000014">1.4324752</period>
+			<semimajoraxis errorminus="0.00015" errorplus="0.00015">0.02289</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.62" errorplus="1.60">87.80</inclination>
+			<inclination errorminus="0.62" errorplus="1.60">87.8</inclination>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2453464.61708</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<description>OGLE-TR-113b is a hot Jupiter orbiting a K-type star.</description>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

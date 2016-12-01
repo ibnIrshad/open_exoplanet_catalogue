@@ -21,31 +21,31 @@
 			<name>KOI-1307.01</name>
 			<name>KIC 10973814 c</name>
 			<name>KIC 10973814.01</name>
-			<radius errorminus="0.04465" errorplus="0.13578">0.29708</radius>
+			<radius errorminus="0.04465" errorplus="0.13578">0.291</radius>
 			<period errorminus=".000247" errorplus="0.000247">44.851896</period>
 			<transittime errorminus="0.0032500" errorplus="0.0032500">2455005.4630000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-287 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-287 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.246</semimajoraxis><impactparameter errorminus="-0.3000" errorplus="-0.3000">0.83</impactparameter></planet>
 		<planet>
 			<name>Kepler-287 b</name>
 			<name>KOI-1307 b</name>
 			<name>KOI-1307.02</name>
 			<name>KIC 10973814 b</name>
 			<name>KIC 10973814.02</name>
-			<radius errorminus="0.00547" errorplus="0.09660">0.21233</radius>
+			<radius errorminus="0.00547" errorplus="0.09660">0.208</radius>
 			<period errorminus=".000084" errorplus="0.000084">20.342199</period>
 			<transittime errorminus="0.0025400" errorplus="0.0025400">2454970.6987500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-287 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-287 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.145</semimajoraxis><impactparameter errorminus="-0.2400" errorplus="-0.2400">0.24</impactparameter></planet>
 	</star>
 </system>

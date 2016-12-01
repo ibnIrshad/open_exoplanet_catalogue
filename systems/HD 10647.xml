@@ -2,7 +2,7 @@
 	<name>HD 10647</name>
 	<rightascension>01 42 29</rightascension>
 	<declination>-53 44 27</declination>
-	<distance>17.3</distance>
+	<distance>17.35</distance>
 	<star>
 		<name>HD 10647</name>
 		<age>1.4</age>
@@ -22,12 +22,12 @@
 			<period>989.2</period>
 			<semimajoraxis>2.015</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
-			<periastron>212</periastron>
+			<periastron>212.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>195.9</temperature>
-		</planet>
+		<periastrontime errorminus="-99.000000" errorplus="-99.000000">2453654.0</periastrontime><istransiting>0</istransiting></planet>
 		<temperature>6039.0</temperature>
 	</star>
 </system>

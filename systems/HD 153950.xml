@@ -2,7 +2,7 @@
 	<name>HD 153950</name>
 	<rightascension>17 04 30.86989</rightascension>
 	<declination>-43 18 35.1765</declination>
-	<distance errorminus="1.7" errorplus="1.7">49.5</distance>
+	<distance errorminus="1.7" errorplus="1.7">51.87</distance>
 	<star>
 		<name>HD 153950</name>
 		<name>HIP 83547</name>
@@ -31,8 +31,8 @@
 			<periastron errorminus="2.4" errorplus="2.4">308.2</periastron>
 			<periastrontime errorminus="4.3" errorplus="4.3">2454502</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

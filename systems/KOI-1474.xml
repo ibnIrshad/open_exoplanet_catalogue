@@ -20,10 +20,10 @@
 			<name>Kepler-419 b</name>
 			<name>KIC 12365184 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.116" errorplus="0.125">0.964</radius>
+			<radius errorminus="0.116" errorplus="0.125">0.96</radius>
 			<mass errorminus="0.3" errorplus="0.3">2.5</mass>
 			<period errorminus="0.0009" errorplus="0.0007">69.7546</period>
-			<semimajoraxis errorminus="0.006" errorplus="0.007">0.370</semimajoraxis>
+			<semimajoraxis errorminus="0.006" errorplus="0.007">0.37</semimajoraxis>
 			<eccentricity errorminus="0.013" errorplus="0.013">0.833</eccentricity>
 			<periastron errorminus="1.2" errorplus="1.0">95.2</periastron>
 			<meananomaly errorminus="0.05" errorplus="0.05">68.69</meananomaly>
@@ -31,8 +31,8 @@
 			<ascendingnode>0</ascendingnode>
 			<description>The planet KOI-1474 b was identified as a potential proto-hot Jupiter in 2012. Transit timing variations revealed the presence of an outer companion, which was subsequently found to be well-aligned with the orbit of the inner planet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -47,11 +47,11 @@
 			<periastron errorminus="1.0" errorplus="1.2">275.3</periastron>
 			<meananomaly errorminus="0.3" errorplus="0.3">345.0</meananomaly>
 			<ascendingnode errorminus="12" errorplus="12">4</ascendingnode>
-			<inclination errorminus="2" errorplus="3">88</inclination>
+			<inclination errorminus="2" errorplus="3">88.0</inclination>
 			<description>The planet KOI-1474 c was initially identified by transit timing variations. The timing variations allowed for the planet's properties to be effectively constrained, revealing that the two giant planets in this system have well-aligned orbits.</description>
-			<discoverymethod>timing</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
 			<istransiting>0</istransiting>
 		</planet>
 	</star>

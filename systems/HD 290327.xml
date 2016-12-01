@@ -2,7 +2,7 @@
 	<name>HD 290327</name>
 	<rightascension>05 23 22</rightascension>
 	<declination>-02 16 39</declination>
-	<distance>54.9</distance>
+	<distance>56.7</distance>
 	<star>
 		<mass>0.9</mass>
 		<radius>1</radius>
@@ -17,14 +17,14 @@
 			<name>HD 290327 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.54</mass>
-			<period>2443</period>
+			<period>2443.0</period>
 			<semimajoraxis>3.43</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>132.1</temperature>
-		</planet>
+		<periastron errorminus="-19.0000" errorplus="-19.0000">268.0</periastron><periastrontime errorminus="-412.000000" errorplus="-412.000000">2455326.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 290327</name>
 		<temperature>5552.0</temperature>
 	</star>

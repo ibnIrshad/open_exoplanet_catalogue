@@ -18,18 +18,18 @@
 			<name>TYC 6996-00583-1 b</name>
 			<name>2MASS J00205699-3559537 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.007</mass>
-			<radius>1.16</radius>
-			<period>3.1260876</period>
-			<semimajoraxis>0.04054</semimajoraxis>
+			<mass>1.002</mass>
+			<radius>0.992</radius>
+			<period>3.126096</period>
+			<semimajoraxis>0.0405</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>84.47</inclination>
+			<inclination>84.686</inclination>
 			<transittime errorminus="0.00058" errorplus="0.00058" unit="BJD">2455441.26999</transittime>
 			<description>WASP-45 b is a Jupiter mass planet transiting in front of the limb of its host star. Emission from Ca H+K suggests that the star is chromospherically active.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/05/17</lastupdate>
+			<lastupdate>03/2015-12-0/2015-12-0</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1094.2</temperature>
+			<temperature>1170.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-45</name>

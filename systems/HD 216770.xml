@@ -2,7 +2,7 @@
 	<name>HD 216770</name>
 	<rightascension>22 55 53</rightascension>
 	<declination>-26 39 31</declination>
-	<distance>38</distance>
+	<distance>37.89</distance>
 	<star>
 		<mass>0.9</mass>
 		<radius>1</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>0.46</semimajoraxis>
 			<eccentricity>0.37</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>24/2015-04-2/2015-04-2</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>338.2</temperature>
-		</planet>
+		<periastron errorminus="-10.0000" errorplus="-10.0000">281.0</periastron><periastrontime errorminus="-3.500000" errorplus="-3.500000">2452672.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 216770</name>
 		<temperature>5248.0</temperature>
 	</star>

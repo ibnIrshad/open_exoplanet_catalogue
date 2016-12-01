@@ -2,7 +2,7 @@
 	<name>HAT-P-26</name>
 	<rightascension>14 12 37.54</rightascension>
 	<declination>+04 03 36.13</declination>
-	<distance>134</distance>
+	<distance>134.0</distance>
 	<star>
 		<mass>0.816</mass>
 		<radius>0.788</radius>
@@ -26,12 +26,12 @@
 			<eccentricity>0.124</eccentricity>
 			<inclination>88.6</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>907.4</temperature>
+			<temperature>1001.0</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-165.0000" errorplus="-165.0000">54.0</periastron><impactparameter errorminus="-0.1220" errorplus="-0.1220">0.303</impactparameter></planet>
 		<name>HAT-P-26</name>
 		<temperature>5079.0</temperature>
 	</star>

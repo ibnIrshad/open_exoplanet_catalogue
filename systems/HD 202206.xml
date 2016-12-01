@@ -18,10 +18,10 @@
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.435</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>27/2015-08-2/2015-08-2</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>277.6</temperature>
-		</planet>
+		<periastron errorminus="-0.3000" errorplus="-0.3000">161.18</periastron><inclination errorminus="" errorplus="">90.0</inclination><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 202206 c</name>
 			<list>Confirmed planets</list>
@@ -30,10 +30,10 @@
 			<semimajoraxis>2.55</semimajoraxis>
 			<eccentricity>0.267</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>27/2015-08-2/2015-08-2</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>159.6</temperature>
-		</planet>
+		<periastron errorminus="-6.6500" errorplus="-6.6500">78.99</periastron><inclination errorminus="" errorplus="">90.0</inclination><istransiting>0</istransiting></planet>
 		<name>HD 202206</name>
 		<temperature>5750.0</temperature>
 	</star>

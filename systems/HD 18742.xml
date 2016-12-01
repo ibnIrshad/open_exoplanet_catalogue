@@ -2,7 +2,7 @@
 	<name>HD 18742</name>
 	<rightascension>03 00 10.656</rightascension>
 	<declination>-20 48 09.38</declination>
-	<distance>135</distance>
+	<distance>127.88</distance>
 	<star>
 		<mass>1.60</mass>
 		<radius>4.9</radius>
@@ -17,15 +17,15 @@
 			<name>HD 18742 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.7</mass>
-			<period>772</period>
+			<period>772.0</period>
 			<semimajoraxis>1.92</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<eccentricity>0.12</eccentricity>
 			<description>The star HD 18742 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/08/07</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>354.4</temperature>
-		</planet>
+		<periastron errorminus="-50.0000" errorplus="-50.0000">107.0</periastron><periastrontime errorminus="-110.000000" errorplus="-110.000000">2455200.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 18742</name>
 		<temperature>5048.0</temperature>
 	</star>

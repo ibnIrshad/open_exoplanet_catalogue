@@ -2,7 +2,7 @@
 	<name>HD 155233</name>
 	<rightascension>17 11 04.36474</rightascension>
 	<declination>-20 39 16.4509</declination>
-	<distance errorminus="3.3" errorplus="3.3">75.1</distance>
+	<distance errorminus="3.3" errorplus="3.3">75.13</distance>
 	<star>
 		<name>HD 155233</name>
 		<name>HIP 84056</name>
@@ -24,16 +24,16 @@
 		<planet>
 			<name>HD 155233 b</name>
 			<list>Confirmed planets</list>
-			<period errorminus="63" errorplus="63">885</period>
-			<periastrontime errorminus="412" errorplus="412" unit="BJD">2455112</periastrontime>
-			<eccentricity errorminus="0.20" errorplus="0.20">0.03</eccentricity>
-			<periastron errorminus="90" errorplus="90">95</periastron>
-			<mass errorminus="0.5" errorplus="0.5" type="msini">2.0</mass>
-			<semimajoraxis errorminus="0.10" errorplus="0.10">2.07</semimajoraxis>
+			<period errorminus="63" errorplus="63">818.8</period>
+			<periastrontime errorminus="412" errorplus="412" unit="BJD">2460282.0</periastrontime>
+			<eccentricity errorminus="0.20" errorplus="0.20">0.04</eccentricity>
+			<periastron errorminus="90" errorplus="90">120.0</periastron>
+			<mass errorminus="0.5" errorplus="0.5" type="msini">2.6</mass>
+			<semimajoraxis errorminus="0.10" errorplus="0.10">2.0</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/10/25</lastupdate>
+			<lastupdate>17/2016-03-1/2016-03-1</lastupdate>
 			<description>HD 155233 b is a giant planet orbiting a giant star and was found by the Pan-Pacific Planet Search.</description>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

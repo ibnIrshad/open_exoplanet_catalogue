@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 8574 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.11</mass>
-			<period>227.55</period>
-			<semimajoraxis>0.77</semimajoraxis>
-			<eccentricity>0.288</eccentricity>
+			<mass>1.8</mass>
+			<period>227.0</period>
+			<semimajoraxis>0.757</semimajoraxis>
+			<eccentricity>0.297</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/08</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2002</discoveryyear>
 			<temperature>355.7</temperature>
-		</planet>
+		<periastron errorminus="-5.4000" errorplus="-5.4000">26.6</periastron><periastrontime errorminus="-3.200000" errorplus="-3.200000">2453981.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 8574</name>
 		<temperature>6080.0</temperature>
 	</star>

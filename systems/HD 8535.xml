@@ -17,14 +17,14 @@
 			<name>HD 8535 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.68</mass>
-			<period>1313</period>
+			<period>1313.0</period>
 			<semimajoraxis>2.45</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/2015-04-1/2015-04-1</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>188.3</temperature>
-		</planet>
+		<periastron errorminus="-43.0000" errorplus="-43.0000">61.0</periastron><periastrontime errorminus="-92.000000" errorplus="-92.000000">2454537.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 8535</name>
 		<temperature>6136.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 180314</name>
 	<rightascension>19 14 50</rightascension>
 	<declination>+31 51 37</declination>
-	<distance>132</distance>
+	<distance>131.75</distance>
 	<star>
 		<mass>2.6</mass>
 		<radius>9.2</radius>
@@ -17,15 +17,15 @@
 		<planet>
 			<name>HD 180314 b</name>
 			<list>Confirmed planets</list>
-			<mass>22</mass>
+			<mass>22.0</mass>
 			<period>396.03</period>
 			<semimajoraxis>1.4</semimajoraxis>
 			<eccentricity>0.257</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/05</lastupdate>
+			<lastupdate>10/2015-09-1/2015-09-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>553.4</temperature>
-		</planet>
+		<periastron errorminus="-2.3000" errorplus="-2.3000">303.1</periastron><periastrontime errorminus="-3.100000" errorplus="-3.100000">2453565.9</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 180314</name>
 		<temperature>4917.0</temperature>
 	</star>

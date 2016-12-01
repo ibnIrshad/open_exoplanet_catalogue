@@ -2,7 +2,7 @@
 	<name>HD 45364</name>
 	<rightascension>06 25 38</rightascension>
 	<declination>-31 28 51</declination>
-	<distance>32.6</distance>
+	<distance>32.58</distance>
 	<star>
 		<mass>0.82</mass>
 		<magV>8.08</magV>
@@ -20,10 +20,10 @@
 			<semimajoraxis>0.6813</semimajoraxis>
 			<eccentricity>0.1684</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>273.1</temperature>
-		</planet>
+		<periastron errorminus="-6.3400" errorplus="-6.3400">162.58</periastron><periastrontime errorminus="-4.090000" errorplus="-4.090000">2453535.82</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 45364 c</name>
 			<list>Confirmed planets</list>
@@ -32,10 +32,10 @@
 			<semimajoraxis>0.8972</semimajoraxis>
 			<eccentricity>0.0974</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>238.3</temperature>
-		</planet>
+		<periastron errorminus="-4.3000" errorplus="-4.3000">7.41</periastron><periastrontime errorminus="-4.140000" errorplus="-4.140000">2453250.38</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 45364</name>
 		<temperature>5434.0</temperature>
 	</star>

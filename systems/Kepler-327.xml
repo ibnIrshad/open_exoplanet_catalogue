@@ -21,47 +21,47 @@
 			<name>KOI-1867.01</name>
 			<name>KIC 8167996 b</name>
 			<name>KIC 8167996.01</name>
-			<radius errorminus="0.00456" errorplus="0.00456">0.10115</radius>
+			<radius errorminus="0.00456" errorplus="0.00456">0.099</radius>
 			<period errorminus=".000006" errorplus="0.000006">2.549575</period>
 			<transittime errorminus="0.0012800" errorplus="0.0012800">2454965.6048800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-327 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-327 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.029</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.03</impactparameter></planet>
 		<planet>
 			<name>Kepler-327 d</name>
 			<name>KOI-1867 d</name>
 			<name>KOI-1867.02</name>
 			<name>KIC 8167996 d</name>
 			<name>KIC 8167996.02</name>
-			<radius errorminus="0.00911" errorplus="0.00911">0.15766</radius>
+			<radius errorminus="0.00911" errorplus="0.00911">0.154</radius>
 			<period errorminus=".000031" errorplus="0.000031">13.969457</period>
 			<transittime errorminus="0.0012600" errorplus="0.0012600">2454965.1710400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-327 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-327 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.09</semimajoraxis><impactparameter errorminus="-0.0900" errorplus="-0.0900">0.71</impactparameter></planet>
 		<planet>
 			<name>Kepler-327 c</name>
 			<name>KOI-1867 c</name>
 			<name>KOI-1867.03</name>
 			<name>KIC 8167996 c</name>
 			<name>KIC 8167996.03</name>
-			<radius errorminus="0.00456" errorplus="0.00456">0.09386</radius>
+			<radius errorminus="0.00456" errorplus="0.00456">0.092</radius>
 			<period errorminus=".000019" errorplus="0.000019">5.212333</period>
 			<transittime errorminus="0.0021900" errorplus="0.0021900">2454965.7066400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-327 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-327 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.047</semimajoraxis><impactparameter errorminus="-0.2200" errorplus="-0.2200">0.22</impactparameter></planet>
 	</star>
 </system>

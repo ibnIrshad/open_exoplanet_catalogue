@@ -20,22 +20,22 @@
 			<semimajoraxis>0.2388</semimajoraxis>
 			<eccentricity>0.4686</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>481.2</temperature>
-		</planet>
+		<periastron errorminus="-1.2300" errorplus="-1.2300">-24.03</periastron><periastrontime errorminus="-0.100000" errorplus="-0.100000">2454459.49</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 147018 c</name>
 			<list>Confirmed planets</list>
 			<mass>6.56</mass>
-			<period>1008</period>
+			<period>1008.0</period>
 			<semimajoraxis>1.922</semimajoraxis>
 			<eccentricity>0.133</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>171.9</temperature>
-		</planet>
+		<periastron errorminus="-6.9000" errorplus="-6.9000">-133.1</periastron><periastrontime errorminus="-22.000000" errorplus="-22.000000">2455301.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 147018</name>
 		<temperature>5441.0</temperature>
 	</star>

@@ -13,11 +13,11 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000111100" errorplus="0.000111100">20.264168400</period>
+			<period errorminus="0.000111100" errorplus="0.000111100">20.2641684</period>
 			<radius errorminus="0.023" errorplus="0.059">0.164</radius>
 		</planet>
 		<planet>
@@ -25,12 +25,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000054040" errorplus="0.000054040">7.441421130</period>
+			<period errorminus="0.000054040" errorplus="0.000054040">7.44142113</period>
 			<radius errorminus="0.016" errorplus="0.050">0.113</radius>
 		</planet>
 	</star>
-</system>
+<distance errorminus="-128.51" errorplus="-128.51">878.0</distance></system>

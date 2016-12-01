@@ -2,7 +2,7 @@
 	<name>HD 150706</name>
 	<rightascension>16 31 17</rightascension>
 	<declination>+79 47 23</declination>
-	<distance>27.2</distance>
+	<distance>27.23</distance>
 	<star>
 		<mass>0.94</mass>
 		<radius>0.87</radius>
@@ -18,13 +18,13 @@
 			<name>HD 150706 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.71</mass>
-			<period>5894</period>
+			<period>5894.0</period>
 			<semimajoraxis>6.7</semimajoraxis>
 			<eccentricity>0.38</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2002</discoveryyear>
-		</planet>
+			<lastupdate>23/2014-07-2/2014-07-2</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		<periastron errorminus="-33.0000" errorplus="-33.0000">132.0</periastron><periastrontime errorminus="-1586.000000" errorplus="-1586.000000">2458179.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 150706</name>
 		<temperature>5741.0</temperature>
 	</star>

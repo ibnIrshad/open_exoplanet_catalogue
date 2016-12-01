@@ -25,11 +25,11 @@
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454419.19556</transittime>
 			<description>The planet hosting star HAT-P-12 is located in the constallation Canes Venatici.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>09/05/04</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>875.4</temperature>
+			<temperature>963.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorminus="-0.400" errorplus="-0.400">89.0</inclination><impactparameter errorminus="-0.0780" errorplus="-0.0780">0.211</impactparameter></planet>
 		<name>HAT-P-12</name>
 		<temperature>4650.0</temperature>
 	</star>

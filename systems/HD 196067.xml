@@ -2,7 +2,7 @@
 	<name>HD 196067</name>
 	<rightascension>20 41 44</rightascension>
 	<declination>-75 21 03</declination>
-	<distance>44.3</distance>
+	<distance>43.57</distance>
 	<star>
 		<magV>6.02</magV>
 		<magB>6.64</magB>
@@ -18,15 +18,15 @@
 			<name>HD 196067 b</name>
 			<list>Confirmed planets</list>
 			<mass>6.9</mass>
-			<period>3638</period>
+			<period>3638.0</period>
 			<eccentricity>0.66</eccentricity>
 			<semimajoraxis>5.02</semimajoraxis>
 			<periastron>148.2</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 			<temperature>177.2</temperature>
-		</planet>
+		<periastrontime errorminus="-225.000000" errorplus="-225.000000">2453375.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 196067</name>
 		<temperature>5940.0</temperature>
 	</star>

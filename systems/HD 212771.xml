@@ -2,7 +2,7 @@
 	<name>HD 212771</name>
 	<rightascension>22 27 03</rightascension>
 	<declination>-17 15 49</declination>
-	<distance>131</distance>
+	<distance>121.8</distance>
 	<star>
 		<mass>1.15</mass>
 		<radius>5</radius>
@@ -22,10 +22,10 @@
 			<semimajoraxis>1.22</semimajoraxis>
 			<eccentricity>0.111</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>456.8</temperature>
-		</planet>
+		<periastron errorminus="-40.0000" errorplus="-40.0000">55.0</periastron><periastrontime errorminus="-40.000000" errorplus="-40.000000">2454947.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 212771</name>
 		<temperature>5121.0</temperature>
 	</star>

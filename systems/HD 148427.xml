@@ -2,7 +2,7 @@
 	<name>HD 148427</name>
 	<rightascension>16 28 28</rightascension>
 	<declination>-13 23 59</declination>
-	<distance>59.3</distance>
+	<distance>59.28</distance>
 	<star>
 		<mass>1.45</mass>
 		<radius>3.22</radius>
@@ -21,10 +21,10 @@
 			<semimajoraxis>0.93</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>413.8</temperature>
-		</planet>
+		<periastron errorminus="-68.0000" errorplus="-68.0000">277.0</periastron><periastrontime errorminus="-15.000000" errorplus="-15.000000">2453991.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 148427</name>
 		<temperature>5052.0</temperature>
 	</star>

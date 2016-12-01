@@ -2,7 +2,7 @@
 	<name>HD 163607</name>
 	<rightascension>17 53 40</rightascension>
 	<declination>+56 23 31</declination>
-	<distance>69</distance>
+	<distance>69.44</distance>
 	<star>
 		<mass>1.09</mass>
 		<radius>1.63</radius>
@@ -18,28 +18,28 @@
 			<name>HD 163607 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.77</mass>
-			<period>75.229</period>
+			<period>75.29</period>
 			<semimajoraxis>0.36</semimajoraxis>
 			<eccentricity>0.73</eccentricity>
 			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>05/2015-02-0/2015-02-0</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>499.8</temperature>
-		</planet>
+		<periastron errorminus="-2.0000" errorplus="-2.0000">78.7</periastron><periastrontime errorminus="-0.240000" errorplus="-0.240000">2454185.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 163607 c</name>
 			<list>Confirmed planets</list>
 			<mass>2.29</mass>
-			<period>1314</period>
+			<period>1314.0</period>
 			<semimajoraxis>2.42</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
 			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>25/2014-06-2/2014-06-2</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>200.4</temperature>
-		</planet>
+		<periastron errorminus="-93.0000" errorplus="-93.0000">265.0</periastron><periastrontime errorminus="-880.000000" errorplus="-880.000000">2455085.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 163607</name>
 		<temperature>5543.0</temperature>
 	</star>

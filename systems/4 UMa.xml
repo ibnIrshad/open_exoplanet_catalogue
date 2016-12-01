@@ -2,7 +2,7 @@
 	<name>4 UMa</name>
 	<rightascension>08 40 12.81767</rightascension>
 	<declination>+64 19 40.5700</declination>
-	<distance>78.5</distance>
+	<distance>77.4</distance>
 	<star>
 		<name>4 UMa</name>
 		<name>4 Ursae Majoris</name>
@@ -51,9 +51,9 @@
 			<periastrontime errorminus="4.31" errorplus="4.31">2452987.3936</periastrontime>
 			<description>4 Ursae Majoris is also known as Muscida, a name that is shared with 3 Ursae Majoris and Omicron Ursae Majoris.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>877.3</temperature>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

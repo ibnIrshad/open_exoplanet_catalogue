@@ -3,7 +3,7 @@
 	<name>75 Ceti</name>
 	<rightascension>02 32 09.42200</rightascension>
 	<declination>-01 02 05.6236</declination>
-	<distance errorminus="3.0" errorplus="3.0">81.4</distance>
+	<distance errorminus="3.0" errorplus="3.0">81.5</distance>
 	<star>
 		<name>75 Cet</name>
 		<name>75 Ceti</name>
@@ -32,12 +32,12 @@
 			<period errorminus="3.6" errorplus="3.6">691.9</period>
 			<semimajoraxis>2.1</semimajoraxis>
 			<eccentricity errorminus="0.048" errorplus="0.048">0.117</eccentricity>
-			<periastron errorminus="28" errorplus="28">165</periastron>
+			<periastron errorminus="28" errorplus="28">165.0</periastron>
 			<periastrontime errorminus="54" errorplus="54">2452213</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>03/2015-09-0/2015-09-0</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>

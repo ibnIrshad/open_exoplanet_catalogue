@@ -2,7 +2,7 @@
 	<name>Kepler-434</name>
 	<rightascension>19 34 20.729</rightascension>
 	<declination>+42 45 44.08</declination>
-	<distance errorminus="120" errorplus="120">1240</distance>
+	<distance errorminus="120" errorplus="120">1240.0</distance>
 	<star>
 		<name>Kepler-434</name>
 		<name>KOI-614</name>
@@ -31,9 +31,9 @@
 			<inclination errorminus="0.74" errorplus="0.38">86.46</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/07</lastupdate>
+			<lastupdate>14/2015-01-1/2015-01-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-			<temperature errorminus="45" errorplus="45">1000</temperature>
-		</planet>
+			<temperature errorminus="45" errorplus="45">1000.0</temperature>
+		<eccentricity errorminus="-0.072000" errorplus="-0.072000">0.131</eccentricity><periastron errorminus="-33.0000" errorplus="-33.0000">82.0</periastron><impactparameter errorminus="-0.0310" errorplus="-0.0310">0.979</impactparameter></planet>
 	</star>
 </system>

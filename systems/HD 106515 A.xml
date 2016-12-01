@@ -2,7 +2,7 @@
 	<name>HD 106515 A</name>
 	<rightascension>12 15 07</rightascension>
 	<declination>-07 15 26</declination>
-	<distance>35.2</distance>
+	<distance>36.36</distance>
 	<star>
 		<mass>0.97</mass>
 		<age>11.7</age>
@@ -18,15 +18,15 @@
 			<name>HD 106515 A b</name>
 			<list>Confirmed planets</list>
 			<mass>9.61</mass>
-			<period>3630</period>
+			<period>3630.0</period>
 			<semimajoraxis>4.59</semimajoraxis>
 			<eccentricity>0.572</eccentricity>
 			<periastron>123.8</periastron>
 			<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is almost 11 billion years old.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-		</planet>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		<periastrontime errorminus="-8.300000" errorplus="-8.300000">2451803.8</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 106515 A</name>
 	</star>
 </system>

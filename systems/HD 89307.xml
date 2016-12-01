@@ -2,7 +2,7 @@
 	<name>HD 89307</name>
 	<rightascension>10 18 21</rightascension>
 	<declination>+12 37 15</declination>
-	<distance>30.9</distance>
+	<distance>30.88</distance>
 	<star>
 		<mass>1.028</mass>
 		<radius>1.05</radius>
@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 89307 b</name>
 			<list>Confirmed planets</list>
-			<mass>2</mass>
-			<period>2199</period>
-			<semimajoraxis>3.34</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass>1.78</mass>
+			<period>2157.0</period>
+			<semimajoraxis>3.27</semimajoraxis>
+			<eccentricity>0.241</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>24/2015-04-2/2015-04-2</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>146.5</temperature>
-		</planet>
+		<periastron errorminus="-52.0000" errorplus="-52.0000">36.0</periastron><periastrontime errorminus="-80.000000" errorplus="-80.000000">2450228.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 89307</name>
 		<temperature>5950.0</temperature>
 	</star>

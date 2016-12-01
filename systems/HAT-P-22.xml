@@ -2,7 +2,7 @@
 	<name>HAT-P-22</name>
 	<rightascension>10 22 44</rightascension>
 	<declination>+50 07 42</declination>
-	<distance>82</distance>
+	<distance>82.0</distance>
 	<star>
 		<mass>0.916</mass>
 		<radius>1.04</radius>
@@ -28,12 +28,12 @@
 			<eccentricity>0.016</eccentricity>
 			<inclination>86.9</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1171.7</temperature>
+			<temperature>1283.0</temperature>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<periastron errorminus="-66.0000" errorplus="-66.0000">156.0</periastron><impactparameter errorminus="-0.0830" errorplus="-0.0830">0.466</impactparameter></planet>
 		<name>HAT-P-22</name>
 		<temperature>5302.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 9446</name>
 	<rightascension>01 33 20</rightascension>
 	<declination>+29 15 55</declination>
-	<distance>53</distance>
+	<distance>52.85</distance>
 	<star>
 		<mass>1</mass>
 		<radius>1</radius>
@@ -23,10 +23,10 @@
 			<semimajoraxis>0.189</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/2016-03-1/2016-03-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>586.1</temperature>
-		</planet>
+		<periastron errorminus="-30.0000" errorplus="-30.0000">215.0</periastron><periastrontime errorminus="-2.000000" errorplus="-2.000000">2454854.4</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 9446 c</name>
 			<list>Confirmed planets</list>
@@ -35,10 +35,10 @@
 			<semimajoraxis>0.654</semimajoraxis>
 			<eccentricity>0.06</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/2016-03-1/2016-03-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>315.8</temperature>
-		</planet>
+		<periastron errorminus="-130.0000" errorplus="-130.0000">100.0</periastron><periastrontime errorminus="-70.000000" errorplus="-70.000000">2454510.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 9446</name>
 		<temperature>5793.0</temperature>
 	</star>

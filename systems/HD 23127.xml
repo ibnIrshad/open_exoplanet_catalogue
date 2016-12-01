@@ -2,7 +2,7 @@
 	<name>HD 23127</name>
 	<rightascension>03 39 24</rightascension>
 	<declination>-60 04 40</declination>
-	<distance>89.1</distance>
+	<distance>89.13</distance>
 	<star>
 		<mass>1.13</mass>
 		<magV>8.58</magV>
@@ -16,14 +16,14 @@
 			<name>HD 23127 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.5</mass>
-			<period>1214</period>
+			<period>1214.0</period>
 			<semimajoraxis>2.4</semimajoraxis>
 			<eccentricity>0.44</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/02/09</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>19/2014-11-1/2014-11-1</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>205.3</temperature>
-		</planet>
+		<periastron errorminus="-6.0000" errorplus="-6.0000">190.0</periastron><periastrontime errorminus="-19.000000" errorplus="-19.000000">2450229.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 23127</name>
 		<temperature>5927.0</temperature>
 	</star>

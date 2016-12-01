@@ -4,7 +4,7 @@
 	<name>1SWASP J022837.22-070338.4</name>
 	<rightascension>02 28 37</rightascension>
 	<declination>-07 03 38</declination>
-	<distance errorminus="5" errorplus="5">93</distance>
+	<distance errorminus="5" errorplus="5">93.0</distance>
 	<binary>
 		<separation unit="arcsec">3.30</separation>
 		<separation unit="AU">300</separation>
@@ -28,16 +28,16 @@
 				<mass>1.76</mass>
 				<radius>1.21</radius>
 				<period>1.3600309</period>
-				<semimajoraxis>0.0240</semimajoraxis>
+				<semimajoraxis>0.024</semimajoraxis>
 				<inclination>89.4</inclination>
 				<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2455870.44977</transittime>
 				<description>WASP-77 A b is a transiting Hot Jupiter (a planet similar to Jupiter but with an orbit much closer to the host star). It is orbiting a moderately bright G8 V star which is part of a visual binary. The binary has a separation of 3 arcseconds.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/26</lastupdate>
+				<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity><impactparameter errorminus="-0.0500" errorplus="-0.0500">0.06</impactparameter></planet>
 			<name>WASP-77 A</name>
 		</star>
 		<star>

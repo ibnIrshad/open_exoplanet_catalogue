@@ -2,7 +2,7 @@
 	<name>HD 206610</name>
 	<rightascension>21 43 25</rightascension>
 	<declination>-07 24 30</declination>
-	<distance>194</distance>
+	<distance>170.07</distance>
 	<star>
 		<mass>1.56</mass>
 		<radius>6.1</radius>
@@ -18,14 +18,14 @@
 			<name>HD 206610 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.2</mass>
-			<period>610</period>
+			<period>610.0</period>
 			<semimajoraxis>1.68</semimajoraxis>
 			<eccentricity>0.229</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>408.1</temperature>
-		</planet>
+		<periastron errorminus="-10.0000" errorplus="-10.0000">296.0</periastron><periastrontime errorminus="-20.000000" errorplus="-20.000000">2454677.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 206610</name>
 		<temperature>4874.0</temperature>
 	</star>
