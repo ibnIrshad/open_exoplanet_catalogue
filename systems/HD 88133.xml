@@ -2,7 +2,7 @@
 	<name>HD 88133</name>
 	<rightascension>10 10 07</rightascension>
 	<declination>+18 11 12</declination>
-	<distance>74.5</distance>
+	<distance>74.46</distance>
 	<star>
 		<mass>1.2</mass>
 		<radius>1.93</radius>
@@ -18,15 +18,15 @@
 		<planet>
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.22</mass>
-			<period>3.416</period>
-			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.133</eccentricity>
+			<mass>1.02</mass>
+			<period>3.4148674</period>
+			<semimajoraxis>0.04691</semimajoraxis>
+			<eccentricity>0.05</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>13/2016-10-1/2016-10-1</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1550.6</temperature>
-		</planet>
+		<periastron errorminus="-48.1100" errorplus="-48.1100">7.22</periastron><inclination errorminus="-5.000" errorplus="-5.000">15.0</inclination><periastrontime errorminus="-0.451000" errorplus="-0.451000">2454641.984</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 88133</name>
 		<temperature>5494.0</temperature>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 99109</name>
 	<rightascension>11 24 17</rightascension>
 	<declination>-01 31 44</declination>
-	<distance>60.5</distance>
+	<distance>60.46</distance>
 	<star>
 		<mass>0.93</mass>
 		<magV>9.1</magV>
@@ -20,10 +20,10 @@
 			<semimajoraxis>1.105</semimajoraxis>
 			<eccentricity>0.09</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>23/2014-07-2/2014-07-2</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 			<temperature>231.3</temperature>
-		</planet>
+		<periastron errorminus="" errorplus="">256.0</periastron><periastrontime errorminus="-80.000000" errorplus="-80.000000">2451310.0</periastrontime><istransiting>0</istransiting></planet>
 		<name>HD 99109</name>
 		<temperature>5272.0</temperature>
 	</star>
