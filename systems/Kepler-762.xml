@@ -4,21 +4,21 @@
 	<declination>+47 19 46</declination>
 	<star>
 		<name>Kepler-762</name>
-		<temperature errorminus="123.9" errorplus="98.9">5944.0</temperature>
-		<mass errorminus="0.06" errorplus="0.07">1.06</mass>
-		<radius errorminus="0.11" errorplus="0.23">1.08</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.02</metallicity>
+		<temperature errorminus="98.94" errorplus="-123.9">5944.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.06</mass>
+		<radius errorminus="0.23" errorplus="-0.11">1.08</radius>
+		<metallicity errorminus="0.16" errorplus="-0.162">0.02</metallicity>
 		<planet>
 			<name>Kepler-762 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>10/2016-05-1/2016-05-1</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000940" errorplus="0.000000940">3.770552100</period>
-			<radius errorminus="0.112" errorplus="0.236">1.131</radius>
+			<radius errorminus="0.236" errorplus="-0.112">1.131</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="-2.040" errorplus="-2.040">3.8</age><magV errorminus="" errorplus="">15.439</magV></star>
+<distance errorminus="-153.41" errorplus="-153.41">1465.0</distance></system>
