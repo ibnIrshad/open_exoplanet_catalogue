@@ -2,7 +2,7 @@
 	<name>WASP-119</name>
 	<rightascension>03 43 44.02</rightascension>
 	<declination>-65 11 37.8</declination>
-	<distance errorminus="29" errorplus="29">333</distance>
+	<distance errorminus="29" errorplus="29">333.0</distance>
 	<star>
 		<name>WASP-119</name>
 		<name>2MASS J03434402-6511378</name>
@@ -20,14 +20,14 @@
 			<period>2.49979</period>
 			<transittime unit="HJD">2546537.547</transittime>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0363</semimajoraxis>
-			<temperature errorminus="80" errorplus="80">1600</temperature>
-			<inclination errorminus="2" errorplus="2">85</inclination>
-			<eccentricity upperlimit="0.058" />
+			<temperature errorminus="80" errorplus="80">1600.0</temperature>
+			<inclination errorminus="2" errorplus="2">85.0</inclination>
+			<eccentricity upperlimit="0.058">0.058</eccentricity>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>05/2016-05-0/2016-05-0</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<impactparameter errorminus="-0.2400" errorplus="-0.2400">0.5</impactparameter></planet>
 	</star>
 </system>
