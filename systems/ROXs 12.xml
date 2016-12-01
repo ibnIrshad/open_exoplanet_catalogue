@@ -2,12 +2,12 @@
 	<name>ROXs 12</name>
 	<rightascension>16 26 28</rightascension>
 	<declination>-25 27 24</declination>
-	<distance>120</distance>
+	<distance errorminus="10.0" errorplus="-10.0">120</distance>
 	<star>
 		<name>ROXs 12</name>
 		<name>2MASS J16262774-2527247</name>
-		<mass errorminus="0.08" errorplus="0.08">0.87</mass>
-		<temperature errorminus="70" errorplus="100">3850</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">0.87</mass>
+		<temperature errorminus="100.0" errorplus="-70.0">3850</temperature>
 		<spectraltype>M0</spectraltype>
 		<magJ>11.02</magJ>
 		<magH>9.93</magH>
@@ -16,7 +16,7 @@
 		<planet>
 			<name>ROXs 12 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="4" errorplus="4">16</mass>
+			<mass errorminus="4" errorplus="-4.0">16</mass>
 			<magJ errorminus="0.07" errorplus="0.07">16.64</magJ>
 			<magH errorminus="0.08" errorplus="0.08">15.37</magH>
 			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">1.781</separation>
@@ -26,6 +26,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="-20.000000" errorplus="-20.000000">210.0</semimajoraxis><istransiting>0</istransiting></planet>
+	<magV errorminus="0.055" errorplus="0.055">15.595</magV></star>
 </system>
