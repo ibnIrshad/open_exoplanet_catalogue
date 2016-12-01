@@ -12,10 +12,10 @@
 		<name>Kepler-98</name>
 		<name>KOI-299</name>
 		<name>KIC 2692377</name>
-		<temperature errorminus="73" errorplus="73">5539</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.18</metallicity>
-		<mass errorminus="0.06" errorplus="0.06">0.99</mass>
-		<radius errorminus="0.12" errorplus="0.12">1.11</radius>
+		<temperature errorminus="73" errorplus="-73.0">5539</temperature>
+		<metallicity errorminus="0.07" errorplus="-0.07">0.18</metallicity>
+		<mass errorminus="0.06" errorplus="-0.06">0.99</mass>
+		<radius errorminus="0.12" errorplus="-0.12">1.11</radius>
 		<age>2.79</age>
 		<planet>
 			<name>Kepler-98 b</name>
@@ -28,9 +28,9 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>14/2014-05-1/2014-05-1</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="-0.1400" errorplus="-0.1400">0.56</impactparameter></planet>
+	<magV errorminus="" errorplus="">12.899</magV></star>
 </system>

@@ -2,13 +2,13 @@
 	<name>WASP-41</name>
 	<rightascension>12 42 28.497</rightascension>
 	<declination>-30 38 23.55</declination>
-	<distance errorminus="60" errorplus="60">180</distance>
+	<distance errorminus="60" errorplus="-60.0">180</distance>
 	<star>
 		<name>WASP-41</name>
 		<name>TYC 7247-587-1</name>
 		<name>2MASS J12422849-3038235</name>
 		<name>1SWASP J124228.50-303823.5</name>
-		<mass errorminus="0.07" errorplus="0.07">0.93</mass>
+		<mass errorminus="0.07" errorplus="-0.07">0.93</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.87</radius>
 		<magB errorminus="0.18" errorplus="0.18">12.36</magB>
 		<magV errorminus="0.12" errorplus="0.12">11.63</magV>
@@ -17,7 +17,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">10.096</magJ>
 		<magH errorminus="0.024" errorplus="0.024">9.752</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.677</magK>
-		<temperature errorminus="33" errorplus="33">5545</temperature>
+		<temperature errorminus="33" errorplus="-33.0">5545</temperature>
 		<metallicity errorminus="0.02" errorplus="0.02">0.06</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
@@ -29,30 +29,30 @@
 			<radius errorminus="0.03" errorplus="0.03">1.18</radius>
 			<period errorminus="0.0000009" errorplus="0.0000009">3.0524040</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.040</semimajoraxis>
-			<eccentricity upperlimit="0.026" />
-			<inclination errorminus="0.3" errorplus="0.3">89.4</inclination>
+			<eccentricity upperlimit="0.026">0.026</eccentricity>
+			<inclination errorminus="0.3" errorplus="-0.3">89.4</inclination>
 			<spinorbitalignment errorminus="10" errorplus="14">-29</spinorbitalignment>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455343.464</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/10/16</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="-0.0600" errorplus="-0.0600">0.1</impactparameter><temperature errorminus="-10" errorplus="-10">1244.0</temperature></planet>
 		<planet>
 			<name>WASP-41 c</name>
 			<name>TYC 7247-587-1 c</name>
 			<name>2MASS J12422849-3038235 c</name>
 			<list>Confirmed planets</list>
-			<period errorminus="2" errorplus="2">421</period>
+			<period errorminus="2" errorplus="-2.0">421</period>
 			<transittime errorminus="3" errorplus="3" unit="BJD">2456011</transittime>
-			<mass errorminus="0.20" errorplus="0.20" type="msini">3.18</mass>
+			<mass errorminus="0.20" errorplus="-0.2" type="msini">3.18</mass>
 			<eccentricity errorminus="0.024" errorplus="0.024">0.294</eccentricity>
-			<periastron errorminus="6" errorplus="6">353</periastron>
+			<periastron errorminus="6" errorplus="-6.0">353</periastron>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">1.07</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/16</lastupdate>
+			<lastupdate>15/2015-10-1/2015-10-1</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>0</istransiting>
-		</planet>
+		<temperature errorminus="-2" errorplus="-2">241.0</temperature></planet>
 	</star>
 </system>
