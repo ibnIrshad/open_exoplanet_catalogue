@@ -4,10 +4,10 @@
 	<declination>+43 51 37</declination>
 	<star>
 		<name>Kepler-502</name>
-		<temperature errorminus="154.5" errorplus="113.8">6125.0</temperature>
-		<mass errorminus="0.09" errorplus="0.13">1.15</mass>
-		<radius errorminus="0.16" errorplus="0.37">1.22</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.05</metallicity>
+		<temperature errorminus="113.77" errorplus="-154.49">6125.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.15</mass>
+		<radius errorminus="0.37" errorplus="-0.16">1.22</radius>
+		<metallicity errorminus="0.15" errorplus="-0.155">0.05</metallicity>
 		<planet>
 			<name>Kepler-502 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003220" errorplus="0.000003220">4.286864310</period>
-			<radius errorminus="0.059" errorplus="0.130">0.426</radius>
+			<radius errorminus="0.059" errorplus="-0.059">0.426</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.310" errorplus="-1.340">3.09</age><magV errorminus="" errorplus="">14.982</magV></star>
+<distance errorminus="441.19" errorplus="-195.91">1433.0</distance></system>

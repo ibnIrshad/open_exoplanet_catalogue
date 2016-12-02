@@ -4,10 +4,10 @@
 	<declination>+50 27 40</declination>
 	<star>
 		<name>Kepler-1327</name>
-		<temperature errorminus="121.7" errorplus="115.8">5885.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">1.02</mass>
-		<radius errorminus="0.11" errorplus="0.25">1.03</radius>
-		<metallicity errorminus="0.20" errorplus="0.15">-0.03</metallicity>
+		<temperature errorminus="115.84" errorplus="-121.67">5885.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.02</mass>
+		<radius errorminus="0.25" errorplus="-0.11">1.03</radius>
+		<metallicity errorminus="0.20" errorplus="-0.2">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1327 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000087680" errorplus="0.000087680">14.888010980</period>
 			<radius errorminus="0.018" errorplus="0.052">0.161</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.810" errorplus="-2.270">4.07</age><magV errorminus="" errorplus="">13.914</magV></star>
+<distance errorminus="164.10" errorplus="-76.08">688.0</distance></system>

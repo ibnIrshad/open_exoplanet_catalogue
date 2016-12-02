@@ -4,10 +4,10 @@
 	<declination>+46 11 46</declination>
 	<star>
 		<name>Kepler-478</name>
-		<temperature errorminus="70.3" errorplus="69.4">5210.0</temperature>
+		<temperature errorminus="69.43" errorplus="-70.31">5210.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.02" errorplus="0.03">0.80</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.03</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.107">-0.03</metallicity>
 		<planet>
 			<name>Kepler-478 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000013900" errorplus="0.000013900">13.221757600</period>
 			<radius errorminus="0.029" errorplus="0.008">0.242</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.190" errorplus="-2.700">4.9</age><magV errorminus="" errorplus="">13.938</magV></star>
+<distance errorminus="14.54" errorplus="-13.99">420.0</distance></system>

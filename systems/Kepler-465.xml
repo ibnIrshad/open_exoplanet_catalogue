@@ -4,10 +4,10 @@
 	<declination>+46 03 50</declination>
 	<star>
 		<name>Kepler-465</name>
-		<temperature errorminus="60.4" errorplus="63.4">6310.0</temperature>
+		<temperature errorminus="63.38" errorplus="-60.38">6310.0</temperature>
 		<mass errorminus="0.03" errorplus="0.04">1.23</mass>
-		<radius errorminus="0.07" errorplus="0.11">1.29</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.09</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">1.29</radius>
+		<metallicity errorminus="0.08" errorplus="-0.082">0.09</metallicity>
 		<planet>
 			<name>Kepler-465 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000006550" errorplus="0.000006550">9.940672470</period>
 			<radius errorminus="0.014" errorplus="0.022">0.263</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.757" errorplus="-0.678">2.19</age><magV errorminus="" errorplus="">12.663</magV></star>
+<distance errorminus="49.90" errorplus="-34.38">587.0</distance></system>

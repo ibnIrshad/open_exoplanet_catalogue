@@ -4,10 +4,10 @@
 	<declination>+38 55 41</declination>
 	<star>
 		<name>Kepler-497</name>
-		<temperature errorminus="141.2" errorplus="111.0">5834.0</temperature>
-		<mass errorminus="0.06" errorplus="0.10">1.09</mass>
-		<radius errorminus="0.12" errorplus="0.29">1.11</radius>
-		<metallicity errorminus="0.17" errorplus="0.11">0.24</metallicity>
+		<temperature errorminus="110.98" errorplus="-141.15">5834.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.09</mass>
+		<radius errorminus="0.29" errorplus="-0.12">1.11</radius>
+		<metallicity errorminus="0.17" errorplus="-0.175">0.24</metallicity>
 		<planet>
 			<name>Kepler-497 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000910" errorplus="0.000000910">3.573203670</period>
-			<radius errorminus="0.059" errorplus="0.141">0.539</radius>
+			<radius errorminus="0.059" errorplus="-0.059">0.539</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.870" errorplus="-1.940">3.55</age><magV errorminus="" errorplus="">14.72</magV></star>
+<distance errorminus="282.16" errorplus="-123.29">1070.0</distance></system>

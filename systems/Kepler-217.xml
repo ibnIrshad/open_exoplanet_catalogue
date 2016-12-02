@@ -12,8 +12,8 @@
 		<name>Kepler-217</name>
 		<name>KOI-710</name>
 		<name>KIC 9590976</name>
-		<temperature errorminus="09" errorplus="109">6171</temperature>
-		<radius errorminus=".256" errorplus="0.256">1.799</radius>
+		<temperature errorminus="109.0" errorplus="-109.0">6171</temperature>
+		<radius errorminus=".256" errorplus="-0.26">1.799</radius>
 		<mass>1.3830</mass>
 		<planet>
 			<name>Kepler-217 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis><impactparameter errorminus="0.2400" errorplus="-0.2400">0.02</impactparameter></planet>
 		<planet>
 			<name>Kepler-217 c</name>
 			<name>KOI-710 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.089</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.37</impactparameter></planet>
 		<planet>
 			<name>Kepler-217 d</name>
 			<discoverymethod>transit</discoverymethod>
@@ -59,5 +59,5 @@
 			<period errorminus="0.000022410" errorplus="0.000022410">3.886895250</period>
 			<radius errorminus="0.024" errorplus="0.032">0.118</radius>
 		</planet>
-	</star>
+	<magV errorminus="" errorplus="">13.294</magV></star>
 </system>
