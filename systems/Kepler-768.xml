@@ -4,10 +4,10 @@
 	<declination>+38 23 37</declination>
 	<star>
 		<name>Kepler-768</name>
-		<temperature errorminus="165.0" errorplus="177.5">5108.0</temperature>
+		<temperature errorminus="177.47" errorplus="-165.03">5108.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.82</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.168">-0.03</metallicity>
 		<planet>
 			<name>Kepler-768 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000074990" errorplus="0.000074990">11.391002500</period>
 			<radius errorminus="0.012" errorplus="0.018">0.160</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.100" errorplus="-2.780">4.57</age><magV errorminus="" errorplus="">15.681</magV></star>
+<distance errorminus="63.98" errorplus="-53.61">795.0</distance></system>

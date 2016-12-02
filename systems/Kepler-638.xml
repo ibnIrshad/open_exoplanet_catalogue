@@ -4,10 +4,10 @@
 	<declination>+41 37 02</declination>
 	<star>
 		<name>Kepler-638</name>
-		<temperature errorminus="59.4" errorplus="50.1">5382.0</temperature>
+		<temperature errorminus="50.1" errorplus="-59.39">5382.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.88</mass>
-		<radius errorminus="0.09" errorplus="0.29">0.93</radius>
-		<metallicity errorminus="0.12" errorplus="0.10">0.04</metallicity>
+		<radius errorminus="0.29" errorplus="-0.09">0.93</radius>
+		<metallicity errorminus="0.12" errorplus="-0.123">0.04</metallicity>
 		<planet>
 			<name>Kepler-638 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000015130" errorplus="0.000015130">6.079728880</period>
 			<radius errorminus="0.028" errorplus="0.050">0.163</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.400" errorplus="-7.410">11.75</age><magV errorminus="" errorplus="">13.532</magV></star>
+<distance errorminus="137.23" errorplus="-41.61">426.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+47 09 20</declination>
 	<star>
 		<name>Kepler-765</name>
-		<temperature errorminus="90.0" errorplus="81.2">5901.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.05</mass>
-		<radius errorminus="0.10" errorplus="0.23">1.06</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<temperature errorminus="81.23" errorplus="-89.97">5901.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.05</mass>
+		<radius errorminus="0.23" errorplus="-0.1">1.06</radius>
+		<metallicity errorminus="0.15" errorplus="-0.154">0.04</metallicity>
 		<planet>
 			<name>Kepler-765 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000129700" errorplus="0.000129700">27.665522600</period>
 			<radius errorminus="0.020" errorplus="0.047">0.217</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.240" errorplus="-2.020">3.72</age><magV errorminus="" errorplus="">14.609</magV></star>
+<distance errorminus="214.94" errorplus="-95.83">1000.0</distance></system>

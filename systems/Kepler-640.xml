@@ -4,10 +4,10 @@
 	<declination>+42 07 54</declination>
 	<star>
 		<name>Kepler-640</name>
-		<temperature errorminus="62.8" errorplus="72.4">5653.0</temperature>
+		<temperature errorminus="72.44" errorplus="-62.83">5653.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">1.01</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.94</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
+		<metallicity errorminus="0.08" errorplus="-0.084">0.15</metallicity>
 		<planet>
 			<name>Kepler-640 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000035150" errorplus="0.000035150">22.248139670</period>
 			<radius errorminus="0.020" errorplus="0.007">0.228</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.450" errorplus="-0.759">2.09</age><magV errorminus="" errorplus="">13.721</magV></star>
+<distance errorminus="19.13" errorplus="-16.46">538.0</distance></system>

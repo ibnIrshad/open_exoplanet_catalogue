@@ -4,10 +4,10 @@
 	<declination>+40 35 32</declination>
 	<star>
 		<name>Kepler-633</name>
-		<temperature errorminus="91.6" errorplus="86.2">5899.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.02</mass>
-		<radius errorminus="0.14" errorplus="0.21">1.15</radius>
-		<metallicity errorminus="0.13" errorplus="0.10">-0.05</metallicity>
+		<temperature errorminus="86.22" errorplus="-91.57">5899.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.02</mass>
+		<radius errorminus="0.14" errorplus="-0.14">1.15</radius>
+		<metallicity errorminus="0.13" errorplus="-0.126">-0.05</metallicity>
 		<planet>
 			<name>Kepler-633 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000026800" errorplus="0.000026800">8.503407180</period>
 			<radius errorminus="0.019" errorplus="0.028">0.145</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.600" errorplus="-2.340">6.03</age><magV errorminus="" errorplus="">13.716</magV></star>
+<distance errorminus="118.05" errorplus="-79.30">634.0</distance></system>
