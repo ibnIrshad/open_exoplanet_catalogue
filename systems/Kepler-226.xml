@@ -12,8 +12,8 @@
 		<name>Kepler-226</name>
 		<name>KOI-749</name>
 		<name>KIC 10601284</name>
-		<temperature errorminus="200" errorplus="200">5571</temperature>
-		<radius errorminus=".318" errorplus="0.318">0.802</radius>
+		<temperature errorminus="200" errorplus="-200.0">5571</temperature>
+		<radius errorminus=".318" errorplus="-0.32">0.802</radius>
 		<mass errorminus="0.0370" errorplus="0.0370">0.9120</mass>
 		<planet>
 			<name>Kepler-226 c</name>
@@ -21,7 +21,7 @@
 			<name>KOI-749.01</name>
 			<name>KIC 10601284 c</name>
 			<name>KIC 10601284.01</name>
-			<radius errorminus="0.08202" errorplus="0.08202">0.20687</radius>
+			<radius errorminus="0.08202" errorplus="-0.08">0.20687</radius>
 			<period errorminus=".000014" errorplus="0.000014">5.349555</period>
 			<transittime errorminus="0.0014800" errorplus="0.0014800">2455004.8059900</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.058</semimajoraxis><impactparameter errorminus="0.2000" errorplus="-0.2000">0.25</impactparameter></planet>
 		<planet>
 			<name>Kepler-226 b</name>
 			<name>KOI-749 b</name>
 			<name>KOI-749.02</name>
 			<name>KIC 10601284 b</name>
 			<name>KIC 10601284.02</name>
-			<radius errorminus="0.05650" errorplus="0.05650">0.14125</radius>
+			<radius errorminus="0.05650" errorplus="-0.055">0.14125</radius>
 			<period errorminus=".000020" errorplus="0.000020">3.940997</period>
 			<transittime errorminus="0.0028400" errorplus="0.0028400">2454969.0933700</transittime>
 			<list>Confirmed planets</list>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.047</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.15</impactparameter></planet>
 		<planet>
 			<name>Kepler-226 d</name>
 			<name>KOI-749 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.06</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.145</metallicity><magV errorminus="" errorplus="">15.416</magV></star>
 </system>

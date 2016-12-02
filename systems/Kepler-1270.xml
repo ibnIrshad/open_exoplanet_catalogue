@@ -4,10 +4,10 @@
 	<declination>+48 38 43</declination>
 	<star>
 		<name>Kepler-1270</name>
-		<temperature errorminus="34.2" errorplus="40.2">5047.0</temperature>
-		<mass errorminus="0.11" errorplus="0.01">1.28</mass>
-		<radius errorminus="0.41" errorplus="0.30">3.38</radius>
-		<metallicity errorminus="0.02" errorplus="0.11">-0.02</metallicity>
+		<temperature errorminus="40.17" errorplus="-34.17">5047.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.28</mass>
+		<radius errorminus="0.3" errorplus="-0.41">3.38</radius>
+		<metallicity errorminus="0.02" errorplus="-0.02">-0.02</metallicity>
 		<planet>
 			<name>Kepler-1270 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000065510" errorplus="0.000065510">6.033561960</period>
 			<radius errorminus="0.058" errorplus="0.027">0.296</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.140" errorplus="-0.120">4.37</age><magV errorminus="" errorplus="">13.274</magV></star>
+<distance errorminus="110.86" errorplus="-145.11">1204.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+48 20 42</declination>
 	<star>
 		<name>Kepler-488</name>
-		<temperature errorminus="95.1" errorplus="97.4">5970.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">1.07</mass>
-		<radius errorminus="0.10" errorplus="0.27">1.09</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.03</metallicity>
+		<temperature errorminus="97.43" errorplus="-95.08">5970.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.07</mass>
+		<radius errorminus="0.27" errorplus="-0.1">1.09</radius>
+		<metallicity errorminus="0.17" errorplus="-0.172">0.03</metallicity>
 		<planet>
 			<name>Kepler-488 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000380" errorplus="0.000000380">3.120829230</period>
-			<radius errorminus="0.135" errorplus="0.343">1.409</radius>
+			<radius errorminus="0.343" errorplus="-0.135">1.409</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.020" errorplus="-1.770">3.47</age><magV errorminus="" errorplus="">14.804</magV></star>
+<distance errorminus="279.44" errorplus="-115.15">1157.0</distance></system>

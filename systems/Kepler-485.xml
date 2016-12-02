@@ -4,10 +4,10 @@
 	<declination>+50 28 12</declination>
 	<star>
 		<name>Kepler-485</name>
-		<temperature errorminus="153.7" errorplus="105.0">5958.0</temperature>
-		<mass errorminus="0.07" errorplus="0.08">1.07</mass>
-		<radius errorminus="0.12" errorplus="0.26">1.09</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.04</metallicity>
+		<temperature errorminus="105.05" errorplus="-153.72">5958.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.07</mass>
+		<radius errorminus="0.26" errorplus="-0.12">1.09</radius>
+		<metallicity errorminus="0.16" errorplus="-0.161">0.04</metallicity>
 		<planet>
 			<name>Kepler-485 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000180" errorplus="0.000000180">3.243259800</period>
-			<radius errorminus="0.145" errorplus="0.302">1.286</radius>
+			<radius errorminus="0.302" errorplus="-0.145">1.286</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.000" errorplus="-2.020">3.72</age><magV errorminus="" errorplus="">14.952</magV></star>
+<distance errorminus="271.34" errorplus="-140.37">1173.0</distance></system>
