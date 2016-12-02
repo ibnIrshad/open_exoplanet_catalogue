@@ -45,9 +45,9 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-28 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/08/06</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>595.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<mass errorminus="" errorplus="">1.36</mass></planet>
+	<magV errorminus="" errorplus="">15.036</magV></star>
 </system>
