@@ -12,8 +12,8 @@
 		<name>Kepler-247</name>
 		<name>KOI-884</name>
 		<name>KIC 7434875</name>
-		<temperature errorminus="200" errorplus="200">5100</temperature>
-		<radius errorminus=".214" errorplus="0.214">0.768</radius>
+		<temperature errorminus="200" errorplus="-200.0">5100</temperature>
+		<radius errorminus=".214" errorplus="-0.21">0.768</radius>
 		<mass errorminus="0.0430" errorplus="0.0430">0.7730</mass>
 		<planet>
 			<name>Kepler-247 c</name>
@@ -21,7 +21,7 @@
 			<name>KOI-884.01</name>
 			<name>KIC 7434875 c</name>
 			<name>KIC 7434875.01</name>
-			<radius errorminus="0.01276" errorplus="0.10389">0.37272</radius>
+			<radius errorminus="0.01276" errorplus="-0.102">0.37272</radius>
 			<period errorminus=".000007" errorplus="0.000007">9.439452</period>
 			<transittime errorminus="0.0004200" errorplus="0.0004200">2455010.1853600</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.084</semimajoraxis><impactparameter errorminus="0.1500" errorplus="-0.1500">0.14</impactparameter></planet>
 		<planet>
 			<name>Kepler-247 d</name>
 			<name>KOI-884 d</name>
 			<name>KOI-884.02</name>
 			<name>KIC 7434875 d</name>
 			<name>KIC 7434875.02</name>
-			<radius errorminus="0.00911" errorplus="0.10024">0.35905</radius>
+			<radius errorminus="0.00911" errorplus="-0.098">0.35905</radius>
 			<period errorminus=".000026" errorplus="0.000026">20.477912</period>
 			<transittime errorminus="0.0006800" errorplus="0.0006800">2455011.6679800</transittime>
 			<list>Confirmed planets</list>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.14</semimajoraxis><impactparameter errorminus="0.2000" errorplus="-0.2000">0.13</impactparameter></planet>
 		<planet>
 			<name>Kepler-247 b</name>
 			<name>KOI-884 b</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.042</semimajoraxis><impactparameter errorminus="0.2400" errorplus="-0.2400">0.14</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.169</metallicity><magV errorminus="" errorplus="">15.067</magV></star>
 </system>

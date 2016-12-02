@@ -12,16 +12,16 @@
 		<name>Kepler-246</name>
 		<name>KOI-874</name>
 		<name>KIC 7134976</name>
-		<temperature errorminus="200" errorplus="200">5206</temperature>
-		<radius errorminus=".422" errorplus="0.422">0.831</radius>
-		<mass errorminus="0.0660" errorplus="0.0660">0.7590</mass>
+		<temperature errorminus="200" errorplus="-200.0">5206</temperature>
+		<radius errorminus=".422" errorplus="-0.42">0.831</radius>
+		<mass errorminus="0.0660" errorplus="0.0660">0.86</mass>
 		<planet>
 			<name>Kepler-246 b</name>
 			<name>KOI-874 b</name>
 			<name>KOI-874.01</name>
 			<name>KIC 7134976 b</name>
 			<name>KIC 7134976.01</name>
-			<radius errorminus="0.01823" errorplus="0.10936">0.21324</radius>
+			<radius errorminus="0.01823" errorplus="-0.107">0.21324</radius>
 			<period errorminus=".000008" errorplus="0.000008">4.601820</period>
 			<transittime errorminus="0.0009600" errorplus="0.0009600">2455002.9788700</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.58</impactparameter></planet>
 		<planet>
 			<name>Kepler-246 c</name>
 			<name>KOI-874 c</name>
 			<name>KOI-874.02</name>
 			<name>KIC 7134976 c</name>
 			<name>KIC 7134976.02</name>
-			<radius errorminus="0.06926" errorplus="0.06926">0.13670</radius>
+			<radius errorminus="0.06926" errorplus="-0.068">0.13670</radius>
 			<period errorminus=".000075" errorplus="0.000075">11.187161</period>
 			<transittime errorminus="0.0041500" errorplus="0.0041500">2454970.1817200</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.095</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.04</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.143</metallicity><magV errorminus="" errorplus="">15.024</magV></star>
 </system>

@@ -12,7 +12,7 @@
 		<name>Kepler-261</name>
 		<name>KOI-988</name>
 		<name>KIC 2302548</name>
-		<temperature errorminus="100" errorplus="100">5098</temperature>
+		<temperature errorminus="100" errorplus="-100.0">5098</temperature>
 		<radius errorminus=".050" errorplus="0.050">0.794</radius>
 		<mass errorminus="0.0300" errorplus="0.0300">0.8760</mass>
 		<planet>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.088</semimajoraxis><impactparameter errorminus="0.1900" errorplus="-0.1900">0.16</impactparameter></planet>
 		<planet>
 			<name>Kepler-261 c</name>
 			<name>KOI-988 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.156</semimajoraxis><impactparameter errorminus="0.2100" errorplus="-0.2100">0.19</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.14</metallicity><magV errorminus="" errorplus="">13.562</magV></star>
 </system>

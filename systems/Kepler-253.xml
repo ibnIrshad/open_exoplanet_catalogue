@@ -12,8 +12,8 @@
 		<name>Kepler-253</name>
 		<name>KOI-921</name>
 		<name>KIC 8689373</name>
-		<temperature errorminus="200" errorplus="200">5208</temperature>
-		<radius errorminus=".322" errorplus="0.322">0.786</radius>
+		<temperature errorminus="200" errorplus="-200.0">5208</temperature>
+		<radius errorminus=".322" errorplus="-0.32">0.786</radius>
 		<mass errorminus="0.0910" errorplus="0.0910">0.8080</mass>
 		<planet>
 			<name>Kepler-253 c</name>
@@ -21,7 +21,7 @@
 			<name>KOI-921.01</name>
 			<name>KIC 8689373 c</name>
 			<name>KIC 8689373.01</name>
-			<radius errorminus="0.01002" errorplus="0.10115">0.24150</radius>
+			<radius errorminus="0.01002" errorplus="-0.099">0.24150</radius>
 			<period errorminus=".000032" errorplus="0.000032">10.281951</period>
 			<transittime errorminus="0.0016400" errorplus="0.0016400">2455008.3398200</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.089</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.49</impactparameter></planet>
 		<planet>
 			<name>Kepler-253 d</name>
 			<name>KOI-921 d</name>
 			<name>KOI-921.02</name>
 			<name>KIC 8689373 d</name>
 			<name>KIC 8689373.02</name>
-			<radius errorminus="0.02734" errorplus="0.11847">0.28888</radius>
+			<radius errorminus="0.02734" errorplus="-0.116">0.28888</radius>
 			<period errorminus=".000066" errorplus="0.000066">18.119869</period>
 			<transittime errorminus="0.0019500" errorplus="0.0019500">2455015.6162000</transittime>
 			<list>Confirmed planets</list>
@@ -46,14 +46,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis><impactparameter errorminus="0.2800" errorplus="-0.2800">0.65</impactparameter></planet>
 		<planet>
 			<name>Kepler-253 b</name>
 			<name>KOI-921 b</name>
 			<name>KOI-921.03</name>
 			<name>KIC 8689373 b</name>
 			<name>KIC 8689373.03</name>
-			<radius errorminus="0.06106" errorplus="0.06106">0.14854</radius>
+			<radius errorminus="0.06106" errorplus="-0.06">0.14854</radius>
 			<period errorminus=".000017" errorplus="0.000017">3.783986</period>
 			<transittime errorminus="0.0027800" errorplus="0.0027800">2454966.2803600</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.046</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.27</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.052</metallicity><magV errorminus="" errorplus="">15.532</magV></star>
 </system>

@@ -12,8 +12,8 @@
 		<name>Kepler-251</name>
 		<name>KOI-907</name>
 		<name>KIC 8247638</name>
-		<temperature errorminus="100" errorplus="100">5526</temperature>
-		<radius errorminus=".155" errorplus="0.155">0.890</radius>
+		<temperature errorminus="100" errorplus="-100.0">5526</temperature>
+		<radius errorminus=".155" errorplus="-0.15">0.890</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">0.9600</mass>
 		<planet>
 			<name>Kepler-251 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.2</impactparameter></planet>
 		<planet>
 			<name>Kepler-251 d</name>
 			<name>KOI-907 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.182</semimajoraxis><impactparameter errorminus="0.2100" errorplus="-0.2100">0.3</impactparameter></planet>
 		<planet>
 			<name>Kepler-251 b</name>
 			<name>KOI-907 b</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.053</semimajoraxis><impactparameter errorminus="0.2100" errorplus="-0.2100">0.25</impactparameter></planet>
 		<planet>
 			<name>Kepler-251 e</name>
 			<name>KOI-907 e</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.404</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.23</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.156</metallicity><magV errorminus="" errorplus="">15.223</magV></star>
 </system>

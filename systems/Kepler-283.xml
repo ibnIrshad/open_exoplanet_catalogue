@@ -12,7 +12,7 @@
 		<name>Kepler-283</name>
 		<name>KOI-1298</name>
 		<name>KIC 10604335</name>
-		<temperature errorminus="100" errorplus="100">4351</temperature>
+		<temperature errorminus="100" errorplus="-100.0">4351</temperature>
 		<radius errorminus=".024" errorplus="0.024">0.566</radius>
 		<mass errorminus="0.0150" errorplus="0.0150">0.5960</mass>
 		<planet>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.082</semimajoraxis><impactparameter errorminus="0.3400" errorplus="-0.3400">0.51</impactparameter></planet>
 		<planet>
 			<name>Kepler-283 c</name>
 			<name>KOI-1298 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.341</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.44</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.26</metallicity><magV errorminus="" errorplus="">15.847</magV></star>
 </system>

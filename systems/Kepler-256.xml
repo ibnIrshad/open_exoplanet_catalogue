@@ -12,8 +12,8 @@
 		<name>Kepler-256</name>
 		<name>KOI-939</name>
 		<name>KIC 9466668</name>
-		<temperature errorminus="11" errorplus="111">5551</temperature>
-		<radius errorminus=".316" errorplus="0.316">1.301</radius>
+		<temperature errorminus="111.0" errorplus="-111.0">5551</temperature>
+		<radius errorminus=".316" errorplus="-0.32">1.301</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0000</mass>
 		<planet>
 			<name>Kepler-256 c</name>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.16</impactparameter></planet>
 		<planet>
 			<name>Kepler-256 d</name>
 			<name>KOI-939 d</name>
 			<name>KOI-939.02</name>
 			<name>KIC 9466668 d</name>
 			<name>KIC 9466668.02</name>
-			<radius errorminus="0.05741" errorplus="0.05741">0.22600</radius>
+			<radius errorminus="0.05741" errorplus="-0.056">0.22600</radius>
 			<period errorminus=".000031" errorplus="0.000031">5.839172</period>
 			<transittime errorminus="0.0031800" errorplus="0.0031800">2454965.0884500</transittime>
 			<list>Confirmed planets</list>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis><impactparameter errorminus="0.3000" errorplus="-0.3000">0.84</impactparameter></planet>
 		<planet>
 			<name>Kepler-256 b</name>
 			<name>KOI-939 b</name>
@@ -62,14 +62,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.027</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.07</impactparameter></planet>
 		<planet>
 			<name>Kepler-256 e</name>
 			<name>KOI-939 e</name>
 			<name>KOI-939.04</name>
 			<name>KIC 9466668 e</name>
 			<name>KIC 9466668.04</name>
-			<radius errorminus="0.05286" errorplus="0.05286">0.21416</radius>
+			<radius errorminus="0.05286" errorplus="-0.052">0.21416</radius>
 			<period errorminus=".000066" errorplus="0.000066">10.681572</period>
 			<transittime errorminus="0.0038100" errorplus="0.0038100">2454964.5549300</transittime>
 			<list>Confirmed planets</list>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.096</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.04</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.061</metallicity><magV errorminus="" errorplus="">15.065</magV></star>
 </system>
