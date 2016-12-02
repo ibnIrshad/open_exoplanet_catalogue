@@ -4,10 +4,10 @@
 	<declination>+42 22 49</declination>
 	<star>
 		<name>Kepler-709</name>
-		<temperature errorminus="83.4" errorplus="83.6">5071.0</temperature>
+		<temperature errorminus="83.59" errorplus="-83.42">5071.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.80</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.77</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.08</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.184">-0.08</metallicity>
 		<planet>
 			<name>Kepler-709 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000026440" errorplus="0.000026440">16.085249540</period>
 			<radius errorminus="0.017" errorplus="0.016">0.261</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.020" errorplus="-2.990">4.9</age><magV errorminus="" errorplus="">15.219</magV></star>
+<distance errorminus="41.44" errorplus="-45.96">668.0</distance></system>
