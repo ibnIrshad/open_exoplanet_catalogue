@@ -12,8 +12,8 @@
 		<name>Kepler-316</name>
 		<name>KOI-1713</name>
 		<name>KIC 8230616</name>
-		<temperature errorminus="200" errorplus="200">4204</temperature>
-		<radius errorminus=".052" errorplus="0.052">0.520</radius>
+		<temperature errorminus="200" errorplus="-200.0">4204</temperature>
+		<radius errorminus=".052" errorplus="-0.05">0.520</radius>
 		<mass errorminus="0.0140" errorplus="0.0140">0.5870</mass>
 		<planet>
 			<name>Kepler-316 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.058</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.18</impactparameter></planet>
 		<planet>
 			<name>Kepler-316 b</name>
 			<name>KOI-1713 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.027</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.14</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.48</metallicity><magV errorminus="" errorplus="">15.224</magV></star>
 </system>

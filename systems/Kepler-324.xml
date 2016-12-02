@@ -12,8 +12,8 @@
 		<name>Kepler-324</name>
 		<name>KOI-1831</name>
 		<name>KIC 11601584</name>
-		<temperature errorminus="100" errorplus="100">5194</temperature>
-		<radius errorminus=".072" errorplus="0.072">0.840</radius>
+		<temperature errorminus="100" errorplus="-100.0">5194</temperature>
+		<radius errorminus=".072" errorplus="-0.07">0.840</radius>
 		<mass errorminus="0.1500" errorplus="0.1500">0.8500</mass>
 		<planet>
 			<name>Kepler-324 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.26</semimajoraxis><impactparameter errorminus="0.2900" errorplus="-0.2900">0.83</impactparameter></planet>
 		<planet>
 			<name>Kepler-324 b</name>
 			<name>KOI-1831 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis><impactparameter errorminus="0.2400" errorplus="-0.2400">0.38</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.009</metallicity><magV errorminus="" errorplus="">14.122</magV></star>
 </system>
