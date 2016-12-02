@@ -12,7 +12,7 @@
 		<name>Kepler-155</name>
 		<name>KOI-438</name>
 		<name>KIC 12302530</name>
-		<temperature errorminus="100" errorplus="100">4508</temperature>
+		<temperature errorminus="100" errorplus="-100.0">4508</temperature>
 		<radius errorminus=".029" errorplus="0.029">0.620</radius>
 		<mass errorminus="0.0160" errorplus="0.0160">0.6350</mass>
 		<planet>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.056</semimajoraxis><impactparameter errorminus="0.2600" errorplus="-0.2600">0.67</impactparameter></planet>
 		<planet>
 			<name>Kepler-155 c</name>
 			<name>KOI-438 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.242</semimajoraxis><impactparameter errorminus="0.0900" errorplus="-0.0900">0.78</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.363</metallicity><magV errorminus="" errorplus="">14.258</magV></star>
 </system>

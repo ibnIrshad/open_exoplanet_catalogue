@@ -12,7 +12,7 @@
 		<name>Kepler-152</name>
 		<name>KOI-416</name>
 		<name>KIC 6508221</name>
-		<temperature errorminus="100" errorplus="100">5088</temperature>
+		<temperature errorminus="100" errorplus="-100.0">5088</temperature>
 		<radius errorminus=".044" errorplus="0.044">0.724</radius>
 		<planet>
 			<name>Kepler-152 b</name>
@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.124</semimajoraxis><impactparameter errorminus="0.1600" errorplus="-0.1600">0.03</impactparameter></planet>
 		<planet>
 			<name>Kepler-152 c</name>
 			<name>KOI-416 c</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.356</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.25</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.138</metallicity><magV errorminus="" errorplus="">14.29</magV></star>
 </system>

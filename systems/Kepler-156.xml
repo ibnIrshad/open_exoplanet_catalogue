@@ -12,8 +12,8 @@
 		<name>Kepler-156</name>
 		<name>KOI-440</name>
 		<name>KIC 2438264</name>
-		<temperature errorminus="100" errorplus="100">5094</temperature>
-		<radius errorminus=".053" errorplus="0.053">0.807</radius>
+		<temperature errorminus="100" errorplus="-100.0">5094</temperature>
+		<radius errorminus=".053" errorplus="-0.05">0.807</radius>
 		<mass errorminus="0.0680" errorplus="0.0680">0.7370</mass>
 		<planet>
 			<name>Kepler-156 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.117</semimajoraxis><impactparameter errorminus="0.2700" errorplus="-0.2700">0.64</impactparameter></planet>
 		<planet>
 			<name>Kepler-156 b</name>
 			<name>KOI-440 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis><impactparameter errorminus="0.1200" errorplus="-0.1200">0.69</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.014</metallicity><magV errorminus="" errorplus="">14.172</magV></star>
 </system>
