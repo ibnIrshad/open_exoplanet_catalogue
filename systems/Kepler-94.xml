@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0100" errorplus="0.0100">0.85</impactparameter></planet>
 		<planet>
 			<name>Kepler-94 c</name>
 			<name>KOI-104.10</name>
@@ -44,6 +44,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
-		</planet>
-	</star>
+		<istransiting>0</istransiting></planet>
+	<magV errorminus="" errorplus="">12.895</magV></star>
 </system>

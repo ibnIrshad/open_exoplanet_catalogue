@@ -33,7 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0300" errorplus="0.0300">0.69</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 e</name>
 			<name>KOI-116.02</name>
@@ -48,7 +48,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1300" errorplus="0.1300">0.28</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 b</name>
 			<name>KOI-116.03</name>
@@ -63,7 +63,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1500" errorplus="0.1500">0.39</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 d</name>
 			<name>KOI-116.04</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1100" errorplus="0.1100">0.45</impactparameter></planet>
 	</star>
 </system>

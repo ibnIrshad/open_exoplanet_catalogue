@@ -35,6 +35,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<istransiting>0</istransiting></planet>
 	</star>
 </system>
