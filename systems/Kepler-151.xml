@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.116</semimajoraxis><impactparameter errorminus="0.2800" errorplus="0.2800">0.79</impactparameter></planet>
 		<planet>
 			<name>Kepler-151 c</name>
 			<name>KOI-413 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.16</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.06</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.102</metallicity><magV errorminus="" errorplus="">14.769</magV></star>
 </system>
