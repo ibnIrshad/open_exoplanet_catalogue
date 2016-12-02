@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.3200" errorplus="0.3200">0.65</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 d</name>
 			<name>KOI-260 d</name>
@@ -54,7 +54,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1700" errorplus="0.1700">0.14</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 c</name>
 			<name>KOI-260 c</name>
@@ -73,6 +73,6 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2700" errorplus="0.2700">0.71</impactparameter></planet>
 	</star>
 </system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.032</semimajoraxis><impactparameter errorminus="0.3000" errorplus="0.3000">0.87</impactparameter></planet>
 		<planet>
 			<name>Kepler-205 c</name>
 			<name>KOI-663 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.122</semimajoraxis><impactparameter errorminus="0.2100" errorplus="0.2100">0.81</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.149</metallicity><magV errorminus="" errorplus="">13.506</magV></star>
 </system>
