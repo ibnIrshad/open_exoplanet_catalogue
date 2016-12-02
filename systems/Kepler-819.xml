@@ -4,10 +4,10 @@
 	<declination>+39 10 38</declination>
 	<star>
 		<name>Kepler-819</name>
-		<temperature errorminus="111.9" errorplus="165.3">5279.0</temperature>
+		<temperature errorminus="165.3" errorplus="-111.92">5279.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.86</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.81</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.06</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.81</radius>
+		<metallicity errorminus="0.16" errorplus="-0.161">-0.06</metallicity>
 		<planet>
 			<name>Kepler-819 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000117400" errorplus="0.000117400">33.199564800</period>
 			<radius errorminus="0.015" errorplus="0.022">0.246</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.740" errorplus="-2.730">4.47</age><magV errorminus="" errorplus="">15.03</magV></star>
+<distance errorminus="64.45" errorplus="-47.21">722.0</distance></system>

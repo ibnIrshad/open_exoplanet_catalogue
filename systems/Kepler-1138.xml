@@ -4,10 +4,10 @@
 	<declination>+48 18 26</declination>
 	<star>
 		<name>Kepler-1138</name>
-		<temperature errorminus="65.2" errorplus="62.2">5582.0</temperature>
+		<temperature errorminus="62.16" errorplus="-65.24">5582.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
-		<radius errorminus="0.06" errorplus="0.13">0.92</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.92</radius>
+		<metallicity errorminus="0.15" errorplus="-0.153">0.04</metallicity>
 		<planet>
 			<name>Kepler-1138 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000010190" errorplus="0.000010190">3.170600050</period>
 			<radius errorminus="0.012" errorplus="0.021">0.152</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.540" errorplus="-2.700">4.37</age><magV errorminus="" errorplus="">15.353</magV></star>
+<distance errorminus="152.35" errorplus="-73.19">1101.0</distance></system>

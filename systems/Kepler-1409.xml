@@ -4,10 +4,10 @@
 	<declination>+51 12 31</declination>
 	<star>
 		<name>Kepler-1409</name>
-		<temperature errorminus="73.8" errorplus="76.6">5160.0</temperature>
+		<temperature errorminus="76.61" errorplus="-73.84">5160.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">-0.03</metallicity>
+		<metallicity errorminus="0.15" errorplus="-0.155">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1409 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000002400" errorplus="0.000002400">0.764864930</period>
 			<radius errorminus="0.006" errorplus="0.007">0.093</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.980" errorplus="-2.950">4.79</age><magV errorminus="" errorplus="">15.168</magV></star>
+<distance errorminus="40.06" errorplus="-37.99">722.0</distance></system>

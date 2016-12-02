@@ -4,10 +4,10 @@
 	<declination>+37 58 17</declination>
 	<star>
 		<name>Kepler-1419</name>
-		<temperature errorminus="157.2" errorplus="113.9">5796.0</temperature>
-		<mass errorminus="0.07" errorplus="0.06">1.01</mass>
-		<radius errorminus="0.10" errorplus="0.23">1.01</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
+		<temperature errorminus="113.94" errorplus="-157.22">5796.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.01</mass>
+		<radius errorminus="0.23" errorplus="-0.1">1.01</radius>
+		<metallicity errorminus="0.17" errorplus="-0.17">0.04</metallicity>
 		<planet>
 			<name>Kepler-1419 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000503200" errorplus="0.000503200">42.521589500</period>
 			<radius errorminus="0.026" errorplus="0.059">0.255</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.100" errorplus="-2.560">4.37</age><magV errorminus="" errorplus="">15.761</magV></star>
+<distance errorminus="324.63" errorplus="-153.28">1444.0</distance></system>

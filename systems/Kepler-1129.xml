@@ -4,10 +4,10 @@
 	<declination>+41 18 34</declination>
 	<star>
 		<name>Kepler-1129</name>
-		<temperature errorminus="114.3" errorplus="135.0">5831.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.00</mass>
-		<radius errorminus="0.10" errorplus="0.17">1.00</radius>
-		<metallicity errorminus="0.19" errorplus="0.15">-0.04</metallicity>
+		<temperature errorminus="134.99" errorplus="-114.35">5831.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.00</mass>
+		<radius errorminus="0.10" errorplus="-0.1">1.00</radius>
+		<metallicity errorminus="0.19" errorplus="-0.187">-0.04</metallicity>
 		<planet>
 			<name>Kepler-1129 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000758600" errorplus="0.000758600">76.536958600</period>
 			<radius errorminus="0.024" errorplus="0.041">0.244</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.040" errorplus="-2.330">4.07</age><magV errorminus="" errorplus="">15.28</magV></star>
+<distance errorminus="220.24" errorplus="-125.26">1258.0</distance></system>

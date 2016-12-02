@@ -4,10 +4,10 @@
 	<declination>+48 20 10</declination>
 	<star>
 		<name>Kepler-1422</name>
-		<temperature errorminus="121.6" errorplus="143.2">6194.0</temperature>
-		<mass errorminus="0.08" errorplus="0.09">1.15</mass>
-		<radius errorminus="0.15" errorplus="0.24">1.23</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.00</metallicity>
+		<temperature errorminus="143.17" errorplus="-121.64">6194.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.15</mass>
+		<radius errorminus="0.15" errorplus="-0.15">1.23</radius>
+		<metallicity errorminus="0.17" errorplus="-0.165">0.00</metallicity>
 		<planet>
 			<name>Kepler-1422 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000324600" errorplus="0.000324600">18.605194200</period>
 			<radius errorminus="0.024" errorplus="0.037">0.180</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.180" errorplus="-1.300">3.02</age><magV errorminus="" errorplus="">15.665</magV></star>
+<distance errorminus="406.21" errorplus="-275.56">2081.0</distance></system>

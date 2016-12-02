@@ -12,17 +12,17 @@
 		<magJ errorminus="0.022" errorplus="0.022">14.143</magJ>
 		<magH errorminus="0.031" errorplus="0.031">13.869</magH>
 		<magK errorminus="0.046" errorplus="0.046">13.754</magK>
-		<mass errorminus="0.12" errorplus="0.12">1.01</mass>
-		<radius errorminus="0.10" errorplus="0.10">1.01</radius>
-		<temperature errorminus="213" errorplus="164">6091</temperature>
-		<metallicity errorminus="0.30" errorplus="0.22">-0.04</metallicity>
+		<mass errorminus="0.12" errorplus="-0.12">1.01</mass>
+		<radius errorminus="0.10" errorplus="-0.1">1.01</radius>
+		<temperature errorminus="164.0" errorplus="-213.0">6091</temperature>
+		<metallicity errorminus="0.30" errorplus="-0.3">-0.04</metallicity>
 		<planet>
 			<name>KIC 10525077 b</name>
 			<name>KOI-5800 b</name>
 			<name>Kepler-459 b</name>
 			<period errorminus="0.01697" errorplus="0.01628">854.08300</period>
-			<inclination errorminus="0.098" errorplus="0.096">89.861</inclination>
-			<radius errorminus="0.071" errorplus="0.080">0.491</radius>
+			<inclination errorminus="0.098" errorplus="-0.098">89.861</inclination>
+			<radius errorminus="0.071" errorplus="-0.071">0.491</radius>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2455168.236</transittime>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
@@ -44,5 +44,5 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
-	</star>
+	<magV errorminus="" errorplus="">15.355</magV></star>
 </system>

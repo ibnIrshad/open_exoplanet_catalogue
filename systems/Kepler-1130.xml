@@ -4,10 +4,10 @@
 	<declination>+45 23 04</declination>
 	<star>
 		<name>Kepler-1130</name>
-		<temperature errorminus="51.4" errorplus="53.0">5403.0</temperature>
+		<temperature errorminus="53.01" errorplus="-51.42">5403.0</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.90</mass>
 		<radius errorminus="0.01" errorplus="0.01">0.81</radius>
-		<metallicity errorminus="0.08" errorplus="0.09">-0.06</metallicity>
+		<metallicity errorminus="0.08" errorplus="-0.081">-0.06</metallicity>
 		<planet>
 			<name>Kepler-1130 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000012940" errorplus="0.000012940">5.452981750</period>
 			<radius errorminus="0.003" errorplus="0.014">0.071</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.776" errorplus="-0.369">1.58</age><magV errorminus="" errorplus="">12.404</magV></star>
+<distance errorminus="5.30" errorplus="-5.10">234.0</distance></system>
