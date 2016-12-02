@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.141</semimajoraxis><impactparameter errorminus="0.2400" errorplus="0.2400">0.46</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 d</name>
 			<name>KOI-1364 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis><impactparameter errorminus="0.2200" errorplus="0.2200">0.35</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 e</name>
 			<name>KOI-1364 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.097</semimajoraxis><impactparameter errorminus="0.3200" errorplus="0.3200">0.91</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 c</name>
 			<name>KOI-1364 c</name>
@@ -78,7 +78,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.38</impactparameter></planet>
 		<planet>
 			<name>Kepler-292 b</name>
 			<name>KOI-1364 b</name>
@@ -94,6 +94,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.035</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.09</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.077</metallicity><magV errorminus="" errorplus="">15.956</magV></star>
 </system>
