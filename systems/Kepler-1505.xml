@@ -4,10 +4,10 @@
 	<declination>+41 47 13</declination>
 	<star>
 		<name>Kepler-1505</name>
-		<temperature errorminus="53.9" errorplus="65.4">5686.0</temperature>
+		<temperature errorminus="65.36" errorplus="-53.94">5686.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.93</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.86</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.18</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.111">-0.18</metallicity>
 		<planet>
 			<name>Kepler-1505 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000225200" errorplus="0.000225200">30.860936600</period>
 			<radius errorminus="0.004" errorplus="0.004">0.083</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.981" errorplus="-0.459">1.7</age><magV errorminus="" errorplus="">12.988</magV></star>
+<distance errorminus="11.05" errorplus="-13.34">359.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+39 52 59</declination>
 	<star>
 		<name>Kepler-1470</name>
-		<temperature errorminus="94.6" errorplus="84.4">4961.0</temperature>
+		<temperature errorminus="84.41" errorplus="-94.64">4961.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.80</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.76</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.16">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1470 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000191600" errorplus="0.000191600">16.295090300</period>
 			<radius errorminus="0.007" errorplus="0.008">0.095</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.100" errorplus="-2.760">4.57</age><magV errorminus="" errorplus="">15.061</magV></star>
+<distance errorminus="26.84" errorplus="-29.91">569.0</distance></system>

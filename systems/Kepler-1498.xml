@@ -4,10 +4,10 @@
 	<declination>+44 55 00</declination>
 	<star>
 		<name>Kepler-1498</name>
-		<temperature errorminus="58.2" errorplus="60.4">5256.0</temperature>
+		<temperature errorminus="60.36" errorplus="-58.16">5256.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.81</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.156">-0.01</metallicity>
 		<planet>
 			<name>Kepler-1498 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000933100" errorplus="0.000933100">48.051405000</period>
 			<radius errorminus="0.008" errorplus="0.010">0.119</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.280" errorplus="-2.440">4.17</age><magV errorminus="" errorplus="">15.033</magV></star>
+<distance errorminus="46.60" errorplus="-39.42">740.0</distance></system>

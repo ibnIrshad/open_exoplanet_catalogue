@@ -4,10 +4,10 @@
 	<declination>+42 09 03</declination>
 	<star>
 		<name>Kepler-1483</name>
-		<temperature errorminus="223.8" errorplus="208.7">6337.0</temperature>
-		<mass errorminus="0.14" errorplus="0.21">1.25</mass>
-		<radius errorminus="0.25" errorplus="0.60">1.40</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.04</metallicity>
+		<temperature errorminus="208.71" errorplus="-223.77">6337.0</temperature>
+		<mass errorminus="0.14" errorplus="-0.14">1.25</mass>
+		<radius errorminus="0.6" errorplus="-0.25">1.40</radius>
+		<metallicity errorminus="0.16" errorplus="-0.159">0.04</metallicity>
 		<planet>
 			<name>Kepler-1483 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000105300" errorplus="0.000105300">9.508515600</period>
 			<radius errorminus="0.027" errorplus="0.059">0.136</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.997" errorplus="-0.735">2.4</age><magV errorminus="" errorplus="">14.44</magV></star>
+<distance errorminus="556.29" errorplus="-254.14">1327.0</distance></system>

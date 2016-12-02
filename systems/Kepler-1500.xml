@@ -4,10 +4,10 @@
 	<declination>+39 44 40</declination>
 	<star>
 		<name>Kepler-1500</name>
-		<temperature errorminus="140.6" errorplus="122.1">5845.0</temperature>
-		<mass errorminus="0.07" errorplus="0.07">1.00</mass>
-		<radius errorminus="0.10" errorplus="0.18">1.00</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.05</metallicity>
+		<temperature errorminus="122.09" errorplus="-140.57">5845.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.00</mass>
+		<radius errorminus="0.10" errorplus="-0.1">1.00</radius>
+		<metallicity errorminus="0.18" errorplus="-0.185">-0.05</metallicity>
 		<planet>
 			<name>Kepler-1500 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000161200" errorplus="0.000161200">15.033010500</period>
 			<radius errorminus="0.013" errorplus="0.020">0.107</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.970" errorplus="-2.300">4.07</age><magV errorminus="" errorplus="">14.606</magV></star>
+<distance errorminus="163.59" errorplus="-98.40">904.0</distance></system>

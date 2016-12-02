@@ -4,10 +4,10 @@
 	<declination>+50 30 10</declination>
 	<star>
 		<name>Kepler-1455</name>
-		<temperature errorminus="57.4" errorplus="61.2">4075.0</temperature>
+		<temperature errorminus="61.23" errorplus="-57.4">4075.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.62</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.60</radius>
-		<metallicity errorminus="0.17" errorplus="0.13">-0.02</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.167">-0.02</metallicity>
 		<planet>
 			<name>Kepler-1455 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000373700" errorplus="0.000373700">49.276764000</period>
 			<radius errorminus="0.014" errorplus="0.013">0.193</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.160" errorplus="-2.400">4.17</age><magV errorminus="" errorplus="">15.855</magV></star>
+<distance errorminus="25.23" errorplus="-33.31">392.0</distance></system>
