@@ -12,8 +12,8 @@
 		<name>Kepler-185</name>
 		<name>KOI-569</name>
 		<name>KIC 8008206</name>
-		<temperature errorminus="200" errorplus="200">5208</temperature>
-		<radius errorminus=".460" errorplus="0.460">0.806</radius>
+		<temperature errorminus="200" errorplus="-200.0">5208</temperature>
+		<radius errorminus=".460" errorplus="-0.46">0.806</radius>
 		<mass errorminus="0.0780" errorplus="0.0780">0.7730</mass>
 		<planet>
 			<name>Kepler-185 c</name>
@@ -21,7 +21,7 @@
 			<name>KOI-569.01</name>
 			<name>KIC 8008206 c</name>
 			<name>KIC 8008206.01</name>
-			<radius errorminus="0.01549" errorplus="0.10662">0.18408</radius>
+			<radius errorminus="0.01549" errorplus="-0.104">0.18408</radius>
 			<period errorminus=".000097" errorplus="0.000097">20.729042</period>
 			<transittime errorminus="0.0029300" errorplus="0.0029300">2455018.4364200</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.139</semimajoraxis><impactparameter errorminus="0.3300" errorplus="-0.3300">0.57</impactparameter></planet>
 		<planet>
 			<name>Kepler-185 b</name>
 			<name>KOI-569 b</name>
 			<name>KOI-569.02</name>
 			<name>KIC 8008206 b</name>
 			<name>KIC 8008206.02</name>
-			<radius errorminus="0.06106" errorplus="0.06106">0.10662</radius>
+			<radius errorminus="0.06106" errorplus="-0.06">0.10662</radius>
 			<period errorminus=".000005" errorplus="0.000005">1.632900</period>
 			<transittime errorminus="0.0018900" errorplus="0.0018900">2454967.5479700</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.026</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.34</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.051</metallicity><magV errorminus="" errorplus="">14.458</magV></star>
 </system>
