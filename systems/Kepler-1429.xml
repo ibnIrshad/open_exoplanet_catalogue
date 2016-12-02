@@ -4,10 +4,10 @@
 	<declination>+49 02 42</declination>
 	<star>
 		<name>Kepler-1429</name>
-		<temperature errorminus="77.0" errorplus="68.8">5902.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">1.05</mass>
-		<radius errorminus="0.10" errorplus="0.28">1.07</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
+		<temperature errorminus="68.85" errorplus="-77.0">5902.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">1.05</mass>
+		<radius errorminus="0.28" errorplus="-0.1">1.07</radius>
+		<metallicity errorminus="0.17" errorplus="-0.166">0.04</metallicity>
 		<planet>
 			<name>Kepler-1429 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000045580" errorplus="0.000045580">4.484874930</period>
 			<radius errorminus="0.012" errorplus="0.031">0.115</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.240" errorplus="-2.280">4.17</age><magV errorminus="" errorplus="">14.879</magV></star>
+<distance errorminus="306.01" errorplus="-113.56">1156.0</distance></system>

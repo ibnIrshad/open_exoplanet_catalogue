@@ -12,8 +12,8 @@
 		<name>Kepler-399</name>
 		<name>KOI-2707</name>
 		<name>KIC 5480640</name>
-		<temperature errorminus="200" errorplus="200">5502</temperature>
-		<radius errorminus=".363" errorplus="0.363">0.680</radius>
+		<temperature errorminus="200" errorplus="-200.0">5502</temperature>
+		<radius errorminus=".363" errorplus="-0.36">0.680</radius>
 		<mass errorminus="0.0610" errorplus="0.0610">0.9270</mass>
 		<planet>
 			<name>Kepler-399 d</name>
@@ -21,7 +21,7 @@
 			<name>KOI-2707.01</name>
 			<name>KIC 5480640 d</name>
 			<name>KIC 5480640.01</name>
-			<radius errorminus="0.00091" errorplus="0.09204">0.17224</radius>
+			<radius errorminus="0.00091" errorplus="-0.09">0.17224</radius>
 			<period errorminus=".000363" errorplus="0.000363">58.034616</period>
 			<transittime errorminus="0.0041900" errorplus="0.0041900">2454971.7332300</transittime>
 			<list>Confirmed planets</list>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.261</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.19</impactparameter></planet>
 		<planet>
 			<name>Kepler-399 b</name>
 			<name>KOI-2707 b</name>
@@ -46,14 +46,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.103</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.21</impactparameter></planet>
 		<planet>
 			<name>Kepler-399 c</name>
 			<name>KOI-2707 c</name>
 			<name>KOI-2707.03</name>
 			<name>KIC 5480640 c</name>
 			<name>KIC 5480640.03</name>
-			<radius errorminus="0.07017" errorplus="0.07017">0.13032</radius>
+			<radius errorminus="0.07017" errorplus="-0.069">0.13032</radius>
 			<period errorminus=".000171" errorplus="0.000171">26.675690</period>
 			<transittime errorminus="0.0043000" errorplus="0.0043000">2454982.9990800</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.155</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.18</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.827</metallicity><magV errorminus="" errorplus="">14.467</magV></star>
 </system>
