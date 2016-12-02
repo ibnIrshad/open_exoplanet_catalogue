@@ -12,10 +12,10 @@
 		<name>Kepler-107</name>
 		<name>KOI-117</name>
 		<name>KIC 10875245</name>
-		<temperature errorminus="75" errorplus="75">5851</temperature>
+		<temperature errorminus="75" errorplus="-75.0">5851</temperature>
 		<radius errorminus="0.047" errorplus="0.047">1.411</radius>
 		<mass errorminus="0.0390" errorplus="0.0390">1.1830</mass>
-		<metallicity errorminus="0.10" errorplus="0.10">0.27</metallicity>
+		<metallicity errorminus="0.10" errorplus="0.10">-0.092</metallicity>
 		<planet>
 			<name>Kepler-107 e</name>
 			<name>KOI-117 e</name>
@@ -34,7 +34,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2800" errorplus="-0.2800">0.9</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 c</name>
 			<name>KOI-117 c</name>
@@ -53,7 +53,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2900" errorplus="-0.2900">0.78</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 b</name>
 			<name>KOI-117 b</name>
@@ -72,7 +72,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2400" errorplus="-0.2400">0.34</impactparameter></planet>
 		<planet>
 			<name>Kepler-107 d</name>
 			<name>KOI-117 d</name>
@@ -91,6 +91,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="0.2400" errorplus="-0.2400">0.27</impactparameter></planet>
+	<magV errorminus="" errorplus="">12.487</magV></star>
 </system>

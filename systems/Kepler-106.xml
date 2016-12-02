@@ -14,10 +14,10 @@
 		<name>Kepler-106</name>
 		<name>KOI-116</name>
 		<name>KIC 8395660</name>
-		<temperature errorminus="114" errorplus="114">5858</temperature>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.12</metallicity>
-		<mass errorminus="0.06" errorplus="0.06">1.00</mass>
-		<radius errorminus="0.17" errorplus="0.17">1.04</radius>
+		<temperature errorminus="114" errorplus="-114.0">5858</temperature>
+		<metallicity errorminus="0.11" errorplus="-0.11">-0.12</metallicity>
+		<mass errorminus="0.06" errorplus="-0.06">1.00</mass>
+		<radius errorminus="0.17" errorplus="-0.17">1.04</radius>
 		<age>4.83</age>
 		<planet>
 			<name>Kepler-106 c</name>
@@ -33,7 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0300" errorplus="-0.0300">0.69</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 e</name>
 			<name>KOI-116.02</name>
@@ -48,7 +48,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1300" errorplus="-0.1300">0.28</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 b</name>
 			<name>KOI-116.03</name>
@@ -63,7 +63,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1500" errorplus="-0.1500">0.39</impactparameter></planet>
 		<planet>
 			<name>Kepler-106 d</name>
 			<name>KOI-116.04</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1100" errorplus="-0.1100">0.45</impactparameter></planet>
 	</star>
 </system>

@@ -12,9 +12,9 @@
 		<name>Kepler-95</name>
 		<name>KOI-122</name>
 		<name>KIC 8349582</name>
-		<temperature errorminus="74" errorplus="74">5699</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.30</metallicity>
-		<mass errorminus="0.08" errorplus="0.08">1.08</mass>
+		<temperature errorminus="74" errorplus="-74.0">5699</temperature>
+		<metallicity errorminus="0.10" errorplus="-0.1">0.30</metallicity>
+		<mass errorminus="0.08" errorplus="-0.08">1.08</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.41</radius>
 		<age>5.63</age>
 		<planet>
@@ -31,6 +31,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="0.0100" errorplus="-0.0100">0.74</impactparameter></planet>
+	<magV errorminus="" errorplus="">12.346</magV></star>
 </system>
