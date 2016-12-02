@@ -4,10 +4,10 @@
 	<declination>+46 59 02</declination>
 	<star>
 		<name>Kepler-938</name>
-		<temperature errorminus="107.5" errorplus="95.4">5533.0</temperature>
+		<temperature errorminus="95.38" errorplus="-107.5">5533.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.92</mass>
-		<radius errorminus="0.06" errorplus="0.10">0.89</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.03</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.89</radius>
+		<metallicity errorminus="0.18" errorplus="-0.182">-0.03</metallicity>
 		<planet>
 			<name>Kepler-938 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000289800" errorplus="0.000289800">52.629841700</period>
 			<radius errorminus="0.014" errorplus="0.022">0.198</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.500" errorplus="-2.560">4.27</age><magV errorminus="" errorplus="">15.004</magV></star>
+<distance errorminus="94.09" errorplus="-63.98">861.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+46 58 25</declination>
 	<star>
 		<name>Kepler-1022</name>
-		<temperature errorminus="51.8" errorplus="49.5">4445.0</temperature>
+		<temperature errorminus="49.47" errorplus="-51.77">4445.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.71</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.68</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">0.06</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.175">0.06</metallicity>
 		<planet>
 			<name>Kepler-1022 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000018800" errorplus="0.000018800">10.994698780</period>
 			<radius errorminus="0.025" errorplus="0.007">0.211</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.900" errorplus="-1.960">3.63</age><magV errorminus="" errorplus="">15.389</magV></star>
+<distance errorminus="20.19" errorplus="-23.27">455.0</distance></system>

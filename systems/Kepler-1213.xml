@@ -4,10 +4,10 @@
 	<declination>+50 56 39</declination>
 	<star>
 		<name>Kepler-1213</name>
-		<temperature errorminus="81.7" errorplus="74.6">6050.0</temperature>
+		<temperature errorminus="74.56" errorplus="-81.73">6050.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.14</mass>
-		<radius errorminus="0.09" errorplus="0.13">1.21</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.13</metallicity>
+		<radius errorminus="0.09" errorplus="-0.09">1.21</radius>
+		<metallicity errorminus="0.08" errorplus="-0.083">0.13</metallicity>
 		<planet>
 			<name>Kepler-1213 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000026590" errorplus="0.000026590">5.349824120</period>
 			<radius errorminus="0.009" errorplus="0.012">0.106</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.220" errorplus="-1.400">3.47</age><magV errorminus="" errorplus="">13.386</magV></star>
+<distance errorminus="71.29" errorplus="-53.60">685.0</distance></system>

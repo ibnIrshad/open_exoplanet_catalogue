@@ -4,10 +4,10 @@
 	<declination>+40 08 13</declination>
 	<star>
 		<name>Kepler-1225</name>
-		<temperature errorminus="147.7" errorplus="133.4">6140.0</temperature>
-		<mass errorminus="0.09" errorplus="0.14">1.13</mass>
-		<radius errorminus="0.15" errorplus="0.40">1.19</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">0.01</metallicity>
+		<temperature errorminus="133.4" errorplus="-147.7">6140.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.13</mass>
+		<radius errorminus="0.4" errorplus="-0.15">1.19</radius>
+		<metallicity errorminus="0.18" errorplus="-0.185">0.01</metallicity>
 		<planet>
 			<name>Kepler-1225 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000027530" errorplus="0.000027530">7.010754340</period>
 			<radius errorminus="0.021" errorplus="0.054">0.162</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.360" errorplus="-1.300">3.02</age><magV errorminus="" errorplus="">14.689</magV></star>
+<distance errorminus="407.27" errorplus="-170.85">1241.0</distance></system>

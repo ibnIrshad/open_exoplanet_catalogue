@@ -4,10 +4,10 @@
 	<declination>+47 13 03</declination>
 	<star>
 		<name>Kepler-941</name>
-		<temperature errorminus="104.0" errorplus="154.0">5539.0</temperature>
-		<mass errorminus="0.07" errorplus="0.06">0.89</mass>
-		<radius errorminus="0.08" errorplus="0.10">0.86</radius>
-		<metallicity errorminus="0.22" errorplus="0.18">-0.15</metallicity>
+		<temperature errorminus="154.02" errorplus="-104.04">5539.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">0.89</mass>
+		<radius errorminus="0.08" errorplus="-0.08">0.86</radius>
+		<metallicity errorminus="0.22" errorplus="-0.221">-0.15</metallicity>
 		<planet>
 			<name>Kepler-941 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000083000" errorplus="0.000083000">17.423951980</period>
 			<radius errorminus="0.054" errorplus="0.031">0.275</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.000" errorplus="-2.440">4.07</age><magV errorminus="" errorplus="">15.601</magV></star>
+<distance errorminus="129.33" errorplus="-106.83">1105.0</distance></system>

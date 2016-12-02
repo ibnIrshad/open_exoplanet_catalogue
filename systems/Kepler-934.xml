@@ -4,10 +4,10 @@
 	<declination>+43 45 19</declination>
 	<star>
 		<name>Kepler-934</name>
-		<temperature errorminus="76.0" errorplus="68.2">5001.0</temperature>
+		<temperature errorminus="68.25" errorplus="-76.01">5001.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.77</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.158">0.01</metallicity>
 		<planet>
 			<name>Kepler-934 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000282900" errorplus="0.000282900">55.673830900</period>
 			<radius errorminus="0.010" errorplus="0.013">0.186</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.150" errorplus="-2.660">4.47</age><magV errorminus="" errorplus="">15.061</magV></star>
+<distance errorminus="29.40" errorplus="-30.42">603.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+40 29 26</declination>
 	<star>
 		<name>Kepler-925</name>
-		<temperature errorminus="104.9" errorplus="62.2">4673.0</temperature>
+		<temperature errorminus="62.23" errorplus="-104.92">4673.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.72</radius>
-		<metallicity errorminus="0.19" errorplus="0.14">0.12</metallicity>
+		<metallicity errorminus="0.19" errorplus="-0.189">0.12</metallicity>
 		<planet>
 			<name>Kepler-925 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000170400" errorplus="0.000170400">33.867853100</period>
 			<radius errorminus="0.019" errorplus="0.059">0.209</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.920" errorplus="-1.150">2.57</age><magV errorminus="" errorplus="">15.81</magV></star>
+<distance errorminus="27.48" errorplus="-27.64">623.0</distance></system>

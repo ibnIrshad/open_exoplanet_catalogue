@@ -4,10 +4,10 @@
 	<declination>+42 52 57</declination>
 	<star>
 		<name>Kepler-1035</name>
-		<temperature errorminus="121.2" errorplus="114.3">5763.0</temperature>
-		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
-		<radius errorminus="0.09" errorplus="0.23">0.97</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
+		<temperature errorminus="114.35" errorplus="-121.15">5763.0</temperature>
+		<mass errorminus="0.06" errorplus="-0.06">0.98</mass>
+		<radius errorminus="0.23" errorplus="-0.09">0.97</radius>
+		<metallicity errorminus="0.18" errorplus="-0.183">-0.03</metallicity>
 		<planet>
 			<name>Kepler-1035 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003710" errorplus="0.000003710">2.714077550</period>
 			<radius errorminus="0.010" errorplus="0.025">0.104</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.610" errorplus="-2.700">4.47</age><magV errorminus="" errorplus="">12.987</magV></star>
+<distance errorminus="96.89" errorplus="-39.28">408.0</distance></system>
