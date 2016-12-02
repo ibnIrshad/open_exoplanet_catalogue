@@ -4,10 +4,10 @@
 	<declination>+46 01 39</declination>
 	<star>
 		<name>Kepler-734</name>
-		<temperature errorminus="44.6" errorplus="51.7">5326.0</temperature>
+		<temperature errorminus="51.69" errorplus="-44.6">5326.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.17</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.11">-0.17</metallicity>
 		<planet>
 			<name>Kepler-734 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000002890" errorplus="0.000002890">6.104852860</period>
 			<radius errorminus="0.012" errorplus="0.012">0.318</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.080" errorplus="-1.030">2.34</age><magV errorminus="" errorplus="">15.017</magV></star>
+<distance errorminus="23.23" errorplus="-22.51">553.0</distance></system>
