@@ -4,10 +4,10 @@
 	<declination>+42 39 22</declination>
 	<star>
 		<name>Kepler-1607</name>
-		<temperature errorminus="199.2" errorplus="118.5">6116.0</temperature>
-		<mass errorminus="0.10" errorplus="0.14">1.14</mass>
-		<radius errorminus="0.18" errorplus="0.43">1.21</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.05</metallicity>
+		<temperature errorminus="118.51" errorplus="-199.25">6116.0</temperature>
+		<mass errorminus="0.10" errorplus="-0.1">1.14</mass>
+		<radius errorminus="0.43" errorplus="-0.18">1.21</radius>
+		<metallicity errorminus="0.15" errorplus="-0.146">0.05</metallicity>
 		<planet>
 			<name>Kepler-1607 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000210200" errorplus="0.000210200">13.647367600</period>
 			<radius errorminus="0.012" errorplus="0.029">0.082</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.370" errorplus="-1.430">3.16</age><magV errorminus="" errorplus="">13.897</magV></star>
+<distance errorminus="262.00" errorplus="-114.62">735.0</distance></system>

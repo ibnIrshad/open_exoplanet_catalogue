@@ -4,10 +4,10 @@
 	<declination>+37 22 35</declination>
 	<star>
 		<name>Kepler-1624</name>
-		<temperature errorminus="53.4" errorplus="59.0">3636.0</temperature>
+		<temperature errorminus="58.98" errorplus="-53.35">3636.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.50</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.47</radius>
-		<metallicity errorminus="0.12" errorplus="0.11">0.06</metallicity>
+		<metallicity errorminus="0.12" errorplus="-0.118">0.06</metallicity>
 		<planet>
 			<name>Kepler-1624 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000004560" errorplus="0.000004560">3.290304520</period>
 			<radius errorminus="0.041" errorplus="0.035">0.509</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.740" errorplus="-2.680">4.47</age><magV errorminus="" errorplus="">15.669</magV></star>
+<distance errorminus="18.63" errorplus="-20.75">199.0</distance></system>

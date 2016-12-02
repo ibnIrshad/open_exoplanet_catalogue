@@ -4,10 +4,10 @@
 	<declination>+49 43 40</declination>
 	<star>
 		<name>Kepler-1611</name>
-		<temperature errorminus="122.5" errorplus="89.7">5605.0</temperature>
+		<temperature errorminus="89.65" errorplus="-122.47">5605.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.94</mass>
-		<radius errorminus="0.07" errorplus="0.17">0.93</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">0.93</radius>
+		<metallicity errorminus="0.17" errorplus="-0.172">0.01</metallicity>
 		<planet>
 			<name>Kepler-1611 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000058260" errorplus="0.000058260">5.176242900</period>
 			<radius errorminus="0.006" errorplus="0.014">0.072</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.060" errorplus="-3.230">5.01</age><magV errorminus="" errorplus="">14.435</magV></star>
+<distance errorminus="124.67" errorplus="-57.69">686.0</distance></system>

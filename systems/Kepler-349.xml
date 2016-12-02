@@ -12,8 +12,8 @@
 		<name>Kepler-349</name>
 		<name>KOI-2022</name>
 		<name>KIC 8564674</name>
-		<temperature errorminus="200" errorplus="200">5956</temperature>
-		<radius errorminus=".349" errorplus="0.349">0.927</radius>
+		<temperature errorminus="200" errorplus="-200.0">5956</temperature>
+		<radius errorminus=".349" errorplus="-0.35">0.927</radius>
 		<mass errorminus="0.0500" errorplus="0.0500">1.0170</mass>
 		<planet>
 			<name>Kepler-349 b</name>
@@ -21,7 +21,7 @@
 			<name>KOI-2022.01</name>
 			<name>KIC 8564674 b</name>
 			<name>KIC 8564674.01</name>
-			<radius errorminus="0.06561" errorplus="0.06561">0.17315</radius>
+			<radius errorminus="0.06561" errorplus="-0.064">0.17315</radius>
 			<period errorminus=".000020" errorplus="0.000020">5.929778</period>
 			<transittime errorminus="0.0019300" errorplus="0.0019300">2454968.4911800</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.48</impactparameter></planet>
 		<planet>
 			<name>Kepler-349 c</name>
 			<name>KOI-2022 c</name>
 			<name>KOI-2022.02</name>
 			<name>KIC 8564674 c</name>
 			<name>KIC 8564674.02</name>
-			<radius errorminus="0.06744" errorplus="0.06744">0.17862</radius>
+			<radius errorminus="0.06744" errorplus="-0.066">0.17862</radius>
 			<period errorminus=".000063" errorplus="0.000063">12.247629</period>
 			<transittime errorminus="0.0030400" errorplus="0.0030400">2454971.2170100</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.105</semimajoraxis><impactparameter errorminus="0.2400" errorplus="-0.2400">0.15</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.091</metallicity><magV errorminus="" errorplus="">14.746</magV></star>
 </system>

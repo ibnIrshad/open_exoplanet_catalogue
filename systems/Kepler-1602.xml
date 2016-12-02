@@ -4,10 +4,10 @@
 	<declination>+40 25 39</declination>
 	<star>
 		<name>Kepler-1602</name>
-		<temperature errorminus="152.7" errorplus="217.7">6296.0</temperature>
-		<mass errorminus="0.11" errorplus="0.20">1.22</mass>
-		<radius errorminus="0.22" errorplus="0.58">1.36</radius>
-		<metallicity errorminus="0.17" errorplus="0.12">0.02</metallicity>
+		<temperature errorminus="217.69" errorplus="-152.7">6296.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.22</mass>
+		<radius errorminus="0.58" errorplus="-0.22">1.36</radius>
+		<metallicity errorminus="0.17" errorplus="-0.168">0.02</metallicity>
 		<planet>
 			<name>Kepler-1602 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000075040" errorplus="0.000075040">11.179316050</period>
 			<radius errorminus="0.021" errorplus="0.052">0.120</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.130" errorplus="-0.850">2.51</age><magV errorminus="" errorplus="">13.352</magV></star>
+<distance errorminus="344.41" errorplus="-137.45">815.0</distance></system>

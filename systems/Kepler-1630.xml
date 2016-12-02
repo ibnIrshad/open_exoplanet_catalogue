@@ -4,10 +4,10 @@
 	<declination>+43 42 39</declination>
 	<star>
 		<name>Kepler-1630</name>
-		<temperature errorminus="64.3" errorplus="97.3">4736.0</temperature>
+		<temperature errorminus="97.3" errorplus="-64.28">4736.0</temperature>
 		<mass errorminus="0.03" errorplus="0.05">0.66</mass>
 		<radius errorminus="0.02" errorplus="0.05">0.63</radius>
-		<metallicity errorminus="0.10" errorplus="0.23">-0.46</metallicity>
+		<metallicity errorminus="0.225" errorplus="-0.105">-0.46</metallicity>
 		<planet>
 			<name>Kepler-1630 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.003256000" errorplus="0.003256000">509.997402000</period>
 			<radius errorminus="0.009" errorplus="0.018">0.195</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.800" errorplus="-3.130">5.01</age><magV errorminus="" errorplus="">14.15</magV></star>
+<distance errorminus="24.77" errorplus="-12.17">278.0</distance></system>
