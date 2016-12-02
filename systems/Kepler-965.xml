@@ -4,10 +4,10 @@
 	<declination>+41 53 28</declination>
 	<star>
 		<name>Kepler-965</name>
-		<temperature errorminus="64.8" errorplus="79.4">5886.0</temperature>
+		<temperature errorminus="79.36" errorplus="-64.81">5886.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.05</mass>
-		<radius errorminus="0.13" errorplus="0.19">1.15</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">0.03</metallicity>
+		<radius errorminus="0.13" errorplus="-0.13">1.15</radius>
+		<metallicity errorminus="0.10" errorplus="-0.095">0.03</metallicity>
 		<planet>
 			<name>Kepler-965 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000566100" errorplus="0.000566100">134.252729800</period>
 			<radius errorminus="0.035" errorplus="0.049">0.302</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.600" errorplus="-2.540">5.5</age><magV errorminus="" errorplus="">13.35</magV></star>
+<distance errorminus="102.01" errorplus="-69.26">618.0</distance></system>

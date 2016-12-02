@@ -4,10 +4,10 @@
 	<declination>+51 14 60</declination>
 	<star>
 		<name>Kepler-867</name>
-		<temperature errorminus="68.6" errorplus="61.7">5541.0</temperature>
+		<temperature errorminus="61.72" errorplus="-68.57">5541.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.92</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.91</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.02</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.11">-0.02</metallicity>
 		<planet>
 			<name>Kepler-867 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000604700" errorplus="0.000604700">150.242127000</period>
 			<radius errorminus="0.027" errorplus="0.037">0.414</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.340" errorplus="-3.370">5.89</age><magV errorminus="" errorplus="">14.827</magV></star>
+<distance errorminus="56.53" errorplus="-41.60">824.0</distance></system>

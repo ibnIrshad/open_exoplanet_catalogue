@@ -4,10 +4,10 @@
 	<declination>+46 14 15</declination>
 	<star>
 		<name>Kepler-962</name>
-		<temperature errorminus="55.2" errorplus="72.8">5478.0</temperature>
+		<temperature errorminus="72.81" errorplus="-55.18">5478.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.93</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.86</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.103">0.01</metallicity>
 		<planet>
 			<name>Kepler-962 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000015860" errorplus="0.000015860">12.057072390</period>
 			<radius errorminus="0.007" errorplus="0.007">0.176</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.920" errorplus="-0.990">2.4</age><magV errorminus="" errorplus="">13.576</magV></star>
+<distance errorminus="13.78" errorplus="-14.89">439.0</distance></system>

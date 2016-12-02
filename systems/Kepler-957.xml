@@ -4,10 +4,10 @@
 	<declination>+48 49 08</declination>
 	<star>
 		<name>Kepler-957</name>
-		<temperature errorminus="58.9" errorplus="47.5">4963.0</temperature>
+		<temperature errorminus="47.52" errorplus="-58.85">4963.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.18" errorplus="0.18">-0.01</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.177">-0.01</metallicity>
 		<planet>
 			<name>Kepler-957 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000005070" errorplus="0.000005070">5.907413540</period>
 			<radius errorminus="0.029" errorplus="0.026">0.491</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.280" errorplus="-1.300">2.75</age><magV errorminus="" errorplus="">15.625</magV></star>
+<distance errorminus="38.35" errorplus="-42.82">749.0</distance></system>

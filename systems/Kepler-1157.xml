@@ -4,10 +4,10 @@
 	<declination>+43 31 32</declination>
 	<star>
 		<name>Kepler-1157</name>
-		<temperature errorminus="58.0" errorplus="54.7">4679.0</temperature>
+		<temperature errorminus="54.66" errorplus="-58.05">4679.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.71</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">0.05</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.177">0.05</metallicity>
 		<planet>
 			<name>Kepler-1157 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000016990" errorplus="0.000016990">4.457431640</period>
 			<radius errorminus="0.018" errorplus="0.004">0.097</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.100" errorplus="-1.760">3.39</age><magV errorminus="" errorplus="">14.374</magV></star>
+<distance errorminus="14.35" errorplus="-15.67">346.0</distance></system>

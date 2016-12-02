@@ -4,10 +4,10 @@
 	<declination>+43 31 39</declination>
 	<star>
 		<name>Kepler-865</name>
-		<temperature errorminus="209.0" errorplus="287.7">5570.0</temperature>
-		<mass errorminus="0.07" errorplus="0.09">0.93</mass>
-		<radius errorminus="0.09" errorplus="0.18">0.92</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.01</metallicity>
+		<temperature errorminus="287.71" errorplus="-208.99">5570.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">0.93</mass>
+		<radius errorminus="0.09" errorplus="-0.09">0.92</radius>
+		<metallicity errorminus="0.18" errorplus="-0.177">-0.01</metallicity>
 		<planet>
 			<name>Kepler-865 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000024630" errorplus="0.000024630">14.163992940</period>
 			<radius errorminus="0.021" errorplus="0.044">0.222</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.150" errorplus="-2.560">4.27</age><magV errorminus="" errorplus="">14.48</magV></star>
+<distance errorminus="139.31" errorplus="-68.31">664.0</distance></system>

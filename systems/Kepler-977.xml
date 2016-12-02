@@ -4,10 +4,10 @@
 	<declination>+42 14 54</declination>
 	<star>
 		<name>Kepler-977</name>
-		<temperature errorminus="105.2" errorplus="84.5">5315.0</temperature>
+		<temperature errorminus="84.55" errorplus="-105.24">5315.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.83</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.01</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.163">-0.01</metallicity>
 		<planet>
 			<name>Kepler-977 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000063930" errorplus="0.000063930">26.853283220</period>
 			<radius errorminus="0.015" errorplus="0.015">0.234</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.020" errorplus="-2.850">4.57</age><magV errorminus="" errorplus="">14.812</magV></star>
+<distance errorminus="47.59" errorplus="-38.36">664.0</distance></system>

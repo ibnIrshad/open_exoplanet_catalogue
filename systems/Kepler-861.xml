@@ -4,10 +4,10 @@
 	<declination>+46 13 35</declination>
 	<star>
 		<name>Kepler-861</name>
-		<temperature errorminus="72.9" errorplus="65.2">5047.0</temperature>
+		<temperature errorminus="65.25" errorplus="-72.9">5047.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.165">0.01</metallicity>
 		<planet>
 			<name>Kepler-861 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000005490" errorplus="0.000005490">3.949631380</period>
 			<radius errorminus="0.012" errorplus="0.011">0.203</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.030" errorplus="-2.670">4.47</age><magV errorminus="" errorplus="">15.623</magV></star>
+<distance errorminus="40.31" errorplus="-41.15">806.0</distance></system>

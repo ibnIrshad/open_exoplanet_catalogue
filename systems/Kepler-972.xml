@@ -4,10 +4,10 @@
 	<declination>+43 25 32</declination>
 	<star>
 		<name>Kepler-972</name>
-		<temperature errorminus="260.4" errorplus="204.8">6146.0</temperature>
-		<mass errorminus="0.12" errorplus="0.16">1.15</mass>
-		<radius errorminus="0.20" errorplus="0.40">1.22</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.04</metallicity>
+		<temperature errorminus="204.83" errorplus="-260.44">6146.0</temperature>
+		<mass errorminus="0.12" errorplus="-0.12">1.15</mass>
+		<radius errorminus="0.4" errorplus="-0.2">1.22</radius>
+		<metallicity errorminus="0.16" errorplus="-0.158">0.04</metallicity>
 		<planet>
 			<name>Kepler-972 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000016080" errorplus="0.000016080">7.039325530</period>
-			<radius errorminus="0.098" errorplus="0.136">0.415</radius>
+			<radius errorminus="0.098" errorplus="-0.098">0.415</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.530" errorplus="-1.140">2.82</age><magV errorminus="" errorplus="">14.915</magV></star>
+<distance errorminus="428.50" errorplus="-230.37">1304.0</distance></system>
