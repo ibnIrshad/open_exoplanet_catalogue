@@ -4,10 +4,10 @@
 	<declination>+46 07 51</declination>
 	<star>
 		<name>Kepler-987</name>
-		<temperature errorminus="61.0" errorplus="69.8">5637.0</temperature>
+		<temperature errorminus="69.85" errorplus="-60.98">5637.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.97</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.91</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.102">0.01</metallicity>
 		<planet>
 			<name>Kepler-987 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000478300" errorplus="0.000478300">105.303314800</period>
 			<radius errorminus="0.011" errorplus="0.014">0.291</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.780" errorplus="-1.010">2.45</age><magV errorminus="" errorplus="">14.986</magV></star>
+<distance errorminus="37.28" errorplus="-36.00">936.0</distance></system>

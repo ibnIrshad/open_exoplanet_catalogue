@@ -4,10 +4,10 @@
 	<declination>+46 11 54</declination>
 	<star>
 		<name>Kepler-999</name>
-		<temperature errorminus="85.9" errorplus="104.5">6237.0</temperature>
-		<mass errorminus="0.12" errorplus="0.16">1.29</mass>
-		<radius errorminus="0.34" errorplus="0.46">1.65</radius>
-		<metallicity errorminus="0.07" errorplus="0.09">0.05</metallicity>
+		<temperature errorminus="104.45" errorplus="-85.91">6237.0</temperature>
+		<mass errorminus="0.12" errorplus="-0.12">1.29</mass>
+		<radius errorminus="0.46" errorplus="-0.34">1.65</radius>
+		<metallicity errorminus="0.07" errorplus="-0.068">0.05</metallicity>
 		<planet>
 			<name>Kepler-999 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000008170" errorplus="0.000008170">5.991857020</period>
-			<radius errorminus="0.044" errorplus="0.058">0.209</radius>
+			<radius errorminus="0.044" errorplus="-0.044">0.209</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.700" errorplus="-0.620">3.09</age><magV errorminus="" errorplus="">12.239</magV></star>
+<distance errorminus="156.76" errorplus="-116.29">568.0</distance></system>
