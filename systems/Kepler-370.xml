@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.14</semimajoraxis><impactparameter errorminus="0.2400" errorplus="0.2400">0.35</impactparameter></planet>
 		<planet>
 			<name>Kepler-370 b</name>
 			<name>KOI-2183 b</name>
@@ -45,6 +45,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis><impactparameter errorminus="0.3500" errorplus="0.3500">0.91</impactparameter></planet>
+	<mass errorminus="" errorplus="">0.94</mass><metallicity errorminus="" errorplus="">-0.124</metallicity><magV errorminus="" errorplus="">15.198</magV></star>
 </system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis><impactparameter errorminus="0.2400" errorplus="0.2400">0.33</impactparameter></planet>
 		<planet>
 			<name>Kepler-366 c</name>
 			<name>KOI-2168 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.11</semimajoraxis><impactparameter errorminus="0.2200" errorplus="0.2200">0.2</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.081</metallicity><magV errorminus="" errorplus="">14.842</magV></star>
 </system>

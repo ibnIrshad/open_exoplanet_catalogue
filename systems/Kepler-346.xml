@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.071</semimajoraxis><impactparameter errorminus="0.2400" errorplus="0.2400">0.32</impactparameter></planet>
 		<planet>
 			<name>Kepler-346 c</name>
 			<name>KOI-1978 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.168</semimajoraxis><impactparameter errorminus="0.2600" errorplus="0.2600">0.63</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.031</metallicity><magV errorminus="" errorplus="">15.214</magV></star>
 </system>
