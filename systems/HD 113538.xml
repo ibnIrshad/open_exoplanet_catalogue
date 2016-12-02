@@ -13,7 +13,7 @@
 		<name>CD-51 7244</name>
 		<name>CPD-51 5750</name>
 		<name>2MASS J13045745-5226349</name>
-		<temperature errorminus="145" errorplus="145">4462</temperature>
+		<temperature errorminus="145" errorplus="-145.0">4462</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.585</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.53</radius>
 		<magV>9.057</magV>
@@ -23,36 +23,36 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.438</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.835</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.637</magK>
-		<metallicity errorminus="0.06" errorplus="0.06">-0.24</metallicity>
-		<spectraltype>K9V</spectraltype>
-		<age errorminus="4" errorplus="4">4.3</age>
+		<metallicity errorminus="0.06" errorplus="-0.06">-0.24</metallicity>
+		<spectraltype>K9 V</spectraltype>
+		<age errorminus="4" errorplus="-4.0">4.3</age>
 		<planet>
 			<name>HD 113538 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.04" errorplus="0.04" type="msini">0.36</mass>
-			<period errorminus="7.4" errorplus="7.4">663.2</period>
+			<period errorminus="8.4" errorplus="-7.4">663.2</period>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">1.24</semimajoraxis>
-			<eccentricity errorminus="0.08" errorplus="0.08">0.14</eccentricity>
-			<periastron errorminus="29" errorplus="37">74</periastron>
+			<eccentricity errorminus="0.08" errorplus="-0.08">0.14</eccentricity>
+			<periastron errorminus="37.0" errorplus="-29.0">74</periastron>
 			<maximumrvtime errorminus="17" errorplus="17">2455500</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
 			<lastupdate>15/11/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<periastrontime errorminus="17.000000" errorplus="-17.000000">2455500.0</periastrontime><istransiting>0</istransiting></planet>
 		<planet>
 			<name>HD 113538 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.06" errorplus="0.06" type="msini">0.93</mass>
-			<period errorminus="22" errorplus="25">1818</period>
-			<semimajoraxis errorminus="0.07" errorplus="0.07">2.44</semimajoraxis>
+			<mass errorminus="0.06" errorplus="-0.06" type="msini">0.93</mass>
+			<period errorminus="25.0" errorplus="-22.0">1818</period>
+			<semimajoraxis errorminus="0.07" errorplus="-0.07">2.44</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.2</eccentricity>
-			<periastron errorminus="16" errorplus="16">280</periastron>
+			<periastron errorminus="16" errorplus="-16.0">280</periastron>
 			<maximumrvtime errorminus="31" errorplus="31">2456741</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
 			<lastupdate>15/11/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<periastrontime errorminus="31.000000" errorplus="-31.000000">2456741.0</periastrontime><istransiting>0</istransiting></planet>
 	</star>
 </system>
