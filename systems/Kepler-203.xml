@@ -12,8 +12,8 @@
 		<name>Kepler-203</name>
 		<name>KOI-658</name>
 		<name>KIC 6062088</name>
-		<temperature errorminus="100" errorplus="100">5821</temperature>
-		<radius errorminus=".213" errorplus="0.213">1.114</radius>
+		<temperature errorminus="100" errorplus="-100.0">5821</temperature>
+		<radius errorminus=".213" errorplus="-0.21">1.114</radius>
 		<mass errorminus="0.1500" errorplus="0.1500">1.0100</mass>
 		<planet>
 			<name>Kepler-203 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.043</semimajoraxis><impactparameter errorminus="0.2400" errorplus="-0.2400">0.52</impactparameter></planet>
 		<planet>
 			<name>Kepler-203 c</name>
 			<name>KOI-658 c</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.061</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.1</impactparameter></planet>
 		<planet>
 			<name>Kepler-203 d</name>
 			<name>KOI-658 d</name>
@@ -62,6 +62,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.1</semimajoraxis><impactparameter errorminus="0.2300" errorplus="-0.2300">0.34</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.107</metallicity><magV errorminus="" errorplus="">13.989</magV></star>
 </system>

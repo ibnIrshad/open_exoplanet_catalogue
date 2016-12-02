@@ -14,7 +14,7 @@
 		<name>Kepler-126</name>
 		<name>KOI-260</name>
 		<name>KIC 8292840</name>
-		<temperature errorminus="94" errorplus="94">6239</temperature>
+		<temperature errorminus="94" errorplus="-94.0">6239</temperature>
 		<radius errorminus="0.024" errorplus="0.024">1.358</radius>
 		<mass errorminus="0.0560" errorplus="0.0560">1.1100</mass>
 		<planet>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.3200" errorplus="-0.3200">0.65</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 d</name>
 			<name>KOI-260 d</name>
@@ -54,7 +54,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.1700" errorplus="-0.1700">0.14</impactparameter></planet>
 		<planet>
 			<name>Kepler-126 c</name>
 			<name>KOI-260 c</name>
@@ -73,6 +73,6 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2700" errorplus="-0.2700">0.71</impactparameter></planet>
 	</star>
 </system>

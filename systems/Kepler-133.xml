@@ -12,8 +12,8 @@
 		<name>Kepler-133</name>
 		<name>KOI-291</name>
 		<name>KIC 10933561</name>
-		<temperature errorminus="100" errorplus="100">5736</temperature>
-		<radius errorminus=".236" errorplus="0.236">1.425</radius>
+		<temperature errorminus="100" errorplus="-100.0">5736</temperature>
+		<radius errorminus=".236" errorplus="-0.24">1.425</radius>
 		<mass errorminus="0.0520" errorplus="0.0520">1.0200</mass>
 		<planet>
 			<name>Kepler-133 c</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.204</semimajoraxis><impactparameter errorminus="0.3000" errorplus="-0.3000">0.68</impactparameter></planet>
 		<planet>
 			<name>Kepler-133 b</name>
 			<name>KOI-291 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.083</semimajoraxis><impactparameter errorminus="0.2200" errorplus="-0.2200">0.36</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.16</metallicity><magV errorminus="" errorplus="">12.848</magV></star>
 </system>

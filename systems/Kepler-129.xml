@@ -7,15 +7,15 @@
 	<distance>402.81</distance>
 	<star>
 		<magB errorminus="0.22" errorplus="0.22">12.67</magB>
-		<magV errorminus="0.15" errorplus="0.15">11.81</magV>
+		<magV errorminus="0.15" errorplus="0.15">11.696</magV>
 		<magJ errorminus="0.025" errorplus="0.025">10.600</magJ>
 		<magH errorminus="0.017" errorplus="0.017">10.325</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.252</magK>
 		<name>Kepler-129</name>
 		<name>KOI-275</name>
 		<name>KIC 10586004</name>
-		<temperature errorminus="83" errorplus="83">5770</temperature>
-		<radius errorminus="0.051" errorplus="0.051">1.641</radius>
+		<temperature errorminus="83" errorplus="-83.0">5770</temperature>
+		<radius errorminus="0.051" errorplus="-0.05">1.641</radius>
 		<mass errorminus="0.0690" errorplus="0.0690">1.1850</mass>
 		<planet>
 			<name>Kepler-129 b</name>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2400" errorplus="-0.2400">0.54</impactparameter></planet>
 		<planet>
 			<name>Kepler-129 c</name>
 			<name>KOI-275 c</name>
@@ -54,6 +54,6 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.2100" errorplus="-0.2100">0.12</impactparameter></planet>
 	</star>
 </system>
