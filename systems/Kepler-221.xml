@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.059</semimajoraxis><impactparameter errorminus="0.1600" errorplus="0.1600">0.04</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 d</name>
 			<name>KOI-720 d</name>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis><impactparameter errorminus="0.2000" errorplus="0.2000">0.36</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 e</name>
 			<name>KOI-720 e</name>
@@ -62,7 +62,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis><impactparameter errorminus="0.2200" errorplus="0.2200">0.26</impactparameter></planet>
 		<planet>
 			<name>Kepler-221 b</name>
 			<name>KOI-720 b</name>
@@ -78,6 +78,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.037</semimajoraxis><impactparameter errorminus="0.2400" errorplus="0.2400">0.61</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.413</metallicity><magV errorminus="" errorplus="">13.749</magV></star>
 </system>
