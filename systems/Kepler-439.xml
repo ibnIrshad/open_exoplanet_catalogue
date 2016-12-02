@@ -2,7 +2,7 @@
 	<name>Kepler-439</name>
 	<rightascension>18 43 12.38</rightascension>
 	<declination>+44 02 02.4</declination>
-	<distance errorminus="38" errorplus="66">693</distance>
+	<distance errorminus="66.0" errorplus="-38.0">693</distance>
 	<star>
 		<name>Kepler-439</name>
 		<name>KOI-4005</name>
@@ -12,10 +12,10 @@
 		<magH errorminus="0.028" errorplus="0.028">12.955</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.919</magK>
 		<mass errorminus="0.038" errorplus="0.044">0.884</mass>
-		<radius errorminus="0.040" errorplus="0.076">0.866</radius>
-		<temperature errorminus="100" errorplus="100">5431</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.02</metallicity>
-		<age errorminus="3.9" errorplus="3.6">7.2</age>
+		<radius errorminus="0.040" errorplus="-0.04">0.866</radius>
+		<temperature errorminus="100" errorplus="-100.0">5431</temperature>
+		<metallicity errorminus="0.10" errorplus="-0.1">0.02</metallicity>
+		<age errorminus="3.6" errorplus="-3.9">7.2</age>
 		<planet>
 			<name>Kepler-439 b</name>
 			<name>KOI-4005.01</name>
@@ -25,14 +25,14 @@
 			<radius errorminus="0.040" errorplus="0.014">0.200</radius>
 			<period errorminus="0.0018" errorplus="0.0016">178.1396</period>
 			<transittime errorminus="0.0054" errorplus="0.0039" unit="BJD">2455399.3987</transittime>
-			<semimajoraxis errorminus="0.080" errorplus="0.165">0.563</semimajoraxis>
-			<inclination errorminus="0.12" errorplus="0.05">89.95</inclination>
-			<eccentricity lowerlimit="0.03" />
+			<semimajoraxis errorminus="0.080" errorplus="-0.08">0.563</semimajoraxis>
+			<inclination errorminus="0.12" errorplus="-0.12">89.95</inclination>
+			<eccentricity errorminus="0.08" errorplus="-0.03" lowerlimit="0.03">0.03</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/01/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
+		<impactparameter errorminus="0.2800" errorplus="-0.1000">0.1</impactparameter></planet>
+	<magV errorminus="" errorplus="">14.56</magV></star>
 </system>
