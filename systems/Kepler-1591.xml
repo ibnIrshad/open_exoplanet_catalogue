@@ -4,10 +4,10 @@
 	<declination>+44 36 31</declination>
 	<star>
 		<name>Kepler-1591</name>
-		<temperature errorminus="232.1" errorplus="168.1">6082.0</temperature>
-		<mass errorminus="0.10" errorplus="0.13">1.10</mass>
-		<radius errorminus="0.17" errorplus="0.36">1.16</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<temperature errorminus="168.06" errorplus="-232.08">6082.0</temperature>
+		<mass errorminus="0.10" errorplus="-0.1">1.10</mass>
+		<radius errorminus="0.36" errorplus="-0.17">1.16</radius>
+		<metallicity errorminus="0.17" errorplus="-0.175">0.01</metallicity>
 		<planet>
 			<name>Kepler-1591 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000078310" errorplus="0.000078310">8.185049490</period>
 			<radius errorminus="0.017" errorplus="0.037">0.113</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.040" errorplus="-1.440">3.24</age><magV errorminus="" errorplus="">14.686</magV></star>
+<distance errorminus="344.71" errorplus="-169.06">1090.0</distance></system>

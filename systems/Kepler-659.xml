@@ -4,10 +4,10 @@
 	<declination>+47 30 35</declination>
 	<star>
 		<name>Kepler-659</name>
-		<temperature errorminus="56.1" errorplus="49.2">4870.0</temperature>
+		<temperature errorminus="49.22" errorplus="-56.1">4870.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.02</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.178">0.02</metallicity>
 		<planet>
 			<name>Kepler-659 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000055580" errorplus="0.000055580">17.671796000</period>
 			<radius errorminus="0.021" errorplus="0.029">0.223</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.010" errorplus="-1.700">3.24</age><magV errorminus="" errorplus="">15.556</magV></star>
+<distance errorminus="28.16" errorplus="-34.77">688.0</distance></system>

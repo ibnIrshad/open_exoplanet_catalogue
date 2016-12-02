@@ -4,10 +4,10 @@
 	<declination>+46 43 04</declination>
 	<star>
 		<name>Kepler-653</name>
-		<temperature errorminus="60.9" errorplus="55.0">5665.0</temperature>
+		<temperature errorminus="54.97" errorplus="-60.88">5665.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">1.02</mass>
-		<radius errorminus="0.16" errorplus="0.17">1.19</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.23</metallicity>
+		<radius errorminus="0.16" errorplus="-0.16">1.19</radius>
+		<metallicity errorminus="0.08" errorplus="-0.078">0.23</metallicity>
 		<planet>
 			<name>Kepler-653 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000003630" errorplus="0.000003630">0.900376480</period>
 			<radius errorminus="0.011" errorplus="0.012">0.070</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.900" errorplus="-2.880">7.76</age><magV errorminus="" errorplus="">13.387</magV></star>
+<distance errorminus="86.31" errorplus="-79.11">593.0</distance></system>

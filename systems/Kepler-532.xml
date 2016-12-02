@@ -4,10 +4,10 @@
 	<declination>+48 36 23</declination>
 	<star>
 		<name>Kepler-532</name>
-		<temperature errorminus="82.2" errorplus="82.8">5192.0</temperature>
+		<temperature errorminus="82.8" errorplus="-82.15">5192.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.87</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.79</radius>
-		<metallicity errorminus="0.10" errorplus="0.11">0.00</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.105">0.00</metallicity>
 		<planet>
 			<name>Kepler-532 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000012300" errorplus="0.000012300">12.924916230</period>
 			<radius errorminus="0.012" errorplus="0.019">0.229</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.350" errorplus="-0.621">2.0</age><magV errorminus="" errorplus="">13.524</magV></star>
+<distance errorminus="9.28" errorplus="-9.95">325.0</distance></system>

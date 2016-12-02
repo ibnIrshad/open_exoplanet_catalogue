@@ -4,10 +4,10 @@
 	<declination>+44 55 33</declination>
 	<star>
 		<name>Kepler-1586</name>
-		<temperature errorminus="299.6" errorplus="268.0">6681.0</temperature>
-		<mass errorminus="0.19" errorplus="0.23">1.45</mass>
-		<radius errorminus="0.37" errorplus="0.69">1.75</radius>
-		<metallicity errorminus="0.15" errorplus="0.13">0.06</metallicity>
+		<temperature errorminus="268.0" errorplus="-299.6">6681.0</temperature>
+		<mass errorminus="0.19" errorplus="-0.19">1.45</mass>
+		<radius errorminus="0.69" errorplus="-0.37">1.75</radius>
+		<metallicity errorminus="0.15" errorplus="-0.152">0.06</metallicity>
 		<planet>
 			<name>Kepler-1586 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000136500" errorplus="0.000136500">15.604921200</period>
 			<radius errorminus="0.030" errorplus="0.058">0.136</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.751" errorplus="-0.380">1.7</age><magV errorminus="" errorplus="">13.096</magV></star>
+<distance errorminus="335.34" errorplus="-189.39">864.0</distance></system>

@@ -4,7 +4,7 @@
 	<declination>+41 09 31</declination>
 	<star>
 		<name>Kepler-1582</name>
-		<temperature errorminus="23.9" errorplus="24.6">3208.0</temperature>
+		<temperature errorminus="24.62" errorplus="-23.86">3208.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.28</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.30</radius>
 		<metallicity errorminus="0.03" errorplus="0.01">0.48</metallicity>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000088400" errorplus="0.000088400">4.838177120</period>
 			<radius errorminus="0.012" errorplus="0.015">0.133</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.710" errorplus="-5.060">7.76</age><magV errorminus="" errorplus="">17.058</magV></star>
+<distance errorminus="10.54" errorplus="-10.64">112.0</distance></system>

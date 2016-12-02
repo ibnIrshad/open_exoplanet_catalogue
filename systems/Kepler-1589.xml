@@ -4,10 +4,10 @@
 	<declination>+40 34 18</declination>
 	<star>
 		<name>Kepler-1589</name>
-		<temperature errorminus="232.4" errorplus="169.8">6166.0</temperature>
-		<mass errorminus="0.11" errorplus="0.17">1.18</mass>
-		<radius errorminus="0.18" errorplus="0.50">1.25</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.08</metallicity>
+		<temperature errorminus="169.76" errorplus="-232.41">6166.0</temperature>
+		<mass errorminus="0.11" errorplus="-0.11">1.18</mass>
+		<radius errorminus="0.5" errorplus="-0.18">1.25</radius>
+		<metallicity errorminus="0.14" errorplus="-0.145">0.08</metallicity>
 		<planet>
 			<name>Kepler-1589 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000007840" errorplus="0.000007840">0.991665270</period>
 			<radius errorminus="0.015" errorplus="0.039">0.097</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.260" errorplus="-1.110">2.75</age><magV errorminus="" errorplus="">14.978</magV></star>
+<distance errorminus="566.41" errorplus="-221.46">1418.0</distance></system>

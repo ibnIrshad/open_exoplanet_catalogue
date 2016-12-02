@@ -4,10 +4,10 @@
 	<declination>+45 04 46</declination>
 	<star>
 		<name>Kepler-649</name>
-		<temperature errorminus="54.7" errorplus="62.2">5871.0</temperature>
+		<temperature errorminus="62.24" errorplus="-54.67">5871.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.97</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.94</radius>
-		<metallicity errorminus="0.12" errorplus="0.11">-0.17</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.94</radius>
+		<metallicity errorminus="0.12" errorplus="-0.122">-0.17</metallicity>
 		<planet>
 			<name>Kepler-649 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000053730" errorplus="0.000053730">29.907226740</period>
 			<radius errorminus="0.011" errorplus="0.012">0.202</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.270" errorplus="-1.370">2.95</age><magV errorminus="" errorplus="">13.437</magV></star>
+<distance errorminus="32.74" errorplus="-29.39">525.0</distance></system>

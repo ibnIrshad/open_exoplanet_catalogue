@@ -4,10 +4,10 @@
 	<declination>+52 03 20</declination>
 	<star>
 		<name>Kepler-515</name>
-		<temperature errorminus="61.3" errorplus="49.7">5293.0</temperature>
+		<temperature errorminus="49.66" errorplus="-61.29">5293.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.90</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.83</radius>
-		<metallicity errorminus="0.11" errorplus="0.14">0.08</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.112">0.08</metallicity>
 		<planet>
 			<name>Kepler-515 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000056590" errorplus="0.000056590">19.963713180</period>
 			<radius errorminus="0.004" errorplus="0.005">0.130</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.430" errorplus="-1.770">3.39</age><magV errorminus="" errorplus="">12.713</magV></star>
+<distance errorminus="10.47" errorplus="-9.17">255.0</distance></system>

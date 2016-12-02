@@ -4,10 +4,10 @@
 	<declination>+49 32 24</declination>
 	<star>
 		<name>Kepler-534</name>
-		<temperature errorminus="76.5" errorplus="73.4">5884.0</temperature>
+		<temperature errorminus="73.37" errorplus="-76.49">5884.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">1.05</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.98</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.01</metallicity>
+		<metallicity errorminus="0.08" errorplus="-0.081">0.01</metallicity>
 		<planet>
 			<name>Kepler-534 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000022160" errorplus="0.000022160">15.959945130</period>
 			<radius errorminus="0.006" errorplus="0.007">0.200</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.664" errorplus="-0.329">1.58</age><magV errorminus="" errorplus="">13.235</magV></star>
+<distance errorminus="17.06" errorplus="-16.30">473.0</distance></system>

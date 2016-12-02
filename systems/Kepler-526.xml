@@ -4,10 +4,10 @@
 	<declination>+47 23 47</declination>
 	<star>
 		<name>Kepler-526</name>
-		<temperature errorminus="84.4" errorplus="80.9">5894.0</temperature>
+		<temperature errorminus="80.86" errorplus="-84.44">5894.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.15</mass>
-		<radius errorminus="0.06" errorplus="0.07">1.14</radius>
-		<metallicity errorminus="0.07" errorplus="0.07">0.34</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">1.14</radius>
+		<metallicity errorminus="0.07" errorplus="-0.069">0.34</metallicity>
 		<planet>
 			<name>Kepler-526 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000009070" errorplus="0.000009070">5.458498320</period>
 			<radius errorminus="0.015" errorplus="0.014">0.178</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.310" errorplus="-0.832">2.14</age><magV errorminus="" errorplus="">13.046</magV></star>
+<distance errorminus="30.34" errorplus="-27.73">504.0</distance></system>

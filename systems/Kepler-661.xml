@@ -4,10 +4,10 @@
 	<declination>+47 51 48</declination>
 	<star>
 		<name>Kepler-661</name>
-		<temperature errorminus="57.1" errorplus="56.8">4483.0</temperature>
+		<temperature errorminus="56.76" errorplus="-57.11">4483.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.70</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.67</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">-0.05</metallicity>
+		<metallicity errorminus="0.15" errorplus="-0.154">-0.05</metallicity>
 		<planet>
 			<name>Kepler-661 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000005360" errorplus="0.000005360">6.029301320</period>
 			<radius errorminus="0.019" errorplus="0.011">0.274</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.920" errorplus="-2.460">4.27</age><magV errorminus="" errorplus="">15.784</magV></star>
+<distance errorminus="25.54" errorplus="-35.29">558.0</distance></system>
