@@ -4,10 +4,10 @@
 	<declination>+43 49 32</declination>
 	<star>
 		<name>Kepler-1537</name>
-		<temperature errorminus="78.8" errorplus="106.9">5079.0</temperature>
+		<temperature errorminus="106.9" errorplus="-78.8">5079.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.77</radius>
-		<metallicity errorminus="0.16" errorplus="0.16">-0.08</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.16">-0.08</metallicity>
 		<planet>
 			<name>Kepler-1537 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000002330" errorplus="0.000002330">1.444453800</period>
 			<radius errorminus="0.008" errorplus="0.005">0.105</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.880" errorplus="-2.950">5.01</age><magV errorminus="" errorplus="">14.536</magV></star>
+<distance errorminus="30.79" errorplus="-30.12">503.0</distance></system>

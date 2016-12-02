@@ -4,10 +4,10 @@
 	<declination>+39 54 29</declination>
 	<star>
 		<name>Kepler-1551</name>
-		<temperature errorminus="164.7" errorplus="242.3">6136.0</temperature>
-		<mass errorminus="0.09" errorplus="0.17">1.14</mass>
-		<radius errorminus="0.18" errorplus="0.42">1.22</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<temperature errorminus="242.35" errorplus="-164.67">6136.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.14</mass>
+		<radius errorminus="0.42" errorplus="-0.18">1.22</radius>
+		<metallicity errorminus="0.17" errorplus="-0.17">0.01</metallicity>
 		<planet>
 			<name>Kepler-1551 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000209400" errorplus="0.000209400">24.497369800</period>
-			<radius errorminus="0.037" errorplus="0.081">0.237</radius>
+			<radius errorminus="0.037" errorplus="-0.037">0.237</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.660" errorplus="-1.170">2.88</age><magV errorminus="" errorplus="">15.152</magV></star>
+<distance errorminus="538.34" errorplus="-239.75">1560.0</distance></system>

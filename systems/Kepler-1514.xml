@@ -4,10 +4,10 @@
 	<declination>+37 51 36</declination>
 	<star>
 		<name>Kepler-1514</name>
-		<temperature errorminus="87.8" errorplus="82.0">6251.0</temperature>
+		<temperature errorminus="81.98" errorplus="-87.8">6251.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.21</mass>
-		<radius errorminus="0.05" errorplus="0.06">1.22</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.14</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">1.22</radius>
+		<metallicity errorminus="0.08" errorplus="-0.083">0.14</metallicity>
 		<planet>
 			<name>Kepler-1514 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000105800" errorplus="0.000105800">217.831762600</period>
 			<radius errorminus="0.045" errorplus="0.054">1.055</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.633" errorplus="-0.349">1.58</age><magV errorminus="" errorplus="">11.69</magV></star>
+<distance errorminus="20.87" errorplus="-18.36">379.0</distance></system>

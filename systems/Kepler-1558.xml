@@ -4,10 +4,10 @@
 	<declination>+46 54 42</declination>
 	<star>
 		<name>Kepler-1558</name>
-		<temperature errorminus="59.7" errorplus="59.2">5101.0</temperature>
+		<temperature errorminus="59.21" errorplus="-59.69">5101.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.00</metallicity>
+		<metallicity errorminus="0.16" errorplus="-0.157">0.00</metallicity>
 		<planet>
 			<name>Kepler-1558 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000016120" errorplus="0.000016120">3.504703580</period>
 			<radius errorminus="0.004" errorplus="0.005">0.061</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.920" errorplus="-2.960">4.9</age><magV errorminus="" errorplus="">13.632</magV></star>
+<distance errorminus="18.28" errorplus="-17.20">343.0</distance></system>
