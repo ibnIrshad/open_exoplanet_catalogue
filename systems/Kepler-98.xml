@@ -12,10 +12,10 @@
 		<name>Kepler-98</name>
 		<name>KOI-299</name>
 		<name>KIC 2692377</name>
-		<temperature errorminus="73" errorplus="73">5539</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.18</metallicity>
-		<mass errorminus="0.06" errorplus="0.06">0.99</mass>
-		<radius errorminus="0.12" errorplus="0.12">1.11</radius>
+		<temperature errorminus="73" errorplus="-73.0">5539</temperature>
+		<metallicity errorminus="0.07" errorplus="-0.07">0.18</metallicity>
+		<mass errorminus="0.06" errorplus="-0.06">0.99</mass>
+		<radius errorminus="0.12" errorplus="-0.12">1.11</radius>
 		<age>2.79</age>
 		<planet>
 			<name>Kepler-98 b</name>
@@ -31,6 +31,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="0.1400" errorplus="-0.1400">0.56</impactparameter></planet>
+	<magV errorminus="" errorplus="">12.899</magV></star>
 </system>

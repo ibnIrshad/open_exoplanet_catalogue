@@ -4,10 +4,10 @@
 	<declination>+47 29 05</declination>
 	<star>
 		<name>Kepler-783</name>
-		<temperature errorminus="52.9" errorplus="66.8">5521.0</temperature>
+		<temperature errorminus="66.78" errorplus="-52.89">5521.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.93</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.89</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.103">0.01</metallicity>
 		<planet>
 			<name>Kepler-783 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000034290" errorplus="0.000034290">4.292646380</period>
 			<radius errorminus="0.007" errorplus="0.004">0.070</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.400" errorplus="-2.140">3.89</age><magV errorminus="" errorplus="">13.916</magV></star>
+<distance errorminus="27.74" errorplus="-21.95">544.0</distance></system>

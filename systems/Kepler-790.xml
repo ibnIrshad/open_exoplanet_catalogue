@@ -4,10 +4,10 @@
 	<declination>+38 52 20</declination>
 	<star>
 		<name>Kepler-790</name>
-		<temperature errorminus="114.1" errorplus="139.3">5208.0</temperature>
+		<temperature errorminus="139.26" errorplus="-114.14">5208.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.84</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.05</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.165">-0.05</metallicity>
 		<planet>
 			<name>Kepler-790 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000040260" errorplus="0.000040260">13.734698070</period>
 			<radius errorminus="0.012" errorplus="0.015">0.194</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.920" errorplus="-3.070">4.9</age><magV errorminus="" errorplus="">15.187</magV></star>
+<distance errorminus="51.44" errorplus="-45.55">727.0</distance></system>

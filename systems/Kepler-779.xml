@@ -4,10 +4,10 @@
 	<declination>+44 18 39</declination>
 	<star>
 		<name>Kepler-779</name>
-		<temperature errorminus="34.0" errorplus="35.6">3804.0</temperature>
+		<temperature errorminus="35.65" errorplus="-34.03">3804.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.46</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.44</radius>
-		<metallicity errorminus="0.09" errorplus="0.08">-0.43</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.086">-0.43</metallicity>
 		<planet>
 			<name>Kepler-779 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000029210" errorplus="0.000029210">7.097142230</period>
 			<radius errorminus="0.006" errorplus="0.006">0.082</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.810" errorplus="-2.330">3.89</age><magV errorminus="" errorplus="">15.649</magV></star>
+<distance errorminus="18.09" errorplus="-16.66">224.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+38 32 24</declination>
 	<star>
 		<name>Kepler-788</name>
-		<temperature errorminus="186.0" errorplus="129.5">6159.0</temperature>
-		<mass errorminus="0.10" errorplus="0.13">1.16</mass>
-		<radius errorminus="0.17" errorplus="0.39">1.23</radius>
-		<metallicity errorminus="0.15" errorplus="0.13">0.05</metallicity>
+		<temperature errorminus="129.54" errorplus="-186.01">6159.0</temperature>
+		<mass errorminus="0.10" errorplus="-0.1">1.16</mass>
+		<radius errorminus="0.39" errorplus="-0.17">1.23</radius>
+		<metallicity errorminus="0.15" errorplus="-0.155">0.05</metallicity>
 		<planet>
 			<name>Kepler-788 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000057190" errorplus="0.000057190">8.398462690</period>
-			<radius errorminus="0.036" errorplus="0.080">0.227</radius>
+			<radius errorminus="0.036" errorplus="-0.036">0.227</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.210" errorplus="-1.300">3.02</age><magV errorminus="" errorplus="">15.291</magV></star>
+<distance errorminus="518.84" errorplus="-248.29">1649.0</distance></system>
