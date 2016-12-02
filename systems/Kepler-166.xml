@@ -12,8 +12,8 @@
 		<name>Kepler-166</name>
 		<name>KOI-481</name>
 		<name>KIC 11192998</name>
-		<temperature errorminus="200" errorplus="200">5413</temperature>
-		<radius errorminus=".382" errorplus="0.382">0.742</radius>
+		<temperature errorminus="200" errorplus="-200.0">5413</temperature>
+		<radius errorminus=".382" errorplus="-0.38">0.742</radius>
 		<mass errorminus="0.0780" errorplus="0.0780">0.8790</mass>
 		<planet>
 			<name>Kepler-166 b</name>
@@ -21,7 +21,7 @@
 			<name>KOI-481.01</name>
 			<name>KIC 11192998 b</name>
 			<name>KIC 11192998.01</name>
-			<radius errorminus="0.01549" errorplus="0.10662">0.20687</radius>
+			<radius errorminus="0.01549" errorplus="-0.104">0.20687</radius>
 			<period errorminus=".000012" errorplus="0.000012">7.650254</period>
 			<transittime errorminus="0.0008800" errorplus="0.0008800">2455004.9714900</transittime>
 			<list>Confirmed planets</list>
@@ -30,14 +30,14 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.072</semimajoraxis><impactparameter errorminus="0.2100" errorplus="-0.2100">0.09</impactparameter></planet>
 		<planet>
 			<name>Kepler-166 c</name>
 			<name>KOI-481 c</name>
 			<name>KOI-481.03</name>
 			<name>KIC 11192998 c</name>
 			<name>KIC 11192998.03</name>
-			<radius errorminus="0.02096" errorplus="0.11209">0.21689</radius>
+			<radius errorminus="0.02096" errorplus="-0.11">0.21689</radius>
 			<period errorminus=".000124" errorplus="0.000124">34.260281</period>
 			<transittime errorminus="0.0020800" errorplus="0.0020800">2455016.2265300</transittime>
 			<list>Confirmed planets</list>
@@ -46,7 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.195</semimajoraxis><impactparameter errorminus="0.2100" errorplus="-0.2100">0.23</impactparameter></planet>
 		<planet>
 			<name>Kepler-166 d</name>
 			<discoverymethod>transit</discoverymethod>
@@ -59,5 +59,5 @@
 			<period errorminus="0.000001440" errorplus="0.000001440">1.554003930</period>
 			<radius errorminus="0.009" errorplus="0.013">0.154</radius>
 		</planet>
-	</star>
+	<metallicity errorminus="" errorplus="">-0.286</metallicity><magV errorminus="" errorplus="">14.701</magV></star>
 </system>

@@ -4,10 +4,10 @@
 	<declination>+45 05 03</declination>
 	<star>
 		<name>Kepler-1394</name>
-		<temperature errorminus="62.2" errorplus="65.4">6481.0</temperature>
-		<mass errorminus="0.12" errorplus="0.09">1.64</mass>
-		<radius errorminus="0.39" errorplus="0.35">2.55</radius>
-		<metallicity errorminus="0.05" errorplus="0.08">0.06</metallicity>
+		<temperature errorminus="65.36" errorplus="-62.24">6481.0</temperature>
+		<mass errorminus="0.12" errorplus="-0.12">1.64</mass>
+		<radius errorminus="0.39" errorplus="-0.39">2.55</radius>
+		<metallicity errorminus="0.05" errorplus="-0.049">0.06</metallicity>
 		<planet>
 			<name>Kepler-1394 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000036570" errorplus="0.000036570">3.937663730</period>
 			<radius errorminus="0.020" errorplus="0.018">0.124</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.340" errorplus="-0.250">1.91</age><magV errorminus="" errorplus="">11.801</magV></star>
+<distance errorminus="109.44" errorplus="-126.02">820.0</distance></system>

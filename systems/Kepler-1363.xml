@@ -4,10 +4,10 @@
 	<declination>+49 15 23</declination>
 	<star>
 		<name>Kepler-1363</name>
-		<temperature errorminus="109.8" errorplus="102.9">4839.0</temperature>
+		<temperature errorminus="102.94" errorplus="-109.75">4839.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.72</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.09</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.174">-0.09</metallicity>
 		<planet>
 			<name>Kepler-1363 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000011710" errorplus="0.000011710">2.941940940</period>
 			<radius errorminus="0.007" errorplus="0.008">0.112</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.160" errorplus="-2.440">4.17</age><magV errorminus="" errorplus="">15.29</magV></star>
+<distance errorminus="31.05" errorplus="-36.18">559.0</distance></system>

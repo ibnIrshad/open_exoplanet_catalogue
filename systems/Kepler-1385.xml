@@ -4,9 +4,9 @@
 	<declination>+46 28 52</declination>
 	<star>
 		<name>Kepler-1385</name>
-		<temperature errorminus="58.3" errorplus="65.5">5732.0</temperature>
-		<mass errorminus="0.05" errorplus="0.10">1.15</mass>
-		<radius errorminus="0.20" errorplus="0.30">1.29</radius>
+		<temperature errorminus="65.47" errorplus="-58.33">5732.0</temperature>
+		<mass errorminus="0.05" errorplus="-0.05">1.15</mass>
+		<radius errorminus="0.20" errorplus="-0.2">1.29</radius>
 		<metallicity errorminus="0.04" errorplus="0.04">0.41</metallicity>
 		<planet>
 			<name>Kepler-1385 b</name>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000018810" errorplus="0.000018810">2.888798620</period>
 			<radius errorminus="0.012" errorplus="0.018">0.076</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.780" errorplus="-2.000">4.37</age><magV errorminus="" errorplus="">12.858</magV></star>
+<distance errorminus="120.03" errorplus="-78.64">527.0</distance></system>

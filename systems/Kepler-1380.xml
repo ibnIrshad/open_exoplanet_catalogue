@@ -4,10 +4,10 @@
 	<declination>+42 26 26</declination>
 	<star>
 		<name>Kepler-1380</name>
-		<temperature errorminus="82.2" errorplus="64.3">5570.0</temperature>
+		<temperature errorminus="64.32" errorplus="-82.2">5570.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">0.96</mass>
-		<radius errorminus="0.06" errorplus="0.16">0.94</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">0.10</metallicity>
+		<radius errorminus="0.06" errorplus="-0.06">0.94</radius>
+		<metallicity errorminus="0.15" errorplus="-0.149">0.10</metallicity>
 		<planet>
 			<name>Kepler-1380 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000104200" errorplus="0.000104200">10.310824500</period>
 			<radius errorminus="0.010" errorplus="0.023">0.128</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.790" errorplus="-3.120">4.79</age><magV errorminus="" errorplus="">15.619</magV></star>
+<distance errorminus="206.55" errorplus="-87.41">1209.0</distance></system>

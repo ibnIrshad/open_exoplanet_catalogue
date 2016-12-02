@@ -4,10 +4,10 @@
 	<declination>+43 24 12</declination>
 	<star>
 		<name>Kepler-1375</name>
-		<temperature errorminus="208.0" errorplus="142.2">6704.0</temperature>
-		<mass errorminus="0.16" errorplus="0.22">1.47</mass>
-		<radius errorminus="0.34" errorplus="0.69">1.78</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.09</metallicity>
+		<temperature errorminus="142.25" errorplus="-207.96">6704.0</temperature>
+		<mass errorminus="0.16" errorplus="-0.16">1.47</mass>
+		<radius errorminus="0.69" errorplus="-0.34">1.78</radius>
+		<metallicity errorminus="0.14" errorplus="-0.143">0.09</metallicity>
 		<planet>
 			<name>Kepler-1375 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000015050" errorplus="0.000015050">3.300419200</period>
 			<radius errorminus="0.030" errorplus="0.061">0.155</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.488" errorplus="-0.320">1.66</age><magV errorminus="" errorplus="">13.749</magV></star>
+<distance errorminus="474.04" errorplus="-237.32">1238.0</distance></system>

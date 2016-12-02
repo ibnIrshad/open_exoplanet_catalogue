@@ -4,10 +4,10 @@
 	<declination>+48 33 09</declination>
 	<star>
 		<name>Kepler-569</name>
-		<temperature errorminus="55.0" errorplus="66.3">5616.0</temperature>
+		<temperature errorminus="66.28" errorplus="-55.02">5616.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.95</mass>
-		<radius errorminus="0.05" errorplus="0.07">0.93</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.93</radius>
+		<metallicity errorminus="0.10" errorplus="-0.1">0.01</metallicity>
 		<planet>
 			<name>Kepler-569 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000060160" errorplus="0.000060160">34.188905210</period>
 			<radius errorminus="0.015" errorplus="0.020">0.282</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.320" errorplus="-2.780">4.9</age><magV errorminus="" errorplus="">14.106</magV></star>
+<distance errorminus="44.70" errorplus="-34.78">645.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+48 38 20</declination>
 	<star>
 		<name>Kepler-1398</name>
-		<temperature errorminus="125.4" errorplus="115.4">6126.0</temperature>
-		<mass errorminus="0.08" errorplus="0.12">1.13</mass>
-		<radius errorminus="0.14" errorplus="0.37">1.18</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<temperature errorminus="115.41" errorplus="-125.42">6126.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.13</mass>
+		<radius errorminus="0.37" errorplus="-0.14">1.18</radius>
+		<metallicity errorminus="0.17" errorplus="-0.172">0.01</metallicity>
 		<planet>
 			<name>Kepler-1398 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000026160" errorplus="0.000026160">4.138275950</period>
 			<radius errorminus="0.013" errorplus="0.033">0.092</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.430" errorplus="-1.420">3.09</age><magV errorminus="" errorplus="">13.71</magV></star>
+<distance errorminus="247.19" errorplus="-101.04">793.0</distance></system>

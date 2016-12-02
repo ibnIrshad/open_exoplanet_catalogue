@@ -4,10 +4,10 @@
 	<declination>+44 55 06</declination>
 	<star>
 		<name>Kepler-1396</name>
-		<temperature errorminus="189.7" errorplus="181.7">6195.0</temperature>
-		<mass errorminus="0.10" errorplus="0.17">1.18</mass>
-		<radius errorminus="0.18" errorplus="0.46">1.27</radius>
-		<metallicity errorminus="0.15" errorplus="0.13">0.04</metallicity>
+		<temperature errorminus="181.71" errorplus="-189.71">6195.0</temperature>
+		<mass errorminus="0.10" errorplus="-0.1">1.18</mass>
+		<radius errorminus="0.46" errorplus="-0.18">1.27</radius>
+		<metallicity errorminus="0.15" errorplus="-0.153">0.04</metallicity>
 		<planet>
 			<name>Kepler-1396 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -18,7 +18,7 @@
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000137600" errorplus="0.000137600">18.220642100</period>
-			<radius errorminus="0.033" errorplus="0.070">0.185</radius>
+			<radius errorminus="0.033" errorplus="-0.033">0.185</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="1.390" errorplus="-1.040">2.75</age><magV errorminus="" errorplus="">14.544</magV></star>
+<distance errorminus="449.88" errorplus="-190.89">1236.0</distance></system>

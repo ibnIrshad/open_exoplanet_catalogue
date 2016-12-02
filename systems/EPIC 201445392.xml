@@ -10,7 +10,7 @@
 		<name>2MASS J11191047-0017036</name>
 		<mass errorminus="0.04" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
-		<temperature errorminus="60" errorplus="60">4870</temperature>
+		<temperature errorminus="60" errorplus="-60.0">4870</temperature>
 		<magV errorminus="0.03" errorplus="0.03">14.61</magV>
 		<magJ errorminus="0.03" errorplus="0.03">12.83</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.32</magH>
@@ -21,17 +21,17 @@
 			<name>EPIC 201445392.01</name>
 			<name>K2-8 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.063" errorplus="0.063">0.319</radius>
+			<radius errorminus="0.063" errorplus="-0.063">0.319</radius>
 			<period errorminus="0.00086" errorplus="0.00086">10.35239</period>
 			<transittime errorminus="0.0030" errorplus="0.0030" unit="BJD">2456813.6114</transittime>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0856</semimajoraxis>
-			<inclination errorminus="1.37" errorplus="2.56">86.42</inclination>
+			<inclination errorminus="2.56" errorplus="-1.37">86.42</inclination>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<impactparameter errorminus="0.0400" errorplus="-0.3600">0.88</impactparameter><temperature errorminus="18" errorplus="-18">631.0</temperature></planet>
 		<planet>
 			<name>EPIC 201445392 c</name>
 			<name>EPIC 201445392.02</name>
@@ -41,12 +41,12 @@
 			<period errorminus="0.00041" errorplus="0.00041">5.06416</period>
 			<transittime errorminus="0.0033" errorplus="0.0033" unit="BJD">2456813.0707</transittime>
 			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0532</semimajoraxis>
-			<inclination errorminus="2.48" errorplus="2.48">86.70</inclination>
+			<inclination errorminus="2.48" errorplus="-2.48">86.70</inclination>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/07/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
+			<discoveryyear>2016</discoveryyear>
+		<impactparameter errorminus="0.1200" errorplus="-0.4200">0.78</impactparameter><temperature errorminus="23" errorplus="-23">801.0</temperature></planet>
+	<spectraltype>K3 V</spectraltype></star>
 </system>
