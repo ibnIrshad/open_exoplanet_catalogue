@@ -4,10 +4,10 @@
 	<declination>+46 41 33</declination>
 	<star>
 		<name>Kepler-740</name>
-		<temperature errorminus="80.5" errorplus="62.5">5438.0</temperature>
+		<temperature errorminus="62.55" errorplus="-80.55">5438.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
-		<radius errorminus="0.05" errorplus="0.10">0.87</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.03</metallicity>
+		<radius errorminus="0.05" errorplus="-0.05">0.87</radius>
+		<metallicity errorminus="0.16" errorplus="-0.163">0.03</metallicity>
 		<planet>
 			<name>Kepler-740 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000001990" errorplus="0.000001990">3.584101220</period>
 			<radius errorminus="0.024" errorplus="0.047">0.408</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.590" errorplus="-3.010">4.79</age><magV errorminus="" errorplus="">15.954</magV></star>
+<distance errorminus="143.42" errorplus="-79.76">1262.0</distance></system>

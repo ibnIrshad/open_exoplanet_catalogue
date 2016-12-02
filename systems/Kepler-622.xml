@@ -4,10 +4,10 @@
 	<declination>+40 55 59</declination>
 	<star>
 		<name>Kepler-622</name>
-		<temperature errorminus="37.0" errorplus="46.7">4201.0</temperature>
+		<temperature errorminus="46.67" errorplus="-36.96">4201.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.64</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.61</radius>
-		<metallicity errorminus="0.09" errorplus="0.10">-0.09</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.092">-0.09</metallicity>
 		<planet>
 			<name>Kepler-622 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000026630" errorplus="0.000026630">14.282266760</period>
 			<radius errorminus="0.014" errorplus="0.025">0.190</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.810" errorplus="-1.850">3.47</age><magV errorminus="" errorplus="">14.672</magV></star>
+<distance errorminus="12.80" errorplus="-11.36">259.0</distance></system>

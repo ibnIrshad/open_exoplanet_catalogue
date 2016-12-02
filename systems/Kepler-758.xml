@@ -4,10 +4,10 @@
 	<declination>+41 08 08</declination>
 	<star>
 		<name>Kepler-758</name>
-		<temperature errorminus="60.6" errorplus="72.2">6228.0</temperature>
-		<mass errorminus="0.08" errorplus="0.12">1.16</mass>
-		<radius errorminus="0.23" errorplus="0.31">1.42</radius>
-		<metallicity errorminus="0.13" errorplus="0.12">-0.10</metallicity>
+		<temperature errorminus="72.21" errorplus="-60.59">6228.0</temperature>
+		<mass errorminus="0.08" errorplus="-0.08">1.16</mass>
+		<radius errorminus="0.23" errorplus="-0.23">1.42</radius>
+		<metallicity errorminus="0.13" errorplus="-0.132">-0.10</metallicity>
 		<planet>
 			<name>Kepler-758 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -56,5 +56,5 @@
 			<period errorminus="0.000103600" errorplus="0.000103600">8.193471900</period>
 			<radius errorminus="0.022" errorplus="0.029">0.136</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.950" errorplus="-0.878">3.8</age><magV errorminus="" errorplus="">14.348</magV></star>
+<distance errorminus="292.62" errorplus="-212.60">1353.0</distance></system>

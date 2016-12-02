@@ -4,10 +4,10 @@
 	<declination>+46 47 23</declination>
 	<star>
 		<name>Kepler-742</name>
-		<temperature errorminus="44.0" errorplus="41.8">4642.0</temperature>
+		<temperature errorminus="41.76" errorplus="-44.03">4642.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.71</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.07</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.183">0.07</metallicity>
 		<planet>
 			<name>Kepler-742 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000006310" errorplus="0.000006310">8.360868240</period>
 			<radius errorminus="0.015" errorplus="0.010">0.289</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="5.580" errorplus="-1.100">2.57</age><magV errorminus="" errorplus="">15.223</magV></star>
+<distance errorminus="19.86" errorplus="-21.07">499.0</distance></system>

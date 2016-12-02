@@ -4,10 +4,10 @@
 	<declination>+41 01 47</declination>
 	<star>
 		<name>Kepler-747</name>
-		<temperature errorminus="92.8" errorplus="70.4">5096.0</temperature>
+		<temperature errorminus="70.39" errorplus="-92.77">5096.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.17">-0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="-0.168">-0.03</metallicity>
 		<planet>
 			<name>Kepler-747 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000053450" errorplus="0.000053450">35.617605870</period>
 			<radius errorminus="0.025" errorplus="0.026">0.470</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.380" errorplus="-2.910">4.79</age><magV errorminus="" errorplus="">15.703</magV></star>
+<distance errorminus="50.21" errorplus="-51.03">855.0</distance></system>
