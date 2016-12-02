@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.039</semimajoraxis><impactparameter errorminus="0.2100" errorplus="0.2100">0.11</impactparameter></planet>
 		<planet>
 			<name>Kepler-121 c</name>
 			<name>KOI-223 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.216</semimajoraxis><impactparameter errorminus="0.2300" errorplus="0.2300">0.49</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">-0.38</metallicity><magV errorminus="" errorplus="">14.708</magV></star>
 </system>

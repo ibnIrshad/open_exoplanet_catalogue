@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis><impactparameter errorminus="0.3100" errorplus="0.3100">0.66</impactparameter></planet>
 		<planet>
 			<name>Kepler-188 b</name>
 			<name>KOI-573 b</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<semimajoraxis errorminus="" errorplus="">0.032</semimajoraxis><impactparameter errorminus="0.2100" errorplus="0.2100">0.18</impactparameter></planet>
+	<metallicity errorminus="" errorplus="">0.1</metallicity><magV errorminus="" errorplus="">14.674</magV></star>
 </system>
