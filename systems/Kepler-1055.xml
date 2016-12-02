@@ -4,10 +4,10 @@
 	<declination>+44 55 57</declination>
 	<star>
 		<name>Kepler-1055</name>
-		<temperature errorminus="61.7" errorplus="76.3">5723.0</temperature>
+		<temperature errorminus="76.28" errorplus="-61.68">5723.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.98</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.94</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.02</metallicity>
+		<metallicity errorminus="0.10" errorplus="-0.099">-0.02</metallicity>
 		<planet>
 			<name>Kepler-1055 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000003470" errorplus="0.000003470">2.295036230</period>
 			<radius errorminus="0.005" errorplus="0.006">0.110</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.200" errorplus="-1.440">3.09</age><magV errorminus="" errorplus="">13.09</magV></star>
+<distance errorminus="21.34" errorplus="-18.86">422.0</distance></system>

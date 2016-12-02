@@ -4,10 +4,10 @@
 	<declination>+38 13 59</declination>
 	<star>
 		<name>Kepler-1073</name>
-		<temperature errorminus="186.2" errorplus="252.9">5792.0</temperature>
-		<mass errorminus="0.07" errorplus="0.10">1.00</mass>
-		<radius errorminus="0.11" errorplus="0.21">1.00</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.00</metallicity>
+		<temperature errorminus="252.91" errorplus="-186.16">5792.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">1.00</mass>
+		<radius errorminus="0.11" errorplus="-0.11">1.00</radius>
+		<metallicity errorminus="0.17" errorplus="-0.171">0.00</metallicity>
 		<planet>
 			<name>Kepler-1073 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000014840" errorplus="0.000014840">4.025822540</period>
 			<radius errorminus="0.016" errorplus="0.030">0.146</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.680" errorplus="-2.020">3.72</age><magV errorminus="" errorplus="">14.523</magV></star>
+<distance errorminus="184.95" errorplus="-97.84">837.0</distance></system>

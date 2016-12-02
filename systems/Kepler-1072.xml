@@ -4,10 +4,10 @@
 	<declination>+46 19 44</declination>
 	<star>
 		<name>Kepler-1072</name>
-		<temperature errorminus="123.2" errorplus="102.8">6199.0</temperature>
-		<mass errorminus="0.09" errorplus="0.19">1.20</mass>
-		<radius errorminus="0.20" errorplus="0.60">1.32</radius>
-		<metallicity errorminus="0.13" errorplus="0.13">0.07</metallicity>
+		<temperature errorminus="102.85" errorplus="-123.19">6199.0</temperature>
+		<mass errorminus="0.09" errorplus="-0.09">1.20</mass>
+		<radius errorminus="0.6" errorplus="-0.2">1.32</radius>
+		<metallicity errorminus="0.13" errorplus="-0.132">0.07</metallicity>
 		<planet>
 			<name>Kepler-1072 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000002900" errorplus="0.000002900">1.569066500</period>
 			<radius errorminus="0.021" errorplus="0.064">0.141</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.874" errorplus="-1.090">2.88</age><magV errorminus="" errorplus="">13.93</magV></star>
+<distance errorminus="433.82" errorplus="-149.65">976.0</distance></system>
