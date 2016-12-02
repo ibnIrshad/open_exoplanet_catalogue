@@ -4,10 +4,10 @@
 	<declination>+44 47 06</declination>
 	<star>
 		<name>Kepler-804</name>
-		<temperature errorminus="78.6" errorplus="93.1">5817.0</temperature>
+		<temperature errorminus="93.12" errorplus="-78.6">5817.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.01</mass>
-		<radius errorminus="0.09" errorplus="0.13">1.05</radius>
-		<metallicity errorminus="0.10" errorplus="0.09">0.00</metallicity>
+		<radius errorminus="0.09" errorplus="-0.09">1.05</radius>
+		<metallicity errorminus="0.10" errorplus="-0.104">0.00</metallicity>
 		<planet>
 			<name>Kepler-804 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000050130" errorplus="0.000050130">9.651850170</period>
 			<radius errorminus="0.012" errorplus="0.018">0.102</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="2.370" errorplus="-2.800">5.25</age><magV errorminus="" errorplus="">13.749</magV></star>
+<distance errorminus="77.97" errorplus="-55.65">648.0</distance></system>

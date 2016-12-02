@@ -4,10 +4,10 @@
 	<declination>+48 26 07</declination>
 	<star>
 		<name>Kepler-813</name>
-		<temperature errorminus="59.4" errorplus="69.7">5743.0</temperature>
-		<mass errorminus="0.07" errorplus="0.05">0.95</mass>
-		<radius errorminus="0.08" errorplus="0.12">0.93</radius>
-		<metallicity errorminus="0.19" errorplus="0.16">-0.13</metallicity>
+		<temperature errorminus="69.68" errorplus="-59.41">5743.0</temperature>
+		<mass errorminus="0.07" errorplus="-0.07">0.95</mass>
+		<radius errorminus="0.08" errorplus="-0.08">0.93</radius>
+		<metallicity errorminus="0.19" errorplus="-0.193">-0.13</metallicity>
 		<planet>
 			<name>Kepler-813 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000074550" errorplus="0.000074550">19.129473370</period>
 			<radius errorminus="0.017" errorplus="0.037">0.191</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.070" errorplus="-2.310">3.98</age><magV errorminus="" errorplus="">14.569</magV></star>
+<distance errorminus="105.50" errorplus="-72.95">840.0</distance></system>

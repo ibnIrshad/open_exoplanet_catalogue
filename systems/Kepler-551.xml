@@ -4,10 +4,10 @@
 	<declination>+48 03 16</declination>
 	<star>
 		<name>Kepler-551</name>
-		<temperature errorminus="34.9" errorplus="37.8">4286.0</temperature>
+		<temperature errorminus="37.81" errorplus="-34.92">4286.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.65</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.63</radius>
-		<metallicity errorminus="0.09" errorplus="0.11">-0.09</metallicity>
+		<metallicity errorminus="0.09" errorplus="-0.094">-0.09</metallicity>
 		<planet>
 			<name>Kepler-551 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000012980" errorplus="0.000012980">12.376466100</period>
 			<radius errorminus="0.013" errorplus="0.022">0.244</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="4.770" errorplus="-2.100">3.8</age><magV errorminus="" errorplus="">14.897</magV></star>
+<distance errorminus="13.90" errorplus="-12.89">312.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+39 03 07</declination>
 	<star>
 		<name>Kepler-544</name>
-		<temperature errorminus="58.7" errorplus="68.1">6206.0</temperature>
+		<temperature errorminus="68.1" errorplus="-58.72">6206.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.16</mass>
-		<radius errorminus="0.08" errorplus="0.11">1.22</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.02</metallicity>
+		<radius errorminus="0.08" errorplus="-0.08">1.22</radius>
+		<metallicity errorminus="0.08" errorplus="-0.077">0.02</metallicity>
 		<planet>
 			<name>Kepler-544 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000080950" errorplus="0.000080950">21.416169260</period>
 			<radius errorminus="0.012" errorplus="0.017">0.189</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="0.959" errorplus="-0.944">2.63</age><magV errorminus="" errorplus="">13.542</magV></star>
+<distance errorminus="70.01" errorplus="-52.97">797.0</distance></system>

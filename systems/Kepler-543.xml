@@ -4,10 +4,10 @@
 	<declination>+38 51 45</declination>
 	<star>
 		<name>Kepler-543</name>
-		<temperature errorminus="76.7" errorplus="85.6">4671.0</temperature>
+		<temperature errorminus="85.64" errorplus="-76.72">4671.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">0.70</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.67</radius>
-		<metallicity errorminus="0.11" errorplus="0.15">-0.19</metallicity>
+		<metallicity errorminus="0.11" errorplus="-0.109">-0.19</metallicity>
 		<planet>
 			<name>Kepler-543 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000011020" errorplus="0.000011020">13.899619660</period>
 			<radius errorminus="0.023" errorplus="0.011">0.223</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.300" errorplus="-4.270">5.75</age><magV errorminus="" errorplus="">13.577</magV></star>
+<distance errorminus="11.16" errorplus="-9.23">212.0</distance></system>

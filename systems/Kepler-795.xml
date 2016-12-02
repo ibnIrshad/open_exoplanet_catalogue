@@ -4,10 +4,10 @@
 	<declination>+38 32 44</declination>
 	<star>
 		<name>Kepler-795</name>
-		<temperature errorminus="75.4" errorplus="83.2">5631.0</temperature>
+		<temperature errorminus="83.2" errorplus="-75.42">5631.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
-		<radius errorminus="0.07" errorplus="0.10">0.96</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.02</metallicity>
+		<radius errorminus="0.07" errorplus="-0.07">0.96</radius>
+		<metallicity errorminus="0.11" errorplus="-0.107">-0.02</metallicity>
 		<planet>
 			<name>Kepler-795 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000114400" errorplus="0.000114400">29.619342100</period>
 			<radius errorminus="0.012" errorplus="0.016">0.150</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="3.140" errorplus="-3.870">6.46</age><magV errorminus="" errorplus="">13.331</magV></star>
+<distance errorminus="46.60" errorplus="-33.80">458.0</distance></system>

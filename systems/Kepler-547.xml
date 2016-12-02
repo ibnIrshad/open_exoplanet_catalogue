@@ -4,10 +4,10 @@
 	<declination>+44 20 43</declination>
 	<star>
 		<name>Kepler-547</name>
-		<temperature errorminus="46.8" errorplus="40.1">4828.0</temperature>
+		<temperature errorminus="40.1" errorplus="-46.81">4828.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.73</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.01</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.179">0.01</metallicity>
 		<planet>
 			<name>Kepler-547 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000001570" errorplus="0.000001570">6.010384290</period>
 			<radius errorminus="0.028" errorplus="0.012">0.357</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.530" errorplus="-1.420">2.88</age><magV errorminus="" errorplus="">14.247</magV></star>
+<distance errorminus="14.14" errorplus="-18.66">361.0</distance></system>

@@ -4,10 +4,10 @@
 	<declination>+50 13 49</declination>
 	<star>
 		<name>Kepler-675</name>
-		<temperature errorminus="71.0" errorplus="69.9">4945.0</temperature>
+		<temperature errorminus="69.87" errorplus="-70.99">4945.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.05</metallicity>
+		<metallicity errorminus="0.18" errorplus="-0.177">-0.05</metallicity>
 		<planet>
 			<name>Kepler-675 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -20,5 +20,5 @@
 			<period errorminus="0.000002070" errorplus="0.000002070">2.337438010</period>
 			<radius errorminus="0.014" errorplus="0.021">0.218</radius>
 		</planet>
-	</star>
-</system>
+	<age errorminus="6.060" errorplus="-2.760">4.68</age><magV errorminus="" errorplus="">15.334</magV></star>
+<distance errorminus="31.74" errorplus="-38.06">651.0</distance></system>
