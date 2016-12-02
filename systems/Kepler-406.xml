@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<impactparameter errorminus="0.0600" errorplus="0.0600">0.1</impactparameter></planet>
 		<planet>
 			<name>Kepler-406 c</name>
 			<name>KOI-321.02</name>
@@ -46,6 +46,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
+		<impactparameter errorminus="0.0600" errorplus="0.0600">0.36</impactparameter></planet>
+	<magV errorminus="" errorplus="">12.52</magV></star>
 </system>
